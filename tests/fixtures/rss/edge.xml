@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ca biên tự viết: CDATA có &aacute;, &amp; trong title, ngày M/D/YYYY AM/PM có U+202F, item không có ngày, link trùng, guid thay link. -->
+<rss version="2.0"><channel><title>Mẫu biên</title>
+<item><title><![CDATA[Gi&aacute; v&agrave;ng SJC tăng mạnh]]></title><link>https://Example.VN/vang-sjc/?utm_source=rss&amp;utm_medium=feed#top</link><description><![CDATA[<p>Giá vàng&nbsp;miếng</p>]]></description><pubDate>11/7/2026 7:01:00 AM</pubDate></item>
+<item><title>Lãi suất huy động &amp; tín dụng</title><link>https://example.vn/lai-suat-huy-dong</link><description>Các nhà băng điều chỉnh biểu lãi.</description><pubDate>11/4/2026 7:01:00 AM</pubDate></item>
+<item><title>Bài không có ngày đăng về ngân hàng</title><link>https://example.vn/khong-ngay</link><description>ngân hàng</description></item>
+<item><title>Bản trùng của bài vàng</title><link>https://example.vn/vang-sjc</link><pubDate>Sat, 07 Nov 2026 07:00:00 +0700</pubDate></item>
+<item><title>Bài dùng guid làm link</title><guid isPermaLink="true">https://example.vn/guid-link</guid><pubDate>Sat, 07 Nov 26 08:00:00 +0700</pubDate></item>
+<item><title>Giờ GMT+7 kiểu Tuổi Trẻ</title><link>https://example.vn/gmt7</link><pubDate>Sat, 07 Nov 2026 08:48:49 GMT+7</pubDate></item>
+</channel></rss>

@@ -112,8 +112,10 @@ class Handler(SimpleHTTPRequestHandler):
 
 def main() -> None:
     # Windows: stdout chuyển hướng (Task Scheduler, file log) có thể là cp1252, in tiếng Việt sẽ crash.
-    if hasattr(sys.stdout, "reconfigure"):
-        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    # line_buffering=True: dòng khởi động được ghi ngay vào file log, không chờ tiến trình thoát.
+    for s in (sys.stdout, sys.stderr):
+        if hasattr(s, "reconfigure"):
+            s.reconfigure(encoding="utf-8", errors="replace", line_buffering=True)
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--port", type=int, default=int(os.getenv("PORT", "8000")))
     ap.add_argument("--host", default="127.0.0.1")

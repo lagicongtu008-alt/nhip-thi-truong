@@ -25,8 +25,7 @@ function loadCore(){
   return ctx.__ntt;
 }
 
-// Giống loadData của trang: tối đa 40 bản tin mới nhất.
-const LIMIT = 40;
+// Giới hạn số bản tin lấy từ chính trang (N.EDITION_LIMIT), không chép hằng số sang test.
 // Mốc chốt cho test dùng số cố định: dữ liệu mới thêm sau mốc này không làm test đỏ.
 const PINNED_UNTIL = '2026-11-07-sang';
 
@@ -35,7 +34,7 @@ function editionKeys(N, opts){
   const idx = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'index.json'), 'utf8'));
   let keys = N.sortKeysDesc(idx.daily || []);
   if (opts && opts.until) { const lim = N.keyOrder(opts.until); keys = keys.filter(k => N.keyOrder(k) <= lim); }
-  return keys.slice(0, LIMIT);
+  return keys.slice(0, N.EDITION_LIMIT);
 }
 function loadEditions(N, opts){
   return editionKeys(N, opts).map(k => JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'daily', k + '.json'), 'utf8')));
@@ -44,16 +43,21 @@ function loadEditions(N, opts){
 // Chuyển giá trị từ vm context sang realm hiện tại để so sánh deepStrictEqual.
 function plain(x){ return JSON.parse(JSON.stringify(x)); }
 
+const LIMIT = loadCore().EDITION_LIMIT;
+
 module.exports = { ROOT, HTML_PATH, LIMIT, PINNED_UNTIL, readHtml, scripts, loadCore, editionKeys, loadEditions, plain };
 
 // Chạy trực tiếp: in số liệu tab Phân tích dạng JSON (test Python dùng để đối chiếu).
-// Kèm danh sách keys đã dùng để phía Python đọc đúng cùng tập bản tin.  Tùy chọn: --until <key>
+// keys = các bản trang tải (tối đa limit); analysisKeys = các bản tab Phân tích dùng (bỏ mode rss).
+// Số liệu thống kê tính trên tập phân tích.  Tùy chọn: --until <key>
 if (require.main === module) {
   const N = loadCore();
   const i = process.argv.indexOf('--until'); const opts = i > 0 ? { until: process.argv[i + 1] } : {};
-  const keys = editionKeys(N, opts); const eds = loadEditions(N, opts);
+  const keys = editionKeys(N, opts); const eds = N.analysisEditions(loadEditions(N, opts));
   process.stdout.write(JSON.stringify({
     keys: keys,
+    limit: N.EDITION_LIMIT,
+    analysisKeys: eds.map(e => e.key),
     editions: eds.length,
     series: plain(N.allSeries(eds)),
     sectors: plain(N.sectorStats(eds)),

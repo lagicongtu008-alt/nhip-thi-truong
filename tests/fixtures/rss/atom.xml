@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ca biên tự viết: Atom 1.0, có namespace, link rel="alternate", ngày ISO 'Z' và có múi giờ. -->
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Atom mẫu</title>
+  <entry>
+    <title type="html">Lãi suất liên ngân hàng &amp;amp; tỷ giá</title>
+    <link rel="self" href="https://example.vn/self/1"/>
+    <link rel="alternate" href="https://example.vn/atom/lai-suat-lien-ngan-hang"/>
+    <published>2026-11-06T23:30:00Z</published>
+    <summary type="html">&lt;p&gt;Ngân hàng Nhà nước bơm tiền qua OMO.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cổ phiếu ngân hàng dẫn dắt VN-Index</title>
+    <link href="https://example.vn/atom/co-phieu-ngan-hang"/>
+    <updated>2026-11-07T08:15:00+07:00</updated>
+    <content>Thanh khoản tăng.</content>
+  </entry>
+</feed>

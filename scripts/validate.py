@@ -13,11 +13,12 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from common import DAILY, WEEKLY, read_json
+from common import DAILY, WEEKLY, read_json, setup_stdio
 
 IMPACT = {"tich-cuc", "tieu-cuc", "trung-tinh"}
 STATUS = {"soi-noi", "bat-thuong"}
 SIGNAL = {"cao", "trung-binh", "thap"}
+MODES = {"rss", "ai"}
 URL_RE = re.compile(r"^https?://[^\s]+$")
 
 
@@ -51,14 +52,16 @@ def check_articles(r: Report, arts, where: str, minimum: int) -> None:
         r.warn(f"{where}: {len(arts)} bài (mục tiêu ≥ {minimum})")
 
 
-def check_market(r: Report, m, where: str, art_min: int) -> None:
+def check_market(r: Report, m, where: str, art_min: int, rss: bool = False) -> None:
     if not isinstance(m, dict):
         r.err(f"thiếu '{where}'")
         return
     if not m.get("summary"):
         r.err(f"{where}.summary trống")
     metrics = m.get("metrics") or []
-    if not 4 <= len(metrics) <= 6:
+    if rss and metrics:
+        r.err(f"{where}: bản rss không được có metrics")
+    if not rss and not 4 <= len(metrics) <= 6:
         r.warn(f"{where}.metrics có {len(metrics)} ô (nên 4–6)")
     for i, x in enumerate(metrics):
         if not x.get("label") or not x.get("value"):
@@ -73,7 +76,7 @@ def check_market(r: Report, m, where: str, art_min: int) -> None:
             r.err(f"{where}.news[{i}].impact phải thuộc {sorted(IMPACT)}")
         if n.get("url") and not URL_RE.match(n["url"]):
             r.err(f"{where}.news[{i}].url không hợp lệ")
-    if not m.get("analysis"):
+    if not rss and not m.get("analysis"):
         r.warn(f"{where}.analysis trống")
     check_articles(r, m.get("articles", []), where, art_min)
 
@@ -95,8 +98,11 @@ def check_daily(p: Path) -> Report:
         r.err("date phải dạng YYYY-MM-DD")
         weekend = False
     trading_pm = session == "chieu" and not weekend
-    check_market(r, d.get("banking"), "banking", 20 if trading_pm else 8)
-    check_market(r, d.get("securities"), "securities", 25 if trading_pm else 8)
+    if "mode" in d and d["mode"] not in MODES:
+        r.err(f"mode phải thuộc {sorted(MODES)} (đang là {d['mode']!r})")
+    rss = d.get("mode") == "rss"
+    check_market(r, d.get("banking"), "banking", 20 if trading_pm else 8, rss)
+    check_market(r, d.get("securities"), "securities", 25 if trading_pm else 8, rss)
     secs = d.get("sectors") or []
     if len(secs) != 5:
         r.err(f"sectors phải có đúng 5 phần tử (đang có {len(secs)})")
@@ -134,7 +140,11 @@ def main(argv: list[str]) -> int:
     files = [Path(a) for a in argv] or sorted(DAILY.glob("*.json")) + sorted(WEEKLY.glob("*.json"))
     total_err = 0
     for p in files:
-        r = check_weekly(p) if p.parent.name == "weekly" else check_daily(p)
+        try:
+            r = check_weekly(p) if p.parent.name == "weekly" else check_daily(p)
+        except Exception as e:  # JSON hỏng, lồng quá sâu, không phải object ([]) …: tính là 1 ERROR, kiểm tiếp file khác
+            r = Report(str(p))
+            r.err(f"không đọc được: {type(e).__name__}")
         status = "OK " if not r.errors else "ERR"
         print(f"[{status}] {p.name}" + (f"  ({len(r.warns)} cảnh báo)" if r.warns else ""))
         for m in r.errors:
@@ -146,4 +156,5 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
+    setup_stdio()
     sys.exit(main(sys.argv[1:]))

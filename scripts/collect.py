@@ -4,6 +4,7 @@
     python scripts/collect.py --session chieu # ép buổi chiều
     python scripts/collect.py --date 2026-11-06 --session chieu
     python scripts/collect.py --dry-run       # chỉ in prompt, không gọi API
+    python scripts/collect.py --dry-run --agent   # đề bài cho agent tự ghi file (Claude Code trên GitHub Actions)
     python scripts/collect.py --fetch         # cho phép Claude đọc toàn văn bài báo (web fetch, beta)
 
 Cần ANTHROPIC_API_KEY trong file .env (xem .env.example). Quy trình chi tiết nằm ở
@@ -19,7 +20,7 @@ import sys
 from datetime import date
 
 from common import (DAILY, DOCS, ROOT, WEEKLY, build_index, daily_key, label_for, now_vn,
-                    read_json, session_for, week_label, weekly_key, write_json)
+                    read_json, session_for, setup_stdio, week_label, weekly_key, write_json)
 from validate import check_daily, check_weekly
 
 try:
@@ -41,7 +42,33 @@ def process_text() -> str:
     return text[i:] if i >= 0 else text
 
 
-def build_prompt(d: date, session: str, with_weekly: bool, weekly_existing: dict | None) -> str:
+def agent_section(key: str, wk: str | None) -> str:
+    """Thay mục "Định dạng trả lời" khi agent (Claude Code) tự ghi file vào repo."""
+    lines = [
+        "\n## Cách ghi kết quả (chế độ agent)",
+        "- Công cụ được dùng: WebSearch, WebFetch (chỉ các báo trong danh sách nguồn), Read (trong repo), "
+        "Write/Edit (CHỈ trong `data/daily/` và `data/weekly/`). Không có Bash: không chạy lệnh hay script nào.",
+        f"- Ghi bản tin ngày bằng công cụ Write vào đúng file `data/daily/{key}.json` "
+        "(UTF-8, JSON hợp lệ, giữ đúng tên trường như cấu trúc ở trên).",
+        "- Nếu file đó đang là bản tự động (có `\"mode\": \"rss\"`) thì ghi đè TOÀN BỘ và KHÔNG giữ trường `mode`. "
+        "Danh sách bài trong bản RSS chỉ là gợi ý; phải tự kiểm ngày đăng từng bài.",
+    ]
+    if wk:
+        lines.append(f"- Cập nhật tổng hợp tuần `data/weekly/{wk}.json`: giữ nguyên MỌI mục `anomalies` đã có, "
+                     "chỉ thêm mục mới.")
+    lines += [
+        "- Bạn không cần (và không thể) tự chạy kiểm tra: job publish sẽ tự chạy `scripts/validate.py` trên file "
+        "bạn ghi; nếu sai cấu trúc thì bản của bạn bị bỏ và trang giữ bản RSS. Vì vậy hãy ghi đúng cấu trúc: "
+        "`sectors` đúng 5 phần tử, `impact`/`status`/`heat`/`signal` đúng giá trị cho phép, `change` là số, "
+        "URL dạng https://…, không trùng URL trong cùng danh sách.",
+        "- Không tạo hay sửa file nào khác (nhất là `scripts/`, `.github/`, `.git/`). Không chạy git, không chạy build_index.",
+        "- Kết thúc bằng một dòng nêu số bài của từng mảng (ngân hàng, chứng khoán, từng ngành).",
+    ]
+    return "\n".join(lines)
+
+
+def build_prompt(d: date, session: str, with_weekly: bool, weekly_existing: dict | None,
+                 agent: bool = False) -> str:
     now = now_vn()
     key = daily_key(d, session)
     parts = [
@@ -59,6 +86,9 @@ def build_prompt(d: date, session: str, with_weekly: bool, weekly_existing: dict
             parts.append("```json\n" + json.dumps(weekly_existing, ensure_ascii=False) + "\n```")
         else:
             parts.append("- Tuần này chưa có bản tổng hợp: tạo mới.")
+    if agent:
+        parts.append(agent_section(key, weekly_key(d) if with_weekly else None))
+        return "\n".join(parts)
     parts.append(
         "\n## Định dạng trả lời\n"
         "Sau khi tìm kiếm xong, trả lời DUY NHẤT bằng JSON hợp lệ, không markdown, không giải thích:\n"
@@ -115,7 +145,11 @@ def main() -> int:
     ap.add_argument("--force", action="store_true", help="ghi đè bản tin đã có")
     ap.add_argument("--fetch", action="store_true", help="bật web fetch (beta) để đọc toàn văn bài")
     ap.add_argument("--dry-run", action="store_true", help="chỉ in prompt")
+    ap.add_argument("--agent", action="store_true",
+                    help="(đi kèm --dry-run) in đề bài cho agent tự ghi file thay vì trả JSON")
     args = ap.parse_args()
+    if args.agent and not args.dry_run:
+        ap.error("--agent chỉ dùng kèm --dry-run")
 
     now = now_vn()
     d = date.fromisoformat(args.date) if args.date else now.date()
@@ -135,7 +169,7 @@ def main() -> int:
     wk_path = WEEKLY / f"{weekly_key(d)}.json"
     wk_existing = read_json(wk_path) if with_weekly and wk_path.exists() else None
 
-    prompt = build_prompt(d, session, with_weekly, wk_existing)
+    prompt = build_prompt(d, session, with_weekly, wk_existing, agent=args.agent)
     if args.dry_run:
         print(prompt)
         return 0
@@ -186,4 +220,5 @@ def main() -> int:
 
 
 if __name__ == "__main__":
+    setup_stdio()
     sys.exit(main())

@@ -1,6 +1,8 @@
 # Soạn bản tin trên GitHub Actions và đăng lên GitHub Pages (không cần bật máy).
-# Không có secret thì workflow vẫn đăng lại trang, chỉ không soạn tin mới.
-# Muốn tự soạn tin: thêm secret ANTHROPIC_API_KEY; Settings → Pages → Source = "GitHub Actions".
+# Không có secret thì workflow vẫn soạn bản tự động (RSS) và đăng trang.
+# Job draft (chỉ quyền đọc): bản RSS (tầng 1), rồi Claude Code gói Pro nếu có secret CLAUDE_CODE_OAUTH_TOKEN (tầng 2).
+# Job publish (runner mới, quyền ghi): chỉ nhận đúng 2 file JSON qua artifact, kiểm tra, khôi phục bản RSS nếu bản AI hỏng,
+# rồi commit. Claude không bao giờ chạy trên runner có quyền ghi repo. Settings → Pages → Source = "GitHub Actions".
 name: Ban tin Nhip Thi Truong
 on:
   schedule:
@@ -14,67 +16,198 @@ on:
         type: choice
         options: ["", "sang", "chieu"]
       force:
-        description: "Soạn lại nếu bản tin đã có"
+        description: "Soạn lại bằng Claude dù đã có bản AI"
         type: boolean
         default: false
   push:
     branches: [main]
     paths: ["web/**", "data/**"]
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 concurrency:
   group: bantin
   cancel-in-progress: false
 jobs:
-  collect:
+  draft:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    outputs:
+      date: ${{ steps.plan.outputs.date }}
+      session: ${{ steps.plan.outputs.session }}
+      key: ${{ steps.plan.outputs.key }}
+      week: ${{ steps.plan.outputs.week }}
+      skip: ${{ steps.plan.outputs.skip }}
+      claude: ${{ steps.plan.outputs.claude }}
     steps:
-      - name: Kiểm tra khóa API
-        id: key
-        env: { K: "${{ secrets.ANTHROPIC_API_KEY }}" }
-        run: |
-          if [ -n "$K" ]; then echo "has=true" >> "$GITHUB_OUTPUT"
-          else echo "has=false" >> "$GITHUB_OUTPUT"
-               echo "::warning::Chưa có secret ANTHROPIC_API_KEY – bỏ qua bước soạn bản tin, chỉ đăng lại trang."
-          fi
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@v5
-        if: steps.key.outputs.has == 'true'
-        with: { python-version: "3.12" }
-      - run: pip install -r requirements.txt
-        if: steps.key.outputs.has == 'true'
-      - name: Soạn bản tin
-        if: steps.key.outputs.has == 'true'
+        with:
+          python-version: "3.12"
+      - name: Lập kế hoạch lần chạy
+        id: plan
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-5-5' }}
+          HAS_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+          IN_SESSION: ${{ inputs.session }}
+          IN_FORCE: ${{ inputs.force }}
+        run: python scripts/ci_guard.py plan --session "$IN_SESSION" --force "$IN_FORCE" --has-token "$HAS_TOKEN" --github-output "$GITHUB_OUTPUT"
+      - name: Tầng 1 – bản tự động RSS
+        if: steps.plan.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          D: ${{ steps.plan.outputs.date }}
+          S: ${{ steps.plan.outputs.session }}
+        run: python scripts/rss_collect.py --date "$D" --session "$S"
+      # Bản RSS được gửi đi TRƯỚC khi Claude chạy, nên Claude không sửa được.
+      - name: Gửi bản RSS
+        if: steps.plan.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss
+          path: data/daily/${{ steps.plan.outputs.key }}.json
+          if-no-files-found: ignore
+          retention-days: 1
+      - name: Cài Claude Code CLI
+        if: steps.plan.outputs.claude == 'true'
+        continue-on-error: true
+        run: npm install -g @anthropic-ai/claude-code@2.1.319
+      - name: Tầng 2 – Claude Code (gói Pro)
+        if: steps.plan.outputs.claude == 'true'
+        continue-on-error: true
+        timeout-minutes: 40
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          D: ${{ steps.plan.outputs.date }}
+          S: ${{ steps.plan.outputs.session }}
+          CLAUDE_TIMEOUT: 35m
+          CLAUDE_MAX_TURNS: "150"
+          # WebFetch chỉ được đọc các báo này (chặn gửi dữ liệu ra ngoài); WebSearch không bị giới hạn.
+          FETCH_DOMAINS: >-
+            cafef.vn vietstock.vn nguoiquansat.vn tinnhanhchungkhoan.vn vnexpress.net tuoitre.vn thanhnien.vn
+            dantri.com.vn vietnamnet.vn znews.vn vneconomy.vn thoibaonganhang.vn thitruongtaichinhtiente.vn
+            thoibaotaichinhvietnam.vn kinhtechungkhoan.vn vietnambiz.vn baodautu.vn vov.vn chinhphu.vn
+            baochinhphu.vn sbv.gov.vn vietnamplus.vn baotintuc.vn index.vn
         run: |
-          ARGS=""
-          [ -n "${{ inputs.session }}" ] && ARGS="$ARGS --session ${{ inputs.session }}"
-          [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
-          python scripts/collect.py $ARGS
+          python scripts/collect.py --dry-run --agent --date "$D" --session "$S" > "$RUNNER_TEMP/prompt.md"
+          FETCH=""
+          for d in $FETCH_DOMAINS; do FETCH="$FETCH,WebFetch(domain:$d),WebFetch(domain:*.$d)"; done
+          timeout "${CLAUDE_TIMEOUT:-35m}" claude -p "$(cat "$RUNNER_TEMP/prompt.md")" \
+            --restricted \
+            --strict-mcp-config \
+            --tools "WebSearch,WebFetch,Read,Write,Edit" \
+            --permission-mode dontAsk \
+            --allowedTools "WebSearch${FETCH},Read(./**),Edit(./data/daily/**),Edit(./data/weekly/**)" \
+            --disallowedTools "Bash,Read(//proc/**),Read(//sys/**),Read(//etc/**),Read(~/**),Read(//home/runner/work/_temp/**),Read(./.git/**),Edit(./scripts/**),Edit(./.git/**),Edit(./.github/**)" \
+            --max-turns "${CLAUDE_MAX_TURNS:-150}" \
+            || { code=$?; echo "::warning::Claude Code lỗi hoặc quá giờ (mã $code) – sẽ giữ bản RSS nếu bản AI không hợp lệ"; exit 1; }
+      # Bước RIÊNG (không gộp vào Tầng 2, vì Tầng 2 "exit 1" khi Claude lỗi/quá giờ): upload-artifact đi theo
+      # symlink và gửi cả cây thư mục, nên xóa mọi symlink trong data/ và xóa đích nếu đích không phải file thường.
+      - name: Dọn symlink và đích lạ trước khi gửi bản AI
+        if: steps.plan.outputs.claude == 'true'
+        env:
+          K: ${{ steps.plan.outputs.key }}
+          W: ${{ steps.plan.outputs.week }}
+        run: |
+          find data -type l -delete
+          for f in "data/daily/$K.json" ${W:+"data/weekly/$W.json"}; do
+            if [ -e "$f" ] && [ ! -f "$f" ]; then rm -rf -- "$f"; fi
+          done
+      # Chỉ gửi đúng 2 file đích; job publish cũng chỉ nhận đúng 2 tên file này.
+      - name: Gửi bản AI
+        if: steps.plan.outputs.claude == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai
+          path: |
+            data/daily/${{ steps.plan.outputs.key }}.json
+            data/weekly/${{ steps.plan.outputs.week || 'khong-co-tuan' }}.json
+          if-no-files-found: ignore
+          retention-days: 1
+
+  publish:
+    needs: draft
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Nhận bản RSS
+        if: needs.draft.outputs.skip != 'true'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: rss
+          path: ${{ runner.temp }}/rss
+      - name: Đưa bản RSS vào data/
+        if: needs.draft.outputs.skip != 'true'
+        env:
+          K: ${{ needs.draft.outputs.key }}
+        run: |
+          python scripts/ci_guard.py import --src "$RUNNER_TEMP/rss" --key "$K" --only-over-rss
+          python scripts/build_index.py
+      - name: Sao lưu dữ liệu trước khi nhận bản Claude
+        if: needs.draft.outputs.claude == 'true'
+        run: python scripts/ci_guard.py snapshot --dir "$RUNNER_TEMP/ntt-snap"
+      - name: Nhận bản AI
+        if: needs.draft.outputs.claude == 'true'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: ai
+          path: ${{ runner.temp }}/ai
+      - name: Kiểm tra kết quả Claude, khôi phục bản RSS nếu hỏng
+        if: needs.draft.outputs.claude == 'true'
+        env:
+          K: ${{ needs.draft.outputs.key }}
+          W: ${{ needs.draft.outputs.week }}
+        run: |
+          # Phòng nhiều lớp: runner này không chạy Claude, nhưng vẫn hoàn tác mọi thứ ngoài data/ ở gốc repo
+          git checkout -- . ':(exclude)data'
+          git clean -fdqx -e /data -- .
+          python scripts/ci_guard.py import --src "$RUNNER_TEMP/ai" --key "$K" --week "$W"
+          python scripts/ci_guard.py check --dir "$RUNNER_TEMP/ntt-snap" --key "$K" --week "$W"
+      - name: Kiểm tra dữ liệu
+        run: python scripts/validate.py
+      - name: Cập nhật index
+        run: python scripts/build_index.py
       - name: Lưu dữ liệu mới vào repo
-        if: steps.key.outputs.has == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          K: ${{ needs.draft.outputs.key }}
         run: |
           git config user.name "nhip-thi-truong-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "Bản tin $(TZ=Asia/Ho_Chi_Minh date +%Y-%m-%d-%H%M)" && git push)
+          if git diff --cached --quiet; then echo "Không có thay đổi dữ liệu."; exit 0; fi
+          git commit -m "Bản tin ${K:-cập nhật} $(TZ=Asia/Ho_Chi_Minh date +%H%M)"
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git pull --rebase "$REMOTE" main && git push "$REMOTE" HEAD:main
 
   deploy:
-    needs: collect
-    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    needs: publish
+    if: always() && (needs.publish.result == 'success' || needs.publish.result == 'skipped')
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.pages.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-        with: { ref: main }
+        with:
+          ref: main
       - name: Gom trang + dữ liệu
         run: |
           mkdir _site
@@ -84,6 +217,7 @@ jobs:
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
-        with: { path: _site }
+        with:
+          path: _site
       - id: pages
         uses: actions/deploy-pages@v4

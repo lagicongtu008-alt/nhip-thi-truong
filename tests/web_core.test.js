@@ -186,6 +186,37 @@ test('D (vòng sửa 1) bỏ qua tải định kỳ khi tab ẩn; không dựng 
   assert.ok(/TICKER_IN_LABEL = N\.TICKER/.test(mainCode), 'regex mã cổ phiếu dùng chung');
 });
 
+/* N2: giới hạn 40 bản khai báo một lần trong sản phẩm, test đọc lại */
+test('N2 EDITION_LIMIT = 40 khai báo trong lõi, loadData dùng N.EDITION_LIMIT, không còn slice(0, 40)', () => {
+  assert.strictEqual(N.EDITION_LIMIT, 40);
+  assert.strictEqual(LIMIT, N.EDITION_LIMIT, 'ntt_load.js phải lấy LIMIT từ N');
+  assert.ok(mainCode.includes('.slice(0, N.EDITION_LIMIT)'));
+  assert.ok(!html.includes('slice(0, 40)'));
+  assert.ok(!/const LIMIT = 40/.test(fs.readFileSync(path.join(__dirname, 'ntt_load.js'), 'utf8')));
+});
+
+/* Đợt 2: bản tự động RSS */
+test('RSS analysisEditions bỏ bản mode rss, giữ bản không có mode và mode ai', () => {
+  const eds = [{ key: 'a', mode: 'rss' }, { key: 'b' }, null, { key: 'c', mode: 'ai' }, { key: 'd', mode: 'rss' }];
+  assert.deepStrictEqual(plain(N.analysisEditions(eds)).map(e => e.key), ['b', 'c']);
+  assert.deepStrictEqual(plain(N.analysisEditions(null)), []);
+  // Đối chứng: bộ lọc rỗng (không lọc) thì còn bản rss
+  assert.ok(eds.filter(Boolean).some(e => e.mode === 'rss'));
+});
+test('RSS nhãn bản tự động: #mode-note ẩn sẵn, renderStamp bật theo mode, hậu tố trong <select>, eyebrow', () => {
+  assert.ok(/<span class="stamp mode-rss" id="mode-note" hidden>Bản tự động – chưa có nhận định AI<\/span>/.test(html));
+  assert.ok(html.indexOf('id="stamp"') < html.indexOf('id="mode-note"'));
+  assert.ok(/\$\('#mode-note'\)\.hidden = !\(ed && ed\.mode === 'rss'\)/.test(mainCode));
+  assert.ok(mainCode.includes("(e.mode === 'rss' ? ' · tự động' : '')"));
+  assert.ok(mainCode.includes("'Tóm tắt tự động (RSS)'"));
+  assert.ok(/\.stamp\.mode-rss\{[^}]*var\(--ref\)/.test(html), 'CSS dùng biến màu có sẵn');
+});
+test('RSS tab Phân tích dùng N.analysisEditions, ghi chú số bản bỏ qua, trạng thái trống', () => {
+  assert.ok(/const eds = N\.analysisEditions\(all\)/.test(mainCode));
+  assert.ok(mainCode.includes("'Bỏ qua ' + skipped + ' bản tự động (RSS) chưa có số liệu.'"));
+  assert.ok(mainCode.includes("emptyState('Chưa có dữ liệu phân tích'"));
+});
+
 let fail = 0;
 results.forEach(([ok, name, msg]) => { console.log((ok ? 'ĐẠT  ' : 'LỖI  ') + name + (ok ? '' : '\n      ' + msg)); if (!ok) fail++; });
 console.log('\n' + (results.length - fail) + '/' + results.length + ' test đạt');

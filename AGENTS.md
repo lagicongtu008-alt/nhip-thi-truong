@@ -10,7 +10,9 @@ data/index.json           Danh sách key bản tin; tạo lại bằng scripts/b
 data/daily/<key>.json     Bản tin ngày, key = YYYY-MM-DD-sang | YYYY-MM-DD-chieu.
 data/weekly/<YYYY-Www>.json  Tổng hợp tuần theo tuần ISO.
 docs/QUY-TRINH-BAN-TIN.md Quy trình + cấu trúc JSON. ĐÂY LÀ NGUỒN CHUẨN – đọc trước khi soạn tin.
-scripts/collect.py        Soạn bản tin tự động qua Claude API (web search).
+scripts/collect.py        Soạn bản tin tự động qua Claude API (web search). --dry-run --agent: đề bài cho agent tự ghi file.
+scripts/rss_collect.py    Bản tin tự động từ RSS ("mode": "rss"), không cần AI. Cấu hình: scripts/rss_config.json.
+scripts/ci_guard.py       Gác workflow GitHub: plan / snapshot / import / check (khôi phục bản RSS nếu bản AI hỏng).
 scripts/validate.py       Kiểm tra cấu trúc và số bài.
 scripts/build_index.py    Tạo lại data/index.json.
 ```
@@ -21,12 +23,15 @@ Có hai cách. Hỏi người dùng nếu không rõ; mặc định dùng cách 
 **A. Agent tự soạn (Codex có web search):**
 1. Chạy `python scripts/collect.py --dry-run` để biết giờ Việt Nam, key, label (và key tuần nếu là chiều ngày giao dịch) cùng đề bài đầy đủ. Thêm `--session sang|chieu` hoặc `--date YYYY-MM-DD` nếu người dùng chỉ định.
 2. Làm đúng `docs/QUY-TRINH-BAN-TIN.md`: tìm kiếm nhiều lượt, kiểm tra ngày đăng từng bài, chỉ dùng URL thật từ kết quả tìm kiếm.
-3. Ghi `data/daily/<key>.json` (UTF-8, giữ đúng tên trường). Chiều thứ Hai–Sáu: cập nhật `data/weekly/<YYYY-Www>.json`, giữ các `anomalies` cũ.
+3. Ghi `data/daily/<key>.json` (UTF-8, giữ đúng tên trường). Nếu file đó đang là bản tự động (`"mode": "rss"`) thì được ghi đè toàn bộ và phải BỎ trường `mode`; danh sách bài trong bản RSS chỉ là gợi ý, phải tự kiểm ngày đăng. Chiều thứ Hai–Sáu: cập nhật `data/weekly/<YYYY-Www>.json`, giữ các `anomalies` cũ.
+   (Đề bài kèm hướng dẫn ghi file cho agent: `python scripts/collect.py --dry-run --agent`.)
 4. Chạy `python scripts/validate.py data/daily/<key>.json` – sửa hết ERROR, cố gắng giảm WARN về số bài.
 5. Chạy `python scripts/build_index.py`.
 6. Báo lại: key đã ghi, số bài từng mảng, 1–2 ý nổi bật.
 
 **B. Chạy script:** `python scripts/collect.py` (cần `ANTHROPIC_API_KEY` trong `.env`).
+
+**C. Bản tự động không cần AI:** `python scripts/rss_collect.py` (không bao giờ ghi đè bản AI). Trên GitHub Actions, workflow luôn chạy tầng RSS rồi, nếu có secret `CLAUDE_CODE_OAUTH_TOKEN`, chạy Claude Code với đề bài `collect.py --dry-run --agent`.
 
 ## Quy tắc nội dung (bắt buộc)
 - Không bịa số liệu; không chắc thì bỏ trường. Không tự tạo URL.

@@ -1,0 +1,326 @@
+{
+ "timeout": 20,
+ "max_items_per_source": 60,
+ "hint_bonus": 2,
+ "sources": [
+  {
+   "name": "VnExpress",
+   "url": "https://vnexpress.net/rss/kinh-doanh.rss"
+  },
+  {
+   "name": "VnExpress",
+   "url": "https://vnexpress.net/rss/bat-dong-san.rss"
+  },
+  {
+   "name": "CafeF",
+   "url": "https://cafef.vn/thi-truong-chung-khoan.rss",
+   "hint": "securities"
+  },
+  {
+   "name": "CafeF",
+   "url": "https://cafef.vn/tai-chinh-ngan-hang.rss",
+   "hint": "banking"
+  },
+  {
+   "name": "CafeF",
+   "url": "https://cafef.vn/vi-mo-dau-tu.rss"
+  },
+  {
+   "name": "CafeF",
+   "url": "https://cafef.vn/doanh-nghiep.rss"
+  },
+  {
+   "name": "CafeF",
+   "url": "https://cafef.vn/bat-dong-san.rss"
+  },
+  {
+   "name": "Vietstock",
+   "url": "https://vietstock.vn/830/chung-khoan/co-phieu.rss",
+   "hint": "securities"
+  },
+  {
+   "name": "VnEconomy",
+   "url": "https://vneconomy.vn/chung-khoan.rss",
+   "hint": "securities"
+  },
+  {
+   "name": "VnEconomy",
+   "url": "https://vneconomy.vn/tai-chinh.rss",
+   "hint": "banking"
+  },
+  {
+   "name": "Tuổi Trẻ",
+   "url": "https://tuoitre.vn/rss/kinh-doanh.rss"
+  },
+  {
+   "name": "Thanh Niên",
+   "url": "https://thanhnien.vn/rss/kinh-te.rss"
+  },
+  {
+   "name": "Dân trí",
+   "url": "https://dantri.com.vn/rss/kinh-doanh.rss"
+  },
+  {
+   "name": "VietnamNet",
+   "url": "https://vietnamnet.vn/rss/kinh-doanh.rss"
+  }
+ ],
+ "banking": {
+  "keywords": [
+   "ngân hàng",
+   "lãi suất",
+   "tỷ giá",
+   "tín dụng",
+   "nợ xấu",
+   "nhnn",
+   "ngân hàng nhà nước",
+   "tiền gửi",
+   "huy động",
+   "cho vay",
+   "liên ngân hàng",
+   "omo",
+   "tín phiếu",
+   "đồng usd",
+   "ngoại tệ",
+   "giá usd",
+   "lãi suất huy động",
+   "lãi suất cho vay",
+   "gửi tiết kiệm",
+   "tiết kiệm",
+   "thẻ tín dụng"
+  ]
+ },
+ "securities": {
+  "keywords": [
+   "chứng khoán",
+   "cổ phiếu",
+   "vn-index",
+   "vnindex",
+   "vn30",
+   "hnx-index",
+   "upcom",
+   "hose",
+   "khối ngoại",
+   "thanh khoản",
+   "phiên giao dịch",
+   "chứng quyền",
+   "phái sinh",
+   "trái phiếu",
+   "cổ tức",
+   "niêm yết",
+   "bán ròng",
+   "mua ròng",
+   "tự doanh",
+   "ubcknn",
+   "cổ đông",
+   "đhcđ",
+   "phát hành"
+  ]
+ },
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "keywords": [
+    "bất động sản",
+    "nhà ở",
+    "căn hộ",
+    "chung cư",
+    "đất nền",
+    "khu đô thị",
+    "giá đất",
+    "nhà ở xã hội",
+    "khu công nghiệp",
+    "thuê đất",
+    "tiền sử dụng đất"
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "keywords": [
+    "công nghệ",
+    "viễn thông",
+    "trí tuệ nhân tạo",
+    "bán dẫn",
+    "chip",
+    "fintech",
+    "chuyển đổi số",
+    "trung tâm dữ liệu",
+    "startup"
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "keywords": [
+    "giá vàng",
+    "vàng miếng",
+    "vàng nhẫn",
+    "sjc",
+    "trang sức",
+    "vàng thế giới",
+    "vàng trong nước"
+   ]
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "keywords": [
+    "dầu khí",
+    "giá dầu",
+    "dầu thô",
+    "xăng",
+    "xăng dầu",
+    "opec",
+    "lọc dầu",
+    "dầu diesel"
+   ]
+  },
+  {
+   "name": "Tiêu dùng – bán lẻ",
+   "keywords": [
+    "bán lẻ",
+    "tiêu dùng",
+    "siêu thị",
+    "sức mua",
+    "thương mại điện tử",
+    "mua sắm",
+    "khuyến mãi",
+    "người tiêu dùng"
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "keywords": [
+    "hạ tầng",
+    "cao tốc",
+    "đầu tư công",
+    "vành đai",
+    "sân bay",
+    "đường sắt",
+    "metro",
+    "khởi công",
+    "ngành xây dựng",
+    "nhà thầu",
+    "công trình",
+    "thi công",
+    "bộ xây dựng"
+   ]
+  },
+  {
+   "name": "Thép – vật liệu",
+   "keywords": [
+    "thép",
+    "xi măng",
+    "vật liệu xây dựng",
+    "tôn mạ"
+   ]
+  },
+  {
+   "name": "Năng lượng – điện",
+   "keywords": [
+    "giá điện",
+    "điện lực",
+    "năng lượng tái tạo",
+    "điện gió",
+    "điện mặt trời",
+    "lng",
+    "điện sạch",
+    "nhà máy điện",
+    "khí nhà kính"
+   ]
+  },
+  {
+   "name": "Nông sản – thực phẩm",
+   "keywords": [
+    "cà phê",
+    "gạo",
+    "hồ tiêu",
+    "sầu riêng",
+    "thủy sản",
+    "nông sản",
+    "thực phẩm",
+    "cao su",
+    "lúa gạo",
+    "trái cây"
+   ]
+  },
+  {
+   "name": "Hàng không – logistics",
+   "keywords": [
+    "hàng không",
+    "đường bay",
+    "logistics",
+    "cảng biển",
+    "vận tải",
+    "container",
+    "hãng bay"
+   ]
+  },
+  {
+   "name": "Bảo hiểm",
+   "keywords": [
+    "bảo hiểm"
+   ]
+  },
+  {
+   "name": "Hóa chất – phân bón",
+   "keywords": [
+    "phân bón",
+    "hóa chất",
+    "ure"
+   ]
+  }
+ ],
+ "sentiment": {
+  "positive": [
+   "tăng trưởng",
+   "khởi sắc",
+   "phục hồi",
+   "hồi phục",
+   "bứt phá",
+   "kỷ lục",
+   "tích cực",
+   "thặng dư",
+   "nâng hạng",
+   "lãi lớn",
+   "báo lãi",
+   "lợi nhuận tăng",
+   "tăng mạnh",
+   "tăng điểm",
+   "vượt kế hoạch",
+   "mở rộng",
+   "hưởng lợi",
+   "hạ lãi suất",
+   "giảm lãi suất",
+   "ổn định",
+   "thu hút"
+  ],
+  "negative": [
+   "giảm mạnh",
+   "giảm điểm",
+   "sụt",
+   "sụt giảm",
+   "lao dốc",
+   "thua lỗ",
+   "báo lỗ",
+   "lỗ",
+   "bán tháo",
+   "rủi ro",
+   "vi phạm",
+   "bị phạt",
+   "xử phạt",
+   "khởi tố",
+   "bắt giam",
+   "nợ xấu",
+   "phá sản",
+   "suy thoái",
+   "căng thẳng",
+   "bất ổn",
+   "đóng băng",
+   "thâm hụt",
+   "lạm phát tăng",
+   "cảnh báo",
+   "điều tra",
+   "giải thể",
+   "tháo chạy"
+  ]
+ }
+}

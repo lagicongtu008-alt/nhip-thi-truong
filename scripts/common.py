@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
@@ -17,6 +18,17 @@ except ZoneInfoNotFoundError:  # Windows không có sẵn dữ liệu múi giờ
     VN_TZ = timezone(timedelta(hours=7))
 
 WEEKDAYS_VI = ["thứ Hai", "thứ Ba", "thứ Tư", "thứ Năm", "thứ Sáu", "thứ Bảy", "Chủ nhật"]
+
+
+def setup_stdio() -> None:
+    """In tiếng Việt an toàn khi stdout/stderr bị chuyển hướng (Windows cp1252, file log, pipe).
+
+    line_buffering=True để từng dòng được ghi ngay vào file log, không chờ tiến trình thoát."""
+    for s in (sys.stdout, sys.stderr):
+        try:
+            s.reconfigure(encoding="utf-8", errors="replace", line_buffering=True)
+        except AttributeError:  # luồng đã bị thay bằng đối tượng không có reconfigure
+            pass
 
 
 def now_vn() -> datetime:
@@ -65,11 +77,20 @@ def write_json(p: Path, obj) -> None:
 
 
 def build_index() -> dict:
-    """Ghi data/index.json liệt kê mọi bản tin để trang web biết cần tải file nào."""
-    idx = {
-        "daily": sorted(p.stem for p in DAILY.glob("*.json")),
-        "weekly": sorted(p.stem for p in WEEKLY.glob("*.json")),
-        "updatedAt": now_vn().isoformat(timespec="seconds"),
-    }
-    write_json(DATA / "index.json", idx)
+    """Ghi data/index.json liệt kê mọi bản tin để trang web biết cần tải file nào.
+
+    Danh sách daily/weekly không đổi thì không ghi lại (giữ nguyên updatedAt cũ), để các lần
+    chạy không có gì mới không tạo commit."""
+    daily = sorted(p.stem for p in DAILY.glob("*.json"))
+    weekly = sorted(p.stem for p in WEEKLY.glob("*.json"))
+    path = DATA / "index.json"
+    if path.exists():
+        try:
+            old = read_json(path)
+            if isinstance(old, dict) and old.get("daily") == daily and old.get("weekly") == weekly:
+                return old
+        except (OSError, ValueError, RecursionError, MemoryError):
+            pass
+    idx = {"daily": daily, "weekly": weekly, "updatedAt": now_vn().isoformat(timespec="seconds")}
+    write_json(path, idx)
     return idx

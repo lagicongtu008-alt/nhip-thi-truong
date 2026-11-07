@@ -65,6 +65,7 @@ button,select,textarea{font:inherit;color:inherit;}
 .edition select{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 12px;max-width:100%;}
 .stamp{font-size:12px;color:var(--muted);overflow-wrap:anywhere;}
 .stamp small{font-size:11px;}
+.stamp.mode-rss{align-self:flex-start;color:var(--ref);background:var(--ref-soft);border-radius:6px;padding:2px 8px;font-weight:600;}
 .brand{min-width:0;}
 
 /* Tabs */
@@ -272,6 +273,7 @@ details.tbl .tscroll{margin-top:8px;}
     <label for="ed-select">Bản tin</label>
     <select id="ed-select" aria-label="Chọn bản tin"><option>Đang tải…</option></select>
     <span class="stamp" id="stamp"></span>
+    <span class="stamp mode-rss" id="mode-note" hidden>Bản tự động – chưa có nhận định AI</span>
     <span class="stamp" id="next"></span>
   </div>
 </header>
@@ -341,6 +343,12 @@ function parseVN(str){
   const v = Number(s.replace(/\./g, '').replace(',', '.'));
   return Number.isFinite(v) ? { v: v, approx: approx } : null;
 }
+
+/* Số bản tin ngày tối đa trang tải (loadData) và tab Phân tích dùng. Test đọc lại hằng số này. */
+const EDITION_LIMIT = 40;
+
+/* Tab Phân tích bỏ bản tự động (mode "rss"): chưa có số liệu, ngành/sắc thái chỉ là suy đoán máy. */
+function analysisEditions(eds){ return (eds||[]).filter(e => e && e.mode !== 'rss'); }
 
 /* Số thứ tự của key bản tin: YYYYMMDD*10 + (chiều 2 | sáng 1). Key sai dạng → -1.
    Sắp giảm dần: keys.sort((a, b) => keyOrder(b) - keyOrder(a)). */
@@ -498,7 +506,7 @@ function dateRange(editions){
   return dateDM(ds[0]) + ' – ' + dateDMY(ds[ds.length - 1]);
 }
 
-const api = { parseVN, nextEdition, keyOrder, sortKeysDesc, fmtHM, fmtDM, dateDM, dateDMY, SERIES, TICKER, seriesPoints, allSeries,
+const api = { EDITION_LIMIT, analysisEditions, parseVN, nextEdition, keyOrder, sortKeysDesc, fmtHM, fmtDM, dateDM, dateDMY, SERIES, TICKER, seriesPoints, allSeries,
   sectorStats, tickerStats, sentimentStats, sourceStats, dateRange };
 Object.freeze(api);
 try { Object.defineProperty(root, '__ntt', { value: api, writable: false, configurable: false, enumerable: false }); } catch (e) { root.__ntt = api; }
@@ -557,7 +565,8 @@ function renderMarket(panel, data, kind){
   panel.replaceChildren();
   if (!data) { panel.append(noData()); return; }
   const lead = el('div', 'lead');
-  lead.append(el('p', 'eyebrow', kind === 'bank' ? 'Nhận định ngành ngân hàng' : 'Nhận định thị trường chứng khoán'), el('p', 'lead-text', data.summary || ''));
+  const rss = !!(current() && current().mode === 'rss');
+  lead.append(el('p', 'eyebrow', rss ? 'Tóm tắt tự động (RSS)' : (kind === 'bank' ? 'Nhận định ngành ngân hàng' : 'Nhận định thị trường chứng khoán')), el('p', 'lead-text', data.summary || ''));
   panel.append(lead);
 
   if (Array.isArray(data.metrics) && data.metrics.length) {
@@ -830,10 +839,12 @@ function renderAna(panel, force){
   if (!force && sig === anaSig) return;
   anaSig = sig;
   panel.replaceChildren();
-  const eds = state.editions;
-  if (!eds.length) { panel.append(noData()); return; }
+  const all = state.editions; const eds = N.analysisEditions(all); const skipped = all.length - eds.length;
+  if (!all.length) { panel.append(noData()); return; }
+  if (!eds.length) { panel.append(emptyState('Chưa có dữ liệu phân tích', 'Các bản tin hiện có là bản tự động (RSS), chưa có số liệu. Phân tích sẽ hiện khi có bản tin AI.')); return; }
   const lead = el('div', 'lead');
   lead.append(el('p', 'eyebrow', 'Phân tích qua các bản tin'), el('p', 'lead-text', 'Tổng hợp từ ' + eds.length + ' bản tin, ' + N.dateRange(eds)));
+  if (skipped > 0) lead.append(el('p', 'ana-note', 'Bỏ qua ' + skipped + ' bản tự động (RSS) chưa có số liệu.'));
   lead.append(el('p', 'ana-note', 'Chỉ số theo phiên lấy từ bản tin chiều (mỗi ngày giao dịch một điểm). Ngày nào bản tin không ghi số thì để trống, không nội suy.'));
   panel.append(lead);
 
@@ -929,13 +940,14 @@ function renderStamp(){
   if (ed && ed.updatedAt) s = 'Cập nhật lúc ' + N.fmtHM(ed.updatedAt) + ' ' + N.fmtDM(ed.updatedAt);
   if (state.lastOk) s += (s ? ' · ' : '') + 'kiểm tra lúc ' + N.fmtHM(state.lastOk);
   $('#stamp').textContent = s;
+  $('#mode-note').hidden = !(ed && ed.mode === 'rss');
 }
 function renderHeader(){
   const sel = $('#ed-select'); sel.replaceChildren();
   updateNext();
   if (!state.editions.length) { sel.append(el('option', null, state.dbOk === false ? 'Không có dữ liệu' : (state.dbOk ? 'Chưa có bản tin' : 'Đang tải…'))); sel.disabled = true; renderStamp(); return; }
   sel.disabled = false;
-  state.editions.forEach(e => { const o = el('option', null, e.label || e.key); o.value = e.key; if (e.key === state.edKey) o.selected = true; sel.append(o); });
+  state.editions.forEach(e => { const o = el('option', null, (e.label || e.key) + (e.mode === 'rss' ? ' · tự động' : '')); o.value = e.key; if (e.key === state.edKey) o.selected = true; sel.append(o); });
   renderStamp();
 }
 $('#ed-select').addEventListener('change', e => { state.edKey = e.target.value; state.pickedEd = state.edKey !== newestKey(); renderAll(); });
@@ -1007,7 +1019,7 @@ async function loadData(){
   const before = dataSig();
   try {
     const idx = await getJSON('/index.json');
-    const dk = N.sortKeysDesc(idx.daily || []).slice(0, 40);
+    const dk = N.sortKeysDesc(idx.daily || []).slice(0, N.EDITION_LIMIT);
     const wk = (idx.weekly || []).slice().sort().reverse().slice(0, 4);
     const daily = await Promise.all(dk.map(k => getJSON('/daily/' + k + '.json').catch(() => null)));
     const weekly = await Promise.all(wk.map(k => getJSON('/weekly/' + k + '.json').catch(() => null)));

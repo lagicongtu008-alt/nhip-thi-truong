@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>XML hỏng (thiếu thẻ đóng, & trần)</title>
+<item><title>Chứng khoán & trái phiếu</title><link>https://example.vn/hong-1</link><pubDate>Sat, 07 Nov 2026 08:00:00 +0700</pubDate></item>
+<item><title><![CDATA[Cổ phiếu ngân hàng]]></title><link>https://example.vn/hong-2</link><pubDate>Sat, 07 Nov 2026 07:00:00 +0700</pubDate>
+<item><title>Không có ngày</title><link>https://example.vn/hong-3</link></item>
+</channel>
