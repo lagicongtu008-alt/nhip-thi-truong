@@ -23,6 +23,10 @@ python server.py
 ```
 Mở http://localhost:8000. (Mở trực tiếp file `web/index.html` sẽ không tải được dữ liệu, phải chạy qua server.)
 
+- Tab **Phân tích** tổng hợp diễn biến qua tối đa 40 bản tin gần nhất (VN-Index, khối ngoại, thanh khoản, tỷ giá, lãi suất qua đêm, ngành và mã được nhắc nhiều, sắc thái tin, nguồn báo). Trang tự tính trong trình duyệt, không gọi AI.
+- Trang **tự cập nhật**: kiểm tra dữ liệu mỗi 5 phút và khi bạn quay lại tab, tự chuyển sang bản mới và báo "Có bản tin mới".
+- Tab **Hỏi đáp** chỉ hiện khi chạy `python server.py` (bản GitHub Pages không có máy chủ AI). Muốn GitHub tự soạn tin hằng ngày, thêm secret `ANTHROPIC_API_KEY` một lần (Settings → Secrets and variables → Actions → New repository secret). Chưa có secret thì workflow vẫn đăng lại trang, chỉ không soạn tin mới. GitHub cron có thể chạy trễ 5–30 phút.
+
 ## 3. Soạn bản tin mới
 ```bash
 python scripts/collect.py              # tự chọn sáng/chiều theo giờ Việt Nam

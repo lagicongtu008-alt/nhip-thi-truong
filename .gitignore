@@ -9,3 +9,6 @@ logs/*
 data/news.db
 reports/
 _site/
+# File làm việc của agent
+.bangiao/
+.claude/

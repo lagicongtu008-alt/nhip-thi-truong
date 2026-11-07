@@ -3,6 +3,7 @@
 - Phục vụ trang web (web/index.html) tại http://localhost:8000
 - Phục vụ dữ liệu bản tin tại /data/... (thư mục data/)
 - Endpoint POST /api/ask cho tab "Hỏi đáp" (gọi Anthropic API bằng ANTHROPIC_API_KEY trong .env)
+- Endpoint GET /api/health: {"ok": true, "ai": <có khóa hay không>} để trang biết có máy chủ AI
 
 Chạy:  python server.py            (cổng mặc định 8000)
        python server.py --port 9000
@@ -47,9 +48,15 @@ class Handler(SimpleHTTPRequestHandler):
         return str(target)
 
     def end_headers(self) -> None:
-        if self.path.startswith("/data/"):
+        if self.path.startswith("/data/") or self.path.startswith("/api/"):
             self.send_header("Cache-Control", "no-store")
         super().end_headers()
+
+    def do_GET(self) -> None:  # noqa: N802
+        # Trang web gọi /api/health để biết có máy chủ AI (hiện tab Hỏi đáp) hay không.
+        if self.path.split("?", 1)[0].split("#", 1)[0] == "/api/health":
+            return self._json(HTTPStatus.OK, {"ok": True, "ai": bool(os.getenv("ANTHROPIC_API_KEY"))})
+        super().do_GET()
 
     def do_POST(self) -> None:  # noqa: N802
         if self.path != "/api/ask":
@@ -104,6 +111,9 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
+    # Windows: stdout chuyển hướng (Task Scheduler, file log) có thể là cp1252, in tiếng Việt sẽ crash.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--port", type=int, default=int(os.getenv("PORT", "8000")))
     ap.add_argument("--host", default="127.0.0.1")

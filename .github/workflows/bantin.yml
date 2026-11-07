@@ -1,5 +1,6 @@
 # Soạn bản tin trên GitHub Actions và đăng lên GitHub Pages (không cần bật máy).
-# Cần: secret ANTHROPIC_API_KEY; Settings → Pages → Source = "GitHub Actions".
+# Không có secret thì workflow vẫn đăng lại trang, chỉ không soạn tin mới.
+# Muốn tự soạn tin: thêm secret ANTHROPIC_API_KEY; Settings → Pages → Source = "GitHub Actions".
 name: Ban tin Nhip Thi Truong
 on:
   schedule:
@@ -32,11 +33,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
+      - name: Kiểm tra khóa API
+        id: key
+        env: { K: "${{ secrets.ANTHROPIC_API_KEY }}" }
+        run: |
+          if [ -n "$K" ]; then echo "has=true" >> "$GITHUB_OUTPUT"
+          else echo "has=false" >> "$GITHUB_OUTPUT"
+               echo "::warning::Chưa có secret ANTHROPIC_API_KEY – bỏ qua bước soạn bản tin, chỉ đăng lại trang."
+          fi
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
+        if: steps.key.outputs.has == 'true'
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
+        if: steps.key.outputs.has == 'true'
       - name: Soạn bản tin
+        if: steps.key.outputs.has == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-5-5' }}
@@ -46,6 +58,7 @@ jobs:
           [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
           python scripts/collect.py $ARGS
       - name: Lưu dữ liệu mới vào repo
+        if: steps.key.outputs.has == 'true'
         run: |
           git config user.name "nhip-thi-truong-bot"
           git config user.email "actions@users.noreply.github.com"
