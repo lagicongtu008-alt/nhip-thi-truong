@@ -1,0 +1,113 @@
+{
+  "anomalies": [
+    {
+      "date": "26/10",
+      "detail": "Phiên 26/10 khối ngoại bán ròng khoảng 892 tỷ đồng, gần gấp đôi phiên trước; riêng FPT bị bán ròng 258 tỷ, tiếp theo HDB (~80 tỷ) và VPL (~70 tỷ). VN-Index giảm 10 điểm về 1.763, chấm dứt chuỗi tăng.",
+      "sector": "Khối ngoại",
+      "signal": "cao",
+      "source": "CafeF",
+      "title": "Khối ngoại bán ròng gần 900 tỷ đồng, xả mạnh FPT",
+      "url": "https://cafef.vn/phien-26-10-khoi-ngoai-ban-rong-gan-900-ty-dong-xa-manh-mot-co-phieu-quoc-dan-188261026153543464.chn",
+      "why": "Mở đầu chuỗi bán ròng kéo dài cả tuần; FPT sau đó rơi xuống đáy 3 năm, cho thấy dòng vốn ngoại đang rút cả ở cổ phiếu chất lượng."
+    },
+    {
+      "date": "28/10",
+      "detail": "Danh sách cơ cấu lại vốn nhà nước giai đoạn 2026–2030 gồm Vietcombank, BIDV, VietinBank; tỷ lệ sở hữu nhà nước tại Vietcombank và BIDV sẽ giảm xuống tối thiểu 65%. Nhà nước vẫn giữ 100% vốn tại EVN, PVN, TKV.",
+      "sector": "Ngân hàng",
+      "signal": "trung-binh",
+      "source": "Dân Trí",
+      "title": "Nhà nước cơ cấu lại vốn tại 3 ngân hàng quốc doanh",
+      "url": "https://dantri.com.vn/kinh-doanh/nha-nuoc-co-cau-lai-von-tai-6-doanh-nghiep-lon-gom-3-ngan-hang-20261028170315854.htm",
+      "why": "Mở dư địa phát hành tăng vốn và tăng room cho nhà đầu tư, hỗ trợ trung hạn cho nhóm Big 3, dù chưa phản ánh ngay vào giá cổ phiếu."
+    },
+    {
+      "date": "29/10",
+      "detail": "Phiên 29/10 PVT, PVP, PPT giảm sàn, PVTrans mất hơn 800 tỷ đồng vốn hóa dù lợi nhuận quý III tăng 40%. VN-Index giảm 11,04 điểm về 1.755,61, khối ngoại bán ròng ~430 tỷ.",
+      "sector": "Dầu khí",
+      "signal": "cao",
+      "source": "CafeF",
+      "title": "Cổ phiếu dầu khí bị bán tháo, PVT giảm sàn dù lãi tăng 40%",
+      "url": "https://cafef.vn/loi-nhuan-quy-3-2026-tang-40-co-phieu-pvtrans-van-giam-san-von-hoa-mat-hon-800-ty-dong-188261029144743214.chn",
+      "why": "Cho thấy dòng tiền chốt lời mạnh ở nhóm đã tăng nóng theo giá dầu; nhóm dầu khí sau đó hồi lại một phần ngày 30/10 (GAS +2,6%)."
+    },
+    {
+      "date": "29/10",
+      "detail": "Hòa Phát báo lãi quý III hơn 8.200 tỷ đồng, gấp đôi cùng kỳ; lũy kế 9 tháng 23.746 tỷ đồng, vượt 8% kế hoạch cả năm. Tuy vậy HPG chỉ nhích nhẹ rồi giảm 0,9% ngày 30/10.",
+      "sector": "Thép",
+      "signal": "trung-binh",
+      "source": "Tin nhanh Chứng khoán",
+      "title": "Hòa Phát lãi quý III tăng 106%, 9 tháng vượt kế hoạch năm",
+      "url": "https://www.tinnhanhchungkhoan.vn/hoa-phat-hpg-lai-23746-ty-dong-sau-9-thang-vuot-8-ke-hoach-ca-nam-post400418.html",
+      "why": "KQKD xác nhận chu kỳ phục hồi ngành thép, nhưng giá cổ phiếu phản ứng yếu cho thấy thị trường chung đang lấn át thông tin doanh nghiệp."
+    },
+    {
+      "date": "30/10",
+      "detail": "Sau 31 phiên giảm (29 phiên sàn) và mất gần 90% giá trị, KOS mở cửa sàn 3.540 đồng với 61,4 triệu cổ phiếu khớp rồi đóng cửa trần 4.060 đồng. Tổng khối lượng ~75,7 triệu cổ phiếu, hơn 1/3 lượng lưu hành; khối ngoại gần như không tham gia.",
+      "sector": "Bất động sản",
+      "signal": "cao",
+      "source": "CafeF",
+      "title": "KOS từ sàn lên trần, hơn 1/3 cổ phiếu sang tay",
+      "url": "https://cafef.vn/co-phieu-kos-bat-ngo-tang-tran-sau-khi-giam-29-phien-lien-tiep-hon-34-luong-co-phieu-dang-luu-hanh-duoc-giao-dich-188261030102603033.chn",
+      "why": "Giao dịch mang tính đầu cơ cao, cổ phiếu đổi chủ quy mô lớn; nhà đầu tư nên thận trọng vì biến động có thể đảo chiều nhanh."
+    },
+    {
+      "date": "30/10",
+      "detail": "Khối ngoại bán ròng ~641 tỷ đồng, phiên thứ 6 liên tiếp; VIC bị bán 354 tỷ, TCB 133 tỷ (đúng ngày chốt quyền cổ tức 50% bằng cổ phiếu). Cả 13 mã ngân hàng VN30 giảm, VN-Index mất 13,99 điểm về 1.741,62.",
+      "sector": "Khối ngoại",
+      "signal": "cao",
+      "source": "Tin nhanh Chứng khoán",
+      "title": "VIC bị khối ngoại bán ròng 354 tỷ, ngân hàng dẫn đầu chiều giảm",
+      "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-hon-350-ty-dong-mot-co-phieu-trong-phien-3010-post400514.html",
+      "why": "Áp lực bán tập trung vào trụ cột chỉ số khiến VN-Index mất SMA50 và về sát hỗ trợ 1.740; cần theo dõi khối ngoại có ngừng bán trong tuần tới."
+    },
+    {
+      "date": "30/10",
+      "detail": "Vinhomes báo lãi sau thuế quý III 23.021 tỷ đồng (+419%), 9 tháng 75.059 tỷ đồng, vượt khoảng 25% kế hoạch năm; biên lãi gộp quý III 60,3%. VHM tăng 1,45%, được khối ngoại mua ròng 69 tỷ.",
+      "sector": "Bất động sản",
+      "signal": "trung-binh",
+      "source": "CafeF",
+      "title": "Vinhomes lãi 9 tháng kỷ lục 75.000 tỷ đồng",
+      "url": "https://cafef.vn/chua-tung-co-vinhomes-lai-9-thang-ky-luc-hon-75000-ty-dong-vuot-25-ke-hoach-ca-nam-188261030130647614.chn",
+      "why": "Là trụ đỡ hiếm hoi của chỉ số; tuy nhiên lợi nhuận phụ thuộc lớn vào giao dịch bán buôn, nên cần xem tính bền vững ở các quý tới."
+    }
+  ],
+  "headline": "VN-Index mất 1,83% trong tuần, khối ngoại bán ròng 5 phiên liên tiếp khoảng 2.650 tỷ đồng",
+  "key": "2026-W44",
+  "label": "Tuần 26–30/10/2026",
+  "outlook": "Sau hai tuần đi ngược chiều, VN-Index đang kiểm định vùng hỗ trợ 1.730–1.740 điểm, đồng thời đã đóng cửa dưới đường trung bình 50 phiên. Kịch bản chính cho tuần 2–6/11 là dao động tích lũy trong vùng 1.700–1.780 điểm; nếu 1.730 bị xuyên thủng với thanh khoản tăng, chỉ số có thể lùi về 1.700–1.720. Dòng tiền nhiều khả năng tiếp tục phân hóa vào cổ phiếu có KQKD quý III tốt và định giá hấp dẫn hơn là tăng đồng loạt; tín hiệu cải thiện quan trọng nhất cần chờ là khối ngoại ngừng bán ròng và thanh khoản trở lại trên 18.000 tỷ đồng/phiên.",
+  "risks": [
+    "Fed phát tín hiệu chắc chắn tăng lãi suất tháng 12, đẩy USD tăng và khối ngoại bán mạnh hơn",
+    "Áp lực giải chấp khi dư nợ margin ở mức kỷ lục gần 448.000 tỷ đồng mà thanh khoản thấp",
+    "Nhóm ngân hàng chịu áp lực KQKD phân hóa, nợ xấu tăng ở một số nhà băng nhỏ",
+    "Giá dầu biến động mạnh theo diễn biến Trung Đông/eo Hormuz, ảnh hưởng lạm phát và cổ phiếu dầu khí",
+    "Đầu cơ ở cổ phiếu nhỏ (như KOS) có thể gây biến động mạnh, rủi ro cho nhà đầu tư cá nhân"
+  ],
+  "summary": "VN-Index đóng tuần ở 1.741,62 điểm, giảm 32,53 điểm (−1,83%) so với tuần trước, xóa khoảng một nửa thành quả tăng 4% của tuần 19–23/10. Chỉ số chỉ tăng 1/5 phiên (28/10, +4,78 điểm) và giảm mạnh nhất ở hai phiên cuối tuần (−11,04 điểm ngày 29/10 và −13,99 điểm ngày 30/10). Tính cả tháng 10, VN-Index mất khoảng 27 điểm (~−1,5%).\nKhối ngoại bán ròng cả 5 phiên, cộng dồn khoảng 2.650 tỷ đồng trên HoSE (26/10: ~892 tỷ; 27/10: ~442 tỷ; 28/10: ~267 tỷ; 29/10: ~430 tỷ; 30/10: ~633 tỷ), tập trung vào FPT, VIC, TCB. Thanh khoản thấp nhất từ đầu năm, có phiên HoSE khớp chưa tới 10.000 tỷ đồng. Mùa KQKD quý III phân hóa: nhóm phi tài chính tăng mạnh (Vinhomes, Hòa Phát, Thế Giới Di Động, PV OIL lãi kỷ lục) trong khi nhóm tài chính hụt hơi.",
+  "themes": [
+    {
+      "body": "Khối ngoại bán ròng 6 phiên liên tiếp (tính từ 23/10), riêng tuần này khoảng 2.650 tỷ đồng. Áp lực dồn vào các mã vốn hóa lớn: FPT (258 tỷ ngày 26/10, rơi về đáy 3 năm), VIC (354 tỷ ngày 30/10), TCB. Lo ngại Fed tăng lãi suất tháng 12 khiến dòng vốn ngoại tiếp tục rút khỏi thị trường mới nổi.",
+      "title": "Khối ngoại rút vốn dai dẳng"
+    },
+    {
+      "body": "Vinhomes lãi 9 tháng 75.059 tỷ đồng, Hòa Phát lãi quý III hơn 8.200 tỷ (+106%), MWG lãi quý III 3.521 tỷ (+97%), PV OIL gấp hơn 5 lần cùng kỳ. Dù vậy, MWG, PNJ, DGW, HPG, FPT, PVT đều giảm giá – dấu hiệu tin tốt đã được phản ánh trước và nhà đầu tư lo ngại triển vọng quý IV.",
+      "title": "KQKD quý III kỷ lục nhưng giá cổ phiếu không phản ứng"
+    },
+    {
+      "body": "Theo chỉ đạo của NHNN, hàng loạt ngân hàng (Sacombank, MSB, VietABank, GPBank…) giảm lãi suất huy động khoảng 0,5 điểm %. Giá bán USD tại ngân hàng xuống dưới 26.000 đồng lần đầu sau 18 tháng, tỷ giá trung tâm 25.637 đồng. Tín dụng tăng 11,94% đến 26/10. Nhà nước cũng công bố lộ trình giảm sở hữu tại VCB, BID xuống tối thiểu 65% giai đoạn 2026–2030.",
+      "title": "Tiền tệ dịu đi: lãi suất huy động giảm, tỷ giá hạ nhiệt"
+    },
+    {
+      "body": "Fed giữ lãi suất 3,75–4% ngày 28/10, nhưng hai thành viên muốn tăng ngay 0,25 điểm %. Lạm phát PCE tháng 9 tăng lên 3,6%, thị trường định giá khoảng 85% khả năng Fed tăng lãi suất tháng 12. ECB và BOJ cùng giữ nguyên lãi suất. Vàng thế giới lùi về quanh 4.000 USD/ounce, vàng SJC mất 1,3 triệu đồng/lượng ngày 30/10.",
+      "title": "Fed giữ lãi suất nhưng mở cửa cho đợt tăng tháng 12"
+    }
+  ],
+  "updatedAt": "2026-10-30T17:35:00+07:00",
+  "watchlist": [
+    "Đầu tháng 11: Cục Thống kê công bố số liệu kinh tế tháng 10 (CPI, sản xuất, xuất khẩu, FDI)",
+    "Hạn chót công bố BCTC quý III – các ngân hàng và doanh nghiệp lớn còn lại",
+    "Diễn biến TCB sau ngày không hưởng quyền chia 50% cổ phiếu",
+    "Lãi suất huy động và tỷ giá USD/VND quanh mốc 26.000 đồng",
+    "Vùng hỗ trợ 1.730–1.740 và kháng cự 1.780 của VN-Index",
+    "Dòng tiền khối ngoại tại VIC, TCB, FPT"
+  ]
+}

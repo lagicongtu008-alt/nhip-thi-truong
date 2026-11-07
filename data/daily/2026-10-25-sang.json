@@ -1,0 +1,631 @@
+{
+  "banking": {
+    "analysis": "Đầu tuần mới, ngành ngân hàng sẽ chịu tác động nhiều hơn từ bên ngoài. Lãi suất huy động trong nước đang giảm, có cả Vietcombank, nên chi phí vốn quý 4 sẽ nhẹ đi. Tuy vậy, một loạt sự kiện quốc tế tập trung trong ngày 28–29/10: Fed, Ngân hàng Trung ương Canada (BoC) và New Zealand (RBNZ) họp; Mỹ công bố GDP quý 3 và chỉ số giá PCE. BoC và RBNZ được dự báo tăng lãi suất. Điều này cho thấy xu hướng thắt chặt đang quay lại ở nhiều nước vì giá năng lượng cao.\nCổ phiếu TCB nhiều khả năng giao dịch sôi động trước ngày chốt quyền 30/10. Nhóm ngân hàng lớn chưa công bố kết quả quý 3 (Vietcombank, VietinBank, BIDV, MB) sẽ là chất xúc tác chính. Ngược lại, các ngân hàng nhỏ có lợi nhuận đi xuống, như Saigonbank, BAOVIET Bank và PGBank, có thể tiếp tục bị phân hóa.",
+    "articles": [
+      {
+        "source": "CafeF",
+        "time": "24/10 chiều",
+        "title": "Lịch chốt quyền cổ tức tuần 26-30/10: Một ngân hàng \"lăn chốt\" cổ tức 50%",
+        "url": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-mot-ngan-hang-lan-chot-co-tuc-50-188261024151510042.chn"
+      },
+      {
+        "source": "Việt Báo",
+        "time": "25/10",
+        "title": "Tỷ giá USD hôm nay 25/10: Tỷ giá trung tâm giao dịch ở mức 25.627 đồng/USD",
+        "url": "https://vietbao.vn/ty-gia-usd-hom-nay-2510-ty-gia-trung-tam-giao-dich-o-muc-25627-dongusd-612906.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "24/10 tối",
+        "title": "Phó Tổng Giám đốc VietinBank dự báo 3 năm tới, có thể một nửa giao dịch ngân hàng không còn do khách hàng tự tay thực hiện",
+        "url": "https://cafef.vn/pho-tong-giam-doc-vietinbank-du-bao-3-nam-toi-co-the-mot-nua-giao-dich-ngan-hang-khong-con-do-khach-hang-tu-tay-thuc-hien-188261024224542431.chn"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "25/10",
+        "title": "Ngân hàng rao bán biệt thự nghỉ dưỡng tại khu VinaCapital Hội An",
+        "url": "https://vietnamnet.vn/ngan-hang-rao-ban-biet-thu-nghi-duong-tai-vinacapital-hoi-an-2567960.html"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "25/10",
+        "title": "Dự kiến thu ngân sách năm 2027 hơn 3,3 triệu tỷ đồng",
+        "url": "https://vietnamnet.vn/du-kien-thu-ngan-sach-nam-2027-hon-3-3-trieu-ty-dong-pre2568172.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "25/10",
+        "title": "Cập nhật BCTC quý 3/2026 ngày 25/10: ngân hàng duy trì tăng trưởng, một số ngân hàng lãi lớn",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+      },
+      {
+        "source": "Newsquawk",
+        "time": "23/10",
+        "title": "Week in Focus 26-30th October 2026: FOMC, BoC, RBNZ, ECB, BoJ Policy Decisions, US PCE",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+      },
+      {
+        "source": "CafeF",
+        "time": "24/10",
+        "title": "Tuần tới, một ngân hàng lăn chốt trả cổ tức 50% - mức cao nhất ngành trong năm 2026",
+        "url": "https://cafef.vn/tuan-toi-mot-ngan-hang-lan-chot-tra-co-tuc-50-muc-cao-nhat-nganh-trong-nam-2026-188261024092318197.chn"
+      },
+      {
+        "source": "Vietstock",
+        "time": "24/10",
+        "title": "Tuần 19-23/10: USD-Index giằng co, tỷ giá ngân hàng và tự do trái chiều",
+        "url": "https://vietstock.vn/2026/10/tuan-19-2310-usd-index-giang-co-ty-gia-ngan-hang-va-tu-do-trai-chieu-757-1506533.htm"
+      },
+      {
+        "source": "Index.vn",
+        "time": "24/10",
+        "title": "Lãi suất ngân hàng hôm nay 24/10/2026: Lãi suất huy động giảm sâu tới 0,9 điểm phần trăm",
+        "url": "https://index.vn/tin-tuc/lai-suat-ngan-hang-hom-nay-24-10-2026-lai-suat-huy-dong-giam-sau-toi-0-9-diem-phan-tram"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "24/10",
+        "title": "Lãnh đạo Ngân hàng Nhà nước chỉ rõ điểm nghẽn khiến dòng vốn hàng trăm nghìn tỷ đồng khó chảy vào dự án",
+        "url": "https://nguoiquansat.vn/lanh-dao-ngan-hang-nha-nuoc-chi-ro-diem-nghen-khien-dong-von-hang-tram-nghin-ty-dong-kho-chay-vao-du-an-323898.html"
+      },
+      {
+        "source": "Báo Văn Hóa",
+        "time": "24/10",
+        "title": "Tỉ giá USD hôm nay 24/10: Vietcombank, BIDV cùng bán 26.040 đồng/USD",
+        "url": "https://baovanhoa.vn/kinh-te/ti-gia-usd-hom-nay-2410-vietcombank-bidv-cung-ban-26040-dongusd-278550.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 0,
+        "changeText": "Không đổi",
+        "label": "Tỷ giá trung tâm USD/VND",
+        "note": "Mức chốt ngày 23/10",
+        "unit": "đồng",
+        "value": "25.627"
+      },
+      {
+        "label": "USD bán ra tại Vietcombank",
+        "note": "Thị trường tự do bán khoảng 26.100",
+        "unit": "đồng",
+        "value": "26.040"
+      },
+      {
+        "label": "Lãi suất Fed hiện tại",
+        "note": "94/100 chuyên gia được Reuters khảo sát dự báo Fed giữ nguyên ngày 28/10",
+        "value": "3,75–4,00%"
+      },
+      {
+        "label": "Lãi suất huy động cao nhất",
+        "note": "Saigonbank, kỳ hạn 13 tháng",
+        "unit": "/năm",
+        "value": "7,9%"
+      },
+      {
+        "label": "Ngân hàng đã giảm lãi suất huy động",
+        "note": "Gồm cả Vietcombank",
+        "unit": "ngân hàng",
+        "value": "22+"
+      },
+      {
+        "label": "Cổ tức TCB",
+        "note": "Đăng ký cuối cùng ngày 30/10",
+        "unit": "bằng cổ phiếu",
+        "value": "50%"
+      }
+    ],
+    "news": [
+      {
+        "body": "Cổ đông có 100 cổ phiếu TCB sẽ nhận thêm 50 cổ phiếu mới, nguồn là lợi nhuận chưa phân phối năm 2025. Ngày đăng ký cuối cùng là 30/10. Đây là tỷ lệ cổ tức cao nhất ngành ngân hàng năm 2026.",
+        "impact": "tich-cuc",
+        "source": "CafeF",
+        "title": "Techcombank chốt quyền nhận cổ tức cổ phiếu 50% trong tuần tới",
+        "url": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-mot-ngan-hang-lan-chot-co-tuc-50-188261024151510042.chn"
+      },
+      {
+        "body": "94/100 chuyên gia trong khảo sát của Reuters dự báo Fed giữ lãi suất ở 3,75–4,00%. Pimco dự báo Fed sẽ tăng lãi suất vào tháng 12. Thị trường sẽ theo dõi xem có thành viên nào bỏ phiếu ủng hộ tăng lãi suất hay không. Nếu Fed tỏ ra cứng rắn, USD có thể mạnh lên và gây áp lực lên tỷ giá USD/VND.",
+        "impact": "trung-tinh",
+        "source": "Newsquawk",
+        "title": "Fed họp ngày 28/10: khả năng cao giữ nguyên lãi suất, nhưng biểu quyết có thể chia rẽ",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+      },
+      {
+        "body": "Theo lãnh đạo VietinBank, các trợ lý AI có thể thay khách hàng thực hiện tới một nửa số giao dịch trong 3 năm tới. Đây là áp lực buộc các ngân hàng phải đầu tư mạnh vào công nghệ.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Phó TGĐ VietinBank: trong 3 năm tới, một nửa giao dịch ngân hàng có thể do AI thực hiện",
+        "url": "https://cafef.vn/pho-tong-giam-doc-vietinbank-du-bao-3-nam-toi-co-the-mot-nua-giao-dich-ngan-hang-khong-con-do-khach-hang-tu-tay-thuc-hien-188261024224542431.chn"
+      },
+      {
+        "body": "Ngân hàng tiếp tục rao bán tài sản bảo đảm là bất động sản nghỉ dưỡng. Đây là dấu hiệu nợ xấu ở mảng bất động sản nghỉ dưỡng vẫn đang được xử lý.",
+        "impact": "tieu-cuc",
+        "source": "VietnamNet",
+        "title": "Ngân hàng rao bán biệt thự nghỉ dưỡng tại khu VinaCapital Hội An để xử lý nợ",
+        "url": "https://vietnamnet.vn/ngan-hang-rao-ban-biet-thu-nghi-duong-tai-vinacapital-hoi-an-2567960.html"
+      },
+      {
+        "body": "Kế hoạch chi ngân sách lớn hỗ trợ đầu tư công và nhu cầu tín dụng. Đồng thời, nhu cầu phát hành trái phiếu Chính phủ để bù đắp bội chi cũng sẽ tăng.",
+        "impact": "trung-tinh",
+        "source": "VietnamNet",
+        "title": "Dự toán ngân sách 2027: thu hơn 3,3 triệu tỷ, chi hơn 4 triệu tỷ đồng",
+        "url": "https://vietnamnet.vn/du-kien-thu-ngan-sach-nam-2027-hon-3-3-trieu-ty-dong-pre2568172.html"
+      }
+    ],
+    "summary": "Chủ nhật không có giao dịch. Tỷ giá trung tâm vẫn ở mức 25.627 đồng/USD. Tuần tới, ngành ngân hàng có hai điểm nhấn: Techcombank chốt quyền trả cổ tức bằng cổ phiếu tỷ lệ 50% (30/10), và Fed họp ngày 28/10 — kết quả cuộc họp có thể tác động tới tỷ giá và lãi suất trong nước.",
+    "watch": [
+      "28/10: Fed công bố quyết định lãi suất, cùng ngày với BoC và RBNZ",
+      "29/10: Mỹ công bố GDP quý 3 (dự báo khoảng 3%) và PCE tháng 9 (dự báo 3,6% so với cùng kỳ)",
+      "30/10: Techcombank chốt quyền cổ tức 50%; BoJ họp",
+      "Tỷ giá USD/VND đầu tuần sau khi DXY khép tuần ở 101,8"
+    ]
+  },
+  "date": "2026-10-25",
+  "key": "2026-10-25-sang",
+  "label": "Sáng 25/10/2026 (Chủ nhật)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "VietnamNet",
+          "time": "25/10",
+          "title": "Giá vàng hôm nay 25/10: Cả tuần giảm liên tiếp, SJC mất 1,9 triệu đồng",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-25-10-ca-tuan-giam-lien-tiep-sjc-mat-1-9-trieu-dong-2568158.html"
+        },
+        {
+          "source": "Báo Quốc tế",
+          "time": "25/10",
+          "title": "Giá vàng hôm nay 25/10/2026 'rơi' thủng mốc 4.000 USD, mức hỗ trợ bị phá vỡ, đợt bán tháo đang đẩy thị trường đi quá đà",
+          "url": "https://baoquocte.vn/gia-vang-hom-nay-25-10-2026-roi-thung-moc-4-000-usd-muc-ho-tro-bi-pha-vo-dot-ban-thao-dang-day-thi-truong-di-qua-da-460377.html"
+        },
+        {
+          "source": "Báo Nghệ An",
+          "time": "25/10",
+          "title": "Giá vàng hôm nay 25/10/2026: Giá vàng SJC BTMC PNJ Phú Quý và vàng quốc tế",
+          "url": "https://baonghean.vn/gia-vang-hom-nay-25-10-2026-gia-vang-sjc-btmc-pnj-phu-quy-va-vang-quoc-te-10354292.html"
+        },
+        {
+          "source": "Thể thao 247",
+          "time": "25/10",
+          "title": "Giá vàng hôm nay 25/10/2026: SJC, DOJI, PNJ và vàng nhẫn 9999",
+          "url": "https://thethao247.vn/63-gia-vang-hom-nay-25-10-2026-thi-truong-trong-nuoc-lang-song-ngay-chu-nhat-c123-d442058.html"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "25/10",
+          "title": "Giá bạc hôm nay 25/10/2026: Suy giảm phiên cuối tuần",
+          "url": "https://vietbao.vn/gia-bac-hom-nay-25102026-suy-giam-phien-cuoi-tuan-612903.html"
+        },
+        {
+          "source": "Znews",
+          "time": "24/10",
+          "title": "Người mua vàng lỗ hơn 5 triệu đồng/lượng chỉ sau một tuần",
+          "url": "https://znews.vn/nguoi-mua-vang-lo-hon-5-trieu-dongluong-chi-sau-mot-tuan-post1691647.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "24/10",
+          "title": "Giá vàng hôm nay 24/10: Vàng thế giới lao dốc, thủng mốc 4.000 USD/ounce",
+          "url": "https://cafef.vn/gia-vang-hom-nay-24-10-vang-the-gioi-lao-doc-thung-moc-4000-usd-ounce-188261024075402422.chn"
+        },
+        {
+          "source": "VietnamPlus",
+          "time": "24/10",
+          "title": "Giá vàng thế giới ghi nhận tuần giảm mạnh nhất trong hơn 4 tháng",
+          "url": "https://www.vietnamplus.vn/gia-vang-ghi-nhan-tuan-giam-manh-nhat-trong-hon-4-thang-post1143966.vnp"
+        }
+      ],
+      "body": "Vàng miếng SJC đứng ở 138,7–141,7 triệu đồng/lượng ngày Chủ nhật, vàng nhẫn khoảng 135–141 triệu. Theo Saxo Bank, hỗ trợ kế tiếp của vàng thế giới là 3.970 USD; vàng chỉ hết điều chỉnh nếu vượt lại 4.230 USD. BCA Research cho rằng vàng đã vào vùng quá bán và có thể đi ngang. U.S. Bank cảnh báo vàng còn chịu áp lực nếu Fed tăng lãi suất vào tháng 12.",
+      "heat": 5,
+      "name": "Vàng – trang sức",
+      "reason": "Cả tuần, vàng SJC mất 1,9 triệu đồng/lượng. Vàng thế giới đóng tuần dưới 4.000 USD/ounce, giảm hơn 4%.",
+      "source": "Báo Quốc tế",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -6.18,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://baoquocte.vn/gia-vang-hom-nay-25-10-2026-roi-thung-moc-4-000-usd-muc-ho-tro-bi-pha-vo-dot-ban-thao-dang-day-thi-truong-di-qua-da-460377.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "25/10",
+          "title": "Giá xăng dầu hôm nay (25-10): Tuần tăng giá của giá dầu thế giới",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-25-10-tuan-tang-gia-cua-gia-dau-the-gioi-1061936"
+        },
+        {
+          "source": "Vietstock",
+          "time": "24/10",
+          "title": "Giá dầu Brent lên gần 117 USD/thùng, cao nhất trong 6 tháng",
+          "url": "https://vietstock.vn/2026/10/gia-dau-brent-len-gan-117-usdthung-cao-nhat-trong-6-thang-34-1506522.htm"
+        },
+        {
+          "source": "VietnamPlus",
+          "time": "24/10",
+          "title": "Giá dầu thế giới ghi nhận tuần tăng mạnh, chạm mức cao nhất gần 6 tháng",
+          "url": "https://www.vietnamplus.vn/gia-dau-the-gioi-ghi-nhan-tuan-tang-manh-cham-muc-cao-nhat-gan-6-thang-post1143968.vnp"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "24/10",
+          "title": "Giá xăng dầu hôm nay 24.10.2026: Tăng mạnh",
+          "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-24102026-tang-manh-185261024084848179.htm"
+        },
+        {
+          "source": "Dân Việt",
+          "time": "24/10",
+          "title": "Giá xăng dầu: Dầu thô leo đỉnh, áp lực lớn xăng dầu trong nước",
+          "url": "https://danviet.vn/gia-xang-dau-hom-nay-24-10-dau-tho-lap-dinh-ap-luc-lon-gia-xang-dau-trong-tuan-toi-d1469568.html"
+        },
+        {
+          "source": "Market Times",
+          "time": "24/10",
+          "title": "Thị trường ngày 24/10: Dầu tăng lên mức cao nhất 6 tháng, vàng xuống đáy ba tháng",
+          "url": "https://markettimes.vn/thi-truong-ngay-24-10-dau-tang-len-muc-cao-nhat-6-thang-vang-xuong-day-ba-thang-giua-lan-song-ban-thao-133375.html"
+        }
+      ],
+      "body": "Houthi tiếp tục tấn công cơ sở năng lượng của Ả Rập Xê Út. Mỹ phải xả dầu từ kho dự trữ chiến lược, vốn đang ở mức thấp nhất kể từ năm 1982. Giá xăng trong nước vẫn theo kỳ điều hành 22/10 (E5 khoảng 25.361 đồng/lít, diesel 29.550 đồng/lít), nhưng giá thế giới tăng mạnh khiến kỳ điều hành tới chịu áp lực tăng.",
+      "heat": 5,
+      "name": "Dầu khí – năng lượng",
+      "reason": "Brent khép tuần ở 116,72 USD/thùng, tăng 6,2%, là tuần tăng thứ ba liên tiếp. Nguy cơ Mỹ tấn công Iran khiến rủi ro nguồn cung tăng cao.",
+      "source": "Vietstock",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 6.18,
+          "code": "PET"
+        },
+        {
+          "change": -0.51,
+          "code": "BSR"
+        }
+      ],
+      "url": "https://vietstock.vn/2026/10/gia-dau-brent-len-gan-117-usdthung-cao-nhat-trong-6-thang-34-1506522.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "time": "25/10",
+          "title": "Cập nhật BCTC quý 3/2026 ngày 25/10: Chứng khoán lao dốc, ngành thép đổi chiều, nhiệt điện bứt tốc",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "23/10",
+          "title": "Nhiệt điện Hải Phòng (HND) lãi 35,5 tỷ đồng quý III/2026, phát sinh gần 115 tỷ đồng chi phí khác sau thua kiện",
+          "url": "https://www.tinnhanhchungkhoan.vn/nhiet-dien-hai-phong-hnd-lai-355-ty-dong-quy-iii2026-phat-sinh-gan-115-ty-dong-chi-phi-khac-sau-thua-kien-post400025.html"
+        },
+        {
+          "source": "Doanh nhân (Pháp luật VN)",
+          "time": "tuần 19–25/10",
+          "title": "Nhiệt điện Hải Phòng (HND) báo lãi quý 3 dù phải gánh hơn 114 tỷ đồng tiền bồi thường",
+          "url": "https://doanhnhan.baophapluat.vn/nhiet-dien-hai-phong-hnd-bao-lai-quy-3-du-phai-ganh-hon-114-ty-dong-tien-boi-thuong.html"
+        },
+        {
+          "source": "Doanh nhân (Pháp luật VN)",
+          "time": "tuần 19–25/10",
+          "title": "Ngành điện quý III: POW, NT2 bứt phá mạnh, REE duy trì đà tăng trưởng",
+          "url": "https://doanhnhan.baophapluat.vn/nganh-dien-quy-iii-pow-nt2-but-pha-manh-ree-duy-tri-da-tang-truong.html"
+        },
+        {
+          "source": "Báo Đấu thầu",
+          "time": "tuần 19–25/10",
+          "title": "Doanh nghiệp nhiệt điện vào nhịp tăng trưởng cao",
+          "url": "https://baodauthau.vn/doanh-nghiep-nhiet-dien-vao-nhip-tang-truong-cao-post210793.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "20/10",
+          "title": "Phát hiện công ty điện lãi tăng gấp đôi trong quý 3, có hơn 5.300 tỷ tiền gửi, cổ phiếu tăng hơn 20% chỉ sau một tháng",
+          "url": "https://cafef.vn/phat-hien-cong-ty-dien-lai-tang-100-trong-quy-3-co-hon-5300-ty-tien-gui-co-phieu-tang-hon-20-chi-sau-mot-thang-188261020103824766.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "24–25/10",
+          "title": "Lịch chốt quyền cổ tức tuần 26-30/10: MSR, ANV, NT2 đồng loạt thanh toán",
+          "url": "https://nguoiquansat.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-msr-anv-nt2-dong-loat-thanh-toan-323916.html"
+        }
+      ],
+      "body": "Ngược với nhiệt điện, thủy điện phần lớn sụt giảm vì thời tiết kém thuận lợi. Nhiệt điện Hải Phòng (HND) lãi khoảng 35,5 tỷ đồng dù phải ghi nhận gần 115 tỷ chi phí sau khi thua kiện. Tuần này NT2 có ngày không hưởng quyền cổ tức tiền mặt 10% (29/10). Giá dầu và khí cao là yếu tố cần theo dõi đối với chi phí nhiên liệu của nhóm điện khí.",
+      "heat": 4,
+      "name": "Điện – nhiệt điện",
+      "reason": "Nhiệt điện bứt phá trong quý 3: Hải Phòng và Phả Lại chuyển từ lỗ sang lãi, lãi của NT2 tăng gấp đôi nhờ sản lượng tăng mạnh.",
+      "source": "CafeF",
+      "status": "soi-noi",
+      "stocks": [],
+      "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "time": "25/10",
+          "title": "Cập nhật BCTC quý 3/2026 ngày 25/10: ngành thép đổi chiều",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+        },
+        {
+          "source": "Vietstock",
+          "time": "20/10",
+          "title": "Thêm doanh nghiệp thép báo lãi tích cực nhưng dự án thép 8,100 tỷ vẫn dang dở",
+          "url": "https://vietstock.vn/2026/10/them-doanh-nghiep-thep-bao-lai-tich-cuc-nhung-du-an-thep-8100-ty-van-dang-do-737-1503842.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "16/10",
+          "title": "Loạt doanh nghiệp thép dồn dập báo lãi lớn trong quý 3/2026",
+          "url": "https://cafef.vn/loat-doanh-nghiep-thep-don-dap-bao-lai-lon-trong-quy-3-2026-188261016223516022.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "14/10",
+          "title": "Doanh nghiệp thép đầu tiên công bố KQKD quý III: Lợi nhuận tăng gần 10 lần, tiêu thụ vọt mạnh 96%",
+          "url": "https://nguoiquansat.vn/doanh-nghiep-thep-dau-tien-cong-bo-kqkd-quy-iii-loi-nhuan-tang-gan-10-lan-tieu-thu-vot-manh-96-321865.html"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "tuần 19–25/10",
+          "title": "Gang thép Thái Nguyên lãi 27,6 tỷ đồng sau 9 tháng",
+          "url": "https://vietbao.vn/gang-thep-thai-nguyen-lai-276-ty-dong-sau-9-thang-612351.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "tháng 10",
+          "title": "Gần 5 tháng không xu hướng tăng của HPG, ngành thép cùng trong \"vùng trũng\"",
+          "url": "https://vietstock.vn/2026/10/gan-5-thang-khong-xu-huong-tang-cua-hpg-nganh-thep-cung-trong-vung-trung-830-1501684.htm"
+        },
+        {
+          "source": "Doanh nhân (Pháp luật VN)",
+          "time": "tháng 10",
+          "title": "Bất chấp giá thép hạ nhiệt, lợi nhuận quý 3/2026 của Hòa Phát dự kiến tăng 34% nhờ lực kéo từ Dung Quất 2",
+          "url": "https://doanhnhan.baophapluat.vn/bat-chap-gia-thep-ha-nhiet-loi-nhuan-quy-3-2026-cua-tap-doan-hoa-phat-hpg-du-kien-tang-34-nho-luc-keo-tu-dung-quat-2.html"
+        }
+      ],
+      "body": "Doanh nghiệp thép công bố đầu tiên có lãi gấp khoảng 10 lần, sản lượng tiêu thụ tăng 96%. Các công ty chứng khoán dự báo Hòa Phát lãi quý 3 khoảng 5.400–5.600 tỷ đồng nhờ Dung Quất 2, dù giá thép đã hạ nhiệt. Tuy vậy, cổ phiếu HPG gần 5 tháng chưa có xu hướng tăng, và phiên 23/10 HPG là mã kéo VN-Index giảm nhiều nhất. Kết quả chính thức của HPG sẽ là chất xúc tác cho cả ngành.",
+      "heat": 3,
+      "name": "Thép",
+      "reason": "Cả 7 doanh nghiệp thép đã công bố đều có lợi nhuận quý 3 cải thiện, nhiều doanh nghiệp tăng mạnh so với cùng kỳ.",
+      "source": "CafeF",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": -1.41,
+          "code": "HPG"
+        }
+      ],
+      "url": "https://cafef.vn/loat-doanh-nghiep-thep-don-dap-bao-lai-lon-trong-quy-3-2026-188261016223516022.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "time": "24/10 tối",
+          "title": "Phó Tổng Giám đốc VietinBank dự báo 3 năm tới, có thể một nửa giao dịch ngân hàng không còn do khách hàng tự tay thực hiện",
+          "url": "https://cafef.vn/pho-tong-giam-doc-vietinbank-du-bao-3-nam-toi-co-the-mot-nua-giao-dich-ngan-hang-khong-con-do-khach-hang-tu-tay-thuc-hien-188261024224542431.chn"
+        },
+        {
+          "source": "BNews",
+          "time": "24/10",
+          "title": "Nỗi lo chi phí AI phủ bóng lên Phố Wall trước tuần lễ quan trọng",
+          "url": "https://bnews.vn/noi-lo-chi-phi-ai-phu-bong-len-pho-wall-truoc-tuan-le-quan-tro-ng/441743.html"
+        },
+        {
+          "source": "Đầu tư Tài chính (SGGP)",
+          "time": "24/10",
+          "title": "Chứng khoán Mỹ khép lại tuần biến động",
+          "url": "https://dttc.sggp.org.vn/chung-khoan-my-khep-lai-tuan-bien-dong-post138712.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "23/10",
+          "title": "Cổ phiếu công nghệ bị bán tháo vì lũ lượt đổ tiền vào AI",
+          "url": "https://cafef.vn/co-phieu-cong-nghe-bi-ban-thao-vi-lu-luot-do-tien-vao-ai-188261023084404427.chn"
+        },
+        {
+          "source": "VnEconomy",
+          "time": "23/10",
+          "title": "S&P 500 và Nasdaq lao dốc vì cổ phiếu AI bị bán tháo, giá dầu \"nhảy\" lên đỉnh 5 tháng",
+          "url": "https://vneconomy.vn/sp-500-va-nasdaq-lao-doc-vi-co-phieu-ai-bi-ban-thao-gia-dau-nhay-len-dinh-5-thang.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "23/10",
+          "title": "Nasdaq Composite giảm 2.6%, mạnh nhất kể từ tháng 6",
+          "url": "https://vietstock.vn/2026/10/nasdaq-composite-giam-26-manh-nhat-ke-tu-thang-6-773-1505937.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "21/10",
+          "title": "FPT tăng trưởng bất chấp sức ép AI, khối ngoại vẫn bán mạnh vì đâu?",
+          "url": "https://nguoiquansat.vn/fpt-tang-truong-bat-chap-suc-ep-ai-khoi-ngoai-van-ban-manh-vi-dau-323385.html"
+        }
+      ],
+      "body": "Nhà đầu tư Mỹ lo ngại chi phí hạ tầng AI quá lớn, đẩy S&P 500 và Nasdaq xuống đáy 5 tuần. Lãnh đạo VietinBank dự báo AI có thể thực hiện một nửa giao dịch ngân hàng trong 3 năm tới, cho thấy tiềm năng ứng dụng lớn. Tại Việt Nam, FPT bị khối ngoại bán ròng hơn 670 tỷ đồng từ đầu tháng 10, dù lãi 9 tháng tăng 17% và mảng AI tăng 55%.",
+      "heat": 3,
+      "name": "Công nghệ – AI",
+      "reason": "Tuần tới Alphabet, Microsoft (28/10) và Amazon (29/10) công bố kết quả kinh doanh. Kế hoạch chi cho AI của họ sẽ quyết định tâm lý của nhóm công nghệ, sau tuần Nasdaq giảm mạnh nhất kể từ tháng 6.",
+      "source": "BNews",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -0.7,
+          "code": "FPT"
+        }
+      ],
+      "url": "https://bnews.vn/noi-lo-chi-phi-ai-phu-bong-len-pho-wall-truoc-tuan-le-quan-tro-ng/441743.html"
+    }
+  ],
+  "sectorsSummary": "Cuối tuần không có giao dịch. 5 ngành được chọn theo tin tức và báo cáo quý 3 mới công bố: vàng và dầu biến động mạnh, thép và nhiệt điện báo lãi đổi chiều, công nghệ chờ Big Tech Mỹ công bố kết quả kinh doanh.",
+  "securities": {
+    "analysis": "Tín hiệu trong và ngoài nước đang trái chiều. Trong nước, kỹ thuật cải thiện: VN30 tăng 4 phiên với khối lượng trên trung bình, và khối ngoại mua ròng trên thị trường phái sinh. Ngoài nước, Phố Wall giảm phiên cuối tuần, giá dầu ở mức gần 117 USD và vàng bị bán tháo. Đây là những dấu hiệu nhà đầu tư toàn cầu đang chuẩn bị cho kịch bản lãi suất cao kéo dài.\nKịch bản hợp lý là VN-Index rung lắc trong vùng 1.740–1.800 điểm trong hai phiên đầu tuần, chờ Fed (công bố rạng sáng 29/10 giờ Việt Nam). Dòng tiền nhiều khả năng xoay sang nhóm có kết quả quý 3 vừa công bố tích cực, như thép, nhiệt điện và các doanh nghiệp chuẩn bị chia cổ tức. Cổ phiếu công ty chứng khoán chịu áp lực từ kết quả kinh doanh xấu. Riêng cổ phiếu KOS, sau chuỗi 25 phiên giảm sàn, có thể tiếp tục tạo rủi ro cho các công ty đang nắm giữ.",
+    "articles": [
+      {
+        "source": "Vietstock",
+        "time": "24/10",
+        "title": "Chứng khoán phái sinh tuần 26-30/10/2026: Phe Long lên ngôi",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-phai-sinh-tuan-26-30102026-phe-long-len-ngoi-1636-1506208.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "25/10",
+        "title": "Cập nhật BCTC quý 3/2026 ngày 25/10: Chứng khoán lao dốc, ngành thép đổi chiều, nhiệt điện bứt tốc",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+      },
+      {
+        "source": "CafeF",
+        "summary": "APG lỗ khoảng 108 tỷ đồng quý 3.",
+        "time": "24/10 tối",
+        "title": "Dồn toàn bộ danh mục 227 tỷ mua cổ phiếu KOS vừa giảm sàn 25 phiên liên tiếp, công ty chứng khoán báo lỗ trăm tỷ",
+        "url": "https://cafef.vn/don-toan-bo-danh-muc-227-ty-mua-co-phieu-kos-vua-giam-san-25-phien-lien-tiep-cong-ty-chung-khoan-bao-lo-tram-ty-18826102422125443.chn"
+      },
+      {
+        "source": "Nông nghiệp & Môi trường",
+        "time": "24–25/10",
+        "title": "Công ty chứng khoán 43.799 tỷ của ACB đầu tư cổ phiếu lỗ 221 tỷ",
+        "url": "https://nongnghiepmoitruong.vn/cong-ty-chung-khoan-43799-ty-cua-acb-dau-tu-co-phieu-lo-221-ty-d837904.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "24–25/10",
+        "title": "Lịch chốt quyền cổ tức tuần 26-30/10: MSR, ANV, NT2 đồng loạt thanh toán",
+        "url": "https://nguoiquansat.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-msr-anv-nt2-dong-loat-thanh-toan-323916.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "24/10",
+        "title": "Lịch chốt quyền cổ tức tuần 26-30/10: Một ngân hàng \"lăn chốt\" cổ tức 50%",
+        "url": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-mot-ngan-hang-lan-chot-co-tuc-50-188261024151510042.chn"
+      },
+      {
+        "source": "BNews (qua Báo Mới)",
+        "time": "24–25/10",
+        "title": "Lịch chốt quyền trả cổ tức bằng tiền tuần tới (từ 26-30/10): GHC trả cổ tức cao nhất 20%",
+        "url": "https://baomoi.com/lich-chot-quyen-tra-co-tuc-bang-tien-tuan-toi-tu-26-30-10-ghc-tra-co-tuc-cao-nhat-20-c56342714.epi"
+      },
+      {
+        "source": "Market Times",
+        "time": "23–24/10",
+        "title": "Cập nhật số liệu CTCK quý 3/2026: Loạt tên tuổi lớn báo lãi \"đi lùi\", xuất hiện hai khoản lỗ hàng trăm tỷ của ngành chứng khoán",
+        "url": "https://markettimes.vn/cap-nhat-so-lieu-ctck-quy-3-2026-loat-ten-tuoi-lon-bao-lai-di-lui-xuat-hien-hai-khoan-lo-hang-tram-ty-cua-nganh-chung-khoan-133311.html"
+      },
+      {
+        "source": "Newsquawk",
+        "time": "23/10",
+        "title": "Week in Focus 26-30th October 2026: FOMC, BoC, RBNZ, ECB, BoJ Policy Decisions, US PCE",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+      },
+      {
+        "source": "Dân Việt",
+        "time": "24/10",
+        "title": "Chứng khoán tuần qua: VN-Index tăng 68 điểm sau chuỗi giảm, dòng tiền tập trung ở nhóm trụ",
+        "url": "https://danviet.vn/chung-khoan-tuan-qua-vn-index-tang-68-diem-sau-chuoi-giam-dong-tien-tap-trung-o-nhom-tru-d1469561.html"
+      },
+      {
+        "source": "BNews",
+        "time": "24/10",
+        "title": "Nỗi lo chi phí AI phủ bóng lên Phố Wall trước tuần lễ quan trọng",
+        "url": "https://bnews.vn/noi-lo-chi-phi-ai-phu-bong-len-pho-wall-truoc-tuan-le-quan-tro-ng/441743.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "24/10",
+        "title": "Nhìn lại dự báo chứng khoán tuần qua",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhin-lai-du-bao-chung-khoan-tuan-qua-post400128.html"
+      },
+      {
+        "source": "Việt Báo",
+        "time": "23/10",
+        "title": "Lợi nhuận ngành chứng khoán quý 3/2026: Hai nửa buồn vui",
+        "url": "https://vietbao.vn/loi-nhuan-nganh-chung-khoan-quy-32026-hai-nua-buon-vui-612616.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 4,
+        "changeText": "+4% tuần",
+        "label": "VN-Index (đóng tuần 23/10)",
+        "value": "1.774,15"
+      },
+      {
+        "label": "VN30 (đóng tuần)",
+        "note": "Tăng 4 phiên liên tiếp",
+        "value": "1.907,09"
+      },
+      {
+        "change": 2.96,
+        "changeText": "+54,9 điểm tuần",
+        "label": "Hợp đồng tương lai VN30 (I1GB000)",
+        "note": "Basis +2,91 điểm",
+        "value": "1.910"
+      },
+      {
+        "change": 1,
+        "changeText": "Mua ròng cả tuần",
+        "label": "Khối ngoại trên thị trường phái sinh",
+        "unit": "hợp đồng",
+        "value": "+1.928"
+      },
+      {
+        "label": "GDP quý 3 Mỹ (dự báo, công bố 29/10)",
+        "note": "Quý trước 2,2%",
+        "value": "≈3,0%"
+      },
+      {
+        "label": "PCE tháng 9 Mỹ (dự báo)",
+        "note": "PCE lõi 3,1%",
+        "unit": "so với cùng kỳ",
+        "value": "3,6%"
+      }
+    ],
+    "news": [
+      {
+        "body": "Hợp đồng tương lai VN30 tăng 54,9 điểm trong tuần, đóng cửa ở 1.910 điểm. Khối lượng giao dịch phái sinh tăng 11%, khối ngoại mua ròng 1.928 hợp đồng. Chỉ báo MACD và Stochastic của VN30 cùng cắt lên.",
+        "impact": "tich-cuc",
+        "source": "Vietstock",
+        "title": "Thị trường phái sinh: bên mua chiếm ưu thế, triển vọng ngắn hạn tích cực",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-phai-sinh-tuan-26-30102026-phe-long-len-ngoi-1636-1506208.htm"
+      },
+      {
+        "body": "Phần lớn công ty chứng khoán báo lãi quý 3 giảm hoặc lỗ nặng hơn. APG lỗ sau thuế khoảng 108 tỷ đồng do đánh giá lại tài sản, tập trung vào cổ phiếu KOS (25 phiên giảm sàn liên tiếp). ACBS lãi giảm 58,5% và đang tạm lỗ 221 tỷ đồng ở danh mục cổ phiếu.",
+        "impact": "tieu-cuc",
+        "source": "CafeF",
+        "title": "Công ty chứng khoán báo lãi quý 3 giảm mạnh, APG lỗ khoảng 108 tỷ",
+        "url": "https://cafef.vn/don-toan-bo-danh-muc-227-ty-mua-co-phieu-kos-vua-giam-san-25-phien-lien-tiep-cong-ty-chung-khoan-bao-lo-tram-ty-18826102422125443.chn"
+      },
+      {
+        "body": "Cả 7 doanh nghiệp thép đã công bố đều có lợi nhuận cải thiện. Nhiệt điện Hải Phòng và Phả Lại chuyển từ lỗ sang lãi. Thủy điện phần lớn giảm, dệt may và thực phẩm – đồ uống tích cực.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Mùa báo cáo ngày 25/10: thép và nhiệt điện đổi chiều, chứng khoán lao dốc",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-25-10-chung-khoan-lao-doc-nganh-thep-doi-chieu-nhiet-dien-but-toc-188261025000259147.chn"
+      },
+      {
+        "body": "Techcombank chia cổ tức bằng cổ phiếu 50%. MSR tạm ứng cổ tức tiền mặt 20% (khoảng 2.200 tỷ đồng), ngày không hưởng quyền 30/10. NT2 chia cổ tức tiền mặt 10%, ngày không hưởng quyền 29/10. ANV chia tổng cộng 10%.",
+        "impact": "trung-tinh",
+        "source": "Người Quan Sát",
+        "title": "Lịch chốt quyền cổ tức tuần 26–30/10: TCB, MSR, NT2, ANV",
+        "url": "https://nguoiquansat.vn/lich-chot-quyen-co-tuc-tuan-26-30-10-msr-anv-nt2-dong-loat-thanh-toan-323916.html"
+      },
+      {
+        "body": "Ngày 28/10: Fed (dự kiến giữ lãi suất), BoC và RBNZ (dự kiến tăng). Ngày 29/10: ECB, GDP và PCE Mỹ. Ngày 30/10: BoJ. Alphabet và Microsoft công bố kết quả ngày 28/10, Amazon ngày 29/10.",
+        "impact": "trung-tinh",
+        "source": "Newsquawk",
+        "title": "Tuần tới các ngân hàng trung ương là tâm điểm",
+        "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+      }
+    ],
+    "summary": "Tuần 26–30/10 là tuần có nhiều sự kiện lớn: Fed, ECB và BoJ họp chính sách; Mỹ công bố GDP và chỉ số PCE; các tập đoàn công nghệ lớn công bố kết quả kinh doanh; trong nước tiếp tục mùa báo cáo quý 3. VN-Index bước vào tuần mới ở 1.774 điểm, sát vùng kháng cự. Thị trường phái sinh cho tín hiệu lạc quan ngắn hạn: khối ngoại mua ròng 1.928 hợp đồng trong tuần qua.",
+    "watch": [
+      "Phiên 26/10: phản ứng với Phố Wall giảm và giá dầu cao",
+      "Rạng sáng 29/10 (giờ Việt Nam): Fed công bố quyết định lãi suất",
+      "Kết quả quý 3 của các ngân hàng lớn và Hòa Phát",
+      "Ngày không hưởng quyền: NT2 (29/10), MSR (30/10); TCB chốt quyền ngày 30/10",
+      "Vùng 1.780–1.800 điểm của VN-Index"
+    ]
+  },
+  "session": "sang",
+  "updatedAt": "2026-10-25T07:30:00+07:00"
+}

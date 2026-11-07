@@ -1,0 +1,887 @@
+{
+  "banking": {
+    "analysis": "Phần giải trình của Thống đốc cho thấy tín dụng vẫn tăng nhanh (12,27% sau 9 tháng) nhưng dòng vốn có định hướng: tín dụng bất động sản chậm hơn mức chung, phần lớn dư nợ đi vào sản xuất. Lãi suất huy động bình quân đã tăng 1,42 (lãi cho vay chỉ +0,99), tức biên lãi của ngân hàng đang bị thu hẹp. Đây là lý do NHNN liên tục yêu cầu giảm lãi suất thực chất, và 29 ngân hàng đã hạ lãi suất huy động trong tháng 10. Thanh khoản hệ thống dịu lại khi NHNN bơm ròng hơn 28.000 tỷ đồng qua thị trường mở và lãi suất qua đêm lùi về 3,74%.\nMùa KQKD quý III gần khép lại với bức tranh hai cực: nhóm quốc doanh và ngân hàng lớn tư nhân (VietinBank, BIDV, MB, SHB) tăng 30–57%, trong khi Vietcombank đi ngang vì trích lập gấp 8 lần và Eximbank giảm sâu. Nợ xấu tăng ở nhiều ngân hàng là điểm cần theo dõi. Về tỷ giá, giá USD ngân hàng thấp nhất 18 tháng nhưng rủi ro chưa hết: DXY quanh 101,7–101,9 điểm, thị trường kỳ vọng Fed tăng lãi suất tháng 12 và bầu cử giữa kỳ Mỹ (3/11) có thể làm USD biến động mạnh.",
+    "articles": [
+      {
+        "source": "Người Quan Sát",
+        "summary": "Xếp hạng lợi nhuận quý III: VietinBank 13.689 tỷ, Vietcombank 11.218 tỷ, VPBank 11.031 tỷ.",
+        "time": "31/10 tối",
+        "title": "VietinBank vượt Vietcombank, trở thành 'vua lợi nhuận' ngân hàng quý III/2026",
+        "url": "https://nguoiquansat.vn/vietinbank-vuot-vietcombank-tro-thanh-vua-loi-nhuan-ngan-hang-quy-iii-2026-325380.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "summary": "Tín dụng, vốn cho SME và điều hành lãi suất.",
+        "time": "31/10 tối",
+        "title": "Thống đốc Phạm Đức Ấn báo cáo 3 'vấn đề nóng' trước Quốc hội",
+        "url": "https://nguoiquansat.vn/thong-doc-pham-duc-an-bao-cao-3-van-de-nong-truoc-quoc-hoi-325367.html"
+      },
+      {
+        "source": "VnExpress",
+        "summary": "Tiền gửi dân cư 11,43 triệu tỷ đồng; 80% là tiền gửi ngắn hạn.",
+        "time": "31/10",
+        "title": "Thống đốc: Người dân gửi tiền nhiều vì tin tưởng hệ thống ngân hàng",
+        "url": "https://vnexpress.net/thong-doc-nguoi-dan-gui-tien-nhieu-vi-tin-tuong-he-thong-ngan-hang-5139105.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "31/10",
+        "title": "Thống đốc NHNN: Doanh nghiệp muốn vay vốn phải minh bạch sổ sách",
+        "url": "https://vietstock.vn/2026/10/thong-doc-nhnn-doanh-nghiep-muon-vay-von-phai-minh-bach-so-sach-757-1509840.htm"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "31/10",
+        "title": "Thống đốc Phạm Đức Ấn làm rõ các vấn đề đại biểu Quốc hội quan tâm về lĩnh vực ngân hàng",
+        "url": "https://thitruongtaichinhtiente.vn/thong-doc-pham-duc-an-lam-ro-cac-van-de-dai-bieu-quoc-hoi-quan-tam-ve-linh-vuc-ngan-hang-86717.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "31/10",
+        "title": "Huy động nguồn lực cho tăng trưởng, giữ vững mục tiêu kiểm soát lạm phát",
+        "url": "https://thoibaonganhang.vn/huy-dong-nguon-luc-cho-tang-truong-giu-vung-muc-tieu-kiem-soat-lam-phat-189969.html"
+      },
+      {
+        "source": "CafeF",
+        "summary": "SHB +57%, MB +42,5%, Eximbank −67% trong quý III.",
+        "time": "31/10",
+        "title": "Cập nhật lợi nhuận quý 3/2026 của 27 ngân hàng sáng 31/10: Vietcombank, VietinBank, MB, BIDV, HDBank, Eximbank,...",
+        "url": "https://cafef.vn/cap-nhat-loi-nhuan-quy-3-2026-cua-27-ngan-hang-sang-31-10-vietcombank-vietinbank-mb-bidv-hdbank-eximbank-188261031075812515.chn"
+      },
+      {
+        "source": "VnExpress",
+        "time": "31/10",
+        "title": "HDBank lãi trước thuế hơn 18.300 tỷ đồng sau 9 tháng",
+        "url": "https://vnexpress.net/hdbank-lai-truoc-thue-hon-18-300-ty-dong-sau-9-thang-5139142.html"
+      },
+      {
+        "source": "Znews",
+        "time": "31/10",
+        "title": "Vietcombank tiếp tục lãi cao nhất ngành ngân hàng",
+        "url": "https://znews.vn/vietcombank-tiep-tuc-lai-cao-nhat-nganh-ngan-hang-post1693271.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "31/10",
+        "title": "Vietcombank lãi hơn 40.400 tỷ sau 9 tháng, dự phòng quý III tăng gần 8 lần",
+        "url": "https://nguoiquansat.vn/vietcombank-lai-hon-40-400-ty-sau-9-thang-du-phong-quy-iii-tang-gan-8-lan-325370.html"
+      },
+      {
+        "source": "VietnamNet",
+        "summary": "Mức cao nhất trực tuyến còn 7,4%/năm.",
+        "time": "31/10 10:48",
+        "title": "29 ngân hàng giảm lãi suất huy động, có nơi giảm tới 0,7 điểm phần trăm",
+        "url": "https://vietnamnet.vn/29-ngan-hang-giam-lai-suat-huy-dong-co-noi-giam-toi-0-7-diem-phan-tram-2570154.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "31/10",
+        "title": "Lãi suất ngày 31/10 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
+        "url": "https://cafef.vn/lai-suat-ngay-31-10-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261031150343628.chn"
+      },
+      {
+        "source": "Markettimes",
+        "time": "cuối tuần 31/10–1/11",
+        "title": "Tài chính tuần qua: Thêm nhiều ngân hàng giảm lãi suất, NCB bất ngờ báo lãi tăng gấp 2,4 lần",
+        "url": "https://markettimes.vn/tai-chinh-tuan-qua-them-nhieu-ngan-hang-giam-lai-suat-ncb-bat-ngo-bao-lai-tang-gap-2-4-lan-133732.html"
+      },
+      {
+        "source": "Dân Trí",
+        "summary": "TVS: VND có thể mất giá 1–1,5% trong quý IV.",
+        "time": "31/10 14:03",
+        "title": "Giá USD ngân hàng xuống thấp nhất 18 tháng, chuyên gia nêu dự báo mới nhất",
+        "url": "https://dantri.com.vn/kinh-doanh/gia-usd-ngan-hang-xuong-thap-nhat-18-thang-chuyen-gia-neu-du-bao-moi-nhat-20261031140323541.htm"
+      },
+      {
+        "source": "Quân đội Nhân dân",
+        "time": "1/11",
+        "title": "Tỷ giá USD hôm nay (1-11): Đồng đô la Mỹ (USD) tăng nhẹ",
+        "url": "https://www.qdnd.vn/kinh-te/tin-tuc/ty-gia-usd-hom-nay-1-11-dong-usd-tang-nhe-1062782"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "summary": "OMO bơm ròng 28.161,7 tỷ; lãi qua đêm về 3,74%.",
+        "time": "31/10 07:33",
+        "title": "Thị trường tiền tệ tuần 26 - 30/10: \"Đảo chiều\" bơm ròng hơn 28.000 tỷ đồng, USD biến động trái chiều sau tuần họp lãi suất",
+        "url": "https://thoibaotaichinhvietnam.vn/thi-truong-tien-te-tuan-26-30-10-dao-chieu-bom-rong-hon-28-000-ty-dong-usd-bien-dong-trai-chieu-sau-tuan-hop-lai-suat-206193.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "31/10",
+        "title": "Tỷ giá USD hôm nay 31/10: USD phân hóa giữa tuần 4 trong 5 ngân hàng trung ương lớn giữ nguyên lãi suất",
+        "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-31-10-usd-phan-hoa-giua-tuan-4-trong-5-ngan-hang-trung-uong-lon-giu-nguyen-lai-suat-206194.html"
+      },
+      {
+        "source": "Kinh tế Chứng khoán",
+        "time": "31/10",
+        "title": "Tỷ giá nhân dân tệ hôm nay 31/10: Biến động trái chiều tại phần lớn ngân hàng",
+        "url": "https://kinhtechungkhoan.vn/ty-gia-nhan-dan-te-hom-nay-31-10-bien-dong-trai-chieu-tai-phan-lon-ngan-hang-1060037.html"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "summary": "SJC còn 136–139 triệu đồng/lượng.",
+        "time": "31/10 19:25",
+        "title": "Giá vàng trong nước đã giảm 53 triệu đồng/lượng từ mức đỉnh của năm nay",
+        "url": "https://tuoitre.vn/gia-vang-trong-nuoc-da-giam-53-trieu-dong-luong-tu-muc-dinh-cua-nam-nay-10026103118450759.htm"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 10,
+        "changeText": "+10 đồng so với tuần trước",
+        "label": "Tỷ giá trung tâm",
+        "note": "Mức áp dụng cuối tuần",
+        "unit": "đồng/USD",
+        "value": "25.637"
+      },
+      {
+        "change": -60,
+        "changeText": "−60 đồng so với đầu tuần",
+        "label": "USD Vietcombank (bán ra)",
+        "note": "Mua vào 25.610; thấp nhất từ tháng 4/2025",
+        "unit": "đồng",
+        "value": "25.990"
+      },
+      {
+        "label": "Tăng trưởng tín dụng 9 tháng",
+        "note": "Tín dụng BĐS +9,84%; dư nợ hơn 20,8 triệu tỷ đồng",
+        "unit": "%",
+        "value": "12,27"
+      },
+      {
+        "changeText": "Bơm ròng, đảo chiều từ hút ròng ~9.900 tỷ",
+        "label": "OMO tuần 26–30/10",
+        "note": "Lãi suất qua đêm liên ngân hàng về 3,74% ngày 29/10",
+        "unit": "tỷ đồng",
+        "value": "+28.162"
+      },
+      {
+        "change": -2.4,
+        "changeText": "−2,4 triệu so với sáng 31/10",
+        "label": "Vàng miếng SJC (bán ra)",
+        "note": "Mua vào 136; thấp hơn đỉnh năm 53 triệu",
+        "unit": "triệu đồng/lượng",
+        "value": "139"
+      },
+      {
+        "label": "Vàng thế giới",
+        "note": "Thấp nhất khoảng 1 năm; quy đổi ~121,3 triệu đồng/lượng",
+        "unit": "USD/ounce",
+        "value": "3.875,5"
+      }
+    ],
+    "news": [
+      {
+        "body": "Trả lời chất vấn tại Quốc hội ngày 31/10, Thống đốc cho biết sau 9 tháng tín dụng tăng 12,27%, dư nợ hơn 20,8 triệu tỷ đồng, 77,4% vào sản xuất kinh doanh; tín dụng bất động sản tăng 9,84%. Tiền gửi dân cư cuối tháng 8 đạt khoảng 11,43 triệu tỷ đồng (+10,6% từ đầu năm). Ông đề nghị doanh nghiệp nhỏ và vừa không dùng hai bộ sổ sách khác nhau cho thuế và cho ngân hàng.",
+        "impact": "trung-tinh",
+        "source": "VnExpress",
+        "title": "Thống đốc: tín dụng tăng 12,27%, tín dụng bất động sản thấp hơn mức chung",
+        "url": "https://vnexpress.net/thong-doc-nguoi-dan-gui-tien-nhieu-vi-tin-tuong-he-thong-ngan-hang-5139105.html"
+      },
+      {
+        "body": "Quý III VietinBank lãi trước thuế 13.689 tỷ đồng (+29%), cao hơn Vietcombank 2.471 tỷ. Xếp sau là VPBank 11.031 tỷ (+20%), BIDV 10.579 tỷ (+39%), Techcombank 10.375 tỷ và MB 10.330 tỷ (+42,5%). Tính 9 tháng, Vietcombank vẫn dẫn đầu với 40.440 tỷ, hơn VietinBank khoảng 883 tỷ.",
+        "impact": "tich-cuc",
+        "source": "Người Quan Sát",
+        "title": "VietinBank vượt Vietcombank, trở thành 'vua lợi nhuận' ngân hàng quý III/2026",
+        "url": "https://nguoiquansat.vn/vietinbank-vuot-vietcombank-tro-thanh-vua-loi-nhuan-ngan-hang-quy-iii-2026-325380.html"
+      },
+      {
+        "body": "SHB lãi trước thuế quý III 5.166 tỷ đồng (+57%), HDBank 5.176 tỷ (+9%), ACB 5.879 tỷ (+9%). Ngược lại Eximbank chỉ lãi 186 tỷ, giảm gần 67%, lũy kế 9 tháng giảm 58%. Mức phân hóa cho thấy chi phí dự phòng và chất lượng tài sản đang là yếu tố quyết định.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Lợi nhuận quý III phân hóa: SHB +57%, Eximbank −67%",
+        "url": "https://cafef.vn/cap-nhat-loi-nhuan-quy-3-2026-cua-27-ngan-hang-sang-31-10-vietcombank-vietinbank-mb-bidv-hdbank-eximbank-188261031075812515.chn"
+      },
+      {
+        "body": "Trong tháng 10 có 29 ngân hàng giảm lãi suất ít nhất một kỳ hạn, kể cả nhóm Big4 (giảm tại quầy). Phần lớn giảm 0,5 điểm %, mạnh nhất là SeABank (tới 0,7 điểm) và NCB (0,6 điểm). Mức cao nhất trực tuyến còn 7,4%/năm (VPBank, 18 tháng).",
+        "impact": "tich-cuc",
+        "source": "VietnamNet",
+        "title": "29 ngân hàng giảm lãi suất huy động trong tháng 10",
+        "url": "https://vietnamnet.vn/29-ngan-hang-giam-lai-suat-huy-dong-co-noi-giam-toi-0-7-diem-phan-tram-2570154.html"
+      },
+      {
+        "body": "Vietcombank niêm yết 25.610–25.990 đồng/USD, giảm 60 đồng so với đầu tuần và thấp hơn đầu năm 387 đồng (−1,46%), dù tỷ giá trung tâm tăng 10 đồng. TVS dự báo VND có thể mất giá 1–1,5% trong quý IV nếu Fed tăng lãi suất 25 điểm cơ bản vào tháng 12.",
+        "impact": "trung-tinh",
+        "source": "Dân Trí",
+        "title": "Giá USD ngân hàng xuống thấp nhất 18 tháng",
+        "url": "https://dantri.com.vn/kinh-doanh/gia-usd-ngan-hang-xuong-thap-nhat-18-thang-chuyen-gia-neu-du-bao-moi-nhat-20261031140323541.htm"
+      }
+    ],
+    "summary": "Cuối tuần không có giao dịch. Tâm điểm là phần giải trình của Thống đốc Phạm Đức Ấn trước Quốc hội ngày 31/10: tín dụng 9 tháng tăng 12,27%, tín dụng bất động sản chỉ tăng 9,84%, lãi suất huy động bình quân tăng nhanh hơn lãi suất cho vay. Lợi nhuận quý III phân hóa mạnh: VietinBank vượt Vietcombank thành ngân hàng lãi lớn nhất quý (13.689 tỷ đồng), trong khi Eximbank giảm 67%. Giá USD tại Vietcombank giữ 25.990 đồng, thấp nhất khoảng 18 tháng.",
+    "watch": [
+      "Phản ứng của cổ phiếu ngân hàng phiên 2/11 sau KQKD quý III và phiên bán mạnh 30/10",
+      "Tỷ giá USD/VND và DXY quanh bầu cử giữa kỳ Mỹ (3/11)",
+      "Đà giảm lãi suất huy động có lan rộng trong tháng 11",
+      "Nợ xấu và trích lập dự phòng trong BCTC quý III các ngân hàng còn lại",
+      "Lượng bơm/hút ròng của NHNN qua kênh thị trường mở đầu tháng 11"
+    ]
+  },
+  "date": "2026-11-01",
+  "key": "2026-11-01-sang",
+  "label": "Sáng 1/11/2026 (Chủ nhật)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "summary": "E10 còn 24.150 đồng/lít, E5 còn 24.220 đồng/lít; diesel giữ nguyên.",
+          "time": "31/10 23:37",
+          "title": "Giá xăng giảm gần 1.600 đồng một lít",
+          "url": "https://vnexpress.net/gia-xang-giam-gan-1-600-dong-mot-lit-5139243.html"
+        },
+        {
+          "source": "VnExpress",
+          "summary": "Áp dụng 1/11/2026–31/3/2027.",
+          "time": "31/10",
+          "title": "Thuế tiêu thụ đặc biệt với xăng về 0%",
+          "url": "https://vnexpress.net/thue-tieu-thu-dac-biet-voi-xang-ve-0-tu-ngay-mai-5139239.html"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "31/10 21:00",
+          "title": "Giá xăng giảm gần 2.000 đồng/lít từ 0h ngày 1/11",
+          "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-gan-2000-donglit-tu-0h-ngay-111-20261031210006111.htm"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "31/10 tối",
+          "title": "Giảm thuế tiêu thụ đặc biệt về 0%, đồng loạt giảm giá xăng từ 0h đêm nay",
+          "url": "https://tuoitre.vn/giam-thue-tieu-thu-dac-biet-ve-0-dong-loat-giam-gia-xang-tu-0h-dem-nay-100261031203216328.htm"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "31/10",
+          "title": "Thuế tiêu thụ đặc biệt về 0% từ 1.11, giá xăng có thể giảm bao nhiêu?",
+          "url": "https://thanhnien.vn/thue-tieu-thu-dac-biet-ve-0-tu-111-gia-xang-co-the-giam-bao-nhieu-1852610312309492.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "1/11",
+          "title": "Từ hôm nay, thuế tiêu thụ đặc biệt với xăng giảm về 0%",
+          "url": "https://znews.vn/tu-hom-nay-thue-tieu-thu-dac-biet-voi-xang-giam-ve-0-post1693369.html"
+        },
+        {
+          "source": "Znews",
+          "time": "1/11",
+          "title": "Giá xăng giảm trong đêm xuống còn 24.000 đồng/lít",
+          "url": "https://znews.vn/gia-xang-giam-trong-dem-xuong-con-24000-donglit-post1693372.html"
+        },
+        {
+          "source": "VietnamNet",
+          "time": "1/11",
+          "title": "Giá xăng đồng loạt giảm trong đêm, có loại giảm 1.804 đồng/lít",
+          "url": "https://vietnamnet.vn/gia-xang-dong-loat-giam-trong-dem-co-loai-giam-1-804-dong-lit-2570346.html"
+        },
+        {
+          "source": "VOV",
+          "time": "1/11",
+          "title": "Các mặt hàng xăng đều giảm từ 0 giờ ngày 1/11",
+          "url": "https://vov.vn/thi-truong/cac-mat-hang-xang-deu-giam-tu-0-gio-ngay-111-post1346304.vov"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10 tối",
+          "title": "Giảm thuế tiêu thụ đặc biệt với xăng về 0% từ 1/11",
+          "url": "https://cafef.vn/giam-thue-tieu-thu-dac-biet-voi-xang-ve-0-tu-1-11-188261031231611634.chn"
+        },
+        {
+          "source": "CafeF",
+          "summary": "BSR ~9.000 tỷ, Petrolimex >1.360 tỷ, PV OIL ~774 tỷ trong quý III.",
+          "time": "31/10 tối",
+          "title": "Doanh nghiệp xăng dầu lãi đậm",
+          "url": "https://cafef.vn/doanh-nghiep-xang-dau-lai-dam-188261031200216968.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "30/10 tối",
+          "title": "Nhà máy lọc dầu 3 tỷ USD của Việt Nam lần đầu tiên lãi ngay 1 tỷ USD chỉ sau 9 tháng, doanh thu xăng E10 tăng 1.900 lần",
+          "url": "https://cafef.vn/nha-may-loc-dau-3-ty-usd-cua-viet-nam-lan-dau-tien-lai-ngay-1-ty-usd-chi-sau-9-thang-doanh-thu-xang-e10-tang-1900-lan-188261030225946407.chn"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "summary": "Brent 117,64 USD (+2,4%), WTI 104,12 USD; tháng 10 Brent +13,6%.",
+          "time": "31/10",
+          "title": "Giá dầu thế giới ngày 31/10 tăng mạnh, lên mức cao nhất 6 tháng",
+          "url": "https://thoibaotaichinhvietnam.vn/gia-dau-the-gioi-ngay-31-10-tang-manh-len-muc-cao-nhat-6-thang-206206.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "31/10",
+          "title": "Giá dầu tăng hơn 2% lên đỉnh 6 tháng",
+          "url": "https://vietstock.vn/2026/10/gia-dau-tang-hon-2-len-dinh-6-thang-34-1509744.htm"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "time": "1/11",
+          "title": "Giá xăng dầu hôm nay 1/11: Dầu thế giới neo cao, chờ tín hiệu mới đầu tuần",
+          "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-111-dau-the-gioi-neo-cao-cho-tin-hieu-moi-dau-tuan-post913271.html"
+        }
+      ],
+      "body": "Theo Nghị quyết 45, thuế TTĐB với xăng giảm từ 7–8% về 0% trong giai đoạn 1/11/2026–31/3/2027. Từ 0h ngày 1/11, xăng E10 RON95 giảm 1.580 đồng còn 24.150 đồng/lít, E5 RON92 giảm 1.800 đồng còn 24.220 đồng/lít; dầu diesel giữ 30.240 đồng. Doanh nghiệp xăng dầu lãi lớn quý III: BSR lãi sau thuế khoảng 9.000 tỷ (gần gấp 10), Petrolimex hơn 1.360 tỷ (+93%), PV OIL khoảng 774 tỷ (gấp 5,6 lần), dù dòng tiền kinh doanh của Petrolimex và PV OIL vẫn âm.",
+      "heat": 5,
+      "name": "Xăng dầu – lọc hóa dầu",
+      "reason": "Thuế tiêu thụ đặc biệt với xăng về 0% từ 1/11, giá xăng giảm 1.580–1.800 đồng/lít; trong khi Brent lên 117,64 USD, cao nhất 6 tháng.",
+      "source": "VnExpress",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 2.6,
+          "code": "GAS"
+        },
+        {
+          "change": 1.6,
+          "code": "OIL"
+        }
+      ],
+      "url": "https://vnexpress.net/gia-xang-giam-gan-1-600-dong-mot-lit-5139243.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "VOV",
+          "summary": "SJC 136–139 triệu; vàng thế giới 3.875,5 USD/ounce.",
+          "time": "1/11",
+          "title": "Giá vàng hôm nay 1/11: Vàng SJC đi ngang, nhà đầu tư chờ đợi tín hiệu mới",
+          "url": "https://vov.vn/thi-truong/gia-vang/gia-vang-hom-nay-111-vang-sjc-di-ngang-nha-dau-tu-cho-doi-tin-hieu-moi-post1346254.vov"
+        },
+        {
+          "source": "Báo Quốc tế",
+          "time": "1/11",
+          "title": "Giá vàng hôm nay 1/11/2026 lao dốc dữ dội, giảm về mức thấp nhất trong năm, thị trường tiêu thụ hàng đầu thế giới bất ngờ ngừng mua",
+          "url": "https://baoquocte.vn/gia-vang-hom-nay-1-11-2026-lao-doc-du-doi-giam-ve-muc-thap-nhat-trong-nam-thi-truong-tieu-thu-hang-dau-the-gioi-bat-ngo-ngung-mua-463045.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "summary": "Từ đỉnh 192 triệu xuống 139 triệu đồng/lượng.",
+          "time": "31/10 19:25",
+          "title": "Giá vàng trong nước đã giảm 53 triệu đồng/lượng từ mức đỉnh của năm nay",
+          "url": "https://tuoitre.vn/gia-vang-trong-nuoc-da-giam-53-trieu-dong-luong-tu-muc-dinh-cua-nam-nay-10026103118450759.htm"
+        },
+        {
+          "source": "VnExpress",
+          "time": "31/10",
+          "title": "Giá vàng mới nhất hôm nay ngày 31/10: Giá vàng miếng giảm hơn 2 triệu đồng",
+          "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-31-10-5139058.html"
+        },
+        {
+          "source": "VnExpress",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay ngày 31/10: Giá vàng thế giới lao dốc, xuống thấp nhất 1 năm",
+          "url": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-mot-nam-5139023.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10",
+          "title": "Giá vàng thế giới 'lao dốc' mạnh nhất 1 năm qua",
+          "url": "https://cafef.vn/gia-vang-the-gioi-lao-doc-manh-nhat-1-nam-qua-188261031094257216.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10",
+          "title": "Vàng lao dốc, nhà đầu tư lỗ hàng chục triệu đồng mỗi lượng",
+          "url": "https://cafef.vn/vang-lao-doc-nha-dau-tu-lo-hang-chuc-trieu-dong-moi-luong-188261031112130817.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10",
+          "title": "Khi dòng tiền rời xa kim loại quý",
+          "url": "https://cafef.vn/khi-dong-tien-roi-xa-kim-loai-quy-188261031170715283.chn"
+        },
+        {
+          "source": "VnEconomy",
+          "time": "31/10",
+          "title": "Giá vàng SJC giảm sâu, người mua thiệt hại tới 12 triệu đồng/lượng",
+          "url": "https://vneconomy.vn/gia-vang-trong-nuoc-giam-khong-phanh-nguoi-mua-thiet-12-trieu-dongluong-trong-thang-10.htm"
+        },
+        {
+          "source": "VietnamNet",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10: Liên tục 'bốc hơi', vàng xuống thấp nhất 1 năm qua",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-31-10-lien-tuc-boc-hoi-vang-xuong-thap-nhat-1-nam-qua-2570064.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay (31/10): Lao dốc không phanh, chạm đáy trong 1 năm",
+          "url": "https://nguoiquansat.vn/gia-vang-hom-nay-31-10-lao-doc-khong-phanh-cham-day-trong-1-nam-325296.html"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31.10.2026: Lao dốc gần 3 triệu, rời xa ngưỡng 140 triệu đồng",
+          "url": "https://thanhnien.vn/gia-vang-hom-nay-31102026-lao-doc-gan-3-trieu-roi-xa-nguong-140-trieu-dong-185261031085218272.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "31/10",
+          "title": "Giá vàng, bạc rớt mạnh, về mức thấp nhất năm",
+          "url": "https://znews.vn/gia-vang-bac-rot-manh-ve-muc-thap-nhat-nam-post1693218.html"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "time": "31/10",
+          "title": "Ngày 31/10: Giá bạc nối đà giảm sâu",
+          "url": "https://thoibaotaichinhvietnam.vn/ngay-31-10-gia-bac-noi-da-giam-sau-206207.html"
+        }
+      ],
+      "body": "Vàng thế giới đóng tuần ở 3.875,5 USD/ounce sau khi số liệu GDP quý III và lạm phát PCE tháng 9 của Mỹ (3,6%) làm tăng khả năng Fed nâng lãi suất tháng 12; nhà đầu tư cũng bán vàng để bù lỗ cổ phiếu công nghệ. Trong nước, SJC niêm yết 136–139 triệu đồng/lượng, giảm khoảng 2,4 triệu so với sáng 31/10 nhưng vẫn cao hơn giá thế giới quy đổi khoảng 17,7 triệu. Standard Chartered coi 3.886 USD là hỗ trợ quan trọng; bạc cũng giảm sâu.",
+      "heat": 5,
+      "name": "Vàng – kim loại quý",
+      "reason": "Vàng thế giới xuống quanh 3.875 USD/ounce, thấp nhất 1 năm; vàng miếng SJC còn 139 triệu đồng/lượng, thấp hơn đỉnh năm 53 triệu.",
+      "source": "VOV",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -3.4,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://vov.vn/thi-truong/gia-vang/gia-vang-hom-nay-111-vang-sjc-di-ngang-nha-dau-tu-cho-doi-tin-hieu-moi-post1346254.vov"
+    },
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "time": "31/10",
+          "title": "Cổ phiếu Intel giảm mạnh nhất 50 năm",
+          "url": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10 tối",
+          "title": "Một cổ phiếu vừa trải qua phiên lao dốc tồi tệ nhất 50 năm, Chính phủ Mỹ chịu \"vạ lây\" mất 12 tỷ USD",
+          "url": "https://cafef.vn/mot-co-phieu-vua-trai-qua-phien-lao-doc-toi-te-nhat-50-nam-chinh-phu-my-chiu-va-lay-mat-12-ty-usd-188261031222429728.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "31/10",
+          "title": "Cổ phiếu Intel bốc hơi 30%, chính phủ Mỹ mất 12 tỷ USD trong một ngày",
+          "url": "https://nguoiquansat.vn/co-phieu-intel-boc-hoi-30-chinh-phu-my-mat-12-ty-usd-trong-mot-ngay-325348.html"
+        },
+        {
+          "source": "Znews",
+          "time": "31/10",
+          "title": "Ngày tồi tệ của cổ phiếu Intel",
+          "url": "https://znews.vn/ngay-toi-te-cua-co-phieu-intel-post1693221.html"
+        },
+        {
+          "source": "Znews",
+          "time": "31/10",
+          "title": "Hàng trăm tỷ USD bốc hơi, 'bong bóng' AI và bán dẫn lộ diện?",
+          "url": "https://znews.vn/hang-tram-ty-usd-boc-hoi-bong-bong-ai-va-ban-dan-lo-dien-post1693265.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "31/10",
+          "title": "Phố Wall rung chuyển: Cổ phiếu công nghệ bị bán tháo dữ dội vì nỗi lo lợi nhuận từ AI",
+          "url": "https://nguoiquansat.vn/pho-wall-rung-chuyen-co-phieu-cong-nghe-bi-ban-thao-du-doi-vi-noi-lo-loi-nhuan-tu-ai-325323.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "31/10",
+          "title": "Choáng: Một cổ phiếu công nghệ rơi 29% trong một phiên",
+          "url": "https://vietstock.vn/2026/10/choang-mot-co-phieu-cong-nghe-roi-29-trong-mot-phien-773-1509746.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "31/10",
+          "title": "Nhà đầu tư tháo chạy khỏi cổ phiếu công nghệ, Nasdaq giảm gần 3%, Dow Jones rơi gần 500 điểm",
+          "url": "https://vietstock.vn/2026/10/nha-dau-tu-thao-chay-khoi-co-phieu-cong-nghe-nasdaq-giam-gan-3-dow-jones-roi-gan-500-diem-773-1509743.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10",
+          "title": "Khối ngoại bán ròng gần 3.000 tỷ trong tuần cuối tháng 10, FPT bị \"xả\" mạnh nhất",
+          "url": "https://cafef.vn/khoi-ngoai-ban-rong-gan-3000-ty-trong-tuan-cuoi-thang-10-fpt-bi-xa-manh-nhat-188261031001137094.chn"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "30/10 tối",
+          "title": "Cổ phiếu gây chú ý tuần qua: KOS được 'giải cứu', FPT xuống thấp nhất 3 năm",
+          "url": "https://tuoitre.vn/co-phieu-gay-chu-y-tuan-qua-kos-duoc-giai-cuu-fpt-xuong-thap-nhat-3-nam-100261030223700739.htm"
+        }
+      ],
+      "body": "Phiên 30/10 Intel giảm gần 29%, mạnh nhất khoảng 50 năm, khiến chính phủ Mỹ (cổ đông của Intel) mất khoảng 12 tỷ USD giá trị; Nasdaq −2,86%. Nỗi lo chi tiêu khổng lồ cho AI không mang lại lợi nhuận tương xứng đang lan sang châu Á (Nikkei −2,1%, KOSPI −3,5% phiên 30/10). Trong nước, FPT là mã bị khối ngoại bán ròng mạnh nhất tuần cuối tháng 10 và thị giá xuống thấp nhất 3 năm.",
+      "heat": 4,
+      "name": "Công nghệ – bán dẫn (AI)",
+      "reason": "Intel mất gần 29% trong một phiên, Nasdaq có tháng tệ nhất hơn 1 năm; FPT bị khối ngoại bán mạnh nhất tuần và xuống thấp nhất 3 năm.",
+      "source": "VnExpress",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -2.5,
+          "code": "FPT"
+        }
+      ],
+      "url": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "summary": "SJS gấp 327 lần, KBC gấp 3, VGC gấp 5,2 lần.",
+          "time": "31/10 tối",
+          "title": "Lãi đột biến tại nhiều doanh nghiệp bất động sản",
+          "url": "https://cafef.vn/lai-dot-bien-tai-nhieu-doanh-nghiep-bat-dong-san-188261031194435036.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10 tối",
+          "title": "Chung cư giảm giá, người mua vẫn dè dặt",
+          "url": "https://cafef.vn/chung-cu-giam-gia-nguoi-mua-van-de-dat-188261031202149232.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10 tối",
+          "title": "Quy hoạch TP.HCM tầm nhìn 100 năm, hé lộ 10 vùng phát triển",
+          "url": "https://cafef.vn/quy-hoach-tphcm-tam-nhin-100-nam-he-lo-10-vung-phat-trien-188261031203913489.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "31/10",
+          "title": "Novaland lãi hơn 2.800 tỷ sau 9 tháng, dự án Aqua City chính thức mở bán trở lại vào hôm nay",
+          "url": "https://cafef.vn/novaland-lai-hon-2800-ty-sau-9-thang-du-an-aqua-city-chinh-thuc-mo-ban-tro-lai-vao-hom-nay-188261031062131507.chn"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "31/10",
+          "title": "Cổ phiếu bất động sản biến động trái chiều, Novaland gây chú ý",
+          "url": "https://dantri.com.vn/bat-dong-san/co-phieu-bat-dong-san-bien-dong-trai-chieu-novaland-gay-chu-y-20261031090114667.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "31/10 tối",
+          "title": "Hà Nội công bố ranh giới dự án công viên Safari Ba Vì rộng gần 300ha",
+          "url": "https://dantri.com.vn/bat-dong-san/ha-noi-cong-bo-ranh-gioi-du-an-cong-vien-safari-ba-vi-rong-gan-300ha-20261031204742311.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "31/10",
+          "title": "Vinhomes Green Paradise vào vòng bình chọn toàn cầu “7 Kỳ quan đô thị tương lai”",
+          "url": "https://dantri.com.vn/bat-dong-san/vinhomes-green-paradise-vao-vong-binh-chon-toan-cau-7-ky-quan-do-thi-tuong-lai-20261031153348580.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "30–31/10",
+          "title": "Novaland thoát lỗ, lãi hơn 1.100 tỷ quý III",
+          "url": "https://znews.vn/novaland-thoat-lo-lai-hon-1100-ty-quy-iii-post1693167.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "30–31/10",
+          "title": "Vinhomes lãi gấp gần 5 lần, vượt 25% mục tiêu cả năm",
+          "url": "https://vietstock.vn/2026/10/vinhomes-lai-gap-gan-5-lan-vuot-25-muc-tieu-ca-nam-737-1509763.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30–31/10",
+          "title": "Novaland (NVL): Cổ đông lớn bị bán giải chấp, mẹ Chủ tịch đăng ký bán cổ phiếu",
+          "url": "https://nguoiquansat.vn/novaland-nvl-co-dong-lon-bi-ban-giai-chap-me-chu-tich-dang-ky-ban-co-phieu-325273.html"
+        }
+      ],
+      "body": "SJ Group lãi sau thuế quý III hơn 1.012 tỷ đồng, gấp khoảng 327 lần cùng kỳ; Kinh Bắc (KBC) 937 tỷ (gấp 3); Viglacera 616 tỷ (gấp 5,2); Novaland hơn 1.102 tỷ và mở bán lại Aqua City. Vingroup lãi 9 tháng 43.700 tỷ, gấp gần 6 lần. Thống đốc cho biết tín dụng bất động sản 9 tháng chỉ tăng 9,84%, thấp hơn mức chung. Thị trường thứ cấp có dấu hiệu hạ nhiệt khi giá chung cư giảm nhưng người mua vẫn dè dặt; TP.HCM công bố định hướng quy hoạch tầm nhìn 100 năm với 10 vùng phát triển.",
+      "heat": 4,
+      "name": "Bất động sản",
+      "reason": "Mùa KQKD quý III cho thấy nhiều doanh nghiệp lãi đột biến (SJS gấp 327 lần, KBC gấp 3, Novaland lãi hơn 1.100 tỷ), trong khi giá chung cư bắt đầu giảm.",
+      "source": "CafeF",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 1.45,
+          "code": "VHM"
+        },
+        {
+          "change": 0,
+          "code": "VIC"
+        },
+        {
+          "change": 2.2,
+          "code": "DXG"
+        },
+        {
+          "change": -4.3,
+          "code": "NLG"
+        },
+        {
+          "change": -1.9,
+          "code": "KBC"
+        }
+      ],
+      "url": "https://cafef.vn/lai-dot-bien-tai-nhieu-doanh-nghiep-bat-dong-san-188261031194435036.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "summary": "Lợi nhuận hợp nhất quý III giảm 56% còn gần 320 tỷ.",
+          "time": "31/10",
+          "title": "Vietnam Airlines 'đội' thêm 4.360 tỷ đồng chi phí nhiên liệu",
+          "url": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "31/10",
+          "title": "Chi phí nhiên liệu tăng 61%, công ty mẹ Vietnam Airlines lỗ 284 tỉ đồng trong quý 3",
+          "url": "https://tuoitre.vn/chi-phi-nhien-lieu-tang-61-cong-ty-me-vietnam-airlines-lo-284-ti-dong-trong-quy-3-100261031144627745.htm"
+        },
+        {
+          "source": "VietTimes",
+          "time": "31/10",
+          "title": "Vietnam Airlines lỗ luỹ kế hơn 23.000 tỷ đồng, cắt giảm hơn 1.000 nhân sự trong 9 tháng",
+          "url": "https://viettimes.vn/vietnam-airlines-con-lo-luy-ke-hon-23000-ty-dong-giam-hon-1100-lao-dong-sau-9-thang-post207762.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "30/10 tối",
+          "title": "Doanh thu Vietnam Airlines sau 9 tháng tăng 28% lên 114.480 tỷ đồng, lãi hơn 4.170 tỷ",
+          "url": "https://cafef.vn/doanh-thu-vietnam-airlines-sau-9-thang-tang-28-len-114480-ty-dong-lai-hon-4170-ty-188261030224748237.chn"
+        },
+        {
+          "source": "Thị trường Tài chính Tiền tệ",
+          "time": "31/10",
+          "title": "Vietnam Airlines thu hơn 114.000 tỷ đồng sau 9 tháng, lợi nhuận đạt gần 4.200 tỷ đồng",
+          "url": "https://thitruongtaichinhtiente.vn/vietnam-airlines-thu-hon-114-000-ty-dong-sau-9-thang-loi-nhuan-dat-gan-4-200-ty-dong-86711.html"
+        },
+        {
+          "source": "Markettimes",
+          "time": "30/10 tối",
+          "title": "Doanh thu Vietnam Airlines sau 9 tháng tăng 28% lên 114.480 tỷ đồng, lãi hơn 4.170 tỷ",
+          "url": "https://markettimes.vn/doanh-thu-vietnam-airlines-sau-9-thang-tang-28-len-114-480-ty-dong-lai-hon-4-170-ty-133690.html"
+        },
+        {
+          "source": "Mekong ASEAN",
+          "time": "31/10",
+          "title": "Vietnam Airlines báo lãi trở lại trong quý 3 sau khoản lỗ hơn 600 tỷ đồng",
+          "url": "https://mekongasean.vn/vietnam-airlines-bao-lai-tro-lai-trong-quy-3-sau-khoan-lo-hon-600-ty-dong-61305.html"
+        },
+        {
+          "source": "Tạp chí Hàng không",
+          "time": "31/10",
+          "title": "Doanh thu tăng mạnh, lợi nhuận Vietnam Airlines vẫn giảm hơn 41%",
+          "url": "https://tapchihangkhong.vn/doanh-thu-tang-manh-loi-nhuan-vietnam-airlines-van-giam-hon-41-d15209.html"
+        }
+      ],
+      "body": "Quý III doanh thu hợp nhất Vietnam Airlines tăng gần 29% lên khoảng 39.078 tỷ đồng nhưng biên lãi gộp thu hẹp từ 12,5% xuống 7,3%, lợi nhuận sau thuế giảm khoảng 56% còn gần 320 tỷ. Riêng công ty mẹ lỗ 284 tỷ do chi phí nhiên liệu tăng khoảng 4.360 tỷ (+61%) vì căng thẳng Trung Đông. Lũy kế 9 tháng vẫn lãi khoảng 4.172 tỷ (−42%), lỗ lũy kế còn hơn 23.000 tỷ. Giá dầu quanh 117 USD/thùng tiếp tục là rủi ro chính với ngành.",
+      "heat": 3,
+      "name": "Hàng không",
+      "reason": "Chi phí nhiên liệu tăng 61% khiến công ty mẹ Vietnam Airlines lỗ 284 tỷ đồng quý III; lợi nhuận hợp nhất giảm 56%.",
+      "source": "VnExpress",
+      "status": "bat-thuong",
+      "stocks": [],
+      "url": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html"
+    }
+  ],
+  "sectorsSummary": "Cuối tuần không có giao dịch; 5 ngành được chọn theo tin tức từ chiều 31/10 đến sáng nay. Nổi bật nhất là giá xăng giảm nhờ thuế TTĐB về 0% và vàng xuống thấp nhất 1 năm. Nông sản (cà phê, hồ tiêu, cao su cùng giảm giá) cũng đáng chú ý nhưng ít tin hơn nên không đưa vào.",
+  "securities": {
+    "analysis": "Áp lực lớn nhất với thị trường lúc này là dòng vốn ngoại: hơn 20.800 tỷ đồng bị rút ròng trong tháng 10, ngay sau khi FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp (21/9). Điều này cho thấy việc nâng hạng chưa tạo ra dòng vốn mua ròng như kỳ vọng, trong khi môi trường quốc tế bất lợi: lãi suất USD có thể tăng thêm, giá dầu quanh 117 USD/thùng nuôi lạm phát và cổ phiếu công nghệ toàn cầu bị bán mạnh. Dư nợ margin ở mức kỷ lục khiến thị trường dễ có những phiên giảm sâu nếu vùng hỗ trợ 1.720–1.740 điểm bị xuyên thủng.\nĐiểm tựa nằm ở lợi nhuận quý III: ngân hàng lớn, dầu khí (BSR, PV OIL, Petrolimex), bất động sản (Vingroup, Novaland, KBC) đều báo lãi tăng mạnh. Theo các công ty chứng khoán, dòng tiền nhiều khả năng tập trung vào các cổ phiếu có KQKD tốt thay vì lan tỏa. Tuần 2–6/11 có thêm biến số bầu cử giữa kỳ Mỹ (3/11) và rủi ro Mỹ – Iran, nên biến động được dự báo còn lớn; nhà đầu tư nên hạn chế dùng đòn bẩy.",
+    "articles": [
+      {
+        "source": "CafeF",
+        "summary": "CSI: vùng 1.738–1.740 điểm là hỗ trợ; ngân hàng được kỳ vọng làm trụ.",
+        "time": "31/10",
+        "title": "Chứng khoán tháng 11 đối mặt nhiều thách thức, dòng tiền tìm cơ hội ở đâu?",
+        "url": "https://cafef.vn/chung-khoan-thang-11-doi-mat-nhieu-thach-thuc-dong-tien-tim-co-hoi-o-dau-188261031155926995.chn"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "1/11",
+        "title": "Chứng khoán tháng 11: Kỳ vọng điểm tựa từ lợi nhuận doanh nghiệp",
+        "url": "https://thoibaotaichinhvietnam.vn/chung-khoan-thang-11-ky-vong-diem-tua-tu-loi-nhuan-doanh-nghiep-206225.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "MCH bị bán 9.600 tỷ; MSR được mua 3.223 tỷ.",
+        "time": "31/10 07:09",
+        "title": "Khối ngoại bán ròng kỷ lục hơn 20.800 tỷ đồng trong tháng 10, cao nhất từ đầu năm",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-ky-luc-hon-20800-ty-dong-trong-thang-10-cao-nhat-tu-dau-nam-post400519.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "31/10",
+        "title": "Khối ngoại bán ròng kỷ lục tháng 10: Xả 100 triệu cổ phiếu PNJ, 131 triệu cổ phiếu một ngân hàng",
+        "url": "https://nguoiquansat.vn/khoi-ngoai-ban-rong-ky-luc-thang-10-xa-100-trieu-co-phieu-pnj-131-trieu-co-phieu-mot-ngan-hang-325357.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "31/10",
+        "title": "Khối ngoại bán ròng gần 3.000 tỷ trong tuần cuối tháng 10, FPT bị \"xả\" mạnh nhất",
+        "url": "https://cafef.vn/khoi-ngoai-ban-rong-gan-3000-ty-trong-tuan-cuoi-thang-10-fpt-bi-xa-manh-nhat-188261031001137094.chn"
+      },
+      {
+        "source": "1Thế Giới",
+        "summary": "Số liệu khác cách tính với TNCK (có thể gồm cả giao dịch thỏa thuận).",
+        "time": "31/10",
+        "title": "Lộ diện yếu tố góp phần đẩy VN-Index vào bất ổn: Khối ngoại tháng 10 bán ròng trên 24.000 tỉ đồng",
+        "url": "https://1thegioi.vn/lo-dien-yeu-to-gop-phan-day-vn-index-vao-bat-on-khoi-ngoai-thang-10-ban-rong-tren-24-000-ti-dong-260755.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "31/10",
+        "title": "Nhìn lại dự báo chứng khoán tuần qua",
+        "url": "https://tinnhanhchungkhoan.vn/nhin-lai-du-bao-chung-khoan-tuan-qua-post400520.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "31/10",
+        "title": "Top 10 cổ phiếu trong tuần",
+        "url": "https://www.tinnhanhchungkhoan.vn/top-10-co-phieu-tanggiam-manh-nhat-tuan-xuat-hien-co-phieu-tang-600-trong-hai-thang-post400518.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "31/10",
+        "title": "Lịch chốt quyền cổ tức tuần 2-6/11: Cổ tức tiền mặt cao nhất 100%",
+        "url": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-2-6-11-co-tuc-tien-mat-cao-nhat-100-188261031173350162.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "31/10",
+        "title": "Lịch chốt quyền cổ tức tuần 2 - 6/11: PC1, SGN, QTP thanh toán, tỷ lệ cao nhất 100%",
+        "url": "https://nguoiquansat.vn/lich-chot-quyen-co-tuc-tuan-2-6-11-pc1-sgn-qtp-thanh-toan-ty-le-cao-nhat-100-325330.html"
+      },
+      {
+        "source": "Chứng khoán ASEAN",
+        "summary": "Nhấn mạnh cơ hội ở nhóm đầu tư công.",
+        "time": "31/10",
+        "title": "Báo cáo Cơ hội đầu tư tuần 02/11/2026",
+        "url": "https://www.aseansc.com.vn/bao-cao-co-hoi-dau-tu-tuan-02-11-2026-06-11-2026-co-hoi-tai-nhom-dau-tu-cong/"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "30/10 tối",
+        "title": "Cổ phiếu gây chú ý tuần qua: KOS được 'giải cứu', FPT xuống thấp nhất 3 năm",
+        "url": "https://tuoitre.vn/co-phieu-gay-chu-y-tuan-qua-kos-duoc-giai-cuu-fpt-xuong-thap-nhat-3-nam-100261030223700739.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "31/10",
+        "title": "Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+      },
+      {
+        "source": "VnEconomy",
+        "summary": "Canada tăng lãi suất; bầu cử giữa kỳ Mỹ 3/11.",
+        "time": "31/10",
+        "title": "Dấu ấn kinh tế thế giới tuần 26-31/10/2026: 4 ngân hàng trung ương lớn quyết định lãi suất, Chủ tịch ECB từ chức, kinh tế Mỹ tăng tốc",
+        "url": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-26-31102026-4-ngan-hang-trung-uong-lon-quyet-dinh-lai-suat-chu-tich-ecb-tu-chuc-kinh-te-my-tang-toc.htm"
+      },
+      {
+        "source": "VnExpress",
+        "time": "31/10",
+        "title": "Cổ phiếu Intel giảm mạnh nhất 50 năm",
+        "url": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html"
+      },
+      {
+        "source": "Markettimes",
+        "time": "31/10",
+        "title": "Thị trường ngày 31/10: Dầu biến động mạnh, vàng lao dốc, chứng khoán Mỹ chịu áp lực bán tháo cổ phiếu công nghệ",
+        "url": "https://markettimes.vn/thi-truong-ngay-31-10-dau-bien-dong-manh-vang-lao-doc-chung-khoan-my-chiu-ap-luc-ban-thao-co-phieu-cong-nghe-133710.html"
+      },
+      {
+        "source": "VnEconomy",
+        "time": "31/10",
+        "title": "Chứng khoán Mỹ \"đỏ lửa\" vì cổ phiếu công nghệ bị bán tháo, giá dầu lên cao nhất 6 tháng",
+        "url": "https://vneconomy.vn/chung-khoan-my-do-lua-vi-co-phieu-cong-nghe-bi-ban-thao-gia-dau-len-cao-nhat-6-thang.htm"
+      },
+      {
+        "source": "BNews",
+        "time": "31/10",
+        "title": "Hoạt động chế tạo của Trung Quốc bất ngờ sụt giảm",
+        "url": "https://bnews.vn/hoat-dong-che-tao-cua-trung-quoc-bat-ngo-sut-giam/442584.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -1.83,
+        "changeText": "−32,53 điểm (−1,83%) trong tuần",
+        "label": "VN-Index (đóng tuần)",
+        "note": "Thanh khoản bình quân giảm 9,4%",
+        "unit": "điểm",
+        "value": "1.741,62"
+      },
+      {
+        "label": "HNX-Index (đóng tuần)",
+        "note": "Thanh khoản bình quân giảm gần 30%",
+        "unit": "điểm",
+        "value": "252,74"
+      },
+      {
+        "change": -20844,
+        "changeText": "Bán ròng mạnh nhất từ đầu năm",
+        "label": "Khối ngoại tháng 10",
+        "note": "Gấp khoảng 4,5 lần tháng 9; bán mạnh MCH, HDB, PNJ, FPT",
+        "unit": "tỷ đồng",
+        "value": "≈ −20.844"
+      },
+      {
+        "change": -2531,
+        "changeText": "Tuần bán ròng thứ 6 liên tiếp",
+        "label": "Khối ngoại tuần 26–30/10",
+        "unit": "tỷ đồng",
+        "value": "≈ −2.531"
+      },
+      {
+        "change": -2.86,
+        "changeText": "−2,86%",
+        "label": "Nasdaq Composite (30/10)",
+        "note": "Intel mất gần 29% trong một phiên",
+        "unit": "điểm",
+        "value": "25.437"
+      },
+      {
+        "change": 2.4,
+        "changeText": "+2,4%",
+        "label": "Dầu Brent (30/10)",
+        "note": "Cao nhất khoảng 6 tháng; tháng 10 +13,6%",
+        "unit": "USD/thùng",
+        "value": "117,64"
+      }
+    ],
+    "news": [
+      {
+        "body": "Tháng 10 khối ngoại bán ròng khoảng 536 triệu đơn vị, tương đương 20.844 tỷ đồng, mạnh nhất từ đầu năm và gấp khoảng 4,5 lần tháng trước. Bị bán mạnh nhất là MCH (khoảng 9.600 tỷ), sau đó HDB (131 triệu cổ phiếu), PNJ, FPT, ACB; mua ròng nhiều nhất là MSR (3.223 tỷ).",
+        "impact": "tieu-cuc",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "Khối ngoại bán ròng kỷ lục hơn 20.800 tỷ đồng trong tháng 10",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-ky-luc-hon-20800-ty-dong-trong-thang-10-cao-nhat-tu-dau-nam-post400519.html"
+      },
+      {
+        "body": "Lực mua yếu, dòng tiền phân tán và khối ngoại chưa dừng bán. CSI cho rằng VN-Index có thể lấp khoảng trống giá quanh 1.740 điểm và chỉ nên mua thăm dò nếu giữ được vùng 1.738–1.740. TPS vẫn cho rằng xu hướng tăng ngắn hạn chưa bị phá vỡ; nhóm ngân hàng (TCB, HDB, VPB, CTG, TPB) và xây dựng – hạ tầng được nhắc tới.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Chứng khoán tháng 11 đối mặt nhiều thách thức",
+        "url": "https://cafef.vn/chung-khoan-thang-11-doi-mat-nhieu-thach-thuc-dong-tien-tim-co-hoi-o-dau-188261031155926995.chn"
+      },
+      {
+        "body": "Thông tư 145/2026/TT-BTC thay thế Thông tư 119/2020 về đăng ký, lưu ký, bù trừ và thanh toán chứng khoán. Theo quy định mới, bên vay chứng khoán phải có tài sản bảo đảm tối thiểu bằng 110% giá trị khoản vay.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Thông tư 145/2026 có hiệu lực từ 16/11: vay chứng khoán phải ký quỹ tối thiểu 110%",
+        "url": "https://cafef.vn/chung-khoan-thang-11-doi-mat-nhieu-thach-thuc-dong-tien-tim-co-hoi-o-dau-188261031155926995.chn"
+      },
+      {
+        "body": "Phiên 30/10 Intel mất gần 29%, kéo Nasdaq giảm 2,86% và S&P 500 giảm 1,82%. Nasdaq ghi nhận tháng tệ nhất trong hơn một năm vì lo ngại lợi nhuận từ đầu tư AI không tương xứng. Đây là tín hiệu bất lợi cho nhóm công nghệ châu Á và Việt Nam đầu tuần.",
+        "impact": "tieu-cuc",
+        "source": "VnExpress",
+        "title": "Cổ phiếu Intel giảm mạnh nhất 50 năm, Phố Wall bị bán tháo",
+        "url": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html"
+      },
+      {
+        "body": "Fed giữ lãi suất 3,75–4% nhưng thừa nhận lạm phát cao; PCE tháng 9 tăng 3,6% so với cùng kỳ làm tăng kỳ vọng Fed nâng lãi suất tháng 12. Canada tăng lãi suất lần đầu sau hơn 3 năm. GDP quý III của Mỹ tăng nhanh nhất trong một năm; bầu cử giữa kỳ Mỹ diễn ra 3/11.",
+        "impact": "tieu-cuc",
+        "source": "VnEconomy",
+        "title": "Tuần 26–31/10: Fed, ECB, BOJ giữ lãi suất; Canada tăng lãi suất; Chủ tịch ECB từ chức",
+        "url": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-26-31102026-4-ngan-hang-trung-uong-lon-quyet-dinh-lai-suat-chu-tich-ecb-tu-chuc-kinh-te-my-tang-toc.htm"
+      }
+    ],
+    "summary": "Cuối tuần không có giao dịch. Số liệu tổng kết cho thấy khối ngoại bán ròng khoảng 20.844 tỷ đồng trong tháng 10, mạnh nhất từ đầu năm, riêng tuần cuối tháng khoảng 2.530 tỷ; VN-Index đóng tuần ở 1.741,62 điểm (−1,83%). Các công ty chứng khoán nhìn tháng 11 khá thận trọng, coi 1.730–1.740 điểm là vùng hỗ trợ gần. Phiên 2/11 sẽ chịu ảnh hưởng của cú bán tháo cổ phiếu công nghệ Mỹ (Nasdaq −2,86%) và bầu cử giữa kỳ Mỹ ngày 3/11.",
+    "watch": [
+      "Phản ứng phiên 2/11 sau cú bán tháo công nghệ Mỹ (Nasdaq −2,86%)",
+      "Vùng hỗ trợ 1.720–1.740 điểm của VN-Index",
+      "Khối ngoại có dừng chuỗi 6 tuần bán ròng",
+      "Kết quả bầu cử giữa kỳ Mỹ 3/11 và căng thẳng Mỹ – Iran",
+      "Thông tư 145/2026 có hiệu lực 16/11; dư nợ margin kỷ lục"
+    ]
+  },
+  "session": "sang",
+  "updatedAt": "2026-11-01T07:20:00+07:00"
+}

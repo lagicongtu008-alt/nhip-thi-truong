@@ -1,0 +1,825 @@
+{
+  "banking": {
+    "analysis": "Áp lực với nhóm ngân hàng hiện đến từ thị trường cổ phiếu nhiều hơn từ nền tảng tiền tệ. Phiên 2/11, ba mã VCB, VPB, BID lấy đi gần 10 điểm của VN-Index, còn khối ngoại tập trung xả MBB, VCB, ACB, STB. Khi một nhóm vốn hóa lớn bị bán đồng loạt như vậy, nguyên nhân thường là các quỹ hạ tỷ trọng cả thị trường hơn là tin xấu riêng của từng ngân hàng. Tin Sacombank đổi tổng giám đốc lần thứ ba trong năm khiến nhà đầu tư thêm lo về tính ổn định của bộ máy điều hành trong giai đoạn cuối tái cơ cấu.\nVề vĩ mô, tỷ giá đang dịu: DXY giảm, USD ngân hàng giữ dưới 26.000 đồng, và giá dầu lao dốc gần 8% đêm qua giúp giảm bớt lo ngại lạm phát nhập khẩu. Điểm cần lưu ý là lãi suất qua đêm liên ngân hàng vẫn quanh 6%/năm, cao hơn hẳn lãi suất OMO 4,5%. Như vậy NHNN đang bơm tiền cầm chừng chứ chưa muốn hạ mặt bằng lãi suất ngắn hạn. Nếu lãi suất liên ngân hàng hạ nhiệt trong tuần này, đó sẽ là tín hiệu hỗ trợ cho định giá cổ phiếu ngân hàng.",
+    "articles": [
+      {
+        "source": "VOV",
+        "summary": "Tỷ giá trung tâm đi ngang; Vietcombank bán 25.980 đồng (−10), BIDV 25.985 đồng (−5); DXY khoảng 101,5.",
+        "time": "3/11 05:00",
+        "title": "Tỷ giá USD hôm nay 3/11: Tỷ giá trung tâm 25.631 VND đồng/USD",
+        "url": "http://vov.vn/thi-truong/ty-gia-usd-hom-nay-311-ty-gia-trung-tam-25631-vnd-dongusd-post1346682.vov"
+      },
+      {
+        "source": "Quân đội Nhân dân",
+        "summary": "USD trong nước và quốc tế cùng giảm nhẹ sáng 3/11.",
+        "time": "3/11",
+        "title": "Tỷ giá USD hôm nay (3-11): Đồng đô la Mỹ (USD) quay đầu giảm",
+        "url": "https://www.qdnd.vn/kinh-te/tin-tuc/ty-gia-usd-hom-nay-3-11-dong-usd-quay-dau-giam-1063019"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "Khối ngoại bán ròng 7 phiên liên tiếp; nhóm ngân hàng bị rút ròng khoảng 589 tỷ đồng.",
+        "time": "2/11 tối",
+        "title": "Theo dấu dòng tiền cá mập 02/11: Khối ngoại rút gần 600 tỷ đồng khỏi nhóm ngân hàng",
+        "url": "https://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-0211-khoi-ngoai-rut-gan-600-ty-dong-khoi-nhom-ngan-hang-830-1510575.htm"
+      },
+      {
+        "source": "Người Quan Sát",
+        "summary": "NHNN cấp 4.655 tỷ đồng qua OMO với lãi suất 4,5%, không phát hành tín phiếu.",
+        "time": "2/11 tối",
+        "title": "Phiên 2/11: NHNN bơm ròng 993 tỷ đồng, lãi suất qua đêm neo mức 6%",
+        "url": "https://nguoiquansat.vn/phien-2-11-nhnn-bom-rong-993-ty-dong-lai-suat-qua-dem-neo-muc-6-325736.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "2/11",
+        "title": "Ngày 2/11: Tỷ giá trung tâm giảm 6 đồng",
+        "url": "https://thitruongtaichinhtiente.vn/ngay-2-11-ty-gia-trung-tam-giam-6-dong-86735.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "Dù tuần cuối tháng bơm ròng, cả tháng 10 NHNN vẫn hút ròng hơn 27.000 tỷ đồng.",
+        "time": "2/11",
+        "title": "Ngân hàng Nhà nước hút ròng hơn 27.000 tỷ đồng trong tháng 10, lãi suất cho vay qua đêm tăng trở lại",
+        "url": "https://www.tinnhanhchungkhoan.vn/ngan-hang-nha-nuoc-hut-rong-hon-27000-ty-dong-trong-thang-10-lai-suat-cho-vay-qua-dem-tang-tro-lai-post400635.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "2/11 15:30",
+        "title": "Bốn cổ phiếu ngân hàng bị khối ngoại “xả” 560 tỷ đồng trong ngày VN-Index mất 31 điểm",
+        "url": "https://cafef.vn/bon-co-phieu-ngan-hang-bi-khoi-ngoai-xa-560-ty-dong-trong-ngay-vn-index-mat-31-diem-188261102153042689.chn"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "2/11 tối",
+        "title": "Khối ngoại tập trung bán cổ phiếu ngân hàng trong phiên 2/11",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-tap-trung-ban-co-phieu-ngan-hang-trong-phien-211-post400680.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "2/11",
+        "title": "Khối ngoại bán ròng hơn 500 tỷ đồng, tâm điểm nhóm cổ phiếu ngân hàng",
+        "url": "https://thoibaotaichinhvietnam.vn/khoi-ngoai-ban-rong-hon-500-ty-dong-tam-diem-nhom-co-phieu-ngan-hang-206283.html"
+      },
+      {
+        "source": "Dân Trí",
+        "time": "2/11 15:50",
+        "title": "Chứng khoán lại giảm mạnh, cổ phiếu ngân hàng bị bán tháo",
+        "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-manh-co-phieu-ngan-hang-bi-ban-thao-20261102155021622.htm"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "2/11",
+        "title": "Chứng khoán giảm sâu, cổ phiếu ngân hàng đồng loạt suy yếu",
+        "url": "https://vietnamnet.vn/chung-khoan-giam-sau-co-phieu-ngan-hang-dong-loat-lao-doc-2570746.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "2/11 15:29",
+        "title": "Một cổ phiếu ngân hàng tăng 5% trong phiên đỏ lửa ngày 2/11",
+        "url": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-5-trong-phien-do-lua-ngay-2-11-188261102152932675.chn"
+      },
+      {
+        "source": "VnExpress",
+        "summary": "Bà Nguyễn Thị Kiều Anh được giao quyền tổng giám đốc.",
+        "time": "2/11",
+        "title": "Sacombank thay tổng giám đốc lần thứ 3 trong năm",
+        "url": "https://vnexpress.net/sacombank-thay-tong-giam-doc-lan-thu-3-trong-nam-5139733.html"
+      },
+      {
+        "source": "Znews",
+        "time": "2/11",
+        "title": "Sacombank thay tổng giám đốc sau chưa đầy 4 tháng",
+        "url": "https://znews.vn/sacombank-thay-tong-giam-doc-sau-chua-day-4-thang-post1693723.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "2/11",
+        "title": "SACOMBANK bổ nhiệm Quyền Tổng Giám đốc mới, đẩy nhanh tiến độ hoàn thành Đề án tái cơ cấu",
+        "url": "https://thoibaotaichinhvietnam.vn/sacombank-bo-nhiem-quyen-tong-giam-doc-moi-day-nhanh-tien-do-hoan-thanh-de-an-tai-co-cau-206265.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "2/11 19:52",
+        "title": "Lãi suất tiết kiệm ngày 2/11 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
+        "url": "https://cafef.vn/lai-suat-tiet-kiem-ngay-2-11-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261102195210514.chn"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "2/11",
+        "title": "Lãi suất đầu tháng 11/2026: Tiền gửi tiết kiệm đồng loạt hạ nhiệt, chứng chỉ tiền gửi điều chỉnh nhẹ",
+        "url": "https://thitruongtaichinhtiente.vn/lai-suat-dau-thang-11-2026-tien-gui-tiet-kiem-dong-loat-ha-nhiet-chung-chi-tien-gui-dieu-chinh-nhe-86726.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "2/11 tối",
+        "title": "Triệt phá nhóm đối tượng dùng máy POS tạo giao dịch khống để rút tiền từ thẻ tín dụng",
+        "url": "https://vietstock.vn/2026/11/triet-pha-nhom-doi-tuong-dung-may-pos-tao-giao-dich-khong-de-rut-tien-tu-the-tin-dung-757-1510684.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "2/11 10:28",
+        "title": "Từ hôm nay (2/11), ngân hàng áp dụng quy định mới với khách chuyển tiền đến các tài khoản sau",
+        "url": "https://cafef.vn/tu-hom-nay-2-11-ngan-hang-ap-dung-quy-dinh-moi-voi-khach-chuyen-tien-den-cac-tai-khoan-sau-188261102102800459.chn"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 0,
+        "changeText": "Đi ngang",
+        "label": "Tỷ giá trung tâm",
+        "note": "Sáng 3/11, không đổi so với 2/11",
+        "unit": "đồng/USD",
+        "value": "25.631"
+      },
+      {
+        "change": -10,
+        "changeText": "−10 đồng",
+        "label": "USD Vietcombank (bán ra)",
+        "note": "Mua vào 25.570 đồng",
+        "unit": "đồng",
+        "value": "25.980"
+      },
+      {
+        "change": -5,
+        "changeText": "−5 đồng",
+        "label": "USD BIDV (bán ra)",
+        "note": "Mua vào 25.605 đồng",
+        "unit": "đồng",
+        "value": "25.985"
+      },
+      {
+        "label": "USD tự do",
+        "note": "Mua – bán, theo VOV",
+        "unit": "đồng",
+        "value": "26.000–26.050"
+      },
+      {
+        "changeText": "Bơm ròng",
+        "label": "OMO phiên 2/11",
+        "note": "Cấp 4.655 tỷ đồng, lãi suất 4,5%; không phát hành tín phiếu",
+        "unit": "tỷ đồng",
+        "value": "+993"
+      },
+      {
+        "label": "LS qua đêm liên ngân hàng",
+        "note": "Số liệu chốt 30/10; 1 tuần 5,30%, 1 tháng 5,60%",
+        "unit": "%/năm",
+        "value": "6,00"
+      }
+    ],
+    "news": [
+      {
+        "body": "Theo Vietstock, khối ngoại bán ròng khoảng 636 tỷ đồng ở MBB (~182 tỷ), VCB (>155 tỷ), ACB (~117 tỷ), STB (~105 tỷ), VPB và SHB; chỉ TCB, TPB được mua lại khoảng 48 tỷ. Đây là phiên bán ròng thứ 7 liên tiếp của khối ngoại trên toàn thị trường. Tự doanh công ty chứng khoán cũng bán BID khoảng 87 tỷ đồng nhưng mua HDB khoảng 161 tỷ.",
+        "impact": "tieu-cuc",
+        "source": "Vietstock",
+        "title": "Khối ngoại rút gần 590 tỷ đồng khỏi cổ phiếu ngân hàng phiên 2/11",
+        "url": "https://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-0211-khoi-ngoai-rut-gan-600-ty-dong-khoi-nhom-ngan-hang-830-1510575.htm"
+      },
+      {
+        "body": "Sáng 3/11, tỷ giá trung tâm đứng ở 25.631 đồng/USD. Vietcombank niêm yết 25.570–25.980 đồng (bán ra giảm 10 đồng), BIDV 25.605–25.985 đồng (giảm 5 đồng). Chỉ số USD (DXY) lùi về khoảng 101,5 điểm, góp phần giảm áp lực lên VND.",
+        "impact": "trung-tinh",
+        "source": "VOV",
+        "title": "Tỷ giá trung tâm giữ 25.631 đồng/USD, USD ngân hàng nhích giảm",
+        "url": "http://vov.vn/thi-truong/ty-gia-usd-hom-nay-311-ty-gia-trung-tam-25631-vnd-dongusd-post1346682.vov"
+      },
+      {
+        "body": "Phiên 2/11, NHNN chào 1.655 tỷ đồng kỳ hạn 7 ngày và 3.000 tỷ đồng kỳ hạn 35 ngày qua kênh cầm cố (cho vay có tài sản bảo đảm), lãi suất 4,5%/năm, trong khi 3.662 tỷ đồng đáo hạn. Dư nợ kênh này lên 124.220 tỷ đồng. Cả tháng 10, NHNN vẫn hút ròng hơn 27.000 tỷ đồng.",
+        "impact": "trung-tinh",
+        "source": "Người Quan Sát",
+        "title": "NHNN bơm ròng 993 tỷ đồng, lãi suất qua đêm neo 6%",
+        "url": "https://nguoiquansat.vn/phien-2-11-nhnn-bom-rong-993-ty-dong-lai-suat-qua-dem-neo-muc-6-325736.html"
+      },
+      {
+        "body": "Sacombank bổ nhiệm bà Nguyễn Thị Kiều Anh (sinh năm 1983) làm quyền tổng giám đốc, thay người tiền nhiệm sau chưa đầy 4 tháng. Ngân hàng nói việc này nhằm đẩy nhanh hoàn thành đề án tái cơ cấu. STB đồng thời bị khối ngoại bán ròng khoảng 105 tỷ đồng trong phiên 2/11.",
+        "impact": "tieu-cuc",
+        "source": "VnExpress",
+        "title": "Sacombank thay tổng giám đốc lần thứ ba trong năm",
+        "url": "https://vnexpress.net/sacombank-thay-tong-giam-doc-lan-thu-3-trong-nam-5139733.html"
+      },
+      {
+        "body": "Khảo sát đầu tháng 11 cho thấy lãi suất tiết kiệm tại nhiều ngân hàng đồng loạt giảm nhẹ, chứng chỉ tiền gửi chỉ điều chỉnh ít. Diễn biến này cho thấy đà tăng lãi suất huy động từ giữa năm có thể đã dừng, dù lãi suất liên ngân hàng vẫn ở mức cao.",
+        "impact": "tich-cuc",
+        "source": "Thị trường Tài chính Tiền tệ",
+        "title": "Lãi suất tiền gửi đầu tháng 11 hạ nhiệt",
+        "url": "https://thitruongtaichinhtiente.vn/lai-suat-dau-thang-11-2026-tien-gui-tiet-kiem-dong-loat-ha-nhiet-chung-chi-tien-gui-dieu-chinh-nhe-86726.html"
+      }
+    ],
+    "summary": "Sau phiên bán tháo 2/11 mà tâm điểm là cổ phiếu ngân hàng (khối ngoại rút gần 590 tỷ đồng ròng khỏi nhóm này), thị trường tiền tệ sáng 3/11 khá yên: tỷ giá trung tâm giữ 25.631 đồng/USD, giá USD tại ngân hàng nhích giảm 5–10 đồng. NHNN tiếp tục bơm ròng nhẹ 993 tỷ đồng qua thị trường mở, nhưng lãi suất qua đêm liên ngân hàng vẫn neo quanh 6%/năm – mức cao cho thấy thanh khoản hệ thống chưa thật dư dả.",
+    "watch": [
+      "Khối ngoại có dừng chuỗi bán ròng ở MBB, VCB, ACB, STB trong phiên 3/11 không",
+      "Lãi suất qua đêm liên ngân hàng có rời mốc 6% không; khối lượng NHNN bơm qua OMO",
+      "Tỷ giá trung tâm và DXY sau bầu cử giữa kỳ Mỹ (3/11 giờ Mỹ)",
+      "Phản ứng của cổ phiếu STB sau tin đổi quyền tổng giám đốc",
+      "Biểu lãi suất huy động tuần đầu tháng 11 của nhóm ngân hàng tư nhân"
+    ]
+  },
+  "date": "2026-11-03",
+  "key": "2026-11-03-sang",
+  "label": "Sáng 03/11/2026 (thứ Ba)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "summary": "WTI −7,4% còn 96,46 USD, Brent −8% còn 104,29 USD sau phát biểu của ông Trump về khả năng thỏa thuận với Iran.",
+          "time": "3/11 06:18",
+          "title": "Dầu thô 'sập giá'",
+          "url": "https://cafef.vn/dau-tho-sap-gia-18826110306182015.chn"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "summary": "OPEC+ giữ nguyên mục tiêu sản lượng tháng 12; giá xăng trong nước chờ kỳ điều hành 5/11.",
+          "time": "3/11",
+          "title": "Giá xăng dầu hôm nay 3/11: Dầu thế giới giảm hơn 6%, giá trong nước ra sao?",
+          "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-311-dau-the-gioi-giam-hon-6-gia-trong-nuoc-ra-sao-post913410.html"
+        },
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "3/11",
+          "title": "Giá xăng dầu hôm nay (3-11): Giá dầu thế giới giảm hơn 7%",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-3-11-gia-dau-the-gioi-giam-hon-7-1063064"
+        },
+        {
+          "source": "Thể thao 247",
+          "time": "3/11",
+          "title": "Giá xăng dầu hôm nay 3/11: Giá trong nước hạ, dầu thế giới lao dốc",
+          "url": "https://thethao247.vn/63-gia-xang-dau-hom-nay-3-11-gia-trong-nuoc-ha-dau-the-gioi-lao-doc-c123-d443568.html"
+        },
+        {
+          "source": "VnExpress",
+          "time": "2/11",
+          "title": "Giá dầu thế giới giảm mạnh",
+          "url": "https://vnexpress.net/gia-dau-the-gioi-giam-manh-5139776.html"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "time": "2/11",
+          "title": "Giá dầu Brent giảm về mốc 110 USD/thùng trong phiên đầu tuần",
+          "url": "https://thoibaotaichinhvietnam.vn/gia-dau-brent-giam-ve-moc-110-usd-thung-trong-phien-dau-tuan-206260.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "2/11",
+          "title": "Giá dầu thế giới giảm hơn 1% giữa kỳ vọng căng thẳng Trung Đông hạ nhiệt",
+          "url": "https://vietstock.vn/2026/11/gia-dau-the-gioi-giam-hon-1-giua-ky-vong-cang-thang-trung-dong-ha-nhiet-34-1509924.htm"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "2/11 08:37",
+          "title": "Giá xăng dầu hôm nay 2.11.2026: Quay đầu giảm trong sáng đầu tuần",
+          "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-2112026-quay-dau-giam-trong-sang-dau-tuan-185261102083700244.htm"
+        }
+      ],
+      "body": "Brent về khoảng 104,3 USD/thùng (−8%), WTI về 96,5 USD/thùng (−7,4%), mức giảm một phiên mạnh nhất của WTI kể từ cuối tháng 7, sau khi giá dầu đã tăng hơn 10% trong tháng 10. Phần lớn đợt tăng trước đó là phần bù rủi ro địa chính trị (giá cộng thêm vì lo gián đoạn nguồn cung), nên phần này có thể co lại rất nhanh khi có tin đàm phán. Giá xăng trong nước vừa giảm từ 1/11 do thuế tiêu thụ đặc biệt về 0%; cú giảm của dầu thô sẽ phản ánh vào kỳ điều hành 15h ngày 5/11. Với cổ phiếu, các mã khai thác và dịch vụ dầu khí (PVS, PVD, BSR) dễ chịu áp lực, còn các ngành dùng nhiều nhiên liệu như hàng không và vận tải được lợi.",
+      "heat": 5,
+      "name": "Năng lượng – dầu khí",
+      "reason": "Giá dầu Brent giảm khoảng 8% chỉ trong một đêm khi Mỹ và Iran phát tín hiệu tìm giải pháp ngoại giao.",
+      "source": "CafeF",
+      "status": "bat-thuong",
+      "stocks": [],
+      "url": "https://cafef.vn/dau-tho-sap-gia-18826110306182015.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "Viettimes",
+          "summary": "Quy đổi khoảng 123,5 triệu đồng/lượng; SJC, DOJI 137–140 triệu đồng.",
+          "time": "3/11",
+          "title": "Giá vàng thế giới 3/11 tăng mạnh 44 USD, tiến sát mốc 3.950 USD/ounce",
+          "url": "https://viettimes.vn/gia-vang-the-gioi-hom-nay-tang-manh-post207869.html"
+        },
+        {
+          "source": "VietnamNet",
+          "summary": "Dầu giảm, USD và lợi suất trái phiếu Mỹ hạ giúp vàng hồi phục.",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay 3/11: Thế giới tăng vọt, vàng trong nước có cơ hội bứt phá",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-3-11-the-gioi-tang-vot-vang-trong-nuoc-co-co-hoi-but-pha-2570807.html"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay ngày 3/11: Giá vàng thế giới phục hồi, vàng trong nước tăng đến 1 triệu đồng",
+          "url": "https://thoibaotaichinhvietnam.vn/gia-vang-hom-nay-ngay-3-11-gia-vang-the-gioi-phuc-hoi-vang-trong-nuoc-tang-den-1-trieu-dong-206303.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "3/11",
+          "title": "Giá dầu thô hạ nhiệt tạo lực đẩy cho thị trường vàng phục hồi",
+          "url": "https://vietstock.vn/2026/11/gia-dau-tho-ha-nhiet-tao-luc-day-cho-thi-truong-vang-phuc-hoi-759-1510680.htm"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay 3/11: Vàng hồi phục sau bán tháo, SJC tăng trở lại",
+          "url": "https://baolaocai.vn/gia-vang-hom-nay-311-vang-hoi-phuc-sau-ban-thao-sjc-tang-tro-lai-post913411.html"
+        },
+        {
+          "source": "Báo Văn hóa",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay 3/11: Vàng thế giới phục hồi, trong nước chờ niêm yết mới",
+          "url": "https://baovanhoa.vn/gia-vang-hom-nay-3-11-vang-the-gioi-phuc-hoi-trong-nuoc-cho-niem-yet-moi.html"
+        },
+        {
+          "source": "Báo Nghệ An",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay 3/11/2026: Giá vàng SJC BTMC PNJ Phú Quý và vàng quốc tế",
+          "url": "https://baonghean.vn/gia-vang-hom-nay-3-11-2026-gia-vang-sjc-btmc-pnj-phu-quy-va-vang-quoc-te-10354910.html"
+        },
+        {
+          "source": "Báo Đà Nẵng",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay 3/11/2026: Vàng miếng SJC, nhẫn trơn 9999 BTMC và vàng thế giới",
+          "url": "https://baodanang.vn/gia-vang-hom-nay-3-11-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi-3357190.html"
+        },
+        {
+          "source": "Báo Lâm Đồng",
+          "time": "3/11",
+          "title": "Cập nhật giá vàng sáng 3/11/2026: SJC, nhẫn trơn 9999 DOJI BTMC Phú Quý",
+          "url": "https://baolamdong.vn/cap-nhat-gia-vang-sang-3-11-2026-sjc-nhan-tron-9999-doji-btmc-phu-quy-472554.html"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "3/11",
+          "title": "Giá vàng hôm nay (3/11): Phục hồi từ vùng ‘đáy’",
+          "url": "https://vietbao.vn/gia-vang-hom-nay-311-phuc-hoi-tu-vung-day-614304.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "summary": "Khoản vay không tài sản bảo đảm, kỳ hạn 25/9/2026–25/9/2027; tổng vay ngắn hạn của PNJ hơn 4.320 tỷ đồng.",
+          "time": "2/11 tối",
+          "title": "Tin tức sáng 3-11: Chủ tịch PNJ cho... PNJ vay 700 tỉ đồng, lãi suất 10%/năm",
+          "url": "https://tuoitre.vn/tin-tuc-sang-3-11-chu-tich-pnj-cho-pnj-vay-700-ti-dong-lai-suat-10-nam-100261102185734967.htm"
+        },
+        {
+          "source": "Soha",
+          "time": "2/11 14:00",
+          "title": "Chủ tịch Cao Thị Ngọc Dung trực tiếp cho PNJ vay 700 tỷ đồng với lãi suất 10%/năm",
+          "url": "https://soha.vn/chu-tich-cao-thi-ngoc-dung-truc-tiep-cho-pnj-vay-700-ty-dong-voi-lai-suat-10-nam-198261102140050487.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "2/11",
+          "title": "Con gái Chủ tịch PNJ Cao Thị Ngọc Dung bị bán giải chấp 1,84 triệu cổ phiếu",
+          "url": "https://nguoiquansat.vn/con-gai-chu-tich-pnj-cao-thi-ngoc-dung-bi-ban-giai-chap-1-84-trieu-co-phieu-325712.html"
+        },
+        {
+          "source": "Znews",
+          "time": "2/11",
+          "title": "Giá vàng trong nước tăng cả triệu đồng sau tuần chao đảo",
+          "url": "https://znews.vn/gia-vang-trong-nuoc-tang-ca-trieu-dong-sau-tuan-chao-dao-post1693678.html"
+        }
+      ],
+      "body": "Sáng 3/11, vàng thế giới quanh 3.944 USD/ounce, tăng khoảng 44 USD so với sáng 2/11 nhưng vẫn thấp hơn mốc 4.000 USD của tuần trước và giảm khoảng 5,9% trong 30 ngày. Vàng miếng SJC, DOJI giữ 137–140 triệu đồng/lượng; nhẫn DOJI 135–139 triệu, nhẫn SJC 132,8–136,8 triệu. Chênh lệch mua – bán vẫn rộng (3–5,5 triệu đồng/lượng) nên người mua ngắn hạn chịu rủi ro lớn. Ở mảng doanh nghiệp, PNJ có thêm tin bất lợi: con gái chủ tịch bị bán giải chấp 1,83 triệu cổ phiếu, và báo cáo quý III cho thấy công ty vay 700 tỷ đồng từ chủ tịch với lãi suất 10%/năm.",
+      "heat": 4,
+      "name": "Vàng – trang sức",
+      "reason": "Vàng thế giới bật tăng khoảng 44–68 USD lên quanh 3.944 USD/ounce khi giá dầu, USD và lợi suất trái phiếu Mỹ cùng giảm.",
+      "source": "Viettimes",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 0.65,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://viettimes.vn/gia-vang-the-gioi-hom-nay-tang-manh-post207869.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "Dân Trí",
+          "summary": "NVL giảm khoảng 88% so với đỉnh, DXG và AGG dưới mệnh giá; nguyên nhân chính là chi phí vốn và áp lực trái phiếu.",
+          "time": "2/11 22:42",
+          "title": "Nhiều cổ phiếu của loạt doanh nghiệp địa ốc về đáy, giá bằng ly trà đá",
+          "url": "https://dantri.com.vn/bat-dong-san/nhieu-co-phieu-cua-loat-doanh-nghiep-dia-oc-ve-day-gia-bang-ly-tra-da-20261102224207807.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "2/11 tối",
+          "title": "Cổ phiếu NVL bảo đảm trái phiếu giảm giá, hai công ty nhóm Novaland lùi hạn bổ sung tài sản",
+          "url": "https://vietstock.vn/2026/11/co-phieu-nvl-bao-dam-trai-phieu-giam-gia-hai-cong-ty-nhom-novaland-lui-han-bo-sung-tai-san-3118-1510691.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "2/11",
+          "title": "Cổ phiếu chứng khoán bị rút tiền, dòng tiền ở nhóm bất động sản phân hóa",
+          "url": "https://vietstock.vn/2026/11/co-phieu-chung-khoan-bi-rut-tien-dong-tien-o-nhom-bat-dong-san-phan-hoa-830-1510447.htm"
+        },
+        {
+          "source": "Hà Nội Mới",
+          "time": "2/11",
+          "title": "VN-Index đánh rơi gần 31 điểm, một cổ phiếu bất động sản \"ngược đường, ngược gió\"",
+          "url": "https://hanoimoi.vn/vn-index-danh-roi-gan-31-diem-mot-co-phieu-bat-dong-san-nguoc-duong-nguoc-gio-1763896.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "2/11 10:08",
+          "title": "Cái giá đắt đỏ của những siêu dự án BĐS: Phát Đạt vay gần 9.000 tỷ đồng thương vụ Lotte với lãi suất ước tính trên 13%/năm, Novaland có khoản gần 16%/năm",
+          "url": "https://cafef.vn/cai-gia-dat-do-cua-nhung-sieu-du-an-bds-phat-dat-vay-gan-9000-ty-dong-thuong-vu-lotte-voi-lai-suat-uoc-tinh-tren-13-nam-novaland-co-khoan-gan-16-nam-188261102100856096.chn"
+        },
+        {
+          "source": "Znews",
+          "time": "2/11",
+          "title": "Lợi nhuận doanh nghiệp môi giới bất động sản lao dốc",
+          "url": "https://znews.vn/loi-nhuan-doanh-nghiep-moi-gioi-bat-dong-san-lao-doc-post1693594.html"
+        },
+        {
+          "source": "Báo Đầu tư",
+          "time": "2/11",
+          "title": "Doanh nghiệp bất động sản kéo tăng mặt bằng lợi nhuận toàn thị trường",
+          "url": "https://baodautu.vn/doanh-nghiep-bat-dong-san-keo-tang-mat-bang-loi-nhuan-toan-thi-truong-d735784.html"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "2/11",
+          "title": "Doanh nghiệp bất động sản khu công nghiệp khởi sắc",
+          "url": "https://www.tinnhanhchungkhoan.vn/doanh-nghiep-bat-dong-san-khu-cong-nghiep-khoi-sac-post400589.html"
+        }
+      ],
+      "body": "Phiên 2/11, KDH giảm 4,32% về vùng thấp nhất khoảng 12 năm, NLG giảm 3,86%, VRE giảm 4,57%, IDC giảm 4,68%; DXG (9.860 đồng) và AGG (8.700 đồng) đã dưới mệnh giá. Áp lực đến từ chi phí vốn cao (lãi vay mua nhà khoảng 8–10,5%/năm), khoảng 46.900 tỷ đồng trái phiếu nhóm bất động sản đáo hạn trong quý IV, và việc gỡ vướng pháp lý chưa kịp chuyển thành doanh thu. Mẹ Chủ tịch Novaland đăng ký bán 6,3 triệu cổ phiếu NVL từ 5/11; cổ phiếu NVL dùng để bảo đảm trái phiếu giảm giá khiến hai công ty trong nhóm phải lùi hạn bổ sung tài sản. Ngược dòng có HDC tăng trần và VIC tăng nhẹ.",
+      "heat": 4,
+      "name": "Bất động sản",
+      "reason": "Hàng loạt cổ phiếu địa ốc về đáy 3–4 năm, có mã dưới mệnh giá, trong khi cổ đông nội bộ NVL tiếp tục đăng ký bán.",
+      "source": "Dân Trí",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 6.67,
+          "code": "HDC"
+        },
+        {
+          "change": 0.41,
+          "code": "VIC"
+        },
+        {
+          "change": -1.59,
+          "code": "VHM"
+        },
+        {
+          "change": -3.86,
+          "code": "NLG"
+        },
+        {
+          "change": -4.32,
+          "code": "KDH"
+        },
+        {
+          "change": -4.57,
+          "code": "VRE"
+        }
+      ],
+      "url": "https://dantri.com.vn/bat-dong-san/nhieu-co-phieu-cua-loat-doanh-nghiep-dia-oc-ve-day-gia-bang-ly-tra-da-20261102224207807.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "time": "2/11 16:47",
+          "title": "FPT mất 120.000 tỷ vốn hóa từ màn hát \"Tái sinh\" của ông Trương Gia Bình",
+          "url": "https://cafef.vn/fpt-mat-120000-ty-von-hoa-188261102164752939.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "2/11 10:11",
+          "title": "Vì sao cổ phiếu FPT bị bán ròng?",
+          "url": "https://cafef.vn/vi-sao-co-phieu-fpt-bi-ban-rong-188261102101138474.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "2/11 trưa",
+          "title": "FPT thủng đáy 3 năm, loạt cổ phiếu bị bán tháo, VN-Index mất gần 16 điểm",
+          "url": "https://nguoiquansat.vn/fpt-thung-day-3-nam-loat-co-phieu-bi-ban-thao-vn-index-mat-gan-16-diem-325621.html"
+        },
+        {
+          "source": "Investing.com",
+          "time": "3/11",
+          "title": "Báo cáo Apple: lợi nhuận, doanh thu cao hơn trong Q4",
+          "url": "https://vn.investing.com/news/earnings/bao-cao-apple-loi-nhuan-doanh-thu-cao-hon-trong-q4-2752087"
+        },
+        {
+          "source": "TheStreet",
+          "time": "3/11 sáng (giờ VN)",
+          "title": "Stock Market Today (Nov. 2, 2026): Apple falls after posting slower earnings growth; S&P 500 falls ahead of U.S. midterms",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+        },
+        {
+          "source": "Vietstock",
+          "time": "2/11",
+          "title": "Chứng khoán châu Á hầu hết giảm điểm khi nhóm cổ phiếu công nghệ chịu sức ép",
+          "url": "https://vietstock.vn/2026/11/chung-khoan-chau-a-hau-het-giam-diem-khi-nhom-co-phieu-cong-nghe-chiu-suc-ep-773-1510016.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "1/11",
+          "title": "Cổ phiếu công nghệ Mỹ bị bán tháo, FPT, CMC, VNG có bị \"vạ lây\"?",
+          "url": "https://dantri.com.vn/kinh-doanh/co-phieu-cong-nghe-my-bi-ban-thao-fpt-cmc-vng-co-bi-va-lay-20261101112654518.htm"
+        }
+      ],
+      "body": "Đợt bán cổ phiếu công nghệ toàn cầu chưa dừng: Nasdaq giảm thêm 1,07% ngày 2/11, Apple báo doanh thu 114,48 tỷ USD và lãi 2,10 USD/cổ phiếu, đều cao hơn dự báo, nhưng cổ phiếu vẫn giảm sau giờ. Trong nước, FPT giảm 4,74% về khoảng 50.200 đồng, thấp nhất hơn 3 năm, và bị khối ngoại bán ròng khoảng 86 tỷ đồng phiên 2/11. CafeF tính FPT đã mất khoảng 120.000 tỷ đồng vốn hóa trong đợt giảm này. Lợi nhuận FPT vẫn tăng, nên đà giảm chủ yếu phản ánh việc nhà đầu tư toàn cầu định giá lại nhóm công nghệ và rủi ro của mảng dịch vụ CNTT trước làn sóng AI.",
+      "heat": 3,
+      "name": "Công nghệ",
+      "reason": "Nasdaq giảm 1,07% và Apple giảm 2,8% sau giờ dù vượt dự báo, nối dài áp lực lên FPT vốn vừa về đáy 3 năm.",
+      "source": "CafeF",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -4.74,
+          "code": "FPT"
+        }
+      ],
+      "url": "https://cafef.vn/fpt-mat-120000-ty-von-hoa-188261102164752939.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "Chuyển động Thị trường",
+          "summary": "FRT −6,99% về 138.300 đồng; khối ngoại bán ròng khoảng 250.000 cổ phiếu.",
+          "time": "2/11",
+          "title": "FPT Retail giảm sàn phiên 2/11 trong áp lực bán tháo của thị trường chung",
+          "url": "https://chuyendongthitruong.vn/fpt-retail-giam-san-phien-211-trong-ap-luc-ban-thao-cua-thi-truong-chung-348388.html"
+        },
+        {
+          "source": "Người Đưa Tin (Báo Mới)",
+          "time": "2/11",
+          "title": "FPT Retail giảm sàn phiên 2/11 trong áp lực bán tháo của thị trường chung",
+          "url": "https://baomoi.com/fpt-retail-giam-san-phien-2-11-trong-ap-luc-ban-thao-cua-thi-truong-chung-c56414242.epi"
+        },
+        {
+          "source": "HTV",
+          "summary": "Bán lẻ: FRT sàn, DGW −6,84%, MWG −2,16%; PNJ +0,65%.",
+          "time": "2/11 17:58",
+          "title": "Chứng khoán đầu tháng 11: Nhiều nhóm cổ phiếu đồng loạt giảm sâu",
+          "url": "https://htv.vn/chung-khoan-dau-thang-11-nhieu-nhom-co-phieu-dong-loat-giam-sau-222261102175840899.htm"
+        },
+        {
+          "source": "Market Times",
+          "time": "2/11",
+          "title": "Thị trường chứng khoán “rực lửa\" trong phiên đầu tuần",
+          "url": "https://markettimes.vn/thi-truong-chung-khoan-ruc-lua-trong-phien-dau-tuan-133799.html"
+        },
+        {
+          "source": "VTC News",
+          "time": "2/11",
+          "title": "VN-Index mất hơn 30 điểm, về sát mốc 1.700",
+          "url": "https://vtcnews.vn/vn-index-mat-hon-30-diem-ve-sat-moc-1-700-ar1048779.html"
+        },
+        {
+          "source": "Tiền Phong",
+          "time": "2/11",
+          "title": "Chứng khoán 'đỏ lửa', loạt cổ phiếu nằm sàn",
+          "url": "https://tienphong.vn/chung-khoan-do-lua-loat-co-phieu-nam-san-post1890811.tpo"
+        }
+      ],
+      "body": "Phiên 2/11, FRT giảm sàn 6,99% về 138.300 đồng, gần đáy 1 năm, dù quý III lãi sau thuế khoảng 559 tỷ đồng (+110%) và 9 tháng đã vượt 11% kế hoạch lợi nhuận trước thuế năm. DGW giảm 6,84%, MWG giảm 2,16%; tự doanh công ty chứng khoán bán ròng MWG khoảng 180 tỷ đồng. Diễn biến này cho thấy bán tháo theo thị trường chung đang lấn át yếu tố cơ bản ở cả những doanh nghiệp có tăng trưởng tốt.",
+      "heat": 3,
+      "name": "Bán lẻ",
+      "reason": "FRT giảm sàn, DGW giảm 6,84% dù kết quả kinh doanh quý III tích cực.",
+      "source": "Chuyển động Thị trường",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -6.99,
+          "code": "FRT"
+        },
+        {
+          "change": -6.84,
+          "code": "DGW"
+        },
+        {
+          "change": -2.16,
+          "code": "MWG"
+        }
+      ],
+      "url": "https://chuyendongthitruong.vn/fpt-retail-giam-san-phien-211-trong-ap-luc-ban-thao-cua-thi-truong-chung-348388.html"
+    }
+  ],
+  "sectorsSummary": "Đáng chú ý nhất sáng nay là năng lượng – dầu khí (giá dầu giảm gần 8% qua đêm) và vàng (thế giới bật lên quanh 3.944 USD/ounce). Bất động sản, công nghệ và bán lẻ là ba nhóm bị bán mạnh nhất phiên 2/11, có thêm tin mới qua đêm. Cao su (GVR, PHR, TRC giảm sàn phiên 2/11) và phân bón (DPM −5,15%) cũng giảm sâu nhưng không có thêm tin mới từ tối qua nên không tách thành mục riêng.",
+  "securities": {
+    "analysis": "Phiên 2/11 là phiên bán chủ động: thanh khoản tăng hơn 26%, hơn 75% số mã trên HOSE giảm và chỉ số đóng cửa sát đáy. Theo kinh nghiệm, kiểu phiên này hiếm khi là đáy ngay; thị trường thường cần thêm một vài phiên để kiểm định lại hỗ trợ (1.677–1.680 điểm là đáy tháng 10) trước khi lực cầu bắt đáy đủ mạnh. Việc khối ngoại bán ròng 7 phiên liên tiếp, nhắm vào ngân hàng và FPT – hai nhóm có tỷ trọng lớn – khiến chỉ số khó hồi bền nếu dòng vốn này chưa đảo chiều.\nBối cảnh quốc tế sáng nay có cả mặt tốt và mặt xấu. Giá dầu giảm sâu, lợi suất trái phiếu Mỹ và DXY hạ nhiệt là yếu tố hỗ trợ cho các thị trường mới nổi. Ngược lại, nhóm công nghệ toàn cầu vẫn bị bán và bầu cử giữa kỳ Mỹ có thể làm biến động tăng trong 1–2 ngày tới. Kịch bản hợp lý cho phiên 3/11 là thị trường dao động quanh 1.700 điểm, có thể có nhịp hồi kỹ thuật; nếu nhịp hồi đi kèm thanh khoản thấp thì nhiều khả năng đó chỉ là hồi ngắn trong xu hướng giảm.",
+    "articles": [
+      {
+        "source": "Vietstock",
+        "summary": "Tổng hợp nhận định CTCK: hỗ trợ 1.700, 1.680 và 1.650–1.660 điểm; đa số khuyên giữ tiền mặt cao.",
+        "time": "3/11",
+        "title": "Góc nhìn 03/11: Có thể vẫn chưa chạm đáy?",
+        "url": "https://vietstock.vn/2026/11/goc-nhin-0311-co-the-van-chua-cham-day-145-1510627.htm"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "Kirin kỳ vọng hồi về 1.750 để hạ tỷ trọng; TPBS chờ cân bằng quanh 1.677/1.651.",
+        "time": "2/11 tối",
+        "title": "Nhận định thị trường phiên giao dịch ngày 3/11: Hạn chế bắt đáy sớm",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhan-dinh-thi-truong-phien-giao-dich-ngay-311-han-che-bat-day-som-post400676.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "summary": "Kafi: nếu thủng 1.700 với thanh khoản tăng, rủi ro lùi về 1.650–1.680.",
+        "time": "2/11 tối",
+        "title": "Nhận định thị trường 3/11: VN-Index có nguy cơ lùi sâu kiểm định vùng đáy 1.650 điểm",
+        "url": "https://nguoiquansat.vn/nhan-dinh-thi-truong-3-11-vn-index-co-nguy-co-lui-sau-kiem-dinh-vung-day-1-650-diem-325755.html"
+      },
+      {
+        "source": "VnEconomy",
+        "time": "2/11 tối",
+        "title": "VN-Index giảm mạnh, thị trường tìm vùng cân bằng mới",
+        "url": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-sau-phien-ban-thao-bat-ngo-1306748.htm"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "2/11 17:38",
+        "title": "Điều gì khiến VN-Index bất ngờ mất hơn 30 điểm đầu tuần?",
+        "url": "https://tuoitre.vn/dieu-gi-khien-vn-index-bat-ngo-mat-hon-30-diem-dau-tuan-100261102173805193.htm"
+      },
+      {
+        "source": "Yahoo Finance",
+        "summary": "Dow +0,41%, S&P 500 −0,51%, Nasdaq −1,07%; dầu Brent giảm gần 8%.",
+        "time": "3/11 sáng (giờ VN)",
+        "title": "Stock market today: S&P 500 and Nasdaq extend tech sell-off, Dow gains as oil prices plunge",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+      },
+      {
+        "source": "Investing.com",
+        "summary": "EPS 2,10 USD, doanh thu 114,48 tỷ USD; cổ phiếu −2,8% sau giờ.",
+        "time": "3/11",
+        "title": "Apple vượt dự báo quý 4 tài khóa 2026 nhưng cổ phiếu giảm sau giờ giao dịch",
+        "url": "https://vn.investing.com/news/transcripts/apple-vuot-du-bao-quy-4-tai-khoa-2026-nhung-co-phieu-giam-sau-gio-giao-dich-93CH-2752169"
+      },
+      {
+        "source": "Investing.com",
+        "time": "2/11",
+        "title": "Dow Jones, Nasdaq, S&P 500: Bầu cử giữa kỳ và kết quả kinh doanh thử thách thị trường",
+        "url": "https://vn.investing.com/news/stock-market-news/dow-jones-nasdaq-sp-500-bau-cu-giua-ky-va-ket-qua-kinh-doanh-thu-thach-thi-truong-2751689"
+      },
+      {
+        "source": "Znews",
+        "time": "2/11",
+        "title": "VN-Index mất hơn 30 điểm",
+        "url": "https://znews.vn/vn-index-mat-hon-30-diem-post1693753.html"
+      },
+      {
+        "source": "Báo Đầu tư",
+        "time": "2/11",
+        "title": "Chứng khoán phiên 2/11: Điều chỉnh mạnh, VN-Index lùi về 1.710 điểm",
+        "url": "https://baodautu.vn/chung-khoan-phien-211-dieu-chinh-manh-vn-index-lui-ve-1710-diem-d735857.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "2/11",
+        "title": "Chứng khoán ngày 2/11: Áp lực bán lan rộng, VN-Index mất hơn 30 điểm",
+        "url": "https://thoibaotaichinhvietnam.vn/chung-khoan-ngay-2-11-ap-luc-ban-lan-rong-vn-index-mat-hon-30-diem-206280.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "2/11",
+        "title": "VN-Index rút chân sau khi thủng mốc 1.700 điểm, 30 cổ phiếu nằm sàn",
+        "url": "https://nguoiquansat.vn/vn-index-rut-chan-sau-khi-thung-moc-1-700-diem-30-co-phieu-nam-san-325621.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "2/11 tối",
+        "title": "Chứng khoán phái sinh ngày 03/11/2026: Khối lượng toàn thị trường tăng mạnh trở lại",
+        "url": "https://vietstock.vn/2026/11/chung-khoan-phai-sinh-ngay-03112026-khoi-luong-toan-thi-truong-tang-manh-tro-lai-1636-1510348.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "2/11 tối",
+        "title": "Thị trường chứng quyền ngày 03/11/2026: Tiếp tục áp đảo",
+        "url": "https://vietstock.vn/2026/11/thi-truong-chung-quyen-ngay-03112026-tiep-tuc-ap-dao-1636-1510379.htm"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "NVL, PNJ có người nhà lãnh đạo bán/giải chấp; DVV chốt quyền tạm ứng cổ tức 25% ngày 12/11.",
+        "time": "2/11 tối",
+        "title": "Sự kiện chứng khoán đáng chú ý ngày 3/11",
+        "url": "https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-311-post400677.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "2/11 tối",
+        "title": "Cổ phiếu cần quan tâm ngày 3/11",
+        "url": "https://www.tinnhanhchungkhoan.vn/co-phieu-can-quan-tam-ngay-311-post400682.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "2/11 tối",
+        "title": "Cổ phiếu đáng chú ý ngày 3/11: HDC, ANV, VCG",
+        "url": "https://nguoiquansat.vn/co-phieu-dang-chu-y-ngay-3-11-hdc-anv-vcg-325756.html"
+      },
+      {
+        "source": "Nhịp sống Kinh doanh",
+        "time": "2/11",
+        "title": "Hàng loạt Chứng khoán xuống đáy 1 năm ngay đầu tháng 11/2026",
+        "url": "https://nhipsongkinhdoanh.vn/nhieu-co-phieu-chung-khoan-xuong-day-1-nam-34684.htm"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "2/11",
+        "title": "Nhiều nhóm cổ phiếu đang ‘đổ bê tông’ vùng đáy, chuyên gia hé lộ thời điểm vàng gia tăng tỷ trọng",
+        "url": "https://nguoiquansat.vn/nhieu-nhom-co-phieu-dang-do-be-tong-vung-day-chuyen-gia-he-lo-thoi-diem-vang-gia-tang-ty-trong-325726.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "2/11",
+        "title": "Chứng khoán đối diện nhiều biến số, 3 kịch bản cho VN-Index trong tháng 11",
+        "url": "https://nguoiquansat.vn/chung-khoan-doi-dien-nhieu-bien-so-3-kich-ban-cho-vn-index-trong-thang-11-325587.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "2/11",
+        "title": "HOSE: Điểm tin giao dịch ngày 02/11/2026",
+        "url": "https://cafef.vn/du-lieu/hose-3012769/hose-diem-tin-giao-dich-ngay-02112026.chn"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -30.9,
+        "changeText": "−30,90 (−1,77%)",
+        "label": "VN-Index (2/11)",
+        "note": "Đóng cửa sát đáy phiên; dưới MA10, MA20",
+        "unit": "điểm",
+        "value": "1.710,72"
+      },
+      {
+        "changeText": "−0,9%",
+        "label": "HNX-Index (2/11)",
+        "unit": "điểm",
+        "value": "250,55"
+      },
+      {
+        "label": "Khối ngoại (2/11)",
+        "note": "Bán ròng phiên thứ 7 liên tiếp",
+        "unit": "tỷ đồng",
+        "value": "≈ −450"
+      },
+      {
+        "change": 213.67,
+        "changeText": "+213,67 (+0,41%)",
+        "label": "Dow Jones (2/11)",
+        "unit": "điểm",
+        "value": "51.983,98"
+      },
+      {
+        "change": -38.67,
+        "changeText": "−38,67 (−0,51%)",
+        "label": "S&P 500 (2/11)",
+        "unit": "điểm",
+        "value": "7.541,40"
+      },
+      {
+        "change": -272.63,
+        "changeText": "−272,63 (−1,07%)",
+        "label": "Nasdaq (2/11)",
+        "note": "Lợi suất TPCP Mỹ 10 năm ~4,89%",
+        "unit": "điểm",
+        "value": "25.164,36"
+      }
+    ],
+    "news": [
+      {
+        "body": "Tổng hợp của Vietstock cho thấy nhiều công ty chứng khoán nhắm vùng 1.680 điểm (Yuanta, VCBS, PHS), xa hơn là 1.650–1.660 điểm (đáy tháng 7). Yuanta khuyến nghị hạ tỷ trọng cổ phiếu về khoảng 30%; VCBS, PHS khuyên tăng tiền mặt, giảm margin (vay ký quỹ).",
+        "impact": "tieu-cuc",
+        "source": "Vietstock",
+        "title": "Công ty chứng khoán: VN-Index có thể chưa chạm đáy",
+        "url": "https://vietstock.vn/2026/11/goc-nhin-0311-co-the-van-chua-cham-day-145-1510627.htm"
+      },
+      {
+        "body": "Ngày 2/11, Dow tăng 0,41% lên 51.983,98 điểm trong khi S&P 500 giảm 0,51% và Nasdaq giảm 1,07% do nhóm công nghệ tiếp tục bị bán. Giá dầu giảm gần 8% giúp cổ phiếu ngành truyền thống được hỗ trợ. Mỹ bầu cử giữa kỳ ngày 3/11.",
+        "impact": "trung-tinh",
+        "source": "Yahoo Finance",
+        "title": "Phố Wall phân hóa trước bầu cử giữa kỳ, Nasdaq giảm hơn 1%",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+      },
+      {
+        "body": "Apple báo lãi 2,10 USD/cổ phiếu và doanh thu 114,48 tỷ USD trong quý 4 tài khóa 2026, đều cao hơn dự báo. Dù vậy, cổ phiếu giảm 2,8% sau giờ xuống 328,85 USD, cho thấy tâm lý thận trọng với nhóm công nghệ chưa dứt.",
+        "impact": "tieu-cuc",
+        "source": "Investing.com",
+        "title": "Apple vượt dự báo nhưng cổ phiếu giảm sau giờ giao dịch",
+        "url": "https://vn.investing.com/news/transcripts/apple-vuot-du-bao-quy-4-tai-khoa-2026-nhung-co-phieu-giam-sau-gio-giao-dich-93CH-2752169"
+      },
+      {
+        "body": "Chứng khoán Kirin (CSI) cho rằng chỉ số có thể hồi về 1.750 điểm và khuyên dùng nhịp hồi để hạ tỷ trọng. TPBS khuyên chờ tín hiệu cân bằng quanh 1.677 hoặc 1.651 điểm. Chứng khoán Asean lưu ý RSI và MFI (hai chỉ báo động lượng) đều dưới 40.",
+        "impact": "tieu-cuc",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "Nhận định 3/11: Hạn chế bắt đáy sớm",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhan-dinh-thi-truong-phien-giao-dich-ngay-311-han-che-bat-day-som-post400676.html"
+      },
+      {
+        "body": "Mẹ Chủ tịch Novaland đăng ký bán 6,3 triệu cổ phiếu NVL từ 5/11 đến 16/11, NovaGroup đăng ký bán hơn 3,1 triệu cổ phiếu. Con gái Chủ tịch PNJ bị bán giải chấp hơn 1,83 triệu cổ phiếu ngày 30/10. Ở chiều ngược lại, vợ Chủ tịch VDS đăng ký mua 4 triệu cổ phiếu.",
+        "impact": "trung-tinh",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "Tâm điểm sự kiện: người nhà lãnh đạo NVL, PNJ bán cổ phiếu",
+        "url": "https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-311-post400677.html"
+      }
+    ],
+    "summary": "VN-Index đóng phiên 2/11 ở 1.710,72 điểm (−30,90 điểm, −1,77%), gần mức thấp nhất phiên, và khối ngoại bán ròng khoảng 450 tỷ đồng, phiên thứ 7 liên tiếp. Đêm qua phố Wall phân hóa: Dow tăng 0,41% nhờ dòng tiền rời nhóm công nghệ, còn Nasdaq giảm 1,07% và cổ phiếu Apple giảm thêm 2,8% sau giờ giao dịch. Phần lớn công ty chứng khoán khuyên chưa vội bắt đáy, với các vùng hỗ trợ 1.700, 1.677–1.680 và 1.650 điểm.",
+    "watch": [
+      "VN-Index giữ được 1.700 điểm hay lùi về vùng 1.677–1.680 điểm",
+      "Thanh khoản: nếu giảm mạnh so với phiên 2/11 là dấu hiệu bên bán đã chậm lại",
+      "Khối ngoại có dừng chuỗi 7 phiên bán ròng không, đặc biệt ở ngân hàng và FPT",
+      "Kết quả bầu cử giữa kỳ Mỹ và phản ứng của Nasdaq",
+      "Nhóm dầu khí phản ứng với cú giảm gần 8% của giá dầu"
+    ]
+  },
+  "session": "sang",
+  "updatedAt": "2026-11-03T06:53:08+07:00"
+}

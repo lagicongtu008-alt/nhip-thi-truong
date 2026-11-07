@@ -1,0 +1,117 @@
+{
+  "anomalies": [
+    {
+      "date": "19/10",
+      "detail": "Phiên 19/10 khối ngoại tiếp tục bán ròng khoảng 850 tỷ đồng. Tính từ khi Việt Nam được nâng hạng lên thị trường mới nổi, VN-Index đã mất khoảng 110 điểm và dòng vốn ngoại chưa đổi chiều như kỳ vọng.",
+      "sector": "Khối ngoại",
+      "signal": "cao",
+      "source": "CafeF",
+      "title": "Một tháng sau nâng hạng, khối ngoại bán ròng gần 1 tỷ USD",
+      "url": "https://cafef.vn/khoi-ngoai.html",
+      "why": "Nâng hạng chưa mang lại dòng tiền ngay lập tức. Dòng vốn thụ động thường chỉ vào khi chỉ số chính thức điều chỉnh tỷ trọng, nên nhà đầu tư không nên mua chỉ vì câu chuyện nâng hạng."
+    },
+    {
+      "date": "20/10",
+      "detail": "Buổi chiều, chỉ số rơi xuống dưới 1.680 điểm do VHM giảm hơn 4%. Lực bắt đáy vào phút cuối kéo VN-Index đóng cửa ở 1.691,97 (+0,13%), nhờ HPG và TCB.",
+      "sector": "Thị trường chung",
+      "signal": "trung-binh",
+      "source": "Thị trường Tài chính Tiền tệ",
+      "title": "VN-Index thủng 1.680 điểm trong phiên rồi hồi phục kịch tính",
+      "url": "https://thitruongtaichinhtiente.vn/vn-index-phuc-hoi-kich-tinh-cuoi-phien-20-10-thu-hep-da-giam-nho-hpg-va-tcb-86435.html",
+      "why": "Đây là dấu hiệu lực cầu bắt đáy xuất hiện ở vùng hỗ trợ, tạo tiền đề cho chuỗi bốn phiên tăng sau đó."
+    },
+    {
+      "date": "21/10",
+      "detail": "VIC, VHM, VRE, NLG, HDC và DXS cùng tăng trần. Toàn thị trường có 492 mã tăng, 45 mã tăng trần, thanh khoản gần 22.000 tỷ đồng. Khối ngoại mua ròng khoảng 160 tỷ, chấm dứt chuỗi bán ròng kéo dài.",
+      "sector": "Bất động sản",
+      "signal": "cao",
+      "source": "DNSE",
+      "title": "Bất động sản đồng loạt tăng trần, VN-Index tăng gần 47 điểm",
+      "url": "https://www.dnse.com.vn/senses/tin-tuc/nhom-bat-dong-san-dong-khoi-keo-vn-index-tang-gan-47-diem-35288873",
+      "why": "Phiên tăng mạnh nhất trong nhiều tuần, nhưng phụ thuộc lớn vào nhóm Vingroup. Nếu nhóm này chững lại, chỉ số sẽ mất động lực chính."
+    },
+    {
+      "date": "21–22/10",
+      "detail": "Iran cho biết thủy lôi đã chặn ba tàu dầu ở eo Hormuz, còn lực lượng Houthi nhận tấn công các cơ sở dầu của Saudi. Brent có lúc tăng 4% lên khoảng 113 USD/thùng. Cước vận chuyển dầu thô gấp khoảng 7 lần cùng kỳ.",
+      "sector": "Dầu khí",
+      "signal": "cao",
+      "source": "Vietstock",
+      "title": "Brent vượt 110 USD/thùng vì thủy lôi ở Hormuz và tấn công vào Saudi Aramco",
+      "url": "https://vietstock.vn/2026/10/dau-brent-dao-dong-quanh-109-usdthung-34-1505377.htm",
+      "why": "Giá năng lượng cao làm tăng lạm phát toàn cầu và đẩy kỳ vọng Fed tăng lãi suất, bất lợi cho tỷ giá và dòng vốn vào Việt Nam. Ngược lại, cổ phiếu dầu khí và vận tải dầu được hưởng lợi ngắn hạn."
+    },
+    {
+      "date": "22/10",
+      "detail": "Từ 15h ngày 22/10, xăng E5RON92 giảm 1.610 đồng/lít và RON95 giảm 1.816 đồng/lít. Diesel tăng 444 đồng/lít lên 29.550 đồng, mazut tăng 1.238 đồng/kg.",
+      "sector": "Hàng hóa",
+      "signal": "trung-binh",
+      "source": "VOH",
+      "title": "Giá xăng giảm mạnh nhưng giá dầu diesel lại tăng",
+      "url": "https://voh.com.vn/kinh-te/bat-song-thi-truong-2310-vn-index-tang-126-len-176063-diem-gia-xang-giam-hon-1600-donglit-675175.html",
+      "why": "Diesel là nhiên liệu chính của vận tải và sản xuất, nên chi phí logistics vẫn tăng dù giá xăng bán lẻ giảm. Doanh nghiệp vận tải và các ngành tốn nhiều nhiên liệu cần được theo dõi."
+    },
+    {
+      "date": "23/10",
+      "detail": "Vàng thế giới về quanh 4.007 USD/ounce, thấp nhất hai tháng. Vàng miếng SJC chỉ giảm nhẹ về 139–142 triệu đồng/lượng, nên chênh lệch với giá thế giới tăng từ khoảng 12 lên 16 triệu đồng.",
+      "sector": "Vàng",
+      "signal": "trung-binh",
+      "source": "VnExpress",
+      "title": "Vàng thế giới mất gần 180 USD trong 5 ngày, chênh lệch SJC vọt lên 16 triệu",
+      "url": "https://vnexpress.net/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-len-16-trieu-dong-5135985.html",
+      "why": "Khi chênh lệch trong nước và thế giới quá lớn, người mua vàng miếng chịu rủi ro kép: giá thế giới giảm thêm và khoảng chênh bị thu hẹp."
+    },
+    {
+      "date": "23/10",
+      "detail": "PGBank và Saigonbank là hai ngân hàng mới nhất giảm 0,5 điểm phần trăm. Mức 12 tháng cao nhất vẫn ở vùng 7–7,1%/năm.",
+      "sector": "Ngân hàng",
+      "signal": "trung-binh",
+      "source": "Báo Nghệ An",
+      "title": "22 ngân hàng đã hạ lãi suất huy động",
+      "url": "https://baonghean.vn/lai-suat-huy-dong-ngay-23102026-pgbank-va-saigonbank-giam-05-diem-phan-tram-nhieu-ky-han-10354179.html",
+      "why": "Lãi suất giảm giúp hạ chi phí vốn cho ngân hàng và doanh nghiệp, thường hỗ trợ chứng khoán. Tuy vậy, mặt bằng 7% vẫn cao, và nếu Fed thắt chặt thì đà giảm có thể bị chặn lại."
+    },
+    {
+      "date": "20–23/10",
+      "detail": "VIX giảm khoảng 93% do tự doanh thua lỗ, VNDirect giảm khoảng 65%, SSI giảm 27%. Doanh thu môi giới giảm 60–70% khi thanh khoản quý 3 giảm 57,6% so với cùng kỳ. TCBS là ngoại lệ, tăng khoảng 6% nhờ cho vay ký quỹ.",
+      "sector": "Chứng khoán",
+      "signal": "trung-binh",
+      "source": "CafeF",
+      "title": "Công ty chứng khoán báo lãi quý 3 giảm mạnh",
+      "url": "https://cafef.vn/thi-truong-am-dam-cong-ty-chung-khoan-lam-an-ra-sao-188261023072835847.chn",
+      "why": "Lợi nhuận ngành chứng khoán phụ thuộc vào thanh khoản. Chừng nào thanh khoản chưa hồi phục, nhóm này khó tăng bền vững dù giá cổ phiếu đã giảm sâu."
+    }
+  ],
+  "headline": "VN-Index bật 4% từ đáy 1.680, nhưng khối ngoại vẫn rút và giá dầu trở thành rủi ro lớn nhất",
+  "key": "2026-W43",
+  "label": "Tuần 19–23/10/2026",
+  "outlook": "Kịch bản chính là VN-Index dao động trong vùng 1.740–1.800 điểm, với áp lực chốt lời khi tiến gần 1.800. Tâm điểm là cuộc họp Fed ngày 27–28/10: thị trường kỳ vọng Fed giữ nguyên lãi suất lần này, nhưng đang đặt khoảng 80% khả năng tăng vào tháng 12. Mùa báo cáo quý 3 sẽ tiếp tục phân hóa cổ phiếu, nên ưu tiên doanh nghiệp có kết quả tốt và tránh mua đuổi ở vùng kháng cự.",
+  "risks": [
+    "Fed phát tín hiệu thắt chặt mạnh hơn dự kiến, khiến USD tăng và khối ngoại bán ròng mạnh trở lại",
+    "Giá dầu tiếp tục leo thang nếu căng thẳng ở eo Hormuz lan rộng",
+    "Đà tăng phụ thuộc vào nhóm Vingroup: một nhịp điều chỉnh của nhóm này có thể kéo cả chỉ số giảm",
+    "Thanh khoản thấp khiến đà tăng dễ đảo chiều"
+  ],
+  "summary": "VN-Index đóng tuần ở 1.774,15 điểm, tăng 68,24 điểm (+4%). Thị trường chạm vùng 1.680 hôm 20/10 rồi tăng bốn phiên liên tiếp, với cú bật gần 47 điểm ngày 21/10 nhờ nhóm Vingroup.\nĐà tăng chủ yếu đến từ một số ít cổ phiếu vốn hóa lớn. Khối ngoại bán ròng khoảng 1.000 tỷ đồng trong tuần, thanh khoản vẫn thấp hơn nhiều so với cùng kỳ. Bên ngoài, giá dầu Brent vượt 110 USD/thùng vì căng thẳng ở eo Hormuz, làm tăng kỳ vọng Fed thắt chặt trở lại.",
+  "themes": [
+    {
+      "body": "Bốn phiên tăng liên tiếp đưa VN-Index trở lại vùng kháng cự 1.770–1.800, nhưng độ rộng thị trường thu hẹp dần trong tuần. Đà tăng dựa vào VIC và ngân hàng, trong khi phần lớn cổ phiếu vừa và nhỏ đi ngang hoặc giảm.",
+      "title": "Hồi phục kỹ thuật, dòng tiền chưa lan tỏa"
+    },
+    {
+      "body": "VPBank và Techcombank lập kỷ lục lợi nhuận quý. Lãi suất huy động đang được hạ đồng loạt. Đây là nhóm có nền tảng kinh doanh vững nhất hiện tại, dù khối ngoại vẫn bán chọn lọc ở ACB và STB.",
+      "title": "Ngân hàng: lợi nhuận tốt, chi phí vốn giảm"
+    },
+    {
+      "body": "Căng thẳng ở vùng Vịnh đẩy giá dầu và cước vận tải tăng vọt. Nếu kéo dài, lạm phát nhập khẩu sẽ tăng, gây áp lực lên tỷ giá và hạn chế dư địa giảm lãi suất trong nước.",
+      "title": "Năng lượng là biến số vĩ mô lớn nhất"
+    }
+  ],
+  "updatedAt": "2026-10-23T19:40:00+07:00",
+  "watchlist": [
+    "27–28/10: Fed họp chính sách tiền tệ",
+    "Các ngân hàng lớn (VCB, CTG, BID, MBB) công bố báo cáo tài chính quý 3",
+    "Kỳ điều hành giá xăng dầu tiếp theo",
+    "Đầu tháng 11: Tổng cục Thống kê công bố số liệu kinh tế tháng 10 (CPI, xuất khẩu, FDI)",
+    "Vùng kháng cự 1.780–1.800 và hỗ trợ 1.700 của VN-Index"
+  ]
+}

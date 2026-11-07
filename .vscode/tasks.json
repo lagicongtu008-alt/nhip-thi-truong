@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Xem trang (server)", "type": "shell", "command": "python server.py", "isBackground": true, "problemMatcher": [] },
+    { "label": "Soạn bản tin (tự chọn buổi)", "type": "shell", "command": "python scripts/collect.py", "problemMatcher": [] },
+    { "label": "Soạn bản tin sáng", "type": "shell", "command": "python scripts/collect.py --session sang --force", "problemMatcher": [] },
+    { "label": "Soạn bản tin chiều", "type": "shell", "command": "python scripts/collect.py --session chieu --force", "problemMatcher": [] },
+    { "label": "Xem đề bài (dry run)", "type": "shell", "command": "python scripts/collect.py --dry-run --force", "problemMatcher": [] },
+    { "label": "Kiểm tra dữ liệu", "type": "shell", "command": "python scripts/validate.py", "problemMatcher": [], "group": "test" },
+    { "label": "Tạo lại index.json", "type": "shell", "command": "python scripts/build_index.py", "problemMatcher": [] }
+  ]
+}

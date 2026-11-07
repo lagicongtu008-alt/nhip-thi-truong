@@ -1,0 +1,49 @@
+{
+  "window_hours": 24,
+  "max_items_per_source": 60,
+  "request_timeout": 20,
+  "keep_reports": 60,
+
+  "ai": {
+    "enabled": true,
+    "model": "claude-opus-5-5",
+    "effort": "medium",
+    "max_articles": 120
+  },
+
+  "sources": [
+    {"name": "VnExpress Kinh doanh", "url": "https://vnexpress.net/rss/kinh-doanh.rss", "lang": "vi"},
+    {"name": "CafeF Chứng khoán", "url": "https://cafef.vn/thi-truong-chung-khoan.rss", "lang": "vi"},
+    {"name": "CafeF Tài chính - Ngân hàng", "url": "https://cafef.vn/tai-chinh-ngan-hang.rss", "lang": "vi"},
+    {"name": "CafeF Vĩ mô - Đầu tư", "url": "https://cafef.vn/vi-mo-dau-tu.rss", "lang": "vi"},
+    {"name": "Vietstock Cổ phiếu", "url": "https://vietstock.vn/830/chung-khoan/co-phieu.rss", "lang": "vi"},
+    {"name": "VnEconomy Chứng khoán", "url": "https://vneconomy.vn/chung-khoan.rss", "lang": "vi"},
+    {"name": "Tuổi Trẻ Kinh doanh", "url": "https://tuoitre.vn/rss/kinh-doanh.rss", "lang": "vi"},
+    {"name": "Thanh Niên Kinh tế", "url": "https://thanhnien.vn/rss/kinh-te.rss", "lang": "vi"},
+    {"name": "Dân trí Kinh doanh", "url": "https://dantri.com.vn/rss/kinh-doanh.rss", "lang": "vi"},
+    {"name": "CNBC Finance", "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html", "lang": "en"},
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en"}
+  ],
+
+  "topics": {
+    "Chứng khoán": ["chứng khoán", "cổ phiếu", "vn-index", "vnindex", "vn30", "hose", "hnx", "upcom", "khối ngoại", "thanh khoản", "niêm yết", "cổ tức", "phiên giao dịch", "trái phiếu", "chứng chỉ quỹ", "stock", "stocks", "shares", "nasdaq", "dow jones", "s&p 500", "wall street", "bond"],
+    "Ngân hàng & lãi suất": ["ngân hàng", "lãi suất", "tín dụng", "nợ xấu", "nhnn", "ngân hàng nhà nước", "tiền gửi", "cho vay", "fed", "interest rate", "central bank", "bank", "banks", "lending"],
+    "Bất động sản": ["bất động sản", "nhà ở", "căn hộ", "chung cư", "đất nền", "khu công nghiệp", "nhà ở xã hội", "giá đất", "sử dụng đất", "sổ đỏ", "quy hoạch", "khu đô thị", "real estate", "housing", "property", "mortgage"],
+    "Hạ tầng & giao thông": ["hạ tầng", "cao tốc", "metro", "đường sắt", "sân bay", "cảng biển", "hàng không", "đường bay", "giải phóng mặt bằng", "vành đai", "xây cầu", "cầu vượt", "logistics", "container", "đầu tư công", "airline", "airlines", "shipping", "infrastructure"],
+    "Tiêu dùng & bán lẻ": ["giá cả", "bán lẻ", "tiêu dùng", "siêu thị", "thực phẩm", "rau củ", "du lịch", "du khách", "mua sắm", "không tiền mặt", "thương mại điện tử", "retail", "consumer", "consumers", "spending", "shoppers", "retailer"],
+    "Vàng & tỷ giá": ["giá vàng", "vàng miếng", "vàng nhẫn", "sjc", "tỷ giá", "đồng usd", "ngoại tệ", "đô la", "gold", "dollar", "currency", "yen", "euro"],
+    "Năng lượng & hàng hóa": ["xăng", "giá dầu", "dầu thô", "giá điện", "than", "lng", "opec", "cà phê", "gạo", "thép", "phân bón", "cao su", "oil", "crude", "commodities", "copper"],
+    "Vĩ mô & chính sách": ["gdp", "lạm phát", "cpi", "xuất khẩu", "nhập khẩu", "fdi", "đầu tư công", "ngân sách", "thuế", "thuế quan", "chính phủ", "quốc hội", "nghị định", "thủ tướng", "bộ tài chính", "tăng trưởng kinh tế", "grdp", "việc làm", "lao động", "inflation", "budget", "income tax", "jobs", "tariff", "tariffs", "economy", "recession", "gdp growth", "jobs report"],
+    "Doanh nghiệp": ["doanh nghiệp", "lợi nhuận", "doanh thu", "kết quả kinh doanh", "báo lãi", "tập đoàn", "ctcp", "thương vụ", "m&a", "sáp nhập", "ipo", "earnings", "revenue", "profit", "merger", "acquisition", "ceo"],
+    "Công nghệ & tài sản số": ["công nghệ", "trí tuệ nhân tạo", "chip", "bán dẫn", "fintech", "tài sản số", "tiền số", "tiền mã hóa", "bitcoin", "crypto", "startup", "nvidia", "tech", "artificial intelligence"]
+  },
+
+  "sentiment": {
+    "positive": ["tăng trưởng", "khởi sắc", "phục hồi", "hồi phục", "bứt phá", "kỷ lục", "tích cực", "thặng dư", "nâng hạng", "lãi lớn", "báo lãi", "lợi nhuận tăng", "tăng mạnh", "tăng điểm", "vượt kế hoạch", "mở rộng", "hưởng lợi", "hạ lãi suất", "giảm lãi suất", "ổn định", "thu hút", "surge", "rally", "gain", "gains", "record", "growth", "beat", "rebound", "soar", "upgrade", "optimism"],
+    "negative": ["giảm mạnh", "giảm điểm", "sụt", "sụt giảm", "lao dốc", "thua lỗ", "báo lỗ", "lỗ", "bán tháo", "rủi ro", "vi phạm", "bị phạt", "xử phạt", "khởi tố", "bắt giam", "nợ xấu", "phá sản", "suy thoái", "căng thẳng", "bất ổn", "đóng băng", "thâm hụt", "lạm phát tăng", "cảnh báo", "điều tra", "giải thể", "tháo chạy", "fall", "falls", "drop", "plunge", "slump", "loss", "losses", "crisis", "fear", "selloff", "sell-off", "recession", "warning", "probe", "bankruptcy", "layoffs"]
+  },
+
+  "keyword_stoplist": ["tiếp tục", "sử dụng", "chuyên gia", "phát triển", "thị trường", "việt nam", "kinh tế", "tài chính", "đầu tư", "doanh nghiệp", "quốc tế", "chủ tịch", "dự án", "tp hcm", "tp.hcm", "hà nội", "nhà đầu tư", "giá cả", "mới nhất", "tin tức", "không thể", "bất ngờ", "công bố", "yêu cầu", "kinh doanh", "áp lực", "hôm nay"],
+
+  "watch_tickers": ["ACB", "BCM", "BID", "BVH", "CTG", "FPT", "GAS", "GVR", "HDB", "HPG", "LPB", "MBB", "MSN", "MWG", "PLX", "SAB", "SHB", "SSB", "SSI", "STB", "TCB", "TPB", "VCB", "VHM", "VIB", "VIC", "VJC", "VNM", "VPB", "VRE", "DGC", "VND", "VCI", "HCM", "DIG", "DXG", "NVL", "PDR", "KBC", "GEX", "EIB", "PNJ", "REE", "POW", "DPM", "DCM", "VHC", "KDH", "NLG", "VIX"]
+}

@@ -1,0 +1,8 @@
+{
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "python.analysis.extraPaths": ["${workspaceFolder}/scripts"],
+  "[json]": { "editor.tabSize": 1 },
+  "json.schemas": []
+}

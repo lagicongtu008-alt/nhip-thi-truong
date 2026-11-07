@@ -1,0 +1,1035 @@
+{
+  "banking": {
+    "analysis": "Ngân hàng đang được hỗ trợ bởi hai yếu tố cùng lúc. Thứ nhất là mùa báo cáo quý 3 khả quan: VPBankS dự báo lợi nhuận sau thuế quý 3 của nhóm ngân hàng họ theo dõi tăng khoảng 17,7% so với cùng kỳ, dù thấp hơn quý 2. Thứ hai là chi phí vốn có dấu hiệu giảm khi lãi suất huy động được hạ đồng loạt.\nRủi ro nằm ở dòng vốn ngoại. Khối ngoại bán ròng ACB gần 470 tỷ trong một phiên, và việc phân hóa (bán ACB, STB; mua TCB, CTG) cho thấy họ đang tái cơ cấu danh mục chứ chưa quay lại mua ròng cả ngành. Sacombank được dự báo là ngân hàng duy nhất giảm lợi nhuận quý 3 (khoảng −50%) do đang tái cơ cấu, nên đà tăng trần của STB mang yếu tố kỳ vọng nhiều hơn là kết quả kinh doanh.",
+    "articles": [
+      {
+        "source": "Người Quan Sát",
+        "summary": "BAOVIET Bank (lãi quý 3 −41%) và PGBank (quý 3 −10%) là hai ngân hàng giảm lãi; SHB ước lãi 9 tháng 14.300 tỷ.",
+        "time": "23/10",
+        "title": "Cập nhật lợi nhuận ngân hàng quý III ngày 23/10: VPBank tạm dẫn đầu, 2 nhà băng báo lãi giảm",
+        "url": "https://nguoiquansat.vn/cap-nhat-loi-nhuan-ngan-hang-quy-iii-ngay-23-10-vpbank-tam-dan-dau-2-nha-bang-bao-lai-giam-323778.html"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "23/10",
+        "title": "Cổ phiếu Sacombank bất ngờ trần tím, PNJ bị bán mạnh",
+        "url": "https://tuoitre.vn/co-phieu-sacombank-bat-ngo-tran-tim-pnj-bi-ban-manh-100261023153554.htm"
+      },
+      {
+        "source": "Znews",
+        "time": "23/10",
+        "title": "Cổ phiếu Sacombank 'cháy hàng'",
+        "url": "https://znews.vn/co-phieu-sacombank-chay-hang-post1691541.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "23/10",
+        "title": "Khối ngoại bán ròng ACB gần 470 tỷ đồng, dòng vốn phân hóa mạnh ở nhóm ngân hàng",
+        "url": "https://thoibaotaichinhvietnam.vn/khoi-ngoai-ban-rong-acb-gan-470-ty-dong-dong-von-phan-hoa-manh-o-nhom-ngan-hang-205864.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Tiền chảy mạnh vào nhóm ngân hàng, VN-Index đảo chiều tăng trong phiên chiều 23/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/tien-chay-manh-vao-nhom-ngan-hang-vn-index-dao-chieu-tang-trong-phien-chieu-2310-post400097.html"
+      },
+      {
+        "source": "VnExpress",
+        "time": "23/10",
+        "title": "Chứng khoán hôm nay 23/10: Dòng tiền đổ vào cổ phiếu ngân hàng",
+        "url": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "23/10",
+        "title": "Lãi suất ngân hàng hôm nay 23/10/2026: Thêm 2 nhà băng giảm lãi suất",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-23-10-2026-them-2-nha-bang-giam-lai-suat-2567640.html"
+      },
+      {
+        "source": "Báo Nghệ An",
+        "time": "23/10",
+        "title": "Lãi suất huy động ngày 23/10/2026: PGBank và Saigonbank giảm 0,5 điểm phần trăm nhiều kỳ hạn",
+        "url": "https://baonghean.vn/lai-suat-huy-dong-ngay-23102026-pgbank-va-saigonbank-giam-05-diem-phan-tram-nhieu-ky-han-10354179.html"
+      },
+      {
+        "source": "Ngôi Sao",
+        "time": "23/10",
+        "title": "Lãi suất ngân hàng hôm nay 23/10/2026: Ông lớn điều chỉnh mạnh, ngân hàng nào có lãi suất cao nhất khi gửi 12 tháng?",
+        "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/lai-suat-ngan-hang-hom-nay-23-10-2026-ong-lon-dieu-chinh-manh-ngan-hang-nao-co-lai-suat-cao-nhat-khi-gui-tiet-kiem-12-thang-d494431.html"
+      },
+      {
+        "source": "Index.vn",
+        "time": "23/10",
+        "title": "Lãi suất ngân hàng hôm nay 23/10/2026: Ngân hàng nào vẫn giữ lãi suất 7%/năm?",
+        "url": "https://index.vn/tin-tuc/lai-suat-ngan-hang-hom-nay-23-10-2026-ngan-hang-nao-van-giu-lai-suat-7-nam"
+      },
+      {
+        "source": "Kinh tế Chứng khoán",
+        "time": "23/10",
+        "title": "Lãi suất ngân hàng hôm nay 23/10: Biểu lãi đổi nhanh, kỳ hạn 12 tháng giữ lợi thế",
+        "url": "https://kinhtechungkhoan.vn/lai-suat-ngan-hang-hom-nay-2310-bieu-lai-doi-nhanh-ky-han-12-thang-giu-loi-the"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "23/10",
+        "title": "Ngày 23/10: Tỷ giá trung tâm giảm 5 đồng",
+        "url": "https://thitruongtaichinhtiente.vn/ngay-23-10-ty-gia-trung-tam-giam-5-dong-86512.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "23/10",
+        "title": "Sáng 23/10: Tỷ giá trung tâm giảm 5 đồng",
+        "url": "https://thoibaonganhang.vn/sang-2310-ty-gia-trung-tam-giam-5-dong-189527.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "23/10",
+        "title": "Tỷ giá USD hôm nay 23/10: USD ngân hàng đồng loạt giảm, DXY lùi về vùng thấp nhất ba tuần",
+        "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-23-10-usd-ngan-hang-dong-loat-giam-dxy-lui-ve-vung-thap-nhat-ba-tuan-205793.html"
+      },
+      {
+        "source": "Thanh Niên",
+        "time": "23/10",
+        "title": "Giá USD hôm nay 23.10.2026: Trượt giảm chưa có điểm dừng",
+        "url": "https://thanhnien.vn/gia-usd-hom-nay-23102026-truot-giam-chua-co-diem-dung-185261023084935342.htm"
+      },
+      {
+        "source": "VOH",
+        "time": "23/10",
+        "title": "Tỷ giá hôm nay 23/10: USD xuống mức 25.627 VND",
+        "url": "https://voh.com.vn/ty-gia/ty-gia-hom-nay-2310-usd-xuong-muc-25627-vnd-675207.html"
+      },
+      {
+        "source": "Kinh tế Chứng khoán",
+        "time": "23/10",
+        "title": "Tỷ giá USD hôm nay 23/10: Giá ngân hàng trái chiều, USD tự do giữ mốc 26.100 đồng",
+        "url": "https://kinhtechungkhoan.vn/ty-gia-usd-hom-nay-2310-gia-ngan-hang-trai-chieu-usd-tu-do-giu-moc-26100-dong"
+      },
+      {
+        "source": "BNews",
+        "time": "23/10",
+        "title": "Tỷ giá hôm nay 23/10: Giá USD và NDT tiếp đà đi xuống",
+        "url": "https://bnews.vn/ty-gia-hom-nay-23-10-gia-usd-va-ndt-tiep-da-di-xuong/441595.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "23/10",
+        "title": "Tỷ giá hôm nay 23/10: USD giảm thêm 10 đồng, tỷ giá trung tâm đi xuống",
+        "url": "https://nguoiquansat.vn/ty-gia-hom-nay-23-10-usd-giam-them-10-dong-ty-gia-trung-tam-di-xuong-323645.html"
+      },
+      {
+        "source": "Index.vn",
+        "time": "23/10",
+        "title": "Tỷ giá ngày hôm nay 23/10/2026: Đồng USD giảm, thị trường chờ tín hiệu mới từ Fed",
+        "url": "https://index.vn/tin-tuc/ty-gia-ngay-hom-nay-23-10-2026-dong-usd-giam-thi-truong-cho-tin-hieu-moi-tu-fed"
+      },
+      {
+        "source": "Gia đình & Xã hội",
+        "time": "23/10",
+        "title": "Tỷ giá USD hôm nay 23/10: Có nên mua USD khi thị trường 'chợ đen' quay đầu giảm",
+        "url": "https://giadinh.suckhoedoisong.vn/ty-gia-usd-hom-nay-23-10-co-nen-mua-usd-khi-thi-truong-cho-den-quay-dau-giam-172261023095834287.htm"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "23/10",
+        "title": "SeABank bầu Chủ tịch HĐQT mới, điều chỉnh giảm lợi nhuận năm 2026",
+        "url": "https://thitruongtaichinhtiente.vn/seabank-bau-chu-tich-hdqt-moi-dieu-chinh-giam-loi-nhuan-nam-2026-86524.html"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "23/10",
+        "title": "SeABank có nữ Chủ tịch Hội đồng quản trị mới",
+        "url": "https://vietnamnet.vn/seabank-co-nu-chu-tich-hoi-dong-quan-tri-moi-2567839.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "23/10",
+        "title": "Hội nghị ngành ngân hàng đồng hành khơi thông nguồn lực tài chính phục vụ tăng trưởng vùng Đông Nam Bộ",
+        "url": "https://thitruongtaichinhtiente.vn/hoi-nghi-nganh-ngan-hang-dong-hanh-khoi-thong-nguon-luc-tai-chinh-ngan-hang-phuc-vu-tang-truong-vung-dong-nam-bo-giai-phap-va-hanh-dong-cu-the-cua-nganh-ngan-hang-de-phat-huy-va-su-dung-hieu-qua-nguon-luc-chinh-sach-cho-tang-truong-kinh-te-vung-86508.html"
+      },
+      {
+        "source": "Thanh Niên",
+        "time": "23/10",
+        "title": "Khơi thông vốn tín dụng, thúc đẩy tăng trưởng kinh tế vùng Đông Nam bộ",
+        "url": "https://thanhnien.vn/khoi-thong-von-tin-dung-thuc-day-tang-truong-kinh-te-vung-dong-nam-bo-185261023175131623.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "23/10",
+        "title": "Techcombank đặt cược vào hạ tầng, tín dụng tiêu dùng và thu nhập phí cho chu kỳ tăng trưởng mới",
+        "url": "https://vietstock.vn/2026/10/techcombank-dat-cuoc-vao-ha-tang-tin-dung-tieu-dung-va-thu-nhap-phi-cho-chu-ky-tang-truong-moi-757-1505994.htm"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -0.02,
+        "changeText": "−5 đồng",
+        "label": "Tỷ giá trung tâm USD/VND",
+        "note": "So với 22/10",
+        "unit": "đồng",
+        "value": "25.627"
+      },
+      {
+        "label": "USD bán ra tại Vietcombank",
+        "note": "Mua vào 25.630",
+        "unit": "đồng",
+        "value": "26.040"
+      },
+      {
+        "change": 1.22,
+        "changeText": "Nhóm tăng mạnh nhất",
+        "label": "Ngành tài chính (HOSE)",
+        "note": "VCB, BID, TCB, CTG kéo chỉ số",
+        "value": "+1,22%"
+      },
+      {
+        "label": "Lãi suất 12 tháng cao nhất",
+        "note": "VPBank; nhiều ngân hàng ở mức 7,00%",
+        "unit": "/năm",
+        "value": "7,10%"
+      },
+      {
+        "label": "Số ngân hàng đã giảm lãi suất huy động",
+        "note": "Tính đến 23/10, theo định hướng của NHNN",
+        "unit": "ngân hàng",
+        "value": "22"
+      },
+      {
+        "change": -1,
+        "changeText": "Lớn nhất sàn HOSE",
+        "label": "Khối ngoại bán ròng ACB",
+        "note": "Dù ACB vẫn tăng 3,9%",
+        "unit": "tỷ đồng",
+        "value": "469"
+      }
+    ],
+    "news": [
+      {
+        "body": "STB tăng 6,86% lên 68.500 đồng, EIB tăng 5,31%, ACB tăng 3,9%, LPB tăng 3,59%. BID và CTG tăng hơn 1,3%. STB, ACB và LPB nằm trong nhóm đóng góp nhiều điểm nhất cho VN-Index.",
+        "impact": "tich-cuc",
+        "source": "Mekong ASEAN",
+        "title": "Cổ phiếu ngân hàng đồng loạt tăng, STB chạm trần",
+        "url": "https://mekongasean.vn/vn-index-tang-hon-13-diem-sac-do-van-phu-rong-thi-truong-61038.html"
+      },
+      {
+        "body": "Phía bán ròng: ACB khoảng 469 tỷ đồng và STB khoảng 83,5 tỷ. Phía mua ròng: TCB khoảng 152 tỷ, CTG 61,5 tỷ, HDB 55 tỷ và VPB 40 tỷ. Dòng vốn ngoại đang chọn lọc trong nhóm ngân hàng chứ không rút đều.",
+        "impact": "trung-tinh",
+        "source": "Vietstock",
+        "title": "Khối ngoại bán mạnh ACB và STB nhưng gom TCB, CTG, HDB",
+        "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-2310-vn-index-giu-da-phuc-hoi-khoi-ngoai-quay-lai-ban-rong-hon-470-ty-1636-1506014.htm"
+      },
+      {
+        "body": "PGBank hạ kỳ hạn 6–13 tháng tại quầy: 12 tháng còn 6,2%/năm. Saigonbank giảm nhiều kỳ hạn trực tuyến: 12 tháng còn 6,7%/năm. Đã có 22 ngân hàng hạ lãi suất. Mặt bằng 12 tháng vẫn ở vùng 7%, mức khá cao.",
+        "impact": "tich-cuc",
+        "source": "Báo Nghệ An",
+        "title": "PGBank và Saigonbank giảm lãi suất huy động 0,5 điểm phần trăm",
+        "url": "https://baonghean.vn/lai-suat-huy-dong-ngay-23102026-pgbank-va-saigonbank-giam-05-diem-phan-tram-nhieu-ky-han-10354179.html"
+      },
+      {
+        "body": "Biên độ ±5% cho trần 26.908 và sàn 24.345. Tại Vietcombank, USD giao dịch 25.630–26.040. Chỉ số DXY quanh 101,6 điểm, lợi suất trái phiếu Mỹ 10 năm về đáy 1 tháng.",
+        "impact": "trung-tinh",
+        "source": "Thị trường Tài chính Tiền tệ",
+        "title": "Tỷ giá trung tâm giảm 5 đồng xuống 25.627",
+        "url": "https://thitruongtaichinhtiente.vn/ngay-23-10-ty-gia-trung-tam-giam-5-dong-86512.html"
+      },
+      {
+        "body": "VPBank lãi trước thuế quý 3 hơn 11.000 tỷ đồng; 9 tháng gần 30.000 tỷ, tăng gần 47%. Techcombank lãi quý 3 khoảng 10.400 tỷ (+25,8%), thu dịch vụ 9 tháng tăng 40%. LPBank lãi 9 tháng 10.421 tỷ, nợ xấu 1,87%.",
+        "impact": "tich-cuc",
+        "source": "Công Thương",
+        "title": "VPBank và Techcombank lập kỷ lục lợi nhuận quý 3",
+        "url": "https://congthuong.vn/buc-tranh-sinh-loi-cua-cac-ngan-hang-sau-9-thang-nam-2026-477958.html"
+      }
+    ],
+    "summary": "Ngân hàng là nhóm dẫn dắt phiên cuối tuần: STB tăng trần, EIB và ACB tăng mạnh. Lãi suất huy động tiếp tục hạ nhiệt, đã có 22 ngân hàng giảm lãi suất. Tỷ giá trung tâm giảm nhẹ khi đồng USD thế giới suy yếu.",
+    "watch": [
+      "Kết quả quý 3 của Vietcombank, VietinBank, BIDV, MB và Sacombank sẽ công bố trong các ngày tới",
+      "Fed họp ngày 27–28/10: nếu Fed phát tín hiệu tăng lãi suất vào tháng 12, tỷ giá USD/VND có thể chịu áp lực trở lại",
+      "Lãi suất liên ngân hàng: đầu tháng 10, lãi suất qua đêm từng nhảy lên 7% rồi rơi về dưới 1% chỉ trong một tuần",
+      "Khối ngoại bán ròng ACB có tiếp diễn hay không"
+    ]
+  },
+  "date": "2026-10-23",
+  "key": "2026-10-23-chieu",
+  "label": "Chiều 23/10/2026 (thứ Sáu)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "Mekong ASEAN",
+          "time": "23/10",
+          "title": "VN-Index tăng hơn 13 điểm, sắc đỏ vẫn phủ rộng thị trường",
+          "url": "https://mekongasean.vn/vn-index-tang-hon-13-diem-sac-do-van-phu-rong-thi-truong-61038.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "23/10",
+          "title": "Thị trường bất động sản cuối năm: Phụ thuộc lãi suất",
+          "url": "https://cafef.vn/thi-truong-bat-dong-san-cuoi-nam-phu-thuoc-lai-suat-188261023060253411.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "23/10",
+          "title": "Thị trường bất động sản cuối năm: Phụ thuộc lãi suất",
+          "url": "https://nguoiquansat.vn/thi-truong-bat-dong-san-cuoi-nam-phu-thuoc-lai-suat-323629.html"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "23/10",
+          "title": "TPHCM dự kiến ban hành bảng giá đất mới, gỡ vướng về vốn cho doanh nghiệp",
+          "url": "https://dantri.com.vn/bat-dong-san/tphcm-du-kien-ban-hanh-bang-gia-dat-moi-go-vuong-ve-von-cho-doanh-nghiep-20261023184437559.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "23/10",
+          "title": "Cập nhật BCTC quý 3/2026 sáng ngày 23/10: IDP lãi 9 tháng hơn 800 tỷ, công ty BĐS lãi gấp 12 lần cùng kỳ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-23-10-idp-lai-9-thang-hon-800-ty-cong-ty-bds-lai-gap-12-lan-cung-ky-18826102300082554.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "23/10",
+          "title": "Cập nhật KQKD quý III/2026 ngày 23/10: Thêm 2 doanh nghiệp báo lãi tăng trên 1.000%",
+          "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-23-10-them-2-doanh-nghiep-bao-lai-tang-tren-1-000-323779.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Đọc nhanh 23-10: Vingroup dự kiến xây nhà máy xe điện 500 triệu USD tại Philippines",
+          "url": "https://tuoitre.vn/doc-nhanh-23-10-nasdaq-giam-manh-nhat-4-thang-vi-ai-dam-phu-my-vao-dien-thanh-tra-100261023071010992.htm"
+        },
+        {
+          "source": "Mekong ASEAN",
+          "time": "22/10",
+          "title": "Sắc đỏ lấn át thị trường, cổ phiếu họ Vingroup nâng đỡ VN-Index",
+          "url": "https://mekongasean.vn/sac-do-lan-at-thi-truong-co-phieu-ho-vingroup-nang-do-vn-index-60986.html"
+        },
+        {
+          "source": "DNSE",
+          "time": "21/10",
+          "title": "Nhóm bất động sản 'đồng khởi' kéo VN-Index tăng gần 47 điểm",
+          "url": "https://www.dnse.com.vn/senses/tin-tuc/nhom-bat-dong-san-dong-khoi-keo-vn-index-tang-gan-47-diem-35288873"
+        },
+        {
+          "source": "Vietstock",
+          "time": "21/10",
+          "title": "Novaland ước lợi nhuận sau thuế vượt kế hoạch, 9 tháng chỉ bán mới 218 căn",
+          "url": "https://vietstock.vn/2026/10/novaland-uoc-loi-nhuan-sau-thue-vuot-ke-hoach-9-thang-chi-ban-moi-218-can-737-1504395.htm"
+        }
+      ],
+      "body": "Ngày 21/10, VIC, VHM và VRE cùng tăng trần, kéo VN-Index tăng gần 47 điểm. Phiên 23/10 phân hóa hơn: VIC, KDH, BCM tăng, còn VRE và KBC giảm nhẹ. VPI tăng 19,3% trong tuần. Vingroup vừa công bố kế hoạch nhà máy xe điện 500 triệu USD tại Philippines. Báo chí nhận định thị trường nhà đất cuối năm phụ thuộc nhiều vào lãi suất.",
+      "heat": 5,
+      "name": "Bất động sản",
+      "reason": "Nhóm dẫn dắt cả tuần, tăng 1,08% trong phiên 23/10; riêng VIC đóng góp khoảng 5,9 điểm cho VN-Index.",
+      "source": "Mekong ASEAN",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 1.55,
+          "code": "VIC"
+        },
+        {
+          "change": 0.47,
+          "code": "VHM"
+        },
+        {
+          "change": 2.87,
+          "code": "VPI"
+        },
+        {
+          "change": 1.34,
+          "code": "KDH"
+        },
+        {
+          "change": 2.08,
+          "code": "BCM"
+        },
+        {
+          "change": -1.15,
+          "code": "VRE"
+        }
+      ],
+      "url": "https://mekongasean.vn/vn-index-tang-hon-13-diem-sac-do-van-phu-rong-thi-truong-61038.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "Vietstock",
+          "time": "23/10",
+          "title": "Dầu Brent tăng 4% sau tín hiệu của ông Trump về Iran",
+          "url": "https://vietstock.vn/2026/10/dau-brent-tang-4-sau-tin-hieu-cua-ong-trump-ve-iran-34-1505938.htm"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23.10.2026: Xăng E10 giảm hơn 2.100 đồng về dưới mốc 25.000 đồng/lít",
+          "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-23102026-xang-e10-giam-hon-2100-dong-ve-duoi-moc-25000-dong-lit-185261023084445038.htm"
+        },
+        {
+          "source": "VietnamNet",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23/10: Thế giới tăng cao, xăng trong nước 25.000 đồng/lít",
+          "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-23-10-the-gioi-tang-cao-xang-trong-nuoc-25-000-dong-lit-2567623.html"
+        },
+        {
+          "source": "VOV",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23/10: Giá dầu tăng trong bối cảnh xung đột leo thang",
+          "url": "https://vov.vn/thi-truong/gia-xang-dau-hom-nay-2310-gia-dau-tang-trong-boi-canh-xung-dot-leo-thang-post1343720.vov"
+        },
+        {
+          "source": "Doanh nghiệp Hội nhập",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23/10/2026: Dầu thế giới phi mã vì Trung Đông, xăng trong nước hạ nhiệt",
+          "url": "https://doanhnghiephoinhap.vn/gia-xang-dau-hom-nay-23102026-dau-the-gioi-phi-ma-vi-trung-dong-xang-trong-nuoc-ha-nhiet-152304.html"
+        },
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay (23-10): Giá xăng trong nước giảm",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-23-10-gia-xang-trong-nuoc-giam-1061677"
+        },
+        {
+          "source": "Ngôi Sao",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23/10/2026: Xăng E10 giảm 1.816 đồng/lít, xăng E5 giảm 1.610 đồng/lít",
+          "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/gia-xang-dau-hom-nay-23-10-2026-xang-e10-giam-1816-dong-lit-xang-e5-giam-1610-dong-lit-d494428.html"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23/10: Xăng vừa giảm mạnh, dầu thế giới lại nóng lên",
+          "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-2310-xang-vua-giam-manh-dau-the-gioi-lai-nong-len-post912596.html"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "23/10",
+          "title": "Giá xăng dầu hôm nay 23.10.2026: Áp dụng bảng mới sau điều chỉnh",
+          "url": "https://vietbao.vn/gia-xang-dau-hom-nay-23102026-ap-dung-bang-moi-sau-dieu-chinh-612685.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Đọc nhanh 23-10: Nasdaq giảm mạnh nhất 4 tháng vì AI, Đạm Phú Mỹ vào diện thanh tra",
+          "url": "https://tuoitre.vn/doc-nhanh-23-10-nasdaq-giam-manh-nhat-4-thang-vi-ai-dam-phu-my-vao-dien-thanh-tra-100261023071010992.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "23/10",
+          "title": "1 phút trước giờ giao dịch phiên 23/10: Phố Wall lao dốc, giá dầu tăng nóng",
+          "url": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-23-10-pho-wall-lao-doc-gia-dau-tang-nong-tien-rut-manh-khoi-chung-khoan-323632.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "22/10",
+          "title": "Dầu Brent dao động quanh 109 USD/thùng",
+          "url": "https://vietstock.vn/2026/10/dau-brent-dao-dong-quanh-109-usdthung-34-1505377.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "21/10",
+          "title": "Trung Đông xuất khẩu dầu thô nhiều hơn trước chiến tranh, sao giá xăng dầu thế giới vẫn cao vút?",
+          "url": "https://vietstock.vn/2026/10/trung-dong-xuat-khau-dau-tho-nhieu-hon-truoc-chien-tranh-sao-gia-xang-dau-the-gioi-van-cao-vut-34-1504257.htm"
+        }
+      ],
+      "body": "Ngoài thủy lôi ở eo Hormuz và các vụ Houthi tấn công cơ sở dầu của Saudi, báo chí Mỹ đưa tin Mỹ và Israel có thể nối lại tấn công Iran. Trong nước, kỳ điều hành ngày 22/10 giảm giá xăng E5 1.610 đồng và E10 1.816 đồng/lít, nhưng diesel tăng 444 đồng. Trên sàn, nhóm năng lượng tăng 3,34% ngày 22/10. Sang 23/10, BSR giảm nhẹ còn PET tăng trần. Đạm Phú Mỹ (DPM) bị Thanh tra Chính phủ thanh tra.",
+      "heat": 5,
+      "name": "Dầu khí – năng lượng",
+      "reason": "Brent tăng 4% lên 113,17 USD/thùng, cao nhất từ đầu tháng 5, sau khi ông Trump nói Mỹ không đàm phán với Iran.",
+      "source": "Vietstock",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 6.18,
+          "code": "PET"
+        },
+        {
+          "change": -0.51,
+          "code": "BSR"
+        }
+      ],
+      "url": "https://vietstock.vn/2026/10/dau-brent-tang-4-sau-tin-hieu-cua-ong-trump-ve-iran-34-1505938.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23/10/2026: Chênh lệch giá vàng trong nước và thế giới vọt lên 16 triệu đồng",
+          "url": "https://vnexpress.net/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-len-16-trieu-dong-5135985.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Cổ phiếu Sacombank bất ngờ trần tím, PNJ bị bán mạnh",
+          "url": "https://tuoitre.vn/co-phieu-sacombank-bat-ngo-tran-tim-pnj-bi-ban-manh-100261023153554.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "23/10",
+          "title": "Giá vàng về mốc 4.000 USD: Chuyện gì đang xảy ra với kim loại quý?",
+          "url": "https://dantri.com.vn/kinh-doanh/gia-vang-ve-moc-4000-usd-chuyen-gi-dang-xay-ra-voi-kim-loai-quy-20261023174806187.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "23/10",
+          "title": "Người 'ôm' vàng thêm nỗi lo",
+          "url": "https://znews.vn/nguoi-om-vang-them-noi-lo-post1691403.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23-10: Vàng thế giới bất ngờ giảm hơn 100 USD/ounce",
+          "url": "https://tuoitre.vn/gia-vang-hom-nay-23-10-vang-the-gioi-bat-ngo-giam-hon-100-usd-ounce-100261023081011782.htm"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23.10.2026: Vàng nhẫn giảm mạnh nhưng chênh lệch mua bán tăng cao",
+          "url": "https://thanhnien.vn/gia-vang-hom-nay-23102026-vang-nhan-giam-manh-nhung-chenh-lech-mua-ban-tang-cao-185261023075250546.htm"
+        },
+        {
+          "source": "VietnamBiz",
+          "time": "23/10",
+          "title": "Bảng giá vàng hôm nay 23/10: Vàng nhẫn lao dốc 2,4 triệu đồng/lượng, vàng SJC chưa dứt đà giảm",
+          "url": "https://vietnambiz.vn/bang-gia-vang-hom-nay-2310-vang-nhan-lao-doc-24-trieu-dongluong-vang-sjc-chua-dut-da-giam-20261023135425509.htm"
+        },
+        {
+          "source": "VietnamNet",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23/10: Thế giới lao dốc, SJC chịu sức ép giảm thêm",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-23-10-the-gioi-lao-doc-sjc-chiu-suc-ep-giam-them-2567547.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "23/10",
+          "title": "Giá vàng miếng, vàng nhẫn sáng 23/10 đồng loạt giảm",
+          "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-sang-23-10-dong-loat-giam-188261023082632015.chn"
+        },
+        {
+          "source": "Hà Nội Mới",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23-10: Vàng chịu áp lực bán tháo",
+          "url": "https://hanoimoi.vn/gia-vang-hom-nay-23-10-vang-chiu-ap-luc-ban-thao-1762408.html"
+        },
+        {
+          "source": "CafeBiz",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23-10 lại rơi về mức thấp nhất trong tuần",
+          "url": "https://cafebiz.vn/gia-vang-hom-nay-23-10-lai-roi-ve-muc-thap-nhat-trong-tuan-176261023085301314.chn"
+        },
+        {
+          "source": "VOV",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23/10: Giá vàng SJC giảm nhẹ",
+          "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-2310-gia-vang-sjc-giam-nhe-post1343731.vov"
+        },
+        {
+          "source": "Báo Nghệ An",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23/10/2026: SJC giảm về 139,0 - 142,0 triệu đồng/lượng",
+          "url": "https://baonghean.vn/gia-vang-hom-nay-23102026-sjc-giam-ve-1390-1420-trieu-dongluong-10354172.html"
+        },
+        {
+          "source": "Việt Nam Mới",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay 23/10: Vàng SJC và vàng nhẫn đồng loạt lao dốc, mất tới 1,4 triệu đồng/lượng",
+          "url": "https://vietnammoi.vn/gia-vang-hom-nay-2310-vang-sjc-va-vang-nhan-dong-loat-lao-doc-mat-toi-14-trieu-dongluong-2026102393953556.htm"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "23/10",
+          "title": "Giá vàng hôm nay (23/10): Sụt giảm mạnh",
+          "url": "https://vietbao.vn/gia-vang-hom-nay-2310-sut-giam-manh-612662.html"
+        }
+      ],
+      "body": "Vàng miếng SJC giảm chậm hơn thế giới (139–142 triệu đồng/lượng), khiến chênh lệch trong nước và thế giới vọt lên khoảng 16 triệu đồng/lượng. Vàng nhẫn giảm mạnh hơn, có nơi tới 2,4 triệu đồng/lượng. Cổ phiếu PNJ tiếp tục bị bán mạnh, nối dài đợt lao dốc từ đầu tháng 10.",
+      "heat": 4,
+      "name": "Vàng – trang sức (PNJ)",
+      "reason": "Vàng thế giới mất gần 180 USD trong 5 ngày, về quanh 4.000 USD/ounce; PNJ bị khối ngoại bán ròng khoảng 110 tỷ đồng.",
+      "source": "VnExpress",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -6.18,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://vnexpress.net/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-len-16-trieu-dong-5135985.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Đọc nhanh 23-10: Nasdaq giảm mạnh nhất 4 tháng vì AI",
+          "url": "https://tuoitre.vn/doc-nhanh-23-10-nasdaq-giam-manh-nhat-4-thang-vi-ai-dam-phu-my-vao-dien-thanh-tra-100261023071010992.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "23/10",
+          "title": "Nhịp đập Thị trường 23/10: khối ngoại bán ròng FPT 146 tỷ đồng",
+          "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-2310-vn-index-giu-da-phuc-hoi-khoi-ngoai-quay-lai-ban-rong-hon-470-ty-1636-1506014.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "22/10",
+          "title": "FPT: Kết quả kinh doanh 9 tháng năm 2026",
+          "url": "https://vietstock.vn/2026/10/fpt-ket-qua-kinh-doanh-9-thang-nam-2026-737-1505243.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "21/10",
+          "title": "FPT tăng trưởng bất chấp sức ép AI, khối ngoại vẫn bán mạnh vì đâu?",
+          "url": "https://nguoiquansat.vn/fpt-tang-truong-bat-chap-suc-ep-ai-khoi-ngoai-van-ban-manh-vi-dau-323385.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "21/10",
+          "title": "Sau 9 tháng, FPT báo lãi trước thuế hơn 8.700 tỉ đồng",
+          "url": "https://tuoitre.vn/fpt-bao-lai-truoc-thue-hon-8700-ti-dong-100261021173054867.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "21/10",
+          "title": "FPT công bố kết quả kinh doanh 9 tháng, một mảng tăng trưởng tới 55%",
+          "url": "https://cafef.vn/fpt-cong-bo-ket-qua-kinh-doanh-9-thang-mot-mang-tang-truong-toi-55-188261021083848638.chn"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "21/10",
+          "title": "9 tháng, lợi nhuận trước thuế FPT tăng 17%",
+          "url": "https://www.tinnhanhchungkhoan.vn/9-thang-loi-nhuan-truoc-thue-fpt-tang-17-post399954.html"
+        },
+        {
+          "source": "DNSE",
+          "time": "21/10",
+          "title": "FPT lãi gần 8.800 tỷ đồng sau 9 tháng, mảng AI tăng trưởng 55%",
+          "url": "https://www.dnse.com.vn/senses/tin-tuc/fpt-lai-gan-8800-ty-dong-sau-9-thang-mang-ai-tang-truong-55-35288860"
+        },
+        {
+          "source": "VnEconomy",
+          "time": "21/10",
+          "title": "FPT báo lãi 8.770 tỷ, thắng thầu 16 dự án lớn",
+          "url": "https://vneconomy.vn/fpt-bao-lai-8770-ty-thang-thau-16-du-an-lon.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "21/10",
+          "title": "FPT lãi hơn 7.700 tỷ đồng sau 9 tháng",
+          "url": "https://znews.vn/fpt-lai-hon-7700-ty-dong-sau-9-thang-post1691226.html"
+        }
+      ],
+      "body": "FPT báo lãi trước thuế 9 tháng 8.770 tỷ đồng (+17%), mảng AI và dữ liệu tăng 55%. Tuy vậy, cổ phiếu giảm khoảng 15% trong gần một tháng. Từ đầu tháng 10, khối ngoại đã bán ròng hơn 670 tỷ đồng. Họ lo ngại AI làm giảm nhu cầu thuê ngoài phần mềm truyền thống. Đêm 22/10, Nasdaq giảm 2,6%, mạnh nhất từ tháng 6, vì lo ngại chi tiêu cho AI.",
+      "heat": 3,
+      "name": "Công nghệ thông tin (FPT)",
+      "reason": "Khối ngoại bán ròng FPT khoảng 146 tỷ đồng phiên 23/10, dù FPT vừa báo lãi trước thuế 9 tháng tăng 17%.",
+      "source": "Người Quan Sát",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -0.7,
+          "code": "FPT"
+        }
+      ],
+      "url": "https://nguoiquansat.vn/fpt-tang-truong-bat-chap-suc-ep-ai-khoi-ngoai-van-ban-manh-vi-dau-323385.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "Tuổi Trẻ",
+          "time": "23/10",
+          "title": "Đọc nhanh 23-10: Masan vượt kế hoạch lợi nhuận, MWG bảo lãnh 2.000 tỷ cho Bách Hóa Xanh",
+          "url": "https://tuoitre.vn/doc-nhanh-23-10-nasdaq-giam-manh-nhat-4-thang-vi-ai-dam-phu-my-vao-dien-thanh-tra-100261023071010992.htm"
+        },
+        {
+          "source": "Sài Gòn Giải Phóng",
+          "time": "23/10",
+          "title": "Lợi nhuận Masan tăng hơn gấp đôi, vượt kế hoạch cơ sở cả năm 2026 chỉ sau 9 tháng",
+          "url": "https://www.sggp.org.vn/loi-nhuan-masan-tang-hon-gap-doi-vuot-ke-hoach-co-so-ca-nam-2026-chi-sau-9-thang-post877858.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "22/10",
+          "title": "Masan lãi hơn 10.300 tỷ đồng sau 9 tháng, gấp 1,5 lần cả năm 2025",
+          "url": "https://cafef.vn/masan-lai-hon-10300-ty-dong-sau-9-thang-gap-15-lan-ca-nam-2025-188261022090437674.chn"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "22/10",
+          "title": "Lợi nhuận Masan tăng hơn gấp đôi, vượt kế hoạch cơ sở cả năm 2026",
+          "url": "https://thanhnien.vn/loi-nhuan-masan-tang-hon-gap-doi-vuot-ke-hoach-co-so-ca-nam-2026-185261022091236889.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "22/10",
+          "title": "Masan lãi đậm nhất 5 năm qua",
+          "url": "https://znews.vn/masan-lai-dam-nhat-5-nam-qua-post1691174.html"
+        },
+        {
+          "source": "Mekong ASEAN",
+          "time": "22/10",
+          "title": "Masan báo lãi quý cao nhất trong 5 năm",
+          "url": "https://mekongasean.vn/masan-bao-lai-quy-cao-nhat-trong-5-nam-60974.html"
+        },
+        {
+          "source": "Thời báo Ngân hàng",
+          "time": "22/10",
+          "title": "Lợi nhuận Masan tăng hơn gấp đôi, vượt kế hoạch cơ sở cả năm",
+          "url": "https://thoibaonganhang.vn/loi-nhuan-masan-tang-hon-gap-doi-vuot-ke-hoach-co-so-ca-nam-189510.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "22/10",
+          "title": "Masan (MSN) lãi hơn 10.300 tỷ đồng sau 9 tháng, vượt kế hoạch năm nhờ hai động lực tiêu dùng và vật liệu chiến lược",
+          "url": "https://nguoiquansat.vn/masan-msn-lai-hon-10-300-ty-dong-sau-9-thang-vuot-ke-hoach-nam-nho-hai-dong-luc-tieu-dung-va-vat-lieu-chien-luoc-323442.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "22/10",
+          "title": "Cập nhật KQKD quý III/2026 ngày 22/10: MSN, MSR báo lãi đột biến",
+          "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-22-10-msn-msr-bao-lai-dot-bien-mot-nha-bang-bao-lai-tang-hon-100-323603.html"
+        }
+      ],
+      "body": "Masan lãi sau thuế 9 tháng 10.325 tỷ đồng, gấp 2,3 lần cùng kỳ và đã vượt kế hoạch cơ sở cả năm. Quý 3 doanh thu tăng 74,7%. Động lực lớn đến từ Masan High-Tech Materials (MSR), lãi 2.148 tỷ nhờ giá APT tăng mạnh, và từ WinCommerce (lãi +86%). MWG vừa duyệt bảo lãnh tối đa 2.000 tỷ đồng cho Bách Hóa Xanh. MSN tăng nhẹ 0,41%, MWG tăng 0,27%.",
+      "heat": 3,
+      "name": "Hàng tiêu dùng – bán lẻ (Masan)",
+      "reason": "Masan báo lãi quý cao nhất 5 năm, khối ngoại mua ròng MSN khoảng 92 tỷ đồng phiên 23/10.",
+      "source": "CafeF",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 0.41,
+          "code": "MSN"
+        },
+        {
+          "change": 0.27,
+          "code": "MWG"
+        }
+      ],
+      "url": "https://cafef.vn/masan-lai-hon-10300-ty-dong-sau-9-thang-gap-15-lan-ca-nam-2025-188261022090437674.chn"
+    }
+  ],
+  "sectorsSummary": "Ngoài ngân hàng và chứng khoán, dòng tiền tập trung vào bất động sản họ Vingroup và Masan. Dầu khí biến động theo căng thẳng Iran. Vàng – trang sức và công nghệ (FPT) chịu áp lực bán bất thường. Dịch vụ truyền thông là nhóm giảm mạnh nhất phiên (−1,06%) nhưng gần như không có tin riêng nên không xếp vào top 5.",
+  "securities": {
+    "analysis": "Tuần này VN-Index tăng 68 điểm (+4%) sau khi chạm vùng 1.680 hôm 20/10, nên nhịp hồi là thật. Tuy vậy, chất lượng đà tăng đang yếu đi: phiên 21/10 có 492 mã tăng, còn phiên 23/10 số mã tăng và giảm gần bằng nhau. Chỉ báo dòng tiền MFI ở mức thấp (37) dù RSI trung tính.\nChỉ số đang đi lên nhờ một số ít cổ phiếu lớn (VIC, ngân hàng) trong khi khối ngoại vẫn bán. Kịch bản rung lắc quanh 1.770–1.800 trong tuần tới là khả năng cao. Họp Fed ngày 27–28/10 sẽ là biến số lớn, vì thị trường đang đặt khoảng 80% khả năng Fed tăng lãi suất vào tháng 12 do giá dầu cao.",
+    "articles": [
+      {
+        "source": "Vietstock",
+        "time": "23/10",
+        "title": "Nhịp đập Thị trường 23/10: VN-Index giữ đà phục hồi, khối ngoại quay lại bán ròng hơn 470 tỷ",
+        "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-2310-vn-index-giu-da-phuc-hoi-khoi-ngoai-quay-lai-ban-rong-hon-470-ty-1636-1506014.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "23/10",
+        "title": "VN-Index tăng gần 70 điểm sau 1 tuần bùng nổ",
+        "url": "https://cafef.vn/vn-index-tang-gan-70-diem-sau-1-tuan-bung-no-188261023174404405.chn"
+      },
+      {
+        "source": "CafeF",
+        "time": "23/10",
+        "title": "Chứng khoán tăng 3 phiên, khối ngoại bán mạnh một mã ngân hàng",
+        "url": "https://cafef.vn/chung-khoan-tang-3-phien-khoi-ngoai-ban-manh-mot-ma-ngan-hang-188261023173932465.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "23/10",
+        "title": "VN-Index tăng thêm 14 điểm, STB tím trần, khối ngoại xả gần 23 triệu cổ phiếu ACB",
+        "url": "https://nguoiquansat.vn/vn-index-tang-them-14-diem-stb-tim-tran-khoi-ngoai-xa-gan-23-trieu-co-phieu-acb-323757.html"
+      },
+      {
+        "source": "VnExpress",
+        "time": "23/10",
+        "title": "Chứng khoán hôm nay 23/10: Dòng tiền đổ vào cổ phiếu ngân hàng",
+        "url": "https://vnexpress.net/dong-tien-do-vao-co-phieu-ngan-hang-5136071.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Tiền chảy mạnh vào nhóm ngân hàng, VN-Index đảo chiều tăng trong phiên chiều 23/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/tien-chay-manh-vao-nhom-ngan-hang-vn-index-dao-chieu-tang-trong-phien-chieu-2310-post400097.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Giao dịch chứng khoán phiên sáng 23/10: Sự thận trọng trở lại, VN-Index quay đầu giảm",
+        "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-phien-sang-2310-su-than-trong-tro-lai-vn-index-quay-dau-giam-post400071.html"
+      },
+      {
+        "source": "Vietstock (qua Investing)",
+        "time": "23/10",
+        "title": "Nhịp đập Thị trường 23/10: Rung lắc quanh mốc 1.755 điểm (phiên sáng)",
+        "url": "https://vn.investing.com/news/stock-market-news/nhip-dap-thi-truong-2310-rung-lac-quanh-moc-1755-diem-2742325"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Khối ngoại bán ròng gần 470 tỷ đồng một mã bank trong phiên 23/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-gan-470-ty-dong-mot-ma-bank-trong-phien-2310-post400110.html"
+      },
+      {
+        "source": "Hà Nội Mới",
+        "time": "23/10",
+        "title": "Chứng khoán 23-10: STB tím trần, ACB bị khối ngoại bán ròng hơn 470 tỷ đồng",
+        "url": "https://hanoimoi.vn/chung-khoan-23-10-stb-tim-tran-acb-bi-khoi-ngoai-ban-rong-hon-470-ty-dong-1762483.html"
+      },
+      {
+        "source": "Tiền Phong",
+        "time": "23/10",
+        "title": "Chứng khoán tăng 3 phiên, khối ngoại bán mạnh một mã ngân hàng",
+        "url": "https://tienphong.vn/chung-khoan-tang-3-phien-khoi-ngoai-ban-manh-mot-ma-ngan-hang-post1887924.tpo"
+      },
+      {
+        "source": "Index.vn",
+        "time": "23/10",
+        "title": "Khối ngoại bán ròng 470 tỷ đồng, cổ phiếu ACB bị xả mạnh nhất",
+        "url": "https://index.vn/tin-tuc/khoi-ngoai-ban-rong-470-ty-dong-co-phieu-acb-bi-xa-manh-nhat"
+      },
+      {
+        "source": "Nhân Dân (qua Báo Mới)",
+        "time": "23/10",
+        "title": "Chứng khoán ngày 23/10: VN-Index tăng hơn 13 điểm, khối ngoại tiếp tục bán ròng mạnh",
+        "url": "https://baomoi.com/chung-khoan-ngay-23-10-vn-index-tang-hon-13-diem-khoi-ngoai-tiep-tuc-ban-rong-manh-c56337864.epi"
+      },
+      {
+        "source": "Mekong ASEAN",
+        "time": "23/10",
+        "title": "VN-Index tăng hơn 13 điểm, sắc đỏ vẫn phủ rộng thị trường",
+        "url": "https://mekongasean.vn/vn-index-tang-hon-13-diem-sac-do-van-phu-rong-thi-truong-61038.html"
+      },
+      {
+        "source": "DNSE",
+        "time": "23/10",
+        "title": "Chứng khoán ngày 23/10: VN-Index vượt 1.770 điểm",
+        "url": "https://www.dnse.com.vn/senses/tin-tuc/chung-khoan-ngay-2310-vn-index-vuot-1770-diem-35289043"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "23/10",
+        "title": "Cổ phiếu Sacombank bất ngờ trần tím, PNJ bị bán mạnh",
+        "url": "https://tuoitre.vn/co-phieu-sacombank-bat-ngo-tran-tim-pnj-bi-ban-manh-100261023153554.htm"
+      },
+      {
+        "source": "Dân Trí",
+        "time": "23/10",
+        "title": "Loạt công ty chứng khoán báo lãi ngàn tỷ đồng, giá cổ phiếu vẫn dò đáy",
+        "url": "https://dantri.com.vn/kinh-doanh/loat-cong-ty-chung-khoan-bao-lai-ngan-ty-dong-gia-co-phieu-van-do-day-20261023081530510.htm"
+      },
+      {
+        "source": "CafeF",
+        "summary": "Thanh khoản quý 3 giảm 57,6%; SSI lãi −27%, VNDirect −65%, VIX −93%; TCBS +6% nhờ cho vay ký quỹ.",
+        "time": "23/10",
+        "title": "Thị trường ảm đạm, công ty chứng khoán làm ăn ra sao?",
+        "url": "https://cafef.vn/thi-truong-am-dam-cong-ty-chung-khoan-lam-an-ra-sao-188261023072835847.chn"
+      },
+      {
+        "source": "CafeF",
+        "time": "23/10",
+        "title": "Cập nhật BCTC quý 3/2026 sáng ngày 23/10: IDP lãi 9 tháng hơn 800 tỷ, công ty BĐS lãi gấp 12 lần cùng kỳ",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-23-10-idp-lai-9-thang-hon-800-ty-cong-ty-bds-lai-gap-12-lan-cung-ky-18826102300082554.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "23/10",
+        "title": "Cập nhật KQKD quý III/2026 ngày 23/10: Thêm 2 doanh nghiệp báo lãi tăng trên 1.000%",
+        "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-23-10-them-2-doanh-nghiep-bao-lai-tang-tren-1-000-323779.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "22/10 tối",
+        "title": "Vietstock Daily 23/10/2026: Giữ đà phục hồi?",
+        "url": "https://vietstock.vn/2026/10/vietstock-daily-23102026-giu-da-phuc-hoi-1636-1505789.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "22/10 tối",
+        "title": "Góc nhìn 23/10: Áp lực chốt lời xuất hiện?",
+        "url": "https://vietstock.vn/2026/10/goc-nhin-2310-ap-luc-chot-loi-xuat-hien-145-1505908.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "23/10",
+        "title": "Chứng khoán phái sinh ngày 23/10/2026: Triển vọng ngắn hạn tiếp tục cải thiện",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-phai-sinh-ngay-23102026-trien-vong-ngan-han-tiep-tuc-cai-thien-1636-1505675.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "23/10",
+        "title": "Thị trường chứng quyền ngày 23/10/2026: Khởi sắc cùng thị trường cơ sở",
+        "url": "https://vietstock.vn/2026/10/thi-truong-chung-quyen-ngay-23102026-khoi-sac-cung-thi-truong-co-so-1636-1505750.htm"
+      },
+      {
+        "source": "Vietstock (qua Investing)",
+        "time": "23/10",
+        "title": "Chứng khoán Tuần 19-23/10/2026: Trở lại mạnh mẽ",
+        "url": "https://vn.investing.com/news/stock-market-news/chung-khoan-tuan-1923102026-tro-lai-manh-me-2742692"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Nhận định thị trường phiên giao dịch ngày 23/10: Áp lực chốt lời có thể gia tăng",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhan-dinh-thi-truong-phien-giao-dich-ngay-2310-ap-luc-chot-loi-co-the-gia-tang-post400031.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 23/10: Kỳ vọng quán tính tăng được duy trì",
+        "url": "https://www.tinnhanhchungkhoan.vn/goc-nhin-ky-thuat-phien-giao-dich-chung-khoan-ngay-2310-ky-vong-quan-tinh-tang-duoc-duy-tri-post400030.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Sự kiện chứng khoán đáng chú ý ngày 23/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-2310-post400032.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "23/10",
+        "title": "Thị trường tài chính 24h: Chứng khoán có tuần khởi sắc",
+        "url": "https://www.tinnhanhchungkhoan.vn/thi-truong-tai-chinh-24h-chung-khoan-co-tuan-khoi-sac-post400087.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "22/10 tối",
+        "title": "Nhận định thị trường 23/10: Dòng tiền mua chủ động giữ nhịp, chỉ số thử thách mốc 1.800 điểm",
+        "url": "https://nguoiquansat.vn/nhan-dinh-thi-truong-23-10-dong-tien-mua-chu-dong-giu-nhip-chi-so-thu-thach-moc-1-800-diem-323605.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "23/10",
+        "title": "1 phút trước giờ giao dịch phiên 23/10: Phố Wall lao dốc, giá dầu tăng nóng, tiền rút mạnh khỏi chứng khoán",
+        "url": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-23-10-pho-wall-lao-doc-gia-dau-tang-nong-tien-rut-manh-khoi-chung-khoan-323632.html"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "23/10",
+        "title": "Chứng khoán 23-10: Áp lực chốt lời xuất hiện quanh 1.780 điểm",
+        "url": "https://tuoitre.vn/chung-khoan-23-10-ap-luc-chot-loi-co-the-xuat-hien-quanh-1780-diem-100261023071117971.htm"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "23/10",
+        "title": "Đọc nhanh 23-10: Nasdaq giảm mạnh nhất 4 tháng vì AI, Đạm Phú Mỹ vào diện thanh tra",
+        "url": "https://tuoitre.vn/doc-nhanh-23-10-nasdaq-giam-manh-nhat-4-thang-vi-ai-dam-phu-my-vao-dien-thanh-tra-100261023071010992.htm"
+      },
+      {
+        "source": "VOV",
+        "time": "23/10",
+        "title": "Nhận định chứng khoán 23/10: VN-Index có thể rung lắc khi tiến sát vùng kháng cự",
+        "url": "http://vov.vn/thi-truong/nhan-dinh-chung-khoan-2310-vn-index-co-the-rung-lac-khi-tien-sat-vung-khang-cu-post1342132.vov"
+      },
+      {
+        "source": "Việt Báo",
+        "time": "23/10",
+        "title": "Nhận định chứng khoán 23/10: VN-Index có thể rung lắc khi tiến sát vùng kháng cự",
+        "url": "https://vietbao.vn/nhan-dinh-chung-khoan-2310-vn-index-co-the-rung-lac-khi-tien-sat-vung-khang-cu-612706.html"
+      },
+      {
+        "source": "Sức khỏe & Đời sống",
+        "time": "23/10",
+        "title": "Xu hướng chứng khoán 23/10, nhà đầu tư cần kiểm soát rủi ro danh mục",
+        "url": "https://suckhoedoisong.vn/xu-huong-chung-khoan-23-10-nha-dau-tu-can-kiem-soat-rui-ro-danh-muc-16926102307151078.htm"
+      },
+      {
+        "source": "ABS",
+        "time": "23/10",
+        "title": "Toàn cảnh thị trường ngày 23/10: Duy trì xu hướng tăng",
+        "url": "https://www.abs.vn/toan-canh-thi-truong-ngay-23-10-duy-tri-xu-huong-tang/"
+      },
+      {
+        "source": "Vietstock",
+        "time": "23/10",
+        "title": "VPBankS lãi 9 tháng hơn 2.800 tỷ đồng, muốn tăng vốn điều lệ vượt mốc 1 tỷ USD",
+        "url": "https://vietstock.vn/2026/10/vpbanks-lai-9-thang-hon-2800-ty-dong-muon-tang-von-dieu-le-vuot-moc-1-ty-usd-764-1505751.htm"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 0.77,
+        "changeText": "+13,52 điểm (+0,77%)",
+        "label": "VN-Index",
+        "note": "Tăng 4,0% trong tuần",
+        "value": "1.774,15"
+      },
+      {
+        "change": 0.62,
+        "changeText": "+1,62 điểm (+0,62%)",
+        "label": "HNX-Index",
+        "value": "262,70"
+      },
+      {
+        "label": "Giá trị khớp lệnh HOSE",
+        "note": "Hơn 640 triệu cổ phiếu",
+        "unit": "nghìn tỷ",
+        "value": "14,1"
+      },
+      {
+        "change": -1,
+        "changeText": "Bán ròng",
+        "label": "Khối ngoại trên HOSE",
+        "note": "ACB, FPT, PNJ, STB bị bán nhiều nhất",
+        "unit": "tỷ đồng",
+        "value": "−478"
+      },
+      {
+        "label": "Độ rộng toàn thị trường",
+        "note": "VN30: 20 mã tăng, 10 mã giảm",
+        "unit": "tăng / giảm",
+        "value": "357 / 352"
+      },
+      {
+        "change": 1.55,
+        "changeText": "VIC +1,55%",
+        "label": "VIC đóng góp",
+        "note": "Gần một nửa mức tăng của chỉ số",
+        "unit": "điểm",
+        "value": "+5,9"
+      }
+    ],
+    "news": [
+      {
+        "body": "Buổi sáng chỉ số rung lắc quanh 1.752–1.755 điểm, có lúc giảm khoảng 4,5 điểm. Lực mua quay lại vào buổi chiều. VIC, STB, ACB và LPB đóng góp gần 9,6 điểm, trong khi HPG, TCX, VNM và MBB lấy đi khoảng 1,25 điểm.",
+        "impact": "tich-cuc",
+        "source": "Vietstock",
+        "title": "VN-Index giữ đà phục hồi, vượt 1.770 điểm",
+        "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-2310-vn-index-giu-da-phuc-hoi-khoi-ngoai-quay-lai-ban-rong-hon-470-ty-1636-1506014.htm"
+      },
+      {
+        "body": "Trước đó, khối ngoại mua ròng khoảng 160 tỷ (21/10) và 347 tỷ (22/10), chấm dứt chuỗi bán ròng dài. Phiên này họ bán ròng hơn 470 tỷ trên HOSE, tập trung vào ACB, FPT, PNJ và STB. Cả tuần, khối ngoại bán ròng khoảng 1.000 tỷ đồng trên hai sàn.",
+        "impact": "tieu-cuc",
+        "source": "CafeF",
+        "title": "Khối ngoại quay lại bán ròng sau hai phiên mua",
+        "url": "https://cafef.vn/khoi-ngoai.html"
+      },
+      {
+        "body": "SSI giảm 0,99% về 19.950 đồng, SHS và HCM giảm nhẹ, còn VIX, ORS và VCI tăng nhẹ. Quý 3, SSI lãi sau thuế khoảng 1.043 tỷ (−27%), VNDirect giảm khoảng 65%, VIX giảm khoảng 93%. Riêng TCBS tăng khoảng 6% nhờ cho vay ký quỹ.",
+        "impact": "tieu-cuc",
+        "source": "CafeF",
+        "title": "Cổ phiếu chứng khoán phân hóa khi lợi nhuận quý 3 đi xuống",
+        "url": "https://cafef.vn/thi-truong-am-dam-cong-ty-chung-khoan-lam-an-ra-sao-188261023072835847.chn"
+      },
+      {
+        "body": "Giá trị giao dịch bình quân trên ba sàn trong quý 3 là 18.625 tỷ đồng mỗi ngày, giảm 57,6% so với cùng kỳ. Doanh thu môi giới của các công ty chứng khoán giảm mạnh, có nơi tới 60–70%.",
+        "impact": "tieu-cuc",
+        "source": "CafeF",
+        "title": "Thanh khoản quý 3 giảm hơn một nửa so với cùng kỳ",
+        "url": "https://cafef.vn/thi-truong-am-dam-cong-ty-chung-khoan-lam-an-ra-sao-188261023072835847.chn"
+      },
+      {
+        "body": "Nhiều công ty chứng khoán xác định vùng 1.755–1.778 là cụm đường trung bình dài hạn và khoảng trống giá cũ, còn 1.780–1.800 là kháng cự mạnh. Hỗ trợ gần quanh 1.700 điểm. Khuyến nghị chung là không mua đuổi và chờ nhịp điều chỉnh để giải ngân.",
+        "impact": "trung-tinh",
+        "source": "Vietstock",
+        "title": "VN-Index đang thử vùng kháng cự 1.770–1.800 điểm",
+        "url": "https://vietstock.vn/2026/10/goc-nhin-2310-ap-luc-chot-loi-xuat-hien-145-1505908.htm"
+      }
+    ],
+    "summary": "VN-Index tăng phiên thứ tư liên tiếp, đóng cửa 1.774,15 điểm (+0,77%), đà tăng nhờ ngân hàng và VIC. Độ rộng gần cân bằng và khối ngoại quay lại bán ròng gần 480 tỷ đồng, cho thấy dòng tiền đang thu hẹp vào nhóm vốn hóa lớn.",
+    "watch": [
+      "Vùng 1.780–1.800 điểm: vượt được với thanh khoản tăng thì xu hướng tăng mới được xác nhận",
+      "Hỗ trợ 1.700 điểm nếu xuất hiện áp lực chốt lời",
+      "Kết quả họp Fed ngày 27–28/10",
+      "Khối ngoại: liệu họ có mua ròng trở lại một cách bền vững sau khi Việt Nam được nâng hạng thị trường"
+    ]
+  },
+  "session": "chieu",
+  "updatedAt": "2026-10-23T20:30:00+07:00"
+}

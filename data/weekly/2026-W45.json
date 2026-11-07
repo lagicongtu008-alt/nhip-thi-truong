@@ -1,0 +1,163 @@
+{
+  "anomalies": [
+    {
+      "date": "02/11",
+      "detail": "VN-Index đóng cửa 1.710,72 điểm (−1,77%), đáy phiên 1.693,75. 534 mã giảm, 30 mã sàn; GTGD HOSE 18.577 tỷ, cao hơn bình quân 20 phiên khoảng 32%.",
+      "sector": "Thị trường chung",
+      "signal": "cao",
+      "source": "Index.vn",
+      "title": "VN-Index mất 30,9 điểm, có lúc thủng 1.700 với thanh khoản tăng vọt",
+      "url": "https://index.vn/tin-tuc/vcb-vpb-va-bid-dong-loat-lao-doc-vn-index-mat-gan-31-diem-phien-2-11",
+      "why": "Giảm mạnh kèm thanh khoản lớn là dấu hiệu bán chủ động; vùng 1.700 trở thành mốc quyết định xu hướng ngắn hạn."
+    },
+    {
+      "date": "02/11",
+      "detail": "GVR nằm sàn 29.100 đồng (−6,86%), PHR −6,94%, TRC −6,79%. Lãi ròng quý III của GVR khoảng 3.679 tỷ (+68%) nhưng khoảng 2.353 tỷ là thu nhập khác (đền bù, thanh lý cây).",
+      "sector": "Cao su tự nhiên",
+      "signal": "cao",
+      "source": "Người Quan Sát",
+      "title": "GVR, PHR, TRC cùng giảm sàn dù GVR báo lãi kỷ lục",
+      "url": "https://nguoiquansat.vn/loi-nhuan-lap-ky-luc-co-phieu-tap-doan-quy-mo-116-000-ty-bat-ngo-nam-san-325672.html",
+      "why": "Cho thấy thị trường chiết khấu lợi nhuận bất thường; nhà đầu tư cần nhìn vào lợi nhuận cốt lõi thay vì con số tổng."
+    },
+    {
+      "date": "03/11",
+      "detail": "VN-Index −11,1 điểm về 1.699,62, phiên giảm thứ 4 liên tiếp (mất khoảng 67 điểm). VIC −3,31% lấy đi khoảng 12,6 điểm, nhiều hơn mức giảm của cả chỉ số; độ rộng lại nghiêng về bên tăng (154/141) và GTGD HoSE giảm 30% còn 12.940 tỷ.",
+      "sector": "Thị trường chung",
+      "signal": "cao",
+      "source": "Thời báo Ngân hàng",
+      "title": "VN-Index đóng cửa dưới 1.700 điểm lần đầu, một mình VIC lấy đi 12,6 điểm",
+      "url": "https://thoibaonganhang.vn/vn-index-mat-moc-1700-diem-dong-tien-tiep-tuc-suy-yeu-190103.html",
+      "why": "Chỉ số đang phụ thuộc rất lớn vào nhóm Vingroup; thanh khoản giảm khi mất mốc tâm lý cho thấy lực bán yếu dần nhưng lực mua chưa sẵn sàng."
+    },
+    {
+      "date": "03/11",
+      "detail": "HPG +4,17% lên 21.250 đồng với 32,4 triệu cổ phiếu khớp, cao nhất thị trường; HSG, NKG, VGS tăng hơn 3%. Khối ngoại mua ròng HPG hơn 227 tỷ đồng trong phiên họ bán ròng khoảng 496 tỷ toàn thị trường (phiên thứ 8 liên tiếp).",
+      "sector": "Thép",
+      "signal": "trung-binh",
+      "source": "Người Quan Sát",
+      "title": "HPG tăng mạnh nhất 5 tháng, khối ngoại mua ròng 227 tỷ ngược chiều bán ròng chung",
+      "url": "https://nguoiquansat.vn/chung-khoan-lai-thung-1-700-diem-hpg-tang-manh-nhat-5-thang-325887.html",
+      "why": "Dòng tiền chọn lọc vào nhóm có KQKD quý III tăng mạnh và hưởng lợi đầu tư công; đây là nhóm dẫn dắt tiềm năng nếu thị trường tạo đáy."
+    },
+    {
+      "date": "04/11",
+      "detail": "VN-Index đóng cửa 1.733,02 điểm (+1,97%), chấm dứt chuỗi 4 phiên giảm. HoSE có 505 mã tăng/170 mã giảm, 43 mã trần trên toàn sàn; GTGD HoSE khoảng 17.464 tỷ (+38,65%). Lực tăng lan rộng, VIC đứng giá.",
+      "sector": "Thị trường chung",
+      "signal": "cao",
+      "source": "VietnamPlus",
+      "title": "VN-Index tăng 33,4 điểm lấy lại 1.700, 21 mã trần trên HoSE",
+      "url": "https://www.vietnamplus.vn/chung-khoan-ngay-411-vn-index-vot-tang-hon-33-diem-sau-4-phien-giam-lien-tiep-post1146154.vnp",
+      "why": "Phiên tăng có độ rộng và thanh khoản tốt là tín hiệu tạo đáy ngắn hạn đầu tiên, nhưng cần thêm phiên xác nhận trên 1.700 điểm."
+    },
+    {
+      "date": "04/11",
+      "detail": "NHNN mua USD giao ngay 24.399 đồng, bán lại kỳ hạn 182 ngày ở 24.704 đồng, giao dịch 6/11; có thể cung ứng gần 48.800 tỷ đồng. Cùng ngày NHNN tuyên bố sẽ xử lý ngân hàng không giảm lãi suất; lãi suất cho vay mới đã giảm 0,2–0,5 điểm %.",
+      "sector": "Ngân hàng – tiền tệ",
+      "signal": "cao",
+      "source": "Người Quan Sát",
+      "title": "NHNN mở hoán đổi ngoại tệ 182 ngày, tối đa 2 tỷ USD",
+      "url": "https://nguoiquansat.vn/nhnn-du-kien-bom-gan-48-800-ty-dong-vao-he-thong-ngan-hang-qua-kenh-hoan-doi-ngoai-te-326119.html",
+      "why": "Kỳ hạn dài hơn hẳn các đợt 7–21 ngày trước giúp giảm áp lực thanh khoản cuối năm, hỗ trợ mặt bằng lãi suất và tâm lý thị trường."
+    },
+    {
+      "date": "04/11",
+      "detail": "FPT tăng trần lên 53.900 đồng, mạnh nhất 3 tháng, sau khi chạm đáy từ 8/2023; khối ngoại mua ròng ~183 tỷ. VIX, VCI, VND, TCX, CTS tăng trần, SSI +6,5% với thanh khoản ~940 tỷ.",
+      "sector": "Công nghệ – chứng khoán",
+      "signal": "trung-binh",
+      "source": "Người Quan Sát",
+      "title": "FPT tăng trần, khối ngoại đảo chiều mua ròng 183 tỷ; cổ phiếu chứng khoán đua trần",
+      "url": "https://nguoiquansat.vn/co-phieu-fpt-tang-manh-nhat-3-thang-cong-ty-chung-khoan-noi-gi-326096.html",
+      "why": "Nhóm từng bị bán mạnh nhất quay lại dẫn dắt cho thấy dòng tiền bắt đáy; tuy vậy triển vọng cơ bản của FPT vẫn chịu sức ép từ AI."
+    },
+    {
+      "date": "05/11",
+      "detail": "VIX có lúc tăng trần, đóng cửa +3,97% lên 13.100 đồng, khớp khoảng 105 triệu cổ phiếu – bằng 1/7 khối lượng khớp HoSE. Khối ngoại mua ròng VIX hơn 452 tỷ trong khi bán ròng khoảng 225 tỷ trên toàn thị trường.",
+      "sector": "Chứng khoán",
+      "signal": "cao",
+      "source": "Người Quan Sát",
+      "title": "Khối ngoại gom hơn 452 tỷ đồng VIX, 105 triệu cổ phiếu khớp lệnh",
+      "url": "https://nguoiquansat.vn/105-trieu-co-phieu-mot-cong-ty-chung-khoan-doi-chu-trong-phien-rieng-khoi-ngoai-gom-gan-34-trieu-don-vi-326245.html",
+      "why": "Lực mua tập trung bất thường của khối ngoại vào một mã chứng khoán hạng trung cho thấy kỳ vọng vào nhóm hưởng lợi từ thanh khoản; tuy vậy các mã cùng ngành như VCI, HCM lại giảm, nên chưa phải sóng ngành đồng thuận."
+    },
+    {
+      "date": "05/11",
+      "detail": "Brent −8,7% còn 94,62 USD/thùng, WTI −8,3% còn 88,12 USD, thấp nhất từ 31/8 sau bầu cử Mỹ. Từ 15h ngày 5/11, E5 RON92 còn 20.890 đồng/lít (−2.310 đồng), E10 RON95 21.150 đồng (−2.080 đồng).",
+      "sector": "Dầu khí – xăng dầu",
+      "signal": "cao",
+      "source": "Thanh Niên",
+      "title": "Giá dầu lao dốc gần 9%, xăng trong nước giảm hơn 2.000 đồng/lít",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-5112026-dau-lao-doc-gan-9-185261105090338536.htm",
+      "why": "Giá năng lượng giảm hỗ trợ lạm phát và tạo dư địa nới lỏng tiền tệ, có lợi cho hàng không, vận tải; ngược lại gây áp lực lên doanh thu nhóm khai thác, lọc dầu như BSR, PVS, GAS."
+    },
+    {
+      "date": "06/11",
+      "detail": "Nasdaq giảm 5,52% (phiên tệ nhất từ 4/2025), Nvidia −9,3%, Kospi mở cửa mất gần 9% phải ngắt mạch. FPT giảm 3,97% xuống 50.800 đồng, mất gần 4.000 tỷ vốn hóa, xóa phần lớn phiên tăng trần 4/11; VN-Index mở cửa mất khoảng 30 điểm.",
+      "sector": "Công nghệ",
+      "signal": "cao",
+      "source": "Báo Tin tức (TTXVN)",
+      "title": "Bán tháo cổ phiếu AI toàn cầu, FPT giảm 3,97% và bị khối ngoại xả 151 tỷ",
+      "url": "https://baotintuc.vn/tai-sao-co-phieu-cong-nghe-bi-ban-thao-tren-toan-cau-sau-bau-cu-giua-ky-o-my-post1400391.html",
+      "why": "Cho thấy FPT nhạy cảm với chu kỳ AI toàn cầu; khi tâm lý Phố Wall chưa ổn định, nhóm công nghệ khó tạo đáy bền vững."
+    },
+    {
+      "date": "06/11",
+      "detail": "Chấm dứt chuỗi 10 phiên bán ròng đúng ngày chứng khoán toàn cầu lao dốc. KDH được mua khoảng 171 tỷ, tăng 5,23% lên 15.100 đồng, +16,15% sau 3 phiên từ đáy hơn 6 năm; VND, VIX, MSN, VIC cũng được gom.",
+      "sector": "Khối ngoại – bất động sản",
+      "signal": "cao",
+      "source": "CafeF",
+      "title": "Khối ngoại đảo chiều mua ròng 436 tỷ, gom 171 tỷ KDH",
+      "url": "https://cafef.vn/phien-6-11-khoi-ngoai-do-tien-mua-rong-hon-400-ty-dong-co-phieu-viet-nam-giua-luc-chung-khoan-toan-cau-lao-doc-188261106153537479.chn",
+      "why": "Dòng vốn ngoại quay lại chọn lọc ở cổ phiếu đã giảm sâu là tín hiệu tích cực, nhưng cần thêm vài phiên để xác nhận xu hướng."
+    },
+    {
+      "date": "06/11",
+      "detail": "Dịch vụ tài chính là nhóm duy nhất giữ sắc xanh: VND +5,3%, BVS +4%, CTS +2,4%, VIX +1,9% với 93,8 triệu cổ phiếu khớp. Thanh khoản HoSE tăng 19% lên 18.799 tỷ dù VN-Index giảm 15 điểm.",
+      "sector": "Chứng khoán",
+      "signal": "trung-binh",
+      "source": "VnExpress",
+      "title": "Nhóm chứng khoán ngược dòng, VIX khớp 1.247 tỷ cao nhất thị trường",
+      "url": "https://vnexpress.net/ap-luc-ban-bao-phu-hon-200-co-phieu-5141621.html",
+      "why": "Thanh khoản cao và lãi suất giảm hỗ trợ lợi nhuận môi giới, margin; nhóm này đang là chỉ báo tâm lý của dòng tiền ngắn hạn."
+    }
+  ],
+  "headline": "VN-Index mất 16,26 điểm trong tuần (−0,93%), tuần giảm thứ hai liên tiếp; khối ngoại đảo chiều mua ròng phiên cuối tuần giữa cơn bán tháo toàn cầu",
+  "key": "2026-W45",
+  "label": "Tuần 02–06/11/2026",
+  "outlook": "VN-Index kết tuần ở 1.725 điểm, nằm giữa vùng hỗ trợ 1.700–1.720 và kháng cự 1.745–1.760 điểm. Kịch bản cơ sở cho tuần 9–13/11 là tiếp tục tích lũy trong vùng này, với biến số lớn nhất là diễn biến của chứng khoán Mỹ sau cú bán tháo cổ phiếu AI. Nền vĩ mô trong nước (tỷ giá giảm, lãi suất đi xuống, thanh khoản ngân hàng được hỗ trợ) và việc khối ngoại quay lại mua ròng là lực đỡ; nếu giữ được 1.700 điểm và khối ngoại duy trì mua, khả năng vượt 1.760 điểm sẽ mở ra. Ngược lại, mất 1.700 điểm với thanh khoản lớn có thể kéo chỉ số về kiểm định đáy cũ.",
+  "risks": [
+    "Phố Wall và châu Á tiếp tục bán tháo cổ phiếu công nghệ/AI, lan sang tâm lý thị trường mới nổi",
+    "Áp lực giải chấp margin ở cổ đông lớn (PNJ, KOS, NVL) kéo dài",
+    "Chỉ số phụ thuộc nhóm Vingroup; VIC, VHM điều chỉnh sâu có thể kéo VN-Index thủng 1.700",
+    "Nợ xấu ngân hàng tăng, NIM co hẹp khi lãi vay giảm nhanh hơn chi phí vốn",
+    "Giá dầu và vàng biến động mạnh theo căng thẳng Mỹ – Iran"
+  ],
+  "summary": "Tuần 2–6/11 là một tuần chữ V chưa hoàn chỉnh. VN-Index mất khoảng 42 điểm hai phiên đầu tuần, lần đầu đóng cửa dưới 1.700 điểm (1.699,62 ngày 3/11), rồi bật mạnh 33,4 điểm ngày 4/11 và thêm 7,71 điểm lên 1.740,73 điểm ngày 5/11. Phiên thứ Sáu, cú bán tháo cổ phiếu AI trên Phố Wall (Nasdaq −5,52%) và châu Á (Kospi ngắt mạch) kéo chỉ số giảm 15,37 điểm về 1.725,36 điểm. Cả tuần VN-Index giảm 16,26 điểm (−0,93%), tuần giảm thứ hai liên tiếp; thanh khoản HoSE dao động 12.900–18.800 tỷ đồng/phiên.\nKhối ngoại bán ròng bốn phiên đầu tuần (khoảng 1.200 tỷ đồng trên HoSE) nhưng đảo chiều mua ròng 436 tỷ đồng ngày 6/11, chấm dứt chuỗi 10 phiên bán; cộng dồn số liệu từng phiên, cả tuần khối ngoại ước bán ròng khoảng 800 tỷ đồng trên HoSE. Vĩ mô thuận lợi hơn hẳn: tỷ giá trung tâm giảm 6 phiên liền về 25.615 đồng/USD, giá USD ngân hàng về đáy khoảng 1,5 năm; NHNN mở hoán đổi ngoại tệ 182 ngày; 46/46 ngân hàng giảm lãi huy động, lãi vay mới bình quân còn 8,88%; xăng giảm hơn 2.000 đồng/lít theo giá dầu.",
+  "themes": [
+    {
+      "body": "NHNN dùng hoán đổi ngoại tệ kỳ hạn 6 tháng và yêu cầu giảm lãi suất: toàn bộ 46 ngân hàng hạ lãi huy động, lãi vay mới bình quân còn 8,88%. USD yếu sau bầu cử giữa kỳ Mỹ giúp tỷ giá trung tâm giảm 6 phiên liền về 25.615 đồng/USD.",
+      "title": "Chính sách tiền tệ nới lỏng, tỷ giá hạ nhiệt"
+    },
+    {
+      "body": "Lo ngại Mỹ hạn chế xây trung tâm dữ liệu khiến Nasdaq mất 5,52%, chỉ số bán dẫn −12,3%. FPT tăng trần ngày 4/11 rồi giảm 3,97% ngày 6/11, tiếp tục là mã bị khối ngoại bán mạnh nhất.",
+      "title": "Cú sốc AI toàn cầu và FPT"
+    },
+    {
+      "body": "Nhóm chứng khoán (VIX, VND) được khối ngoại gom mạnh và nhiều lần ngược dòng; KDH tăng 16% sau 3 phiên; HPG được mua ròng 227 tỷ ngày 3/11. Ngược lại, chỉ số phụ thuộc nhiều vào nhóm Vingroup.",
+      "title": "Dòng tiền chọn lọc: chứng khoán, BĐS dân cư, thép"
+    },
+    {
+      "body": "SSI ước LNTT ngành quý III +18,9% nhưng nợ xấu lên 2,09%, bao phủ giảm còn 77%, NIM khối cổ phần giảm 9 điểm cơ bản. Khối ngoại tiếp tục bán VCB, MBB, chọn lọc CTG.",
+      "title": "Ngân hàng: lợi nhuận tốt, chất lượng tài sản đi xuống"
+    }
+  ],
+  "updatedAt": "2026-11-06T17:10:00+07:00",
+  "watchlist": [
+    "Vùng 1.700–1.720 điểm (hỗ trợ) và 1.745–1.760 điểm (kháng cự) của VN-Index",
+    "Nasdaq, Kospi, Nikkei đầu tuần và cổ phiếu FPT quanh đáy 3 năm",
+    "Khối ngoại có duy trì mua ròng (KDH, VND, VIX, MSN) hay quay lại bán VCB, FPT",
+    "Kết quả hoán đổi ngoại tệ 182 ngày, lãi suất liên ngân hàng và tỷ giá trung tâm",
+    "Tôn Đông Á (GDA) chào sàn HoSE ngày 12/11 và kỳ cơ cấu ETF, rà soát FTSE Russell",
+    "Diễn biến giá dầu, vàng và nhóm dầu khí, PNJ"
+  ]
+}

@@ -1,0 +1,76 @@
+# Soạn bản tin trên GitHub Actions và đăng lên GitHub Pages (không cần bật máy).
+# Cần: secret ANTHROPIC_API_KEY; Settings → Pages → Source = "GitHub Actions".
+name: Ban tin Nhip Thi Truong
+on:
+  schedule:
+    - cron: "45 23 * * *"   # 06:45 giờ Việt Nam (GitHub có thể chạy trễ 5–30 phút)
+    - cron: "45 9 * * *"    # 16:45 giờ Việt Nam
+  workflow_dispatch:
+    inputs:
+      session:
+        description: "Buổi (để trống = tự chọn theo giờ VN)"
+        required: false
+        type: choice
+        options: ["", "sang", "chieu"]
+      force:
+        description: "Soạn lại nếu bản tin đã có"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["web/**", "data/**"]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: bantin
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Soạn bản tin
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-5-5' }}
+        run: |
+          ARGS=""
+          [ -n "${{ inputs.session }}" ] && ARGS="$ARGS --session ${{ inputs.session }}"
+          [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
+          python scripts/collect.py $ARGS
+      - name: Lưu dữ liệu mới vào repo
+        run: |
+          git config user.name "nhip-thi-truong-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Bản tin $(TZ=Asia/Ho_Chi_Minh date +%Y-%m-%d-%H%M)" && git push)
+
+  deploy:
+    needs: collect
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - name: Gom trang + dữ liệu
+        run: |
+          mkdir _site
+          cp -r web/. _site/
+          mkdir -p _site/data
+          cp -r data/daily data/weekly data/index.json _site/data/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: _site }
+      - id: pages
+        uses: actions/deploy-pages@v4

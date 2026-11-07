@@ -1,0 +1,8 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Server", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/server.py", "cwd": "${workspaceFolder}", "envFile": "${workspaceFolder}/.env" },
+    { "name": "Soạn bản tin", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/collect.py", "cwd": "${workspaceFolder}", "envFile": "${workspaceFolder}/.env" },
+    { "name": "Kiểm tra dữ liệu", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/scripts/validate.py", "cwd": "${workspaceFolder}" }
+  ]
+}

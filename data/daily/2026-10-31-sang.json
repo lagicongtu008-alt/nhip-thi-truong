@@ -1,0 +1,805 @@
+{
+  "banking": {
+    "analysis": "Mùa báo cáo quý III của ngân hàng khép lại với một thông điệp rõ: thu nhập lõi vẫn tăng tốt (thu nhập lãi thuần của Vietcombank +35%, VietinBank +27%), nhưng chất lượng tài sản đang xấu đi. Cả ba ngân hàng quốc doanh lớn đều có nợ xấu tăng 18–36% so với đầu năm; Vietcombank chấp nhận trích lập mạnh trong quý III, còn BIDV lại giảm dự phòng để lợi nhuận tăng 39%. Với nhà đầu tư, chất lượng lợi nhuận (dự phòng, nợ xấu) quan trọng hơn con số tăng trưởng, và đây có thể là lý do nhóm ngân hàng bị bán mạnh trong phiên 30/10 dù vĩ mô tiền tệ dịu đi.\nVề tiền tệ, tỷ giá ổn định là điểm tựa: giá USD tại ngân hàng giữ dưới 26.000 đồng, lãi suất huy động tiếp tục được kéo xuống. Rủi ro đến từ bên ngoài: giá dầu Brent quanh 117 USD/thùng làm tăng áp lực lạm phát (CPI 9 tháng trong nước đã tăng 4,52%), trong khi thị trường định giá khoảng 75–83% khả năng Fed tăng lãi suất tháng 12. Nếu USD mạnh lại, dư địa giảm lãi suất trong nước sẽ hẹp đi.",
+    "articles": [
+      {
+        "source": "CafeF",
+        "summary": "Bảng LNTT quý III của 22 ngân hàng: MB +42,5%, SHB +57%, Sacombank −52%, Eximbank −67%.",
+        "time": "30/10 tối",
+        "title": "Chiều tối 30/10 cập nhật lợi nhuận của 28 ngân hàng: Vietcombank, MB, Eximbank, VietinBank, BIDV,....",
+        "url": "https://cafef.vn/chieu-toi-30-10-cap-nhat-loi-nhuan-cua-28-ngan-hang-vietcombank-mb-eximbank-vietinbank-bidv-188261030182505541.chn"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "LNTT quý III 13.689 tỷ, 9 tháng 39.557 tỷ (+34%); nợ xấu 1,2%.",
+        "time": "30/10 tối",
+        "title": "Tổng tài sản gần 3 triệu tỷ đồng, VietinBank tăng 29% lãi trước thuế quý 3",
+        "url": "https://vietstock.vn/2026/10/tong-tai-san-gan-3-trieu-ty-dong-vietinbank-tang-29-lai-truoc-thue-quy-3-737-1509737.htm"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "LNTT quý III 10.579 tỷ; nợ xấu tăng 36%, tỷ lệ 1,85%.",
+        "time": "30/10 tối",
+        "title": "Giảm dự phòng rủi ro, BIDV tăng 39% lợi nhuận trước thuế quý 3",
+        "url": "https://vietstock.vn/2026/10/giam-du-phong-rui-ro-bidv-tang-39-loi-nhuan-truoc-thue-quy-3-737-1509741.htm"
+      },
+      {
+        "source": "VnExpress",
+        "summary": "Trích lập quý III ~6.200 tỷ, gấp 8 lần; nợ xấu 0,71%.",
+        "time": "31/10",
+        "title": "Vietcombank lãi hơn 40.000 tỷ đồng sau 9 tháng",
+        "url": "https://vnexpress.net/vietcombank-lai-hon-40-000-ty-dong-sau-9-thang-5138942.html"
+      },
+      {
+        "source": "Investing.com (theo Vietstock)",
+        "time": "30/10 tối",
+        "title": "Tăng trích lập dự phòng rủi ro gấp 8 lần, Vietcombank báo lãi trước thuế quý 3/2026 đi ngang",
+        "url": "https://vn.investing.com/news/economy-news/tang-trich-lap-du-phong-rui-ro-gap-8-lan-vietcombank-bao-lai-truoc-thue-quy-32026-di-ngang-2750339"
+      },
+      {
+        "source": "CafeF",
+        "summary": "SHB lãi trước thuế quý III 5.166 tỷ (+57%); Eximbank 186 tỷ (−67%), 9 tháng 864 tỷ (−58%).",
+        "time": "31/10",
+        "title": "Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+      },
+      {
+        "source": "VOV",
+        "summary": "Tỷ giá trung tâm 25.637; Vietcombank 25.610–25.990; DXY 101,68.",
+        "time": "31/10",
+        "title": "Tỷ giá USD hôm nay 31/10: Giá bán USD ở quanh mức 25.990 đồng/USD",
+        "url": "https://vov.vn/thi-truong/ty-gia-usd-hom-nay-3110-gia-ban-usd-o-quanh-muc-25990-dongusd-post1346036.vov"
+      },
+      {
+        "source": "Quân đội Nhân dân",
+        "time": "31/10",
+        "title": "Tỷ giá USD hôm nay (31-10): Đồng đô la Mỹ (USD) chịu sức ép",
+        "url": "https://www.qdnd.vn/kinh-te/tin-tuc/ty-gia-usd-hom-nay-31-10-dong-usd-chiu-suc-ep-khi-dong-yen-phuc-hoi-1062596"
+      },
+      {
+        "source": "Việt Báo",
+        "time": "31/10",
+        "title": "Tỷ giá USD hôm nay 31/10: Giá bán USD ở quanh mức 25.990 đồng/USD",
+        "url": "https://vietbao.vn/ty-gia-usd-hom-nay-3110-gia-ban-usd-o-quanh-muc-25990-dongusd-613833.html"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "Tỷ giá trung tâm +10 đồng trong tuần; Vietcombank đứng yên; DXY 101,6.",
+        "time": "30/10",
+        "title": "Tuần 26-30/10: USD-Index 'hạ nhiệt' cuối tuần, giá USD tự do bật tăng",
+        "url": "https://vietstock.vn/2026/10/tuan-26-3010-usd-index-ha-nhiet-cuoi-tuan-gia-usd-tu-do-bat-tang-757-1509031.htm"
+      },
+      {
+        "source": "VnExpress",
+        "time": "30/10 tối",
+        "title": "Đề xuất thí điểm chứng chỉ vàng",
+        "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html"
+      },
+      {
+        "source": "VietnamNet",
+        "summary": "Tín dụng ~155% GDP; gần 80% vốn huy động kỳ hạn dưới 12 tháng.",
+        "time": "30/10",
+        "title": "500 tấn vàng và 11,2 triệu tỷ đồng đang 'nằm' trong dân, vốn không vào sản xuất",
+        "url": "https://vietnamnet.vn/500-tan-vang-va-11-2-trieu-ty-dong-dang-nam-trong-dan-von-khong-vao-san-xuat-2569945.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "30/10",
+        "title": "Thêm nhiều ngân hàng giảm lãi suất",
+        "url": "https://thoibaonganhang.vn/them-nhieu-ngan-hang-giam-lai-suat-189935.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "30/10",
+        "title": "Diễn biến thị trường tài chính - tiền tệ quốc tế sáng 30/10",
+        "url": "https://thoibaonganhang.vn/dien-bien-thi-truong-tai-chinh-tien-te-quoc-te-sang-3010-189896-189896.html"
+      },
+      {
+        "source": "BNews",
+        "summary": "BoJ giữ lãi suất ~1,25%, lần đầu sau 13 năm xác nhận lạm phát cơ bản đạt 2%; GDP eurozone quý III +0,4%.",
+        "time": "30/10",
+        "title": "Điểm tin kinh tế thế giới nổi bật ngày 30/10/2026",
+        "url": "https://bnews.vn/diem-tin-kinh-te-the-gioi-noi-bat-ngay-30-10-2026/442538.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": 10,
+        "changeText": "+10 đồng so với tuần trước",
+        "label": "Tỷ giá trung tâm",
+        "note": "Mức áp dụng cuối tuần; biên độ ±5%: 24.355–26.919",
+        "unit": "đồng/USD",
+        "value": "25.637"
+      },
+      {
+        "change": -30,
+        "changeText": "−30 đồng so với sáng 30/10",
+        "label": "USD Vietcombank (bán ra)",
+        "note": "Mua vào 25.610; BIDV bán 25.980",
+        "unit": "đồng",
+        "value": "25.990"
+      },
+      {
+        "label": "Chỉ số USD (DXY)",
+        "note": "Cả tuần gần như đi ngang quanh 101,6",
+        "unit": "điểm",
+        "value": "101,68"
+      },
+      {
+        "change": 22,
+        "changeText": "+22%",
+        "label": "LNTT 9 tháng Vietcombank",
+        "note": "Quý III ~11.200 tỷ, đi ngang do trích lập ~6.200 tỷ",
+        "unit": "tỷ đồng",
+        "value": "40.440"
+      },
+      {
+        "change": 0.38,
+        "changeText": "+0,38 điểm % so với đầu năm",
+        "label": "Tỷ lệ nợ xấu BIDV",
+        "note": "Nợ xấu 47.486 tỷ, tăng 36%; VietinBank 1,2%, Vietcombank 0,71%",
+        "unit": "%",
+        "value": "1,85"
+      },
+      {
+        "change": -1.3,
+        "changeText": "−1,3 triệu",
+        "label": "Vàng miếng SJC (bán ra)",
+        "note": "Mua vào 138,4; vàng thế giới dưới 4.000 USD/ounce",
+        "unit": "triệu đồng/lượng",
+        "value": "141,4"
+      }
+    ],
+    "news": [
+      {
+        "body": "Thu nhập lãi thuần quý III tăng 27% lên khoảng 21.816 tỷ đồng, lãi dịch vụ tăng 57%. VietinBank vẫn tăng trích lập dự phòng 33% lên 7.780 tỷ. Lũy kế 9 tháng lãi trước thuế 39.557 tỷ (+34%). Nợ xấu tăng 18% so với đầu năm, tỷ lệ nợ xấu từ 1,1% lên 1,2%.",
+        "impact": "tich-cuc",
+        "source": "Vietstock",
+        "title": "VietinBank lãi trước thuế quý III gần 13.689 tỷ đồng, tăng 29%",
+        "url": "https://vietstock.vn/2026/10/tong-tai-san-gan-3-trieu-ty-dong-vietinbank-tang-29-lai-truoc-thue-quy-3-737-1509737.htm"
+      },
+      {
+        "body": "BIDV lãi trước thuế quý III khoảng 10.579 tỷ đồng (+39%), 9 tháng 29.483 tỷ (+25%). Chi phí dự phòng quý III giảm 25%. Ngược lại, nợ xấu lên 47.486 tỷ đồng, tăng 36% so với đầu năm, tỷ lệ nợ xấu tăng từ 1,47% lên 1,85%.",
+        "impact": "trung-tinh",
+        "source": "Vietstock",
+        "title": "BIDV lãi quý III tăng 39% nhờ giảm dự phòng, nợ xấu tăng 36%",
+        "url": "https://vietstock.vn/2026/10/giam-du-phong-rui-ro-bidv-tang-39-loi-nhuan-truoc-thue-quy-3-737-1509741.htm"
+      },
+      {
+        "body": "Lãi trước thuế 9 tháng khoảng 40.440 tỷ đồng (+22%), thu nhập lãi thuần tăng 35%. Riêng quý III, chi phí dự phòng khoảng 6.200 tỷ, gấp 8 lần cùng kỳ, khiến lợi nhuận quý chỉ tương đương năm trước (~11.200 tỷ). Tỷ lệ nợ xấu tăng từ 0,58% lên 0,71%.",
+        "impact": "trung-tinh",
+        "source": "VnExpress",
+        "title": "Vietcombank lãi 9 tháng hơn 40.000 tỷ, quý III đi ngang vì trích lập gấp 8 lần",
+        "url": "https://vnexpress.net/vietcombank-lai-hon-40-000-ty-dong-sau-9-thang-5138942.html"
+      },
+      {
+        "body": "Theo tổng hợp lợi nhuận trước thuế quý III: MB 10.330 tỷ (+42,5%), SHB 5.166 tỷ (+57%), TPBank 2.981 tỷ (+57%), Techcombank 10.375 tỷ (+26%), VPBank 11.031 tỷ (+20%). Ngược lại Sacombank giảm 52%, Eximbank chỉ lãi 186 tỷ (−67%), Saigonbank −79%.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "Lợi nhuận quý III ngân hàng phân hóa: MB, SHB, TPBank tăng mạnh; Sacombank, Eximbank giảm sâu",
+        "url": "https://cafef.vn/chieu-toi-30-10-cap-nhat-loi-nhuan-cua-28-ngan-hang-vietcombank-mb-eximbank-vietinbank-bidv-188261030182505541.chn"
+      },
+      {
+        "body": "Tỷ giá trung tâm khép tuần ở 25.637 đồng/USD, chỉ cao hơn tuần trước 10 đồng. Vietcombank bán ra 25.990 đồng, giảm 30 đồng so với sáng 30/10. Chỉ số DXY gần như không đổi quanh 101,6–101,7 điểm sau tuần có Fed họp.",
+        "impact": "tich-cuc",
+        "source": "VOV",
+        "title": "Tỷ giá cả tuần đi ngang, giá USD ngân hàng giữ dưới 26.000 đồng",
+        "url": "https://vov.vn/thi-truong/ty-gia-usd-hom-nay-3110-gia-ban-usd-o-quanh-muc-25990-dongusd-post1346036.vov"
+      },
+      {
+        "body": "Ông Lê Hoàng Anh (Ủy ban Kinh tế – Tài chính) ước tính dân đang giữ khoảng 500 tấn vàng (~12% GDP) và hơn 11,2 triệu tỷ đồng tiền gửi. Tín dụng đã khoảng 155% GDP, gần 80% vốn huy động có kỳ hạn dưới 12 tháng trong khi một nửa dư nợ là trung – dài hạn, gây rủi ro lệch kỳ hạn.",
+        "impact": "trung-tinh",
+        "source": "VnExpress",
+        "title": "Đại biểu Quốc hội đề xuất thí điểm chứng chỉ vàng để huy động 500 tấn vàng trong dân",
+        "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html"
+      }
+    ],
+    "summary": "Cuối tuần không có giao dịch. Tâm điểm là kết quả quý III của nhóm ngân hàng quốc doanh, công bố tối 30/10: VietinBank lãi trước thuế 13.689 tỷ đồng (+29%), BIDV 10.579 tỷ (+39%), còn Vietcombank đi ngang ở khoảng 11.200 tỷ vì trích lập dự phòng quý III gấp 8 lần cùng kỳ. Nợ xấu tăng ở cả ba ngân hàng. Tỷ giá trung tâm giữ 25.637 đồng/USD; giá bán USD tại Vietcombank còn 25.990 đồng.",
+    "watch": [
+      "Phản ứng của cổ phiếu ngân hàng quốc doanh (VCB, BID, CTG) đầu tuần sau KQKD quý III",
+      "TCB giao dịch phiên đầu tiên sau ngày đăng ký cuối cùng nhận cổ tức 50% bằng cổ phiếu",
+      "Diễn biến nợ xấu và trích lập tại các ngân hàng còn lại khi BCTC soát xét được công bố",
+      "Tỷ giá USD/VND trước bầu cử giữa kỳ Mỹ (3/11) và kỳ vọng Fed tăng lãi suất tháng 12",
+      "Đà giảm lãi suất huy động có lan sang nhóm ngân hàng lớn hay không"
+    ]
+  },
+  "date": "2026-10-31",
+  "key": "2026-10-31-sang",
+  "label": "Sáng 31/10/2026 (thứ Bảy)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "summary": "Tàu chở dầu trúng thiết bị nổ ở Hormuz; dầu tăng ~14% trong tháng 10.",
+          "time": "30/10 chiều",
+          "title": "Giá dầu thế giới tăng 4 tháng liên tiếp",
+          "url": "https://vnexpress.net/gia-dau-the-gioi-tang-4-thang-lien-tiep-5138802.html"
+        },
+        {
+          "source": "VOV",
+          "summary": "Brent 117,15 USD (+1,98%), WTI 103,79 USD; khảo sát nâng dự báo Brent 2026 lên 92,88 USD.",
+          "time": "31/10 05:00",
+          "title": "Giá xăng dầu hôm nay 31/10: Dự báo giá dầu Brent tăng",
+          "url": "https://vov.vn/thi-truong/gia-xang-dau-hom-nay-3110-du-bao-gia-dau-brent-tang-post1346017.vov"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "time": "31/10",
+          "title": "Giá xăng dầu hôm nay 31/10/2026: Dầu thế giới tăng tiếp, Brent ở vùng cao",
+          "url": "https://baolaocai.vn/gia-xang-dau-hom-nay-31102026-dau-the-gioi-tang-tiep-brent-o-vung-cao-post913197.html"
+        },
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "31/10",
+          "title": "Giá xăng dầu hôm nay (31-10): Tăng hơn 2%",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-31-10-tang-hon-2-len-muc-cao-nhat-trong-6-thang-qua-1062734"
+        },
+        {
+          "source": "Thể thao 247",
+          "time": "31/10",
+          "title": "Giá xăng dầu hôm nay 31/10: Giá dầu thế giới bật tăng mạnh",
+          "url": "https://thethao247.vn/63-gia-xang-dau-hom-nay-31-10-gia-dau-the-gioi-bat-tang-manh-c123-d443154.html"
+        },
+        {
+          "source": "CafeF",
+          "summary": "BSR lãi 10.072 tỷ (+858%); GAS 5.773 tỷ (+80%); PGV +778%.",
+          "time": "31/10",
+          "title": "Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+        },
+        {
+          "source": "VietnamPlus",
+          "time": "30/10",
+          "title": "Giá dầu tại thị trường châu Á hướng tới tháng tăng thứ tư liên tiếp",
+          "url": "https://www.vietnamplus.vn/gia-dau-tai-thi-truong-chau-a-huong-toi-thang-tang-thu-tu-lien-tiep-post1145213.vnp"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "time": "30/10",
+          "title": "Giá xăng dầu thế giới và trong nước tăng nhẹ",
+          "url": "https://thoibaotaichinhvietnam.vn/gia-xang-dau-the-gioi-va-trong-nuoc-tang-nhe-206142.html"
+        }
+      ],
+      "body": "Một tàu chở dầu bị tấn công ở eo biển Hormuz ngày 30/10 và Houthi tuyên bố tấn công các nhà máy lọc dầu của Ả Rập Xê Út, đẩy Brent kỳ hạn tháng 12 lên 117,15 USD, WTI 103,79 USD. Trong nước, BSR lãi trước thuế quý III 10.072 tỷ đồng (+858%), PV GAS 5.773 tỷ (+80%). Giá xăng trong nước kỳ 5/11 được dự báo nghiêng về tăng.",
+      "heat": 5,
+      "name": "Dầu khí – lọc hóa dầu",
+      "reason": "Brent quanh 117 USD/thùng, tháng 10 tăng khoảng 13–14% (tháng tăng thứ 4 liên tiếp); BSR báo lãi quý III hơn 10.000 tỷ, gấp gần 10 lần.",
+      "source": "VnExpress",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 2.6,
+          "code": "GAS"
+        }
+      ],
+      "url": "https://vnexpress.net/gia-dau-the-gioi-tang-4-thang-lien-tiep-5138802.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "VietnamNet",
+          "summary": "Vàng giao ngay có lúc 3.905 USD/ounce, giảm 118 USD; SJC 138,4–141,4 triệu.",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10: Liên tục 'bốc hơi', vàng xuống thấp nhất 1 năm qua",
+          "url": "https://vietnamnet.vn/gia-vang-hom-nay-31-10-lien-tuc-boc-hoi-vang-xuong-thap-nhat-1-nam-qua-2570064.html"
+        },
+        {
+          "source": "Dân Trí",
+          "summary": "Bạc về gần 49 USD/ounce, thấp nhất năm; vàng thấp hơn đỉnh tháng 1 khoảng 30%.",
+          "time": "30/10 22:22",
+          "title": "Tối 30/10, giá vàng, bạc đồng loạt giảm sốc",
+          "url": "https://dantri.com.vn/kinh-doanh/toi-3010-gia-vang-bac-dong-loat-giam-soc-20261030222217292.htm"
+        },
+        {
+          "source": "Công Thương",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay (31/10): Đồng loạt lao dốc",
+          "url": "https://congthuong.vn/gia-vang-hom-nay-31-10-dong-loat-lao-doc-478536.html"
+        },
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay (31-10): Đồng loạt lao dốc",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-vang-hom-nay-31-10-dong-loat-lao-doc-1062725"
+        },
+        {
+          "source": "Báo Quốc tế",
+          "summary": "TD Securities dự báo vàng dao động 3.900–4.250 USD/ounce.",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10/2026 đua xuống đáy, mất ngưỡng hỗ trợ quan trọng, khả năng còn sụt giảm mạnh vào cuối năm?",
+          "url": "https://baoquocte.vn/gia-vang-hom-nay-31-10-2026-dua-xuong-day-mat-nguong-ho-tro-quan-trong-kha-nang-con-sut-giam-manh-vao-cuoi-nam-462633.html"
+        },
+        {
+          "source": "Báo Lào Cai",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10: Vàng thế giới xuống thấp nhất trong khoảng một năm",
+          "url": "https://baolaocai.vn/gia-vang-hom-nay-3110-vang-the-gioi-xuong-thap-nhat-trong-khoang-mot-nam-post913196.html"
+        },
+        {
+          "source": "Báo Đà Nẵng",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10/2026: Vàng miếng SJC, nhẫn trơn 9999 BTMC và vàng thế giới",
+          "url": "https://baodanang.vn/gia-vang-hom-nay-31-10-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi-3356914.html"
+        },
+        {
+          "source": "Báo Nghệ An",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10/2026: Giá vàng SJC BTMC PNJ Phú Quý và vàng quốc tế",
+          "url": "https://baonghean.vn/gia-vang-hom-nay-31-10-2026-gia-vang-sjc-btmc-pnj-phu-quy-va-vang-quoc-te-10354697.html"
+        },
+        {
+          "source": "Thể thao 247",
+          "time": "31/10",
+          "title": "Giá vàng hôm nay 31/10/2026: Thế giới lao dốc, SJC neo cao",
+          "url": "https://thethao247.vn/63-gia-vang-hom-nay-31-10-2026-the-gioi-lao-doc-sjc-neo-cao-c123-d443150.html"
+        },
+        {
+          "source": "VietnamBiz",
+          "time": "30/10",
+          "title": "Bảng giá vàng hôm nay 30/10: Vàng SJC rơi mạnh, vàng nhẫn bốc hơi 1,5 triệu đồng/lượng, giá thế giới lại thủng mốc 4.000 USD",
+          "url": "https://vietnambiz.vn/bang-gia-vang-hom-nay-3010-vang-sjc-roi-manh-vang-nhan-boc-hoi-15-trieu-dongluong-gia-the-gioi-lai-thung-moc-4000-usd-20261030141557122.htm"
+        },
+        {
+          "source": "VnExpress",
+          "summary": "Dân đang giữ khoảng 500 tấn vàng, ~12% GDP.",
+          "time": "30/10 tối",
+          "title": "Đề xuất thí điểm chứng chỉ vàng",
+          "url": "https://vnexpress.net/de-xuat-thi-diem-chung-chi-vang-5138821.html"
+        }
+      ],
+      "body": "Kỳ vọng Fed tăng lãi suất tháng 12 (xác suất khoảng 75–83%) cùng GDP quý III Mỹ tăng 3,4% và PCE 3,6% làm vàng mất hấp dẫn. Tối 30/10 vàng có lúc giảm gần 100 USD so với buổi sáng; tháng 10 là tháng giảm thứ hai liên tiếp. SJC đứng ở 138,4–141,4 triệu đồng/lượng (−1,3 triệu), thấp hơn đỉnh tháng 3 khoảng 49,5 triệu; chênh lệch với giá thế giới còn khoảng 17–20 triệu đồng/lượng.",
+      "heat": 5,
+      "name": "Vàng – kim loại quý",
+      "reason": "Vàng thế giới thủng 4.000 USD/ounce, có lúc về khoảng 3.900 USD – thấp nhất khoảng một năm; bạc mất khoảng 6% trong phiên.",
+      "source": "VietnamNet",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -3.4,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://vietnamnet.vn/gia-vang-hom-nay-31-10-lien-tuc-boc-hoi-vang-xuong-thap-nhat-1-nam-qua-2570064.html"
+    },
+    {
+      "articles": [
+        {
+          "source": "VOV",
+          "summary": "Intel dự báo doanh thu quý IV 15–16 tỷ USD, thấp hơn kỳ vọng ~17 tỷ.",
+          "time": "31/10 06:09",
+          "title": "Phố Wall bán tháo cổ phiếu công nghệ, Intel mất gần 150 tỷ USD vốn hóa",
+          "url": "https://vov.vn/kinh-te/pho-wall-ban-thao-co-phieu-cong-nghe-intel-mat-gan-150-ty-usd-von-hoa-post1346115.vov"
+        },
+        {
+          "source": "Thời báo Ngân hàng",
+          "time": "31/10",
+          "title": "Phố Wall lao dốc, cổ phiếu công nghệ chịu áp lực bán tháo",
+          "url": "https://thoibaonganhang.vn/pho-wall-lao-doc-co-phieu-cong-nghe-chiu-ap-luc-ban-thao-189957.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "summary": "Lợi suất trái phiếu Mỹ 10 năm giảm về khoảng 4,93%.",
+          "time": "30/10 (giờ Mỹ)",
+          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        },
+        {
+          "source": "CNN",
+          "time": "30/10 (giờ Mỹ)",
+          "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
+          "url": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment"
+        },
+        {
+          "source": "TheStreet",
+          "time": "30/10 (giờ Mỹ)",
+          "title": "Stock Market Today (Oct. 30, 2026): Intel, Reddit are latest tech earnings casualties as Nasdaq sinks nearly 3%",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+        },
+        {
+          "source": "Index.vn",
+          "time": "30/10",
+          "title": "Nikkei 225 mất hơn 1.369 điểm, KOSPI lao dốc 3,48% trong phiên 30/10",
+          "url": "https://index.vn/tin-tuc/nikkei-225-mat-hon-1-369-diem-kospi-lao-doc-3-48-trong-phien-30-10"
+        },
+        {
+          "source": "BNews",
+          "time": "30/10",
+          "title": "Lo ngại bong bóng AI phủ bóng lên chứng khoán châu Á",
+          "url": "https://bnews.vn/lo-ngai-bong-bong-ai-phu-bong-len-chung-khoan-chau-a/442521.html"
+        },
+        {
+          "source": "Znews",
+          "summary": "Khối ngoại bán ròng ~260 tỷ FPT trong phiên 28/10.",
+          "time": "28/10",
+          "title": "Cổ phiếu FPT rơi xuống đáy 3 năm",
+          "url": "https://znews.vn/co-phieu-fpt-roi-xuong-day-3-nam-post1692695.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "28/10 tối",
+          "title": "Bán ròng triền miên, khối ngoại vẫn còn nắm hơn 455 triệu cổ phiếu FPT",
+          "url": "https://cafef.vn/ban-rong-trien-mien-khoi-ngoai-van-con-nam-hon-455-trieu-co-phieu-fpt-188261028190244374.chn"
+        }
+      ],
+      "body": "Kết quả quý III của Alphabet, Amazon, Intel làm dấy lên lo ngại chi phí hạ tầng AI tăng nhanh hơn lợi nhuận. Nvidia, AMD, Broadcom, Qualcomm cùng giảm; SK hynix −7%, SoftBank gần −6%. Trong nước, FPT đã về đáy gần 3 năm (54.000 đồng ngày 28/10), khối ngoại bán ròng liên tục dù lãi trước thuế 9 tháng tăng 17%; cú bán tháo mới trên Phố Wall có thể kéo dài áp lực này.",
+      "heat": 4,
+      "name": "Công nghệ – bán dẫn (AI)",
+      "reason": "Làn sóng bán tháo cổ phiếu AI toàn cầu: Intel −29%, Nasdaq −2,86%, KOSPI −3,48%; tháng 10 là tháng tệ nhất của Nasdaq trong hơn một năm.",
+      "source": "VOV",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -2.5,
+          "code": "FPT"
+        }
+      ],
+      "url": "https://vov.vn/kinh-te/pho-wall-ban-thao-co-phieu-cong-nghe-intel-mat-gan-150-ty-usd-von-hoa-post1346115.vov"
+    },
+    {
+      "articles": [
+        {
+          "source": "Vietstock",
+          "summary": "VinFast bán ~211.000 ô tô điện (+91%); doanh số Vinhomes ~219.600 tỷ (+35%).",
+          "time": "30/10 tối",
+          "title": "Vingroup lãi kỷ lục gần 44 ngàn tỷ đồng sau 9 tháng",
+          "url": "https://vietstock.vn/2026/10/vingroup-lai-ky-luc-gan-44-ngan-ty-dong-sau-9-thang-737-1509404.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "30/10 tối",
+          "title": "Vingroup lãi lớn chưa từng thấy",
+          "url": "https://znews.vn/vingroup-lai-lon-chua-tung-thay-post1693108.html"
+        },
+        {
+          "source": "VietTimes",
+          "time": "30/10 tối",
+          "title": "Lợi nhuận Vingroup tăng gần 6 lần, vượt kế hoạch cả năm sau 9 tháng",
+          "url": "https://viettimes.vn/vingroup-bao-lai-43700-ty-dong-sau-9-thang-gap-gan-6-lan-cung-ky-post207717.html"
+        },
+        {
+          "source": "Việt Báo",
+          "time": "30–31/10",
+          "title": "Nắm giữ kho tiền kỷ lục hơn 106.000 tỷ đồng, Vingroup đang hưởng lãi suất tiền gửi bao nhiêu?",
+          "url": "https://vietbao.vn/nam-giu-kho-tien-ky-luc-hon-106000-ty-dong-vingroup-dang-huong-lai-suat-tien-gui-bao-nhieu-613815.html"
+        },
+        {
+          "source": "Znews",
+          "summary": "Doanh thu quý III ~5.120 tỷ, gấp 3 lần; lãi 9 tháng ~2.873 tỷ, vượt kế hoạch năm.",
+          "time": "30/10 20:37",
+          "title": "Novaland thoát lỗ, lãi hơn 1.100 tỷ quý III",
+          "url": "https://znews.vn/novaland-thoat-lo-lai-hon-1100-ty-quy-iii-post1693167.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 tối",
+          "title": "Novaland (NVL) báo lãi quý III hơn 1.100 tỷ đồng, mở bán lại siêu dự án Aqua City",
+          "url": "https://nguoiquansat.vn/novaland-nvl-bao-lai-quy-iii-hon-1-100-ty-dong-mo-ban-lai-sieu-du-an-aqua-city-325208.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "summary": "DXG lãi trước thuế quý III 17,4 tỷ (−91%); HHS lãi gấp khoảng 15 lần.",
+          "time": "30/10 tối",
+          "title": "Cập nhật KQKD quý III/2026 ngày 30/10: MWG, FRT báo lợi nhuận tăng mạnh, một doanh nghiệp bất động sản lãi bứt phá 1.400%",
+          "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-30-10-mwg-frt-bao-loi-nhuan-tang-manh-mot-doanh-nghiep-bat-dong-san-lai-but-pha-1-400-325233.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "30/10",
+          "title": "Chưa từng có: Vinhomes lãi 9 tháng kỷ lục hơn 75.000 tỷ đồng, vượt 25% kế hoạch cả năm",
+          "url": "https://cafef.vn/chua-tung-co-vinhomes-lai-9-thang-ky-luc-hon-75000-ty-dong-vuot-25-ke-hoach-ca-nam-188261030130647614.chn"
+        },
+        {
+          "source": "Znews",
+          "time": "30/10",
+          "title": "Khoản lãi 75.000 tỷ của Vinhomes đến từ đâu?",
+          "url": "https://znews.vn/khoan-lai-75000-ty-cua-vinhomes-den-tu-dau-post1693094.html"
+        }
+      ],
+      "body": "Vingroup công bố tối 30/10 doanh thu 9 tháng khoảng 372.500 tỷ đồng (gấp 2,2 lần), lãi sau thuế 43.700 tỷ, vượt 25% kế hoạch năm; tiền và đầu tư ngắn hạn khoảng 106.800 tỷ. Novaland lãi sau thuế quý III khoảng 1.102 tỷ (cùng kỳ lỗ 1.153 tỷ) nhờ bàn giao Aqua City, Victoria Village. Phân hóa vẫn rõ: Đất Xanh (DXG) lãi trước thuế quý III giảm hơn 91% do sức mua căn hộ yếu khi lãi suất vay mua nhà cao.",
+      "heat": 4,
+      "name": "Bất động sản",
+      "reason": "Vingroup lãi 9 tháng khoảng 43.700 tỷ (gần 6 lần cùng kỳ), Vinhomes 75.000 tỷ, Novaland thoát lỗ với lãi quý III hơn 1.100 tỷ.",
+      "source": "Vietstock",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 1.45,
+          "code": "VHM"
+        },
+        {
+          "change": 0,
+          "code": "VIC"
+        },
+        {
+          "change": 2.2,
+          "code": "DXG"
+        }
+      ],
+      "url": "https://vietstock.vn/2026/10/vingroup-lai-ky-luc-gan-44-ngan-ty-dong-sau-9-thang-737-1509404.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 tối",
+          "title": "Cập nhật KQKD quý III/2026 ngày 30/10: MWG, FRT báo lợi nhuận tăng mạnh, một doanh nghiệp bất động sản lãi bứt phá 1.400%",
+          "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-30-10-mwg-frt-bao-loi-nhuan-tang-manh-mot-doanh-nghiep-bat-dong-san-lai-but-pha-1-400-325233.html"
+        },
+        {
+          "source": "Vietstock",
+          "summary": "Tự doanh mua ròng MWG 306 tỷ đồng.",
+          "time": "30/10 tối",
+          "title": "Theo dấu dòng tiền cá mập 30/10: Khối ngoại xả VIC, tự doanh dồn lực gom MWG",
+          "url": "https://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-3010-khoi-ngoai-xa-vic-tu-doanh-don-luc-gom-mwg-830-1509488.htm"
+        },
+        {
+          "source": "CafeF",
+          "summary": "Vinamilk lãi trước thuế quý III 3.694 tỷ (+18%).",
+          "time": "31/10",
+          "title": "Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "30/10",
+          "title": "Các \"ông lớn\" bán lẻ trên sàn chứng khoán lãi đậm",
+          "url": "https://dantri.com.vn/kinh-doanh/cac-ong-lon-ban-le-tren-san-chung-khoan-lai-dam-20261030103558580.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "30/10",
+          "title": "Chứng khoán lại giảm, ông Nguyễn Đức Tài có phát ngôn gây chú ý",
+          "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-ong-nguyen-duc-tai-co-phat-ngon-gay-chu-y-20261030153419674.htm"
+        },
+        {
+          "source": "Znews",
+          "time": "28–29/10",
+          "title": "Thế Giới Di Động lãi kỷ lục hơn 3.500 tỷ một quý",
+          "url": "https://znews.vn/the-gioi-di-dong-lai-ky-luc-hon-3500-ty-mot-quy-post1692775.html"
+        },
+        {
+          "source": "Thời báo Tài chính VN",
+          "time": "28–29/10",
+          "title": "Thế Giới Di Động báo lãi hơn 3.500 tỷ đồng trong quý III",
+          "url": "https://thoibaotaichinhvietnam.vn/the-gioi-di-dong-bao-lai-hon-3-500-ty-dong-trong-quy-iii-206055.html"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "30/10 tối",
+          "title": "Giá heo giống giảm mạnh, Tết này có thiếu thịt heo?",
+          "url": "https://dantri.com.vn/kinh-doanh/gia-heo-giong-giam-manh-tet-nay-co-thieu-thit-heo-20261030212230228.htm"
+        }
+      ],
+      "body": "MWG lãi trước thuế quý III 4.239 tỷ đồng (+95%), doanh thu 52.614 tỷ (+32%); FPT Retail lãi trước thuế 686 tỷ (+111%). Vinamilk lãi trước thuế quý III 3.694 tỷ (+18%), 9 tháng 10.608 tỷ (+30%). Dù vậy cổ phiếu MWG, PNJ, DGW vẫn giảm trong phiên 30/10, cho thấy KQKD tốt chưa đủ đảo chiều tâm lý khi khối ngoại bán ròng.",
+      "heat": 3,
+      "name": "Bán lẻ – tiêu dùng",
+      "reason": "Tự doanh công ty chứng khoán mua ròng 306 tỷ đồng MWG ngay sau KQKD kỷ lục; Vinamilk báo lãi quý III tăng 18%.",
+      "source": "Người Quan Sát",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": -2.4,
+          "code": "MWG"
+        },
+        {
+          "change": 0.7,
+          "code": "FRT"
+        },
+        {
+          "change": -3.4,
+          "code": "PNJ"
+        }
+      ],
+      "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-30-10-mwg-frt-bao-loi-nhuan-tang-manh-mot-doanh-nghiep-bat-dong-san-lai-but-pha-1-400-325233.html"
+    }
+  ],
+  "sectorsSummary": "Cuối tuần không có giao dịch; 5 ngành được chọn theo tin tức đêm qua và KQKD quý III vừa công bố. Dầu và vàng biến động mạnh trái chiều, cổ phiếu công nghệ toàn cầu bị bán tháo, trong khi bất động sản và bán lẻ trong nước báo lãi lớn.",
+  "securities": {
+    "analysis": "Bối cảnh bước vào tuần đầu tháng 11 không thuận lợi. VN-Index đã mất SMA50, khối ngoại bán ròng 6 phiên liên tiếp, thanh khoản thấp, và đêm thứ Sáu Phố Wall vừa có phiên bán tháo công nghệ lớn nhất nhiều tháng. Làn sóng lo ngại “bong bóng AI” lan sang châu Á (KOSPI −3,5%) có thể kéo dài áp lực bán của khối ngoại với nhóm vốn hóa lớn trong nước, nhất là FPT vốn đã về đáy 3 năm.\nĐiểm đỡ là mùa báo cáo quý III phi tài chính rất tích cực: BSR, GAS, GVR, MWG, Vingroup, Novaland đều báo lãi tăng mạnh, và tự doanh đang gom cổ phiếu có KQKD tốt (MWG). Kịch bản hợp lý là thị trường rung lắc quanh vùng hỗ trợ 1.720–1.740 điểm đầu tuần, dòng tiền phân hóa theo KQKD. Sự kiện cần lưu ý: bầu cử giữa kỳ Mỹ (3/11), giá dầu và dư nợ margin đang ở mức kỷ lục (~448.000 tỷ), có thể làm nhịp giảm mạnh hơn nếu xảy ra giải chấp.",
+    "articles": [
+      {
+        "source": "Vietstock",
+        "summary": "VN-Index −1,83% trong tuần; khối ngoại bán ròng ~2.600 tỷ.",
+        "time": "30/10 tối",
+        "title": "Chứng khoán Tuần 26-30/10/2026: Nỗ lực phục hồi bất thành",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-tuan-26-30102026-no-luc-phuc-hoi-bat-thanh-1636-1509392.htm"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "summary": "S&P 500 −1,82%, Nasdaq −2,86%, Dow −1,09%; cả tuần Nasdaq −2%.",
+        "time": "31/10 06:08",
+        "title": "Phố Wall lao dốc, cổ phiếu công nghệ chịu áp lực bán tháo",
+        "url": "https://thoibaonganhang.vn/pho-wall-lao-doc-co-phieu-cong-nghe-chiu-ap-luc-ban-thao-189957.html"
+      },
+      {
+        "source": "VOV",
+        "time": "31/10 06:09",
+        "title": "Phố Wall bán tháo cổ phiếu công nghệ, Intel mất gần 150 tỷ USD vốn hóa",
+        "url": "https://vov.vn/kinh-te/pho-wall-ban-thao-co-phieu-cong-nghe-intel-mat-gan-150-ty-usd-von-hoa-post1346115.vov"
+      },
+      {
+        "source": "Index.vn",
+        "time": "30/10",
+        "title": "Nikkei 225 mất hơn 1.369 điểm, KOSPI lao dốc 3,48% trong phiên 30/10",
+        "url": "https://index.vn/tin-tuc/nikkei-225-mat-hon-1-369-diem-kospi-lao-doc-3-48-trong-phien-30-10"
+      },
+      {
+        "source": "BNews",
+        "time": "30/10",
+        "title": "Lo ngại bong bóng AI phủ bóng lên chứng khoán châu Á",
+        "url": "https://bnews.vn/lo-ngai-bong-bong-ai-phu-bong-len-chung-khoan-chau-a/442521.html"
+      },
+      {
+        "source": "CNN",
+        "time": "30/10 (giờ Mỹ)",
+        "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
+        "url": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment"
+      },
+      {
+        "source": "Vietstock",
+        "time": "30/10 tối",
+        "title": "Theo dấu dòng tiền cá mập 30/10: Khối ngoại xả VIC, tự doanh dồn lực gom MWG",
+        "url": "https://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-3010-khoi-ngoai-xa-vic-tu-doanh-don-luc-gom-mwg-830-1509488.htm"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "Thành viên HĐQT HPG đăng ký bán 100.000 cổ phiếu; CRE phát hành 620 tỷ trái phiếu; lịch cổ tức PPC, TIX, WCS.",
+        "time": "30/10 tối",
+        "title": "Sự kiện chứng khoán đáng chú ý ngày 31/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-3110-post400515.html"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "31/10",
+        "title": "Tin tức sáng 31-10: Dùng 61 tài khoản thao túng cổ phiếu KDC, 20 người bị cấm giao dịch chứng khoán",
+        "url": "https://tuoitre.vn/tin-tuc-sang-31-10-dung-61-tai-khoan-thao-tung-co-phieu-kdc-20-nguoi-bi-cam-giao-dich-chung-khoan-100261030191035617.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "31/10",
+        "title": "Cập nhật BCTC quý 3/2026 ngày 31/10: BSR, SHB, Eximbank, Vietnam Airlines cùng nhiều doanh nghiệp lớn công bố, kết quả bất ngờ",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10 tối",
+        "title": "Cập nhật KQKD quý III/2026 ngày 30/10: MWG, FRT báo lợi nhuận tăng mạnh, một doanh nghiệp bất động sản lãi bứt phá 1.400%",
+        "url": "https://nguoiquansat.vn/cap-nhat-kqkd-quy-iii-2026-ngay-30-10-mwg-frt-bao-loi-nhuan-tang-manh-mot-doanh-nghiep-bat-dong-san-lai-but-pha-1-400-325233.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "30/10",
+        "title": "Thị trường chứng khoán cần gì để tích cực hơn?",
+        "url": "https://vietstock.vn/2026/10/thi-truong-chung-khoan-can-gi-de-tich-cuc-hon-145-1509023.htm"
+      },
+      {
+        "source": "Pinetree",
+        "time": "30/10",
+        "title": "Báo cáo ngày 30/10/2026: Pinetree Research duy trì dự báo giảm với VN-Index trong tuần tới",
+        "url": "https://pinetree.vn/post/20261030/bao-cao-ngay-pinetree-research-duy-tri-du-bao-giam-voi-vn-index-trong-tuan-toi"
+      },
+      {
+        "source": "VnExpress",
+        "time": "30/10",
+        "title": "VN-Index giảm sâu phiên cuối tháng",
+        "url": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html"
+      },
+      {
+        "source": "Tiền Phong",
+        "time": "30/10",
+        "title": "Hơn 450 cổ phiếu chìm trong sắc đỏ",
+        "url": "https://tienphong.vn/hon-450-co-phieu-chim-trong-sac-do-post1890005.tpo"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "30/10",
+        "title": "Lợi nhuận ngành chứng khoán giảm, dư nợ margin lập kỷ lục gần 448.000 tỷ đồng",
+        "url": "https://www.tinnhanhchungkhoan.vn/loi-nhuan-nganh-chung-khoan-giam-du-no-margin-lap-ky-luc-gan-448000-ty-dong-post400498.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -1.83,
+        "changeText": "−32,53 điểm (−1,83%) trong tuần",
+        "label": "VN-Index (đóng tuần)",
+        "note": "Giảm 4/5 phiên; dưới đường SMA50",
+        "unit": "điểm",
+        "value": "1.741,62"
+      },
+      {
+        "change": -3.79,
+        "changeText": "−9,96 điểm (−3,79%)",
+        "label": "HNX-Index (đóng tuần)",
+        "unit": "điểm",
+        "value": "252,74"
+      },
+      {
+        "change": -2600,
+        "changeText": "Bán ròng",
+        "label": "Khối ngoại cả tuần",
+        "note": "HoSE bán ròng ~2.700 tỷ, HNX mua ròng ~40 tỷ",
+        "unit": "tỷ đồng",
+        "value": "≈ −2.600"
+      },
+      {
+        "change": -1.82,
+        "changeText": "−140,32 (−1,82%)",
+        "label": "S&P 500 (30/10)",
+        "note": "Cả tuần −0,6%",
+        "unit": "điểm",
+        "value": "7.580,07"
+      },
+      {
+        "change": -2.86,
+        "changeText": "−747,73 (−2,86%)",
+        "label": "Nasdaq Composite (30/10)",
+        "note": "Tháng 10 giảm khoảng 5%, tháng tệ nhất hơn 1 năm",
+        "unit": "điểm",
+        "value": "25.437"
+      },
+      {
+        "change": -2.12,
+        "changeText": "−1.369 (−2,12%)",
+        "label": "Nikkei 225 (30/10)",
+        "note": "KOSPI −3,48%",
+        "unit": "điểm",
+        "value": "63.290"
+      }
+    ],
+    "news": [
+      {
+        "body": "VN-Index giảm 4/5 phiên, đóng tuần ở 1.741,62 điểm; HNX-Index mất 3,79%. VCB, TCB, MBB lấy đi tổng cộng 3,48 điểm, trong khi VHM và GAS đóng góp 2,63 điểm. Khối ngoại bán ròng khoảng 2.700 tỷ trên HoSE. Vietstock đánh giá triển vọng ngắn hạn còn nhiều thách thức vì dòng tiền thiếu đồng thuận.",
+        "impact": "tieu-cuc",
+        "source": "Vietstock",
+        "title": "VN-Index mất 1,83% trong tuần, khối ngoại bán ròng khoảng 2.600 tỷ đồng",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-tuan-26-30102026-no-luc-phuc-hoi-bat-thanh-1636-1509392.htm"
+      },
+      {
+        "body": "Phiên 30/10, Nasdaq −2,86%, S&P 500 −1,82%, Dow Jones −1,09%. Intel giảm gần 29% do dự báo doanh thu quý IV chỉ 15–16 tỷ USD, thấp hơn kỳ vọng. Nhà đầu tư lo chi tiêu cho AI tăng nhanh hơn lợi nhuận; Amazon, Microsoft, Meta, Alphabet cùng giảm.",
+        "impact": "tieu-cuc",
+        "source": "Thời báo Ngân hàng",
+        "title": "Phố Wall bán tháo cổ phiếu công nghệ, Intel mất gần 29%",
+        "url": "https://thoibaonganhang.vn/pho-wall-lao-doc-co-phieu-cong-nghe-chiu-ap-luc-ban-thao-189957.html"
+      },
+      {
+        "body": "Cổ phiếu chip dẫn đầu chiều giảm: SK hynix −7%, Samsung −3%, SoftBank gần −6%. KOSPI kích hoạt cơ chế tạm dừng giao dịch ngắn (sidecar). Shanghai Composite −1,4% nhưng Hang Seng tăng 1,4%.",
+        "impact": "tieu-cuc",
+        "source": "Index.vn",
+        "title": "Chứng khoán châu Á giảm mạnh: Nikkei −2,12%, KOSPI −3,48%",
+        "url": "https://index.vn/tin-tuc/nikkei-225-mat-hon-1-369-diem-kospi-lao-doc-3-48-trong-phien-30-10"
+      },
+      {
+        "body": "Khối ngoại bán ròng 647 tỷ đồng phiên thứ 6 liên tiếp, nhiều nhất là VIC (354 tỷ), TCB (133 tỷ). Ngược lại tự doanh công ty chứng khoán mua ròng 87 tỷ trên HoSE, tập trung vào MWG (306 tỷ) và VPB (97 tỷ).",
+        "impact": "trung-tinh",
+        "source": "Vietstock",
+        "title": "Tự doanh gom MWG 306 tỷ, khối ngoại xả VIC phiên 30/10",
+        "url": "https://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-3010-khoi-ngoai-xa-vic-tu-doanh-don-luc-gom-mwg-830-1509488.htm"
+      },
+      {
+        "body": "Ủy ban Chứng khoán Nhà nước phạt 3 cá nhân mỗi người 1,5 tỷ đồng vì dùng 61 tài khoản tạo cung cầu giả cổ phiếu KDC (5/2024–1/2025), cấm giao dịch chứng khoán 2 năm từ 2/11/2026. Tổng cộng 20 cá nhân liên quan bị xử lý.",
+        "impact": "trung-tinh",
+        "source": "Tuổi Trẻ",
+        "title": "Dùng 61 tài khoản thao túng cổ phiếu KDC, 3 cá nhân bị phạt và cấm giao dịch 2 năm",
+        "url": "https://tuoitre.vn/tin-tuc-sang-31-10-dung-61-tai-khoan-thao-tung-co-phieu-kdc-20-nguoi-bi-cam-giao-dich-chung-khoan-100261030191035617.htm"
+      },
+      {
+        "body": "BSR báo lãi trước thuế quý III 10.072 tỷ đồng, gấp gần 10 lần cùng kỳ; PV GAS 5.773 tỷ (+80%), Cao su Việt Nam (GVR) 4.423 tỷ (+69%), Vinamilk 3.694 tỷ (+18%). Vietnam Airlines giảm 46%.",
+        "impact": "tich-cuc",
+        "source": "CafeF",
+        "title": "Mùa KQKD về đích: BSR lãi quý III hơn 10.000 tỷ, Vinamilk +18%",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-ngay-31-10-bsr-shb-eximbank-vietnam-airlines-cung-nhieu-doanh-nghiep-lon-cong-bo-ket-qua-bat-ngo-188261031002348599.chn"
+      }
+    ],
+    "summary": "Cuối tuần không có giao dịch. Tuần 26–30/10 VN-Index mất 32,53 điểm (−1,83%) về 1.741,62, HNX-Index mất 3,79%; khối ngoại bán ròng khoảng 2.600 tỷ đồng cả tuần. Đêm qua Phố Wall bị bán tháo cổ phiếu công nghệ: Nasdaq −2,86%, S&P 500 −1,82%, Intel mất gần 29% – tín hiệu bất lợi cho tâm lý đầu tuần tới.",
+    "watch": [
+      "Phản ứng của VN-Index phiên 2/11 sau cú bán tháo công nghệ trên Phố Wall và châu Á",
+      "Vùng hỗ trợ 1.720–1.740 điểm; khối ngoại có dừng chuỗi bán ròng 6 phiên",
+      "Cổ phiếu có KQKD quý III vượt trội vừa công bố: BSR, GAS, GVR, VNM, NVL",
+      "Bầu cử giữa kỳ Mỹ (3/11) và biến động giá dầu quanh 113–117 USD/thùng",
+      "Áp lực giải chấp khi dư nợ margin ở mức kỷ lục"
+    ]
+  },
+  "session": "sang",
+  "updatedAt": "2026-10-31T07:15:00+07:00"
+}

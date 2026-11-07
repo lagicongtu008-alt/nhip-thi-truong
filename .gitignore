@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/*
+!logs/.gitkeep
+*.tmp
+# Công cụ cũ (news_tool.py) – không đưa lên repo công khai
+data/news.db
+reports/
+_site/

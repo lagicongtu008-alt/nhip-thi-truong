@@ -1,0 +1,1119 @@
+{
+  "banking": {
+    "analysis": "Nghịch lý của phiên hôm nay là bối cảnh tiền tệ trong nước đang tốt lên (tỷ giá hạ nhiệt, lãi suất huy động giảm, thanh khoản liên ngân hàng ổn định) nhưng cổ phiếu ngân hàng lại bị bán mạnh nhất thị trường. Nguyên nhân chủ yếu đến từ dòng tiền: thanh khoản nhóm ngân hàng xuống thấp nhất 20 phiên, khối ngoại tiếp tục rút khỏi các mã vốn hóa lớn (TCB, MBB), trong khi mùa KQKD quý III của ngành chỉ tăng khoảng 17% và phân hóa mạnh – Sacombank giảm hơn 50% do trích lập, một số ngân hàng nhỏ báo nợ xấu tăng.\nVới TCB, việc chốt quyền chia 50% cổ phiếu khiến giá điều chỉnh kỹ thuật từ phiên tới (giá tham chiếu được điều chỉnh giảm tương ứng), không làm thay đổi giá trị nắm giữ. Điểm tích cực trung hạn là chi phí vốn đang giảm: khi lãi suất huy động hạ 0,5 điểm % trên diện rộng, biên lãi ròng (NIM) quý IV có cơ hội cải thiện. Rủi ro là Fed có thể tăng lãi suất tháng 12 (thị trường định giá khoảng 85%), có thể đảo ngược đà giảm của tỷ giá.",
+    "articles": [
+      {
+        "source": "Thời báo Ngân hàng",
+        "summary": "NHNN niêm yết 25.637 đồng/USD; DXY lùi về quanh 102 điểm sau số liệu PCE Mỹ.",
+        "time": "30/10",
+        "title": "Sáng 30/10: Tỷ giá trung tâm giảm 7 đồng",
+        "url": "https://thoibaonganhang.vn/sang-3010-ty-gia-trung-tam-giam-7-dong-189886.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "30/10",
+        "title": "Ngày 30/10: Tỷ giá trung tâm giảm 7 đồng",
+        "url": "https://thitruongtaichinhtiente.vn/ngay-30-10-ty-gia-trung-tam-giam-7-dong-86678.html"
+      },
+      {
+        "source": "Thanh Niên",
+        "summary": "Vietcombank giảm 20 đồng, bán ra 26.020; ACB bán 25.990 – lần đầu sau 18 tháng giá bán USD ngân hàng xuống dưới 26.000.",
+        "time": "30/10",
+        "title": "Giá USD hôm nay 30.10.2026: Giảm xuống dưới 26.000 đồng",
+        "url": "https://thanhnien.vn/gia-usd-hom-nay-30102026-giam-xuong-duoi-26000-dong-185261030083110626.htm"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10",
+        "title": "Tỷ giá hôm nay 30/10: USD đồng loạt giảm tại các ngân hàng lớn",
+        "url": "https://nguoiquansat.vn/ty-gia-hom-nay-30-10-usd-dong-loat-giam-tai-cac-ngan-hang-lon-325057.html"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "30/10",
+        "title": "Tỷ giá USD hôm nay 30/10: USD đồng loạt giảm, DXY lùi dưới 102 điểm bất chấp chỉ số PCE Mỹ tăng lên 3,6%",
+        "url": "https://thoibaotaichinhvietnam.vn/ty-gia-usd-hom-nay-30-10-usd-dong-loat-giam-dxy-lui-duoi-102-diem-bat-chap-chi-so-pce-my-tang-len-3-6-206138.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "summary": "Số liệu đến 26/10; khoảng 77% dư nợ phục vụ sản xuất kinh doanh.",
+        "time": "30/10",
+        "title": "Tín dụng tăng 11,94%, dư nợ toàn nền kinh tế đạt khoảng 20,8 triệu tỷ đồng",
+        "url": "https://thoibaonganhang.vn/tin-dung-tang-1194-du-no-toan-nen-kinh-te-dat-khoang-208-trieu-ty-dong-189922.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "summary": "MSB, VietABank, GPBank cùng giảm 0,5 điểm % các kỳ hạn 6–36 tháng.",
+        "time": "30/10",
+        "title": "Thêm nhiều ngân hàng giảm lãi suất",
+        "url": "https://thoibaonganhang.vn/them-nhieu-ngan-hang-giam-lai-suat-189935.html"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "30/10",
+        "title": "Lãi suất ngân hàng hôm nay 30/10/2026: Chứng chỉ tiền gửi bắt đầu hạ nhiệt",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-30-10-2026-chung-chi-tien-gui-bat-dau-ha-nhiet-2569769.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "30/10",
+        "title": "Lãi suất ngày 30/10 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
+        "url": "https://cafef.vn/lai-suat-ngay-30-10-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-18826103008064422.chn"
+      },
+      {
+        "source": "Báo Nghệ An",
+        "time": "30/10",
+        "title": "Lãi suất chứng chỉ tiền gửi ngày 30/10/2026: Techcombank và MB giảm lãi suất một số kỳ hạn",
+        "url": "https://baonghean.vn/lai-suat-chung-chi-tien-gui-ngay-30102026-techcombank-va-mb-giam-lai-suat-mot-so-ky-han-10354669.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "summary": "SeABank hoàn tất nâng vốn điều lệ lên 34.688 tỷ đồng.",
+        "time": "30/10",
+        "title": "Ngân hàng TMCP Đông Nam Á thông báo tăng vốn điều lệ lên 34.688 tỷ đồng",
+        "url": "https://thoibaonganhang.vn/ngan-hang-tmcp-dong-nam-a-thong-bao-tang-von-dieu-le-len-34688-ty-dong-189901.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "30/10",
+        "title": "Ban hành Sổ tay thanh tra việc chấp hành pháp luật đối với một số hoạt động của ngân hàng",
+        "url": "https://thitruongtaichinhtiente.vn/ban-hanh-so-tay-thanh-tra-viec-chap-hanh-phap-luat-doi-voi-mot-so-hoat-dong-cua-ngan-hang-86694.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "30/10",
+        "title": "Bổ nhiệm Chủ tịch Hội đồng thành viên Nhà máy In tiền Quốc gia",
+        "url": "https://thitruongtaichinhtiente.vn/bo-nhiem-chu-tich-hoi-dong-thanh-vien-nha-may-in-tien-quoc-gia-86693.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "30/10",
+        "title": "Doanh nghiệp khát vốn dài hạn, ngân hàng dịch chuyển giải pháp tài chính theo chu kỳ kinh doanh",
+        "url": "https://thitruongtaichinhtiente.vn/doanh-nghiep-khat-von-dai-han-ngan-hang-dich-chuyen-giai-phap-tai-chinh-theo-chu-ky-kinh-doanh-86673.html"
+      },
+      {
+        "source": "Thị trường Tài chính Tiền tệ",
+        "time": "30/10",
+        "title": "Sắc đỏ bao trùm thị trường hàng hóa sau quyết sách của FED",
+        "url": "https://thitruongtaichinhtiente.vn/sac-do-bao-trum-thi-truong-hang-hoa-sau-quyet-sach-cua-fed-86686.html"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "30/10",
+        "title": "NHTW Nhật Bản giữ nguyên lãi suất, thông báo tăng tốc bán các quỹ hoán đổi danh mục",
+        "url": "https://thoibaonganhang.vn/nhtw-nhat-ban-giu-nguyen-lai-suat-thong-bao-tang-toc-ban-cac-quy-hoan-doi-danh-muc-189912.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "SJC 138,4–141,4 triệu đồng/lượng, giảm 1,3 triệu; vàng thế giới quanh 4.012–4.020 USD/ounce.",
+        "time": "30/10",
+        "title": "Giá vàng hôm nay ngày 30/10: Vàng giảm mạnh về sát mốc 140 triệu đồng/lượng",
+        "url": "https://www.tinnhanhchungkhoan.vn/gia-vang-hom-nay-ngay-3010-vang-giam-manh-ve-sat-moc-140-trieu-dongluong-post400476.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10",
+        "title": "Giá vàng hôm nay (30/10): Bất ngờ giảm mạnh trên diện rộng, mất đến 1,6 triệu đồng/lượng",
+        "url": "https://nguoiquansat.vn/gia-vang-hom-nay-30-10-bat-ngo-giam-manh-tren-dien-rong-mat-den-1-6-trieu-dong-luong-325076.html"
+      },
+      {
+        "source": "Thanh Niên",
+        "time": "30/10",
+        "title": "Giá vàng hôm nay 30.10.2026: Bốc hơi 1,3 triệu đồng sau một đêm",
+        "url": "https://thanhnien.vn/gia-vang-hom-nay-30102026-boc-hoi-13-trieu-dong-sau-mot-dem-18526103008101458.htm"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "30/10",
+        "title": "Giá vàng hôm nay 30-10: Lạm phát Mỹ gây sức ép, vàng tiếp tục giảm sâu",
+        "url": "https://tuoitre.vn/gia-vang-hom-nay-30-10-lam-phat-my-gay-suc-ep-vang-tiep-tuc-giam-sau-100261030083124115.htm"
+      },
+      {
+        "source": "VietnamNet",
+        "time": "30/10",
+        "title": "Giá vàng hôm nay 30/10: Vàng lại rơi về sát 4.000 USD/ounce trước tín hiệu từ Mỹ",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-30-10-vang-lai-roi-ve-sat-4-000-usd-ounce-truoc-tin-hieu-tu-my-2569726.html"
+      },
+      {
+        "source": "Dân Trí",
+        "time": "30/10",
+        "title": "Giá vàng trong nước, quốc tế đồng loạt lao dốc",
+        "url": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-quoc-te-dong-loat-lao-doc-20261030110105786.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "30/10",
+        "title": "Giá vàng miếng, vàng nhẫn hôm nay (30/10) tại SJC, DOJI, Phú Quý, PNJ, Bảo Tín Minh Châu,....: Bao nhiêu một chỉ?",
+        "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-hom-nay-30-10-tai-sjc-doji-phu-quy-pnj-bao-tin-minh-chau-bao-nhieu-mot-chi-188261030064119129.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10",
+        "title": "Giá vàng hướng tới tháng giảm thứ hai liên tiếp, Fed để ngỏ khả năng tăng lãi suất",
+        "url": "https://nguoiquansat.vn/gia-vang-huong-toi-thang-giam-thu-hai-lien-tiep-fed-de-ngo-kha-nang-tang-lai-suat-325060.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "30/10",
+        "title": "Phí chuyển tiền tại quầy VietinBank mới nhất năm 2026",
+        "url": "https://cafef.vn/phi-chuyen-tien-tai-quay-vietinbank-moi-nhat-nam-2026-188261030092119362.chn"
+      },
+      {
+        "source": "VnEconomy",
+        "summary": "Vietcombank và BIDV sẽ giảm tỷ lệ sở hữu nhà nước xuống tối thiểu 65%.",
+        "time": "29/10",
+        "title": "Cơ cấu lại vốn nhà nước: 6 doanh nghiệp giai đoạn 2026-2030",
+        "url": "https://vneconomy.vn/vietcombank-va-bidv-se-giam-ty-le-so-huu-nha-nuoc-xuong-con-65.htm"
+      },
+      {
+        "source": "CafeF",
+        "time": "29/10",
+        "title": "Vietcombank, BIDV và VietinBank vào diện cơ cấu lại vốn nhà nước",
+        "url": "https://cafef.vn/vietcombank-bidv-va-vietinbank-vao-dien-co-cau-lai-von-nha-nuoc-188261029003832672.chn"
+      },
+      {
+        "source": "CafeF",
+        "time": "29/10 tối",
+        "title": "VietCredit lãi trước thuế gần 1.559 tỷ đồng sau 9 tháng, dư nợ vượt 20.900 tỷ đồng",
+        "url": "https://cafef.vn/vietcredit-lai-truoc-thue-gan-1559-ty-dong-sau-9-thang-du-no-vuot-20900-ty-dong-188261029202125114.chn"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "29/10",
+        "title": "Phiên 29/10: Ngân hàng Nhà nước bơm ròng gần 3.000 tỷ đồng, lãi suất qua đêm neo mức 4,1%",
+        "url": "https://nguoiquansat.vn/phien-29-10-ngan-hang-nha-nuoc-bom-rong-gan-3-000-ty-dong-lai-suat-qua-dem-neo-muc-4-1-324952.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "29/10 tối",
+        "title": "MB muốn thành lập ngân hàng mới, vốn điều lệ 3.000 tỷ đồng",
+        "url": "https://nguoiquansat.vn/mb-muon-thanh-lap-ngan-hang-moi-von-dieu-le-3-000-ty-dong-325010.html"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -7,
+        "changeText": "−7 đồng",
+        "label": "Tỷ giá trung tâm",
+        "note": "Sáng 30/10; biên độ ±5%: 24.406–26.868",
+        "unit": "đồng/USD",
+        "value": "25.637"
+      },
+      {
+        "change": -20,
+        "changeText": "−20 đồng",
+        "label": "USD Vietcombank (bán ra)",
+        "note": "Mua vào 25.610–25.640; ACB bán 25.990",
+        "unit": "đồng",
+        "value": "26.020"
+      },
+      {
+        "label": "Lãi suất qua đêm VND",
+        "note": "Phiên 29/10; NHNN bơm ròng gần 3.000 tỷ đồng qua thị trường mở",
+        "unit": "%/năm",
+        "value": "4,1"
+      },
+      {
+        "label": "Tăng trưởng tín dụng",
+        "note": "Đến 26/10; dư nợ ~20,8 triệu tỷ đồng",
+        "unit": "% so với cuối 2025",
+        "value": "11,94"
+      },
+      {
+        "label": "Lãi suất 12 tháng cao nhất (online, khuyến mại)",
+        "note": "MSB (giới hạn 5 tỷ); biểu thông thường MSB 6,3% sau khi giảm 0,5 điểm %",
+        "unit": "%/năm",
+        "value": "7,0"
+      },
+      {
+        "change": -1.3,
+        "changeText": "−1,3 triệu",
+        "label": "Vàng miếng SJC (bán ra)",
+        "note": "Mua vào 138,4; vàng thế giới ~4.012–4.020 USD/ounce",
+        "unit": "triệu đồng/lượng",
+        "value": "141,4"
+      }
+    ],
+    "news": [
+      {
+        "body": "TCB giảm 3,4% (có lúc −6%) đúng ngày đăng ký cuối cùng nhận cổ tức 50% bằng cổ phiếu (khoảng 3,54 tỷ cổ phiếu mới), đồng thời bị khối ngoại bán ròng 133 tỷ đồng. LPB, KLB −3,2%, MBB −2%, VCB −1,6%, BID và CTG −1,3%; trong 28 mã ngân hàng chỉ VBB và SGB tăng. Giá trị khớp nhóm ngân hàng chỉ khoảng 2.794 tỷ đồng, thấp nhất 20 phiên.",
+        "impact": "tieu-cuc",
+        "source": "Tuổi Trẻ",
+        "title": "Cổ phiếu ngân hàng đồng loạt giảm, TCB chịu áp lực ngày chốt quyền",
+        "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+      },
+      {
+        "body": "NHNN hạ tỷ giá trung tâm 7 đồng xuống 25.637 đồng/USD. Vietcombank giảm 20 đồng, bán ra 26.020; ACB bán 25.990 – lần đầu sau 18 tháng giá bán USD ngân hàng thủng mốc 26.000. Chỉ số DXY lùi về 101,85 dù lạm phát PCE Mỹ tăng lên 3,6%.",
+        "impact": "tich-cuc",
+        "source": "Thanh Niên",
+        "title": "Giá bán USD tại ngân hàng xuống dưới 26.000 đồng",
+        "url": "https://thanhnien.vn/gia-usd-hom-nay-30102026-giam-xuong-duoi-26000-dong-185261030083110626.htm"
+      },
+      {
+        "body": "MSB, VietABank và GPBank cùng giảm 0,5 điểm % các kỳ hạn 6–36 tháng; lãi suất 12 tháng online thông thường của MSB còn 6,3%, VietABank 5,6%, GPBank 5,05%. Lãi suất chứng chỉ tiền gửi (CCTG) tại Techcombank, MB cũng bắt đầu hạ nhiệt, theo chỉ đạo giảm thực chất lãi suất của NHNN.",
+        "impact": "tich-cuc",
+        "source": "Thời báo Ngân hàng",
+        "title": "Làn sóng hạ lãi suất huy động lan rộng",
+        "url": "https://thoibaonganhang.vn/them-nhieu-ngan-hang-giam-lai-suat-189935.html"
+      },
+      {
+        "body": "Dư nợ toàn nền kinh tế đạt khoảng 20,8 triệu tỷ đồng, tăng 11,94% so với cuối 2025, trong đó khoảng 77,4% phục vụ sản xuất kinh doanh. Thương mại – dịch vụ chiếm hơn 70% dư nợ.",
+        "impact": "trung-tinh",
+        "source": "Thời báo Ngân hàng",
+        "title": "Tín dụng tăng 11,94% đến 26/10",
+        "url": "https://thoibaonganhang.vn/tin-dung-tang-1194-du-no-toan-nen-kinh-te-dat-khoang-208-trieu-ty-dong-189922.html"
+      },
+      {
+        "body": "SJC niêm yết 138,4–141,4 triệu đồng/lượng, giảm 1,3 triệu; vàng thế giới lùi về quanh 4.012–4.020 USD/ounce do kỳ vọng Fed tiếp tục thắt chặt. Chênh lệch giá trong nước và thế giới vẫn khoảng 14 triệu đồng/lượng.",
+        "impact": "trung-tinh",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "Vàng SJC mất 1,3 triệu đồng, về sát 140 triệu",
+        "url": "https://www.tinnhanhchungkhoan.vn/gia-vang-hom-nay-ngay-3010-vang-giam-manh-ve-sat-moc-140-trieu-dongluong-post400476.html"
+      },
+      {
+        "body": "SeABank thông báo hoàn tất tăng vốn điều lệ lên 34.688 tỷ đồng, nối dài cuộc đua tăng vốn của các ngân hàng tư nhân năm 2026 nhằm mở rộng dư địa tín dụng và đáp ứng chuẩn an toàn vốn.",
+        "impact": "tich-cuc",
+        "source": "Thời báo Ngân hàng",
+        "title": "SeABank nâng vốn điều lệ lên 34.688 tỷ đồng",
+        "url": "https://thoibaonganhang.vn/ngan-hang-tmcp-dong-nam-a-thong-bao-tang-von-dieu-le-len-34688-ty-dong-189901.html"
+      }
+    ],
+    "summary": "Nhóm ngân hàng là tâm điểm bán của phiên cuối tháng: cả 13 mã ngân hàng trong VN30 cùng giảm, TCB mất 3,4% đúng ngày chốt quyền cổ tức 50% bằng cổ phiếu, LPB và SSB giảm hơn 3%. Trái với cổ phiếu, mặt bằng vĩ mô tiền tệ dịu đi: tỷ giá trung tâm giảm 7 đồng, giá bán USD tại ngân hàng xuống dưới 26.000 đồng lần đầu sau 18 tháng, thêm MSB, VietABank, GPBank hạ lãi suất huy động 0,5 điểm %.",
+    "watch": [
+      "Diễn biến TCB sau ngày giao dịch không hưởng quyền chia 50% cổ phiếu",
+      "Các ngân hàng còn lại (khoảng 10/28) công bố BCTC quý III, đặc biệt nợ xấu và trích lập",
+      "Lãi suất huy động tiếp tục giảm theo chỉ đạo NHNN hay chững lại",
+      "Tỷ giá USD/VND có giữ dưới 26.000 đồng trước kỳ họp Fed tháng 12",
+      "Khối ngoại có tiếp tục bán ròng nhóm ngân hàng VN30"
+    ]
+  },
+  "date": "2026-10-30",
+  "key": "2026-10-30-chieu",
+  "label": "Chiều 30/10/2026 (thứ Sáu)",
+  "sectors": [
+    {
+      "articles": [
+        {
+          "source": "VnExpress",
+          "time": "30/10",
+          "title": "Nhà đầu tư 'bắt đáy' cổ phiếu vừa giảm sàn 30 phiên liên tiếp",
+          "url": "https://vnexpress.net/nha-dau-tu-bat-day-co-phieu-vua-giam-san-30-phien-lien-tiep-5138736.html"
+        },
+        {
+          "source": "CafeF",
+          "summary": "Khoảng 75,7 triệu cổ phiếu KOS sang tay trong phiên, hơn 1/3 lượng lưu hành.",
+          "time": "30/10",
+          "title": "Cổ phiếu KOS bất ngờ tăng trần sau khi giảm 29 phiên liên tiếp: Hơn 34% lượng cổ phiếu đang lưu hành được giao dịch",
+          "url": "https://cafef.vn/co-phieu-kos-bat-ngo-tang-tran-sau-khi-giam-29-phien-lien-tiep-hon-34-luong-co-phieu-dang-luu-hanh-duoc-giao-dich-188261030102603033.chn"
+        },
+        {
+          "source": "CafeF",
+          "time": "30/10",
+          "title": "Một cổ phiếu vừa ngắt chuỗi 29 phiên giảm sàn liên tiếp, 1/3 công ty đổi chủ",
+          "url": "https://cafef.vn/mot-co-phieu-vua-ngat-chuoi-29-phien-giam-san-lien-tiep-1-3-cong-ty-doi-chu-188261030104619609.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 sáng",
+          "title": "Hơn 61 triệu cổ phiếu KOS được khớp giá sàn, chuỗi giảm 31 phiên liên tiếp khiến vốn hóa công ty 'bốc hơi' 6.300 tỷ",
+          "url": "https://nguoiquansat.vn/hon-61-trieu-co-phieu-kos-duoc-khop-gia-san-chuoi-giam-31-phien-lien-tiep-khien-von-hoa-cong-ty-boc-hoi-6-300-ty-325061.html"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "30/10 trưa",
+          "title": "Giao dịch chứng khoán phiên sáng 30/10: Cổ phiếu KOS được \"giải cứu\"",
+          "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-phien-sang-3010-co-phieu-kos-duoc-giai-cuu-post400475.html"
+        },
+        {
+          "source": "Kinh tế Chứng khoán",
+          "time": "30/10",
+          "title": "VN-Index mất gần 14 điểm phiên cuối tháng, điểm sáng đầy bất ngờ tại Kosy",
+          "url": "https://kinhtechungkhoan.vn/vn-index-mat-gan-14-diem-phien-cuoi-thang-diem-sang-day-bat-ngo-tai-kosy"
+        },
+        {
+          "source": "Mekong Asean",
+          "time": "30/10",
+          "title": "Cổ phiếu KOS được 'giải cứu' sau gần một tháng giảm sàn",
+          "url": "https://mekongasean.vn/co-phieu-kos-duoc-giai-cuu-sau-gan-mot-thang-giam-san-61267.html"
+        },
+        {
+          "source": "An ninh Thủ đô",
+          "time": "30/10",
+          "title": "Cổ phiếu KOS bất ngờ tăng kịch trần sau chuỗi 29 phiên sàn, hơn 1/3 vốn được sang tay",
+          "url": "https://anninhthudo.vn/co-phieu-kos-bat-ngo-tang-kich-tran-sau-chuoi-29-phien-san-hon-13-von-duoc-sang-tay-post673913.antd"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10",
+          "title": "Chứng khoán giảm 14 điểm phiên cuối tháng 10, cổ phiếu giá 4.000 đồng được gom mạnh nhất",
+          "url": "https://nguoiquansat.vn/chung-khoan-giam-14-diem-phien-cuoi-thang-10-co-phieu-gia-4-000-dong-duoc-gom-manh-nhat-325188.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 sáng",
+          "title": "1 phút trước giờ giao dịch phiên 30/10: Tỷ phú Phạm Nhật Vượng bơm thêm tiền cho VinFast, Quốc Cường Gia Lai trả nợ Vạn Thịnh Phát",
+          "url": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-30-10-ty-phu-pham-nhat-vuong-bom-them-tien-cho-vinfast-quoc-cuong-gia-lai-tra-no-van-thinh-phat-325040.html"
+        },
+        {
+          "source": "CafeF",
+          "summary": "TCH lãi trước thuế quý III 751 tỷ đồng, tăng 1.233%.",
+          "time": "30/10",
+          "title": "Cập nhật BCTC quý 3/2026 sáng ngày 30/10: Loạt doanh nghiệp lớn dồn dập công bố, TCH báo lãi tăng 1.233%, PV OIL lãi hơn 900 tỷ đồng, gấp hơn 5 lần cùng kỳ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "summary": "DXG +2,2%, NLG −4,3%, KBC −1,9%.",
+          "time": "30/10",
+          "title": "Chứng khoán, ngân hàng gây áp lực, VN-Index giảm gần 14 điểm phiên cuối cùng của tháng 10",
+          "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+        }
+      ],
+      "body": "KOS mở cửa sàn 3.540 đồng với 61,4 triệu cổ phiếu khớp, rồi đóng cửa trần 4.060 đồng; tổng khối lượng ~75,7 triệu cổ phiếu, còn ~10,8 triệu cổ phiếu dư mua trần. Ngoài KOS, DXG tăng 2,2%, NVL tăng mạnh, trong khi NLG giảm 4,3%, QCG, LDG, DIG giảm hơn 2,5%. Mùa KQKD hỗ trợ một số mã: TCH báo lãi trước thuế quý III tăng 1.233%.",
+      "heat": 5,
+      "name": "Bất động sản",
+      "reason": "KOS từ giá sàn lên trần với hơn 1/3 cổ phiếu sang tay, chấm dứt chuỗi 31 phiên giảm; nhóm BĐS phân hóa mạnh.",
+      "source": "CafeF",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 6.84,
+          "code": "KOS"
+        },
+        {
+          "change": 2.2,
+          "code": "DXG"
+        },
+        {
+          "change": -4.3,
+          "code": "NLG"
+        },
+        {
+          "change": -1.9,
+          "code": "KBC"
+        }
+      ],
+      "url": "https://cafef.vn/co-phieu-kos-bat-ngo-tang-tran-sau-khi-giam-29-phien-lien-tiep-hon-34-luong-co-phieu-dang-luu-hanh-duoc-giao-dich-188261030102603033.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "summary": "Quý III lãi sau thuế 23.021 tỷ (+419%), doanh thu 85.364 tỷ, biên lãi gộp 60,3%.",
+          "time": "30/10",
+          "title": "Chưa từng có: Vinhomes lãi 9 tháng kỷ lục hơn 75.000 tỷ đồng, vượt 25% kế hoạch cả năm",
+          "url": "https://cafef.vn/chua-tung-co-vinhomes-lai-9-thang-ky-luc-hon-75000-ty-dong-vuot-25-ke-hoach-ca-nam-188261030130647614.chn"
+        },
+        {
+          "source": "Znews",
+          "time": "30/10",
+          "title": "Khoản lãi 75.000 tỷ của Vinhomes đến từ đâu?",
+          "url": "https://znews.vn/khoan-lai-75000-ty-cua-vinhomes-den-tu-dau-post1693094.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10",
+          "title": "Vinhomes (VHM) của tỷ phú Phạm Nhật Vượng đại thắng: 9 tháng lãi hơn 75.000 tỷ đồng",
+          "url": "https://nguoiquansat.vn/vinhomes-vhm-cua-ty-phu-pham-nhat-vuong-dai-thang-9-thang-lai-hon-75-000-ty-dong-325132.html"
+        },
+        {
+          "source": "VietTimes",
+          "time": "30/10",
+          "title": "Vinhomes lãi hơn 23.000 tỷ đồng trong quý III, gấp 5 lần cùng kỳ",
+          "url": "https://viettimes.vn/vinhomes-lai-hon-23000-ty-dong-trong-quy-iii-gap-5-lan-cung-ky-post207724.html"
+        },
+        {
+          "source": "Kinh tế Chứng khoán",
+          "time": "30/10",
+          "title": "VIC bị khối ngoại bán hơn 350 tỷ đồng trong phiên VN-Index mất 14 điểm",
+          "url": "https://kinhtechungkhoan.vn/vic-bi-khoi-ngoai-ban-hon-350-ty-dong-trong-phien-vn-index-mat-14-diem"
+        },
+        {
+          "source": "CafeF",
+          "time": "30/10",
+          "title": "Một cổ phiếu \"hot\" bị khối ngoại xả hơn 350 tỷ đồng phiên cuối tuần",
+          "url": "https://cafef.vn/mot-co-phieu-hot-bi-khoi-ngoai-xa-hon-350-ty-dong-phien-cuoi-tuan-188261030151018909.chn"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "30/10",
+          "title": "Khối ngoại bán ròng hơn 350 tỷ đồng một cổ phiếu trong phiên 30/10",
+          "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-hon-350-ty-dong-mot-co-phieu-trong-phien-3010-post400514.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10",
+          "title": "Ngân hàng, chứng khoán bị bán mạnh, VN-Index mất 14 điểm, khối ngoại quay đầu gom VHM",
+          "url": "https://nguoiquansat.vn/ngan-hang-chung-khoan-bi-ban-manh-vn-index-mat-14-diem-khoi-ngoai-quay-dau-gom-vhm-325080.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 sáng",
+          "title": "1 phút trước giờ giao dịch phiên 30/10: Tỷ phú Phạm Nhật Vượng bơm thêm tiền cho VinFast, Quốc Cường Gia Lai trả nợ Vạn Thịnh Phát",
+          "url": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-30-10-ty-phu-pham-nhat-vuong-bom-them-tien-cho-vinfast-quoc-cuong-gia-lai-tra-no-van-thinh-phat-325040.html"
+        },
+        {
+          "source": "CafeF",
+          "summary": "Vinpearl (VPL) lãi trước thuế quý III 766 tỷ (+427%), Vincom Retail (VRE) 1.900 tỷ (+10%).",
+          "time": "30/10",
+          "title": "Cập nhật BCTC quý 3/2026 sáng ngày 30/10: Loạt doanh nghiệp lớn dồn dập công bố, TCH báo lãi tăng 1.233%, PV OIL lãi hơn 900 tỷ đồng, gấp hơn 5 lần cùng kỳ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn"
+        },
+        {
+          "source": "Index.vn",
+          "time": "30/10",
+          "title": "Khối ngoại bán ròng 641 tỷ đồng, VIC và TCB bị xả gần 490 tỷ đồng.",
+          "url": "https://index.vn/tin-tuc/khoi-ngoai-ban-rong-641-ty-dong-vic-va-tcb-bi-xa-gan-490-ty-dong"
+        }
+      ],
+      "body": "VIC có lúc giảm gần 4% nhưng hồi về tham chiếu 241.000 đồng cuối phiên. Vinhomes công bố lãi sau thuế quý III 23.021 tỷ đồng (+419%), 9 tháng 75.059 tỷ đồng, vượt khoảng 25% kế hoạch năm; VHM tăng 1,45% và được khối ngoại mua ròng 69 tỷ. Vinpearl lãi trước thuế quý III 766 tỷ (+427%), Vincom Retail 1.900 tỷ (+10%).",
+      "heat": 5,
+      "name": "Nhóm Vingroup",
+      "reason": "VIC bị khối ngoại bán ròng 354 tỷ đồng, có lúc lấy đi 8,7 điểm của VN-Index; VHM tăng nhờ lãi 9 tháng kỷ lục 75.000 tỷ.",
+      "source": "CafeF",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 1.45,
+          "code": "VHM"
+        },
+        {
+          "change": 0,
+          "code": "VIC"
+        },
+        {
+          "change": -0.4,
+          "code": "VRE"
+        }
+      ],
+      "url": "https://cafef.vn/chua-tung-co-vinhomes-lai-9-thang-ky-luc-hon-75000-ty-dong-vuot-25-ke-hoach-ca-nam-188261030130647614.chn"
+    },
+    {
+      "articles": [
+        {
+          "source": "CafeF",
+          "summary": "PV OIL lãi trước thuế quý III 902 tỷ đồng (+438%).",
+          "time": "30/10",
+          "title": "Cập nhật BCTC quý 3/2026 sáng ngày 30/10: Loạt doanh nghiệp lớn dồn dập công bố, TCH báo lãi tăng 1.233%, PV OIL lãi hơn 900 tỷ đồng, gấp hơn 5 lần cùng kỳ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn"
+        },
+        {
+          "source": "VietTimes",
+          "time": "30/10",
+          "title": "Mặt trái trong KQKD của PV OIL: Lợi nhuận kỷ lục, dòng tiền kinh doanh thâm hụt nặng hơn 2.600 tỷ",
+          "url": "https://viettimes.vn/vi-sao-pv-oil-lai-ky-luc-dong-tien-kinh-doanh-am-hon-2600-ty-dong-post207698.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "summary": "GAS +2,6%, TOS +1,7%, OIL +1,6%; PVD −2,2%.",
+          "time": "30/10",
+          "title": "Chứng khoán, ngân hàng gây áp lực, VN-Index giảm gần 14 điểm phiên cuối cùng của tháng 10",
+          "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+        },
+        {
+          "source": "Thanh Niên",
+          "time": "30/10",
+          "title": "Giá xăng dầu hôm nay 30.10.2026: Trong nước và thế giới biến động trái chiều",
+          "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-30102026-trong-nuoc-va-the-gioi-bien-dong-trai-chieu-185261030082813733.htm"
+        },
+        {
+          "source": "VOV",
+          "time": "30/10 05:10",
+          "title": "Giá xăng dầu hôm nay 30/10: Giá dầu Brent và WTI cùng giảm",
+          "url": "http://vov.vn/thi-truong/gia-xang-dau-hom-nay-3010-gia-dau-brent-va-wti-cung-giam-post1345648.vov"
+        },
+        {
+          "source": "Quân đội Nhân dân",
+          "time": "30/10 sáng",
+          "title": "Giá xăng dầu hôm nay (30-10): Giá dầu thế giới quay đầu giảm",
+          "url": "https://www.qdnd.vn/kinh-te/tin-tuc/gia-xang-dau-hom-nay-30-10-gia-dau-the-gioi-quay-dau-giam-1062579"
+        },
+        {
+          "source": "CafeF",
+          "time": "29/10",
+          "title": "Chuyện gì xảy ra với cổ phiếu dầu khí?",
+          "url": "https://cafef.vn/chuyen-gi-xay-ra-voi-co-phieu-dau-khi-188261029164151417.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "29/10",
+          "title": "Loạt mã nằm sàn, vì sao nhóm cổ phiếu dầu khí bị bán tháo?",
+          "url": "https://nguoiquansat.vn/loat-ma-nam-san-vi-sao-nhom-co-phieu-dau-khi-bi-ban-thao-324889.html"
+        },
+        {
+          "source": "Znews",
+          "time": "29/10",
+          "title": "Cổ phiếu dầu khí bị bán tháo",
+          "url": "https://znews.vn/co-phieu-dau-khi-bi-ban-thao-post1692898.html"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "29/10",
+          "title": "Cổ phiếu dầu khí PVT, PVP... lao dốc dù giá dầu thế giới tăng",
+          "url": "https://dantri.com.vn/kinh-doanh/co-phieu-dau-khi-pvt-pvp-lao-doc-du-gia-dau-the-gioi-tang-20261029165928088.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "29/10",
+          "title": "Lợi nhuận quý 3/2026 tăng 40%, cổ phiếu PVTrans vẫn giảm sàn, vốn hóa mất hơn 800 tỷ đồng",
+          "url": "https://cafef.vn/loi-nhuan-quy-3-2026-tang-40-co-phieu-pvtrans-van-giam-san-von-hoa-mat-hon-800-ty-dong-188261029144743214.chn"
+        }
+      ],
+      "body": "GAS tăng 2,6% lên 78.000 đồng, đóng góp khoảng 1 điểm cho VN-Index; TOS +1,7%, OIL +1,6%. PV OIL báo lãi trước thuế quý III 902 tỷ đồng, gấp hơn 5 lần cùng kỳ, dù dòng tiền kinh doanh âm hơn 2.600 tỷ. Ngược lại PVD giảm 2,2%, BSR −0,2% trong bối cảnh giá dầu Brent và WTI hạ nhiệt nhờ tín hiệu ngoại giao Mỹ – Iran.",
+      "heat": 4,
+      "name": "Dầu khí",
+      "reason": "Hồi phục ngược dòng sau phiên bán tháo 29/10, GAS là trụ đỡ lớn nhất chỉ số.",
+      "source": "Tuổi Trẻ",
+      "status": "soi-noi",
+      "stocks": [
+        {
+          "change": 2.6,
+          "code": "GAS"
+        },
+        {
+          "change": 1.7,
+          "code": "TOS"
+        },
+        {
+          "change": 1.6,
+          "code": "OIL"
+        },
+        {
+          "change": -2.2,
+          "code": "PVD"
+        }
+      ],
+      "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "Dân Trí",
+          "summary": "DMX đứng giá 75.600 đồng, thấp hơn đỉnh khoảng 16%; Chủ tịch cho rằng thanh khoản thấp do tỷ lệ cổ phiếu lưu hành tự do chỉ ~15%.",
+          "time": "30/10",
+          "title": "Chứng khoán lại giảm, ông Nguyễn Đức Tài có phát ngôn gây chú ý",
+          "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-ong-nguyen-duc-tai-co-phat-ngon-gay-chu-y-20261030153419674.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "summary": "MWG lãi quý III 3.521 tỷ (+97%), DGW 278 tỷ (+65%), FRT lãi trước thuế 9 tháng 1.724 tỷ (+114%).",
+          "time": "30/10",
+          "title": "Các \"ông lớn\" bán lẻ trên sàn chứng khoán lãi đậm",
+          "url": "https://dantri.com.vn/kinh-doanh/cac-ong-lon-ban-le-tren-san-chung-khoan-lai-dam-20261030103558580.htm"
+        },
+        {
+          "source": "CafeF",
+          "summary": "FPT Retail lãi trước thuế quý III 686 tỷ (+111%).",
+          "time": "30/10",
+          "title": "Cập nhật BCTC quý 3/2026 sáng ngày 30/10: Loạt doanh nghiệp lớn dồn dập công bố, TCH báo lãi tăng 1.233%, PV OIL lãi hơn 900 tỷ đồng, gấp hơn 5 lần cùng kỳ",
+          "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "summary": "DGW −3,6%, PNJ −3,4% về 15.500 đồng, MWG −2,4%; PET +2%.",
+          "time": "30/10",
+          "title": "Chứng khoán, ngân hàng gây áp lực, VN-Index giảm gần 14 điểm phiên cuối cùng của tháng 10",
+          "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+        },
+        {
+          "source": "Dân Trí",
+          "time": "29/10",
+          "title": "“Ông lớn” phân phối hàng công nghệ lãi đậm, thu hẹp đầu tư chứng khoán",
+          "url": "https://dantri.com.vn/kinh-doanh/ong-lon-phan-phoi-hang-cong-nghe-lai-dam-thu-hep-dau-tu-chung-khoan-20261029091256765.htm"
+        },
+        {
+          "source": "CafeF",
+          "time": "29/10",
+          "title": "FPT Retail báo doanh thu 48.273 tỷ đồng sau 9 tháng, tăng 33% so với cùng kỳ",
+          "url": "https://cafef.vn/fpt-retail-bao-doanh-thu-48273-ty-dong-sau-9-thang-tang-33-so-voi-cung-ky-188261029173120182.chn"
+        },
+        {
+          "source": "Market Times",
+          "time": "29/10",
+          "title": "Thế Giới Di Động (MWG) lãi ròng hơn nghìn tỷ đồng mỗi tháng",
+          "url": "https://markettimes.vn/the-gioi-di-dong-mwg-lai-rong-hon-nghin-ty-dong-moi-thang-133621.html"
+        },
+        {
+          "source": "CafeF",
+          "time": "28/10",
+          "title": "Lợi nhuận 9 tháng đầu năm tăng gấp đôi, cổ phiếu Digiworld giảm sàn: Điều gì đang xảy ra?",
+          "url": "https://cafef.vn/loi-nhuan-9-thang-dau-nam-tang-gap-doi-co-phieu-digiworld-giam-san-dieu-gi-dang-xay-ra-188261028160217262.chn"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "29/10",
+          "title": "PNJ về đáy 9 năm, KOS giảm 29 phiên sàn, nhóm dầu khí 'chịu đòn' trong ngày HoSE khớp lệnh chưa tới 10.000 tỷ",
+          "url": "https://nguoiquansat.vn/pnj-ve-day-9-nam-kos-giam-29-phien-san-nhom-dau-khi-chiu-don-trong-ngay-hose-khop-lenh-chua-toi-10-000-ty-324957.html"
+        },
+        {
+          "source": "Tuổi Trẻ",
+          "time": "29/10",
+          "title": "Cổ phiếu năng lượng bị bán tháo, PNJ tiếp tục lao dốc",
+          "url": "https://tuoitre.vn/co-phieu-nang-luong-bi-ban-thao-pnj-tiep-tuc-lao-doc-100261029154738945.htm"
+        }
+      ],
+      "body": "MWG lãi quý III 3.521 tỷ đồng (+97%, cao nhất lịch sử) nhưng cổ phiếu giảm 2,4%; DGW lãi 278 tỷ (+65%) vẫn giảm 3,6%; PNJ giảm 3,4% về 15.500 đồng, vùng đáy nhiều năm. FPT Retail lãi trước thuế quý III 686 tỷ (+111%), FRT tăng 0,7%. Chủ tịch Điện Máy Xanh Nguyễn Đức Tài cho rằng đây là thời điểm hấp dẫn để đầu tư dài hạn vào doanh nghiệp tốt.",
+      "heat": 4,
+      "name": "Bán lẻ",
+      "reason": "KQKD quý III kỷ lục nhưng MWG, PNJ, DGW tiếp tục bị bán; chỉ PET, FRT tăng.",
+      "source": "Dân Trí",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": 2,
+          "code": "PET"
+        },
+        {
+          "change": 0.7,
+          "code": "FRT"
+        },
+        {
+          "change": -2.4,
+          "code": "MWG"
+        },
+        {
+          "change": -3.4,
+          "code": "PNJ"
+        },
+        {
+          "change": -3.6,
+          "code": "DGW"
+        }
+      ],
+      "url": "https://dantri.com.vn/kinh-doanh/cac-ong-lon-ban-le-tren-san-chung-khoan-lai-dam-20261030103558580.htm"
+    },
+    {
+      "articles": [
+        {
+          "source": "Vietstock",
+          "time": "30/10",
+          "title": "Lợi nhuận Vinaconex lao dốc hơn 90%, dòng tiền kinh doanh âm hơn 1,800 tỷ",
+          "url": "https://vietstock.vn/2026/10/loi-nhuan-vinaconex-lao-doc-hon-90-dong-tien-kinh-doanh-am-hon-1800-ty-737-1509006.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "30/10",
+          "title": "Hòa Phát lãi hơn 8.2 ngàn tỷ trong quý 3",
+          "url": "https://vietstock.vn/2026/10/hoa-phat-lai-hon-82-ngan-ty-trong-quy-3-737-1508898.htm"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "30/10 sáng",
+          "title": "Cổ phiếu đáng chú ý ngày 30/10: HPG, BID, NTP",
+          "url": "https://nguoiquansat.vn/co-phieu-dang-chu-y-ngay-30-10-hpg-bid-ntp-325039.html"
+        },
+        {
+          "source": "VnEconomy",
+          "summary": "6 mã giảm sàn trên HoSE gồm GIL, KSB, HII, BKG, TMT, AAT.",
+          "time": "30/10",
+          "title": "Cổ phiếu lao dốc hàng loạt, ngân hàng tạo sức ép lớn",
+          "url": "https://vneconomy.vn/co-phieu-lao-doc-hang-loat-ngan-hang-tao-suc-ep-lon.htm"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "30/10",
+          "title": "Nhóm tài chính đồng loạt giảm, VN-Index lùi về gần 1.740 điểm",
+          "url": "https://www.tinnhanhchungkhoan.vn/nhom-tai-chinh-dong-loat-giam-vn-index-lui-ve-gan-1740-diem-post400504.html"
+        },
+        {
+          "source": "Tin nhanh Chứng khoán",
+          "time": "29/10",
+          "title": "Hòa Phát (HPG) lãi 23.746 tỷ đồng sau 9 tháng, vượt 8% kế hoạch cả năm",
+          "url": "https://www.tinnhanhchungkhoan.vn/hoa-phat-hpg-lai-23746-ty-dong-sau-9-thang-vuot-8-ke-hoach-ca-nam-post400418.html"
+        },
+        {
+          "source": "Người Quan Sát",
+          "time": "29/10",
+          "title": "Nóng: Hòa Phát (HPG) báo lợi nhuận quý III tăng 106%",
+          "url": "https://nguoiquansat.vn/nong-hoa-phat-hpg-bao-loi-nhuan-quy-iii-tang-106-324837.html"
+        },
+        {
+          "source": "Znews",
+          "time": "29/10",
+          "title": "Hòa Phát lãi hơn 90 tỷ mỗi ngày, làm 9 tháng đã vượt kế hoạch cả năm",
+          "url": "https://znews.vn/hoa-phat-lai-hon-90-ty-moi-ngay-lam-9-thang-da-vuot-ke-hoach-ca-nam-post1692923.html"
+        },
+        {
+          "source": "Vietstock",
+          "time": "29/10",
+          "title": "Thép Nam Kim báo lãi quý 3 tăng bằng lần, lợi nhuận Tôn Đông Á đi lùi khi chi phí tăng vọt",
+          "url": "https://vietstock.vn/2026/10/thep-nam-kim-bao-lai-quy-3-tang-bang-lan-loi-nhuan-ton-dong-a-di-lui-khi-chi-phi-tang-vot-737-1508425.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "29/10 tối",
+          "title": "DGC: Công văn công bố BCTC quý 3/2026 và giải trình",
+          "url": "https://vietstock.vn/2026/10/dgc-cong-van-cong-bo-bctc-quy-3-2026-va-giai-trinh-737-1508738.htm"
+        },
+        {
+          "source": "Vietstock",
+          "time": "29/10",
+          "title": "LCG: BCTC quý 3 năm 2026",
+          "url": "https://vietstock.vn/2026/10/lcg-bctc-quy-3-nam-2026-737-1508525.htm"
+        }
+      ],
+      "body": "Nhóm vật liệu giảm 1–2%: GVR −2,2%, CII −1,9%, HPG −0,9% dù Hòa Phát lãi quý III hơn 8.200 tỷ đồng, 9 tháng vượt kế hoạch năm. Các mã KSB, GIL, HII, BKG, TMT, AAT giảm sàn. Vinaconex công bố lợi nhuận quý III giảm hơn 90%, dòng tiền kinh doanh âm hơn 1.800 tỷ, phản ánh áp lực chi phí vật liệu lên doanh nghiệp xây lắp.",
+      "heat": 3,
+      "name": "Thép – Vật liệu – Xây dựng",
+      "reason": "Nhiều mã vừa và nhỏ giảm sàn (KSB, GIL, BKG…), Vinaconex báo lãi lao dốc hơn 90%.",
+      "source": "Vietstock",
+      "status": "bat-thuong",
+      "stocks": [
+        {
+          "change": -0.9,
+          "code": "HPG"
+        },
+        {
+          "change": -2.2,
+          "code": "GVR"
+        },
+        {
+          "change": -1.9,
+          "code": "CII"
+        }
+      ],
+      "url": "https://vietstock.vn/2026/10/loi-nhuan-vinaconex-lao-doc-hon-90-dong-tien-kinh-doanh-am-hon-1800-ty-737-1509006.htm"
+    }
+  ],
+  "sectorsSummary": "Phiên 30/10 nổi bật bởi KOS thoát chuỗi 31 phiên giảm và họ Vingroup giằng co mạnh (VIC bị xả 354 tỷ, VHM tăng nhờ lãi kỷ lục). Dầu khí hồi phục sau cú bán tháo hôm trước, trong khi bán lẻ và vật liệu – xây dựng tiếp tục bị bán bất chấp KQKD tốt. Ngành vận tải biển – cảng có tăng nhẹ (GMD, HAH) nhưng không đủ 5 bài trong ngày nên không đưa vào.",
+  "securities": {
+    "analysis": "Phiên cuối tháng cho thấy thị trường thiếu lực đỡ thực sự: ngoài GAS (+2,6%) và VHM (+1,45%) đóng góp hơn 1 điểm mỗi mã, gần như toàn bộ nhóm vốn hóa lớn đều giảm. Lực kéo tiêu cực đến từ ngân hàng (TCB −1,65 điểm, VCB −1,55 điểm, MBB −0,83 điểm) và VIC khi bị khối ngoại xả mạnh. Việc VN-Index thu hẹp được khoảng một nửa đà giảm cuối phiên nhờ VIC về tham chiếu cho thấy lực cầu bắt đáy vẫn có ở vùng 1.730–1.740, nhưng thanh khoản 14.700 tỷ đồng chưa đủ thuyết phục.\nVề kỹ thuật, chỉ số mất SMA50 và tuần thứ hai giảm, mở ra rủi ro kiểm định lại vùng 1.700–1.720 nếu 1.740 bị xuyên thủng. Bối cảnh vĩ mô chưa ủng hộ: Fed để ngỏ khả năng tăng lãi suất tháng 12, khối ngoại bán ròng 6 phiên liên tiếp và mùa KQKD của nhóm tài chính kém hơn kỳ vọng. Điểm sáng là nhóm phi tài chính có lợi nhuận quý III tăng hơn 60%, nên dòng tiền có thể tiếp tục phân hóa vào cổ phiếu có KQKD tốt thay vì tăng đồng loạt.",
+    "articles": [
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "VN-Index −13,99 điểm về 1.741,62; cả tuần mất 32,53 điểm (−1,83%), cả tháng 10 mất 27 điểm.",
+        "time": "30/10",
+        "title": "Nhóm tài chính đồng loạt giảm, VN-Index lùi về gần 1.740 điểm",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhom-tai-chinh-dong-loat-giam-vn-index-lui-ve-gan-1740-diem-post400504.html"
+      },
+      {
+        "source": "VnEconomy",
+        "summary": "Cả 13 mã ngân hàng trong VN30 giảm; 100 mã trên HoSE giảm quá 2%.",
+        "time": "30/10",
+        "title": "Cổ phiếu lao dốc hàng loạt, ngân hàng tạo sức ép lớn",
+        "url": "https://vneconomy.vn/co-phieu-lao-doc-hang-loat-ngan-hang-tao-suc-ep-lon.htm"
+      },
+      {
+        "source": "VnExpress",
+        "summary": "10 năm qua VN-Index giảm bình quân hơn 2% trong tháng 10; tháng 10 năm nay giảm khoảng 1,5%.",
+        "time": "30/10",
+        "title": "VN-Index giảm sâu phiên cuối tháng",
+        "url": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "30/10",
+        "title": "Chứng khoán, ngân hàng gây áp lực, VN-Index giảm gần 14 điểm phiên cuối cùng của tháng 10",
+        "url": "https://tuoitre.vn/chung-khoan-ngan-hang-gay-ap-luc-vn-index-giam-gan-14-diem-phien-cuoi-cung-cua-thang-10-100261030145734379.htm"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10",
+        "title": "Chứng khoán giảm 14 điểm phiên cuối tháng 10, cổ phiếu giá 4.000 đồng được gom mạnh nhất",
+        "url": "https://nguoiquansat.vn/chung-khoan-giam-14-diem-phien-cuoi-thang-10-co-phieu-gia-4-000-dong-duoc-gom-manh-nhat-325188.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10",
+        "title": "Ngân hàng, chứng khoán bị bán mạnh, VN-Index mất 14 điểm, khối ngoại quay đầu gom VHM",
+        "url": "https://nguoiquansat.vn/ngan-hang-chung-khoan-bi-ban-manh-vn-index-mat-14-diem-khoi-ngoai-quay-dau-gom-vhm-325080.html"
+      },
+      {
+        "source": "Dân Trí",
+        "summary": "Ba sàn giao dịch dưới 16.000 tỷ đồng; khối ngoại bán ròng phiên thứ 6 liên tiếp.",
+        "time": "30/10",
+        "title": "Chứng khoán lại giảm, ông Nguyễn Đức Tài có phát ngôn gây chú ý",
+        "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-ong-nguyen-duc-tai-co-phat-ngon-gay-chu-y-20261030153419674.htm"
+      },
+      {
+        "source": "Znews",
+        "time": "30/10",
+        "title": "VN-Index mất gần 14 điểm",
+        "url": "https://znews.vn/vn-index-mat-gan-14-diem-post1693132.html"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "Giữa phiên sáng VN-Index có lúc mất gần 19 điểm; riêng VIC lấy đi khoảng 8,7 điểm.",
+        "time": "30/10 10:30",
+        "title": "Nhịp đập Thị trường 30/10: VN-Index mở rộng đà giảm",
+        "url": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-3010-vn-index-mo-rong-da-giam-1636-1509009.htm"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "30/10 trưa",
+        "title": "Giao dịch chứng khoán phiên sáng 30/10: Cổ phiếu KOS được \"giải cứu\"",
+        "url": "https://www.tinnhanhchungkhoan.vn/giao-dich-chung-khoan-phien-sang-3010-co-phieu-kos-duoc-giai-cuu-post400475.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "Toàn thị trường bán ròng ~641 tỷ (HoSE −633 tỷ); VIC −354 tỷ, TCB −133 tỷ; mua ròng VHM 69 tỷ.",
+        "time": "30/10",
+        "title": "Khối ngoại bán ròng hơn 350 tỷ đồng một cổ phiếu trong phiên 30/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-hon-350-ty-dong-mot-co-phieu-trong-phien-3010-post400514.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "30/10",
+        "title": "Một cổ phiếu \"hot\" bị khối ngoại xả hơn 350 tỷ đồng phiên cuối tuần",
+        "url": "https://cafef.vn/mot-co-phieu-hot-bi-khoi-ngoai-xa-hon-350-ty-dong-phien-cuoi-tuan-188261030151018909.chn"
+      },
+      {
+        "source": "Kinh tế Chứng khoán",
+        "time": "30/10",
+        "title": "VIC bị khối ngoại bán hơn 350 tỷ đồng trong phiên VN-Index mất 14 điểm",
+        "url": "https://kinhtechungkhoan.vn/vic-bi-khoi-ngoai-ban-hon-350-ty-dong-trong-phien-vn-index-mat-14-diem"
+      },
+      {
+        "source": "Kinh tế Chứng khoán",
+        "time": "30/10",
+        "title": "VN-Index mất gần 14 điểm phiên cuối tháng, điểm sáng đầy bất ngờ tại Kosy",
+        "url": "https://kinhtechungkhoan.vn/vn-index-mat-gan-14-diem-phien-cuoi-thang-diem-sang-day-bat-ngo-tai-kosy"
+      },
+      {
+        "source": "Thời báo Ngân hàng",
+        "time": "30/10",
+        "title": "Cổ phiếu đồng loạt giảm sâu, áp lực bán gia tăng cuối tháng",
+        "url": "https://thoibaonganhang.vn/co-phieu-dong-loat-giam-sau-ap-luc-ban-gia-tang-cuoi-thang-189940.html"
+      },
+      {
+        "source": "Nhân Dân",
+        "time": "30/10",
+        "title": "Chứng khoán ngày 30/10: VN-Index giảm gần 14 điểm, sắc đỏ tiếp tục áp đảo",
+        "url": "https://nhandan.vn/chung-khoan-ngay-3010-vn-index-giam-gan-14-diem-sac-do-tiep-tuc-ap-dao-post999112.html"
+      },
+      {
+        "source": "Báo Tin tức (TTXVN)",
+        "time": "30/10",
+        "title": "Chứng khoán kết thúc tháng 10 trong sắc đỏ, VN-Index mất gần 14 điểm",
+        "url": "https://baotintuc.vn/chung-khoan-ket-thuc-thang-10-trong-sac-do-vn-index-mat-gan-14-diem-post1398671.html"
+      },
+      {
+        "source": "Thanh tra",
+        "time": "30/10",
+        "title": "VN-Index giảm gần 14 điểm phiên cuối tháng 10",
+        "url": "https://thanhtra.com.vn/tai-chinh-701717FFD/vn-index-giam-gan-14-diem-phien-cuoi-thang-10-cce976ea2.html"
+      },
+      {
+        "source": "Index.vn",
+        "time": "30/10",
+        "title": "VN-Index phiên cuối tuần 30/10 mất gần 14 điểm, TCB, VCB và MBB đồng loạt giảm mạnh",
+        "url": "https://index.vn/tin-tuc/vn-index-phien-cuoi-tuan-30-10-mat-gan-14-diem-tcb-vcb-va-mbb-dong-loat-giam-manh"
+      },
+      {
+        "source": "Index.vn",
+        "time": "30/10",
+        "title": "Khối ngoại bán ròng 641 tỷ đồng, VIC và TCB bị xả gần 490 tỷ đồng.",
+        "url": "https://index.vn/tin-tuc/khoi-ngoai-ban-rong-641-ty-dong-vic-va-tcb-bi-xa-gan-490-ty-dong"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "summary": "Dư nợ cho vay ký quỹ (margin) toàn ngành chạm gần 448.000 tỷ đồng trong khi lợi nhuận các CTCK đi lùi.",
+        "time": "30/10",
+        "title": "Lợi nhuận ngành chứng khoán giảm, dư nợ margin lập kỷ lục gần 448.000 tỷ đồng",
+        "url": "https://www.tinnhanhchungkhoan.vn/loi-nhuan-nganh-chung-khoan-giam-du-no-margin-lap-ky-luc-gan-448000-ty-dong-post400498.html"
+      },
+      {
+        "source": "Doanh nghiệp và Tiếp thị",
+        "time": "29/10",
+        "title": "Lợi nhuận các CTCK quý III/2026 giảm kỷ lục 42%",
+        "url": "https://doanhnghieptiepthi.vn/loi-nhuan-cac-ctck-quy-iii-2026-giam-ky-luc-42-161261029152545793.htm"
+      },
+      {
+        "source": "Thời báo Tài chính VN",
+        "time": "30/10",
+        "title": "Bộ Tài chính công bố bãi bỏ một thủ tục hành chính trong lĩnh vực chứng khoán",
+        "url": "https://thoibaotaichinhvietnam.vn/bo-tai-chinh-cong-bo-bai-bo-mot-thu-tuc-hanh-chinh-trong-linh-vuc-chung-khoan-206160.html"
+      },
+      {
+        "source": "VnExpress",
+        "time": "30/10",
+        "title": "Nhà đầu tư 'bắt đáy' cổ phiếu vừa giảm sàn 30 phiên liên tiếp",
+        "url": "https://vnexpress.net/nha-dau-tu-bat-day-co-phieu-vua-giam-san-30-phien-lien-tiep-5138736.html"
+      },
+      {
+        "source": "CafeF",
+        "time": "30/10",
+        "title": "Cập nhật BCTC quý 3/2026 sáng ngày 30/10: Loạt doanh nghiệp lớn dồn dập công bố, TCH báo lãi tăng 1.233%, PV OIL lãi hơn 900 tỷ đồng, gấp hơn 5 lần cùng kỳ",
+        "url": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn"
+      },
+      {
+        "source": "Vietstock",
+        "time": "30/10",
+        "title": "Tổng chi bồi thường tăng vọt, PTI giảm 16% lãi ròng 9 tháng",
+        "url": "https://vietstock.vn/2026/10/tong-chi-boi-thuong-tang-vot-pti-giam-16-lai-rong-9-thang-737-1508923.htm"
+      },
+      {
+        "source": "Tuổi Trẻ",
+        "time": "30/10 sáng",
+        "title": "Chứng khoán 30-10: VN-Index bước vào nhịp tăng mới, có thể vượt 1.800 điểm?",
+        "url": "https://tuoitre.vn/chung-khoan-30-10-vn-index-buoc-vao-nhip-tang-moi-co-the-vuot-1800-diem-100261030064911306.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "30/10 sáng",
+        "title": "30/10: Đọc gì trước giờ giao dịch chứng khoán?",
+        "url": "https://vietstock.vn/2026/10/3010-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1508878.htm"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10 sáng",
+        "title": "1 phút trước giờ giao dịch phiên 30/10: Tỷ phú Phạm Nhật Vượng bơm thêm tiền cho VinFast, Quốc Cường Gia Lai trả nợ Vạn Thịnh Phát",
+        "url": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-30-10-ty-phu-pham-nhat-vuong-bom-them-tien-cho-vinfast-quoc-cuong-gia-lai-tra-no-van-thinh-phat-325040.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "30/10 sáng",
+        "title": "Cổ phiếu cần quan tâm ngày 30/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/co-phieu-can-quan-tam-ngay-3010-post400446.html"
+      },
+      {
+        "source": "Người Quan Sát",
+        "time": "30/10 sáng",
+        "title": "Cổ phiếu đáng chú ý ngày 30/10: HPG, BID, NTP",
+        "url": "https://nguoiquansat.vn/co-phieu-dang-chu-y-ngay-30-10-hpg-bid-ntp-325039.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "29/10 tối",
+        "title": "Sự kiện chứng khoán đáng chú ý ngày 30/10",
+        "url": "https://www.tinnhanhchungkhoan.vn/su-kien-chung-khoan-dang-chu-y-ngay-3010-post400443.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "29/10 tối",
+        "title": "Nhận định thị trường phiên giao dịch ngày 30/10: Mua thăm dò",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhan-dinh-thi-truong-phien-giao-dich-ngay-3010-mua-tham-do-post400442.html"
+      },
+      {
+        "source": "Tin nhanh Chứng khoán",
+        "time": "29/10 tối",
+        "title": "Góc nhìn kỹ thuật phiên giao dịch chứng khoán ngày 30/10: Tiếp tục rung lắc",
+        "url": "https://www.tinnhanhchungkhoan.vn/goc-nhin-ky-thuat-phien-giao-dich-chung-khoan-ngay-3010-tiep-tuc-rung-lac-post400441.html"
+      },
+      {
+        "source": "Vietstock",
+        "time": "29/10 tối",
+        "title": "Vietstock Daily 30/10/2026: Áp lực gia tăng?",
+        "url": "https://vietstock.vn/2026/10/vietstock-daily-30102026-ap-luc-gia-tang-1636-1508627.htm"
+      },
+      {
+        "source": "Vietstock",
+        "summary": "VN30F tháng gần đóng cửa 29/10 ở 1.880,8 điểm (−0,64%), khối ngoại bán ròng 2.195 hợp đồng.",
+        "time": "29/10 tối",
+        "title": "Chứng khoán phái sinh ngày 30/10/2026: Phe Short lên ngôi",
+        "url": "https://vietstock.vn/2026/10/chung-khoan-phai-sinh-ngay-30102026-phe-short-len-ngoi-1636-1508532.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "29/10 tối",
+        "title": "Thị trường chứng quyền ngày 30/10/2026: Sắc đỏ tràn ngập",
+        "url": "https://vietstock.vn/2026/10/thi-truong-chung-quyen-ngay-30102026-sac-do-tran-ngap-1636-1508538.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "29/10 tối",
+        "title": "Theo dấu dòng tiền cá mập 29/10: Tự doanh và khối ngoại đồng thuận bán ròng",
+        "url": "https://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-2910-tu-doanh-va-khoi-ngoai-dong-thuan-ban-rong-830-1508856.htm"
+      },
+      {
+        "source": "Vietstock",
+        "time": "29/10 tối",
+        "title": "VPBankS sắp huy động 6,000 tỷ đồng qua kênh trái phiếu để cho vay margin",
+        "url": "https://vietstock.vn/2026/10/vpbanks-sap-huy-dong-6000-ty-dong-qua-kenh-trai-phieu-de-cho-vay-margin-3118-1508809.htm"
+      }
+    ],
+    "metrics": [
+      {
+        "change": -13.99,
+        "changeText": "−13,99 (−0,80%)",
+        "label": "VN-Index",
+        "note": "Có lúc giảm hơn 25 điểm phiên sáng; tuần −32,53 điểm (−1,83%)",
+        "unit": "điểm",
+        "value": "1.741,62"
+      },
+      {
+        "change": -3.87,
+        "changeText": "−3,87 (−1,51%)",
+        "label": "HNX-Index",
+        "unit": "điểm",
+        "value": "252,74"
+      },
+      {
+        "change": -0.37,
+        "changeText": "−0,37 (−0,30%)",
+        "label": "UPCoM-Index",
+        "unit": "điểm",
+        "value": "123,73"
+      },
+      {
+        "change": 17.6,
+        "changeText": "+17,6%",
+        "label": "Giá trị khớp lệnh HoSE",
+        "note": "~692,6 triệu cổ phiếu; ba sàn dưới 16.000 tỷ",
+        "unit": "tỷ đồng",
+        "value": "14.673"
+      },
+      {
+        "change": -641,
+        "changeText": "Bán ròng",
+        "label": "Khối ngoại (ròng)",
+        "note": "Phiên thứ 6 liên tiếp; bán VIC 354 tỷ, TCB 133 tỷ; mua VHM 69 tỷ",
+        "unit": "tỷ đồng",
+        "value": "−641"
+      },
+      {
+        "label": "Độ rộng toàn thị trường",
+        "note": "37 mã trần, 37 mã sàn; HoSE 72 tăng/253 giảm",
+        "unit": "mã tăng/giảm",
+        "value": "196/481"
+      }
+    ],
+    "news": [
+      {
+        "body": "VN-Index đóng cửa 1.741,62 điểm (−13,99 điểm), có lúc giảm 25 điểm buổi sáng. VN30 giảm 1,18% với 23 mã giảm, 3 mã tăng. Tuần này chỉ số mất 32,53 điểm (−1,83%), tháng 10 mất khoảng 27 điểm; theo thống kê 10 năm, tháng 10 thường là tháng VN-Index giảm điểm.",
+        "impact": "tieu-cuc",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "VN-Index mất gần 14 điểm, khép lại tháng 10 trong sắc đỏ",
+        "url": "https://www.tinnhanhchungkhoan.vn/nhom-tai-chinh-dong-loat-giam-vn-index-lui-ve-gan-1740-diem-post400504.html"
+      },
+      {
+        "body": "Khối ngoại bán ròng khoảng 641 tỷ đồng toàn thị trường (HoSE −633 tỷ), tăng gần 50% so với phiên trước và là phiên bán ròng thứ 6 liên tiếp. VIC bị bán ròng 354 tỷ, TCB 133 tỷ, MBB 43 tỷ; chiều mua tập trung VHM (69 tỷ) và VCB (37 tỷ).",
+        "impact": "tieu-cuc",
+        "source": "Tin nhanh Chứng khoán",
+        "title": "Khối ngoại bán ròng 641 tỷ, xả mạnh VIC và TCB",
+        "url": "https://www.tinnhanhchungkhoan.vn/khoi-ngoai-ban-rong-hon-350-ty-dong-mot-co-phieu-trong-phien-3010-post400514.html"
+      },
+      {
+        "body": "VIX giảm 3,2% về 12.000 đồng, VCI −2,6%, SSI −1,5%, VND và VPX giảm hơn 1%. Lợi nhuận quý III của các công ty chứng khoán đi lùi trong khi dư nợ margin lập kỷ lục gần 448.000 tỷ đồng – áp lực giải chấp tiềm ẩn nếu thị trường tiếp tục giảm.",
+        "impact": "tieu-cuc",
+        "source": "VnExpress",
+        "title": "Cổ phiếu chứng khoán giảm theo mùa KQKD kém",
+        "url": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html"
+      },
+      {
+        "body": "Cổ phiếu Kosy mở cửa giá sàn 3.540 đồng với hơn 61 triệu cổ phiếu khớp, sau đó được kéo lên trần 4.060 đồng. Tổng khoảng 75,7 triệu cổ phiếu sang tay – hơn 1/3 lượng lưu hành; trước đó KOS đã mất gần 90% giá trị.",
+        "impact": "trung-tinh",
+        "source": "CafeF",
+        "title": "KOS từ sàn lên trần, chấm dứt chuỗi 31 phiên giảm",
+        "url": "https://cafef.vn/co-phieu-kos-bat-ngo-tang-tran-sau-khi-giam-29-phien-lien-tiep-hon-34-luong-co-phieu-dang-luu-hanh-duoc-giao-dich-188261030102603033.chn"
+      },
+      {
+        "body": "MBS cho rằng thanh khoản yếu nhất từ đầu năm do lo ngại lạm phát và lãi suất cao. Yuanta khuyến nghị chờ VN-Index ổn định quanh 1.750 điểm, không bắt đáy hay mua đuổi; về kỹ thuật, chỉ số đã đóng cửa dưới đường trung bình 50 phiên (SMA50), vùng 1.740 là hỗ trợ then chốt.",
+        "impact": "trung-tinh",
+        "source": "VnExpress",
+        "title": "Thanh khoản thấp nhất từ đầu năm, chuyên gia khuyên chờ tín hiệu",
+        "url": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html"
+      }
+    ],
+    "summary": "VN-Index giảm 13,99 điểm (−0,80%) về 1.741,62 điểm trong phiên cuối tháng, có lúc mất hơn 25 điểm trước khi VIC hồi về tham chiếu. Ngân hàng và chứng khoán dẫn đầu chiều giảm, độ rộng áp đảo bên bán (72 tăng/253 giảm trên HoSE), khối ngoại bán ròng phiên thứ 6 liên tiếp khoảng 641 tỷ đồng. Cả tuần VN-Index mất 32,53 điểm (−1,83%), cả tháng 10 mất khoảng 27 điểm.",
+    "watch": [
+      "Vùng hỗ trợ 1.730–1.740 điểm của VN-Index đầu tuần sau",
+      "Khối ngoại có dừng chuỗi bán ròng 6 phiên hay không",
+      "Thanh khoản có quay lại trên 18.000 tỷ đồng/phiên",
+      "Tỷ lệ margin và áp lực giải chấp ở nhóm cổ phiếu vừa và nhỏ",
+      "Các doanh nghiệp lớn còn lại công bố BCTC quý III (hạn chót đầu tháng 11)"
+    ]
+  },
+  "session": "chieu",
+  "updatedAt": "2026-10-30T17:30:00+07:00"
+}
