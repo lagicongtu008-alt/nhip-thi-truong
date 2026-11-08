@@ -345,7 +345,22 @@ class WorkflowTests(unittest.TestCase):
 
     def test_triggers(self):
         on = self.wf.get(True, self.wf.get("on"))
-        self.assertEqual([c["cron"] for c in on["schedule"]], ["45 23 * * *", "45 9 * * *"])
+        crons = [c["cron"] for c in on["schedule"]]
+        morning = ["41 23 * * *", "13 1 * * *", "27 3 * * *"]
+        self.assertEqual(crons, morning + ["41 9 * * *", "13 11 * * *", "37 13 * * *"])
+        # Không lượt nào rơi vào phút tròn (GitHub hay trễ/bỏ lượt vào giờ cao điểm)
+        self.assertTrue(all(c.split()[0] not in ("0", "00") for c in crons))
+        # Lượt sáng được gắn session 'sang' bằng đúng danh sách cron sáng, các lượt còn lại là 'chieu'
+        plan_env = self.by_run(self.draft, "ci_guard.py plan")[1]["env"]["IN_SESSION"]
+        self.assertIn(json.dumps(morning, separators=(",", ":")), plan_env)
+        self.assertIn("'sang'", plan_env)
+        self.assertIn("'chieu'", plan_env)
+        self.assertTrue(plan_env.startswith("${{ inputs.session ||"))
+        # Giờ VN của lượt sáng < 12h, lượt chiều >= 12h
+        for c in crons:
+            m, h = int(c.split()[0]), int(c.split()[1])
+            vn = (h + 7) % 24
+            self.assertEqual(vn < 12, c in morning, c)
         self.assertEqual(set(on["workflow_dispatch"]["inputs"]), {"session", "force"})
         self.assertEqual(on["push"]["paths"], ["web/**", "data/**"])
         self.assertEqual(self.text.splitlines()[1], "# Không có secret thì workflow vẫn soạn bản tự động (RSS) và đăng trang.")

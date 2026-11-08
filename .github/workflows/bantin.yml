@@ -6,8 +6,15 @@
 name: Ban tin Nhip Thi Truong
 on:
   schedule:
-    - cron: "45 23 * * *"   # 06:45 giờ Việt Nam (GitHub có thể chạy trễ 5–30 phút)
-    - cron: "45 9 * * *"    # 16:45 giờ Việt Nam
+    # GitHub có thể chạy lịch trễ vài giờ hoặc bỏ lượt, nhất là vào phút tròn/giờ cao điểm,
+    # nên mỗi buổi có 3 lượt (lượt sau dự phòng). Chạy lặp không hại: RSS chỉ làm mới bản tự động,
+    # Claude bỏ qua khi đã có bản AI. Buổi được gắn theo lượt (xem IN_SESSION), không theo giờ chạy thực tế.
+    - cron: "41 23 * * *"   # sáng 06:41 giờ VN
+    - cron: "13 1 * * *"    # sáng 08:13 (dự phòng)
+    - cron: "27 3 * * *"    # sáng 10:27 (dự phòng)
+    - cron: "41 9 * * *"    # chiều 16:41 giờ VN
+    - cron: "13 11 * * *"   # chiều 18:13 (dự phòng)
+    - cron: "37 13 * * *"   # chiều 20:37 (dự phòng)
   workflow_dispatch:
     inputs:
       session:
@@ -52,7 +59,7 @@ jobs:
         id: plan
         env:
           HAS_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
-          IN_SESSION: ${{ inputs.session }}
+          IN_SESSION: ${{ inputs.session || (contains(fromJSON('["41 23 * * *","13 1 * * *","27 3 * * *"]'), github.event.schedule) && 'sang') || (github.event.schedule && 'chieu') || '' }}
           IN_FORCE: ${{ inputs.force }}
         run: python scripts/ci_guard.py plan --session "$IN_SESSION" --force "$IN_FORCE" --has-token "$HAS_TOKEN" --github-output "$GITHUB_OUTPUT"
       - name: Tầng 1 – bản tự động RSS
