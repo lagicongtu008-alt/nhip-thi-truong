@@ -3,19 +3,71 @@
  "label": "Chiều 9/11/2026 (thứ Hai)",
  "date": "2026-11-09",
  "session": "chieu",
- "updatedAt": "2026-11-09T00:03:36+07:00",
+ "updatedAt": "2026-11-09T01:29:10+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Chưa có bài về ngân hàng – tiền tệ trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 09/11 – 01:29 09/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
-  "news": [],
-  "articles": []
+  "news": [
+   {
+    "title": "Ngày 9/11, gửi dưới 1 tỷ đồng kỳ hạn 9 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-9-11-gui-duoi-1-ty-dong-ky-han-9-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261108222446822.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Ngày 9/11, gửi dưới 1 tỷ đồng kỳ hạn 9 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-9-11-gui-duoi-1-ty-dong-ky-han-9-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261108222446822.chn",
+    "time": "09/11 01:00"
+   }
+  ]
  },
  "securities": {
-  "summary": "Chưa có bài về chứng khoán trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 3 bài về chứng khoán từ 1 nguồn (00:00 09/11 – 01:29 09/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
-  "news": [],
-  "articles": []
+  "news": [
+   {
+    "title": "Dự báo nhịp giảm sâu sắp tới là cơ hội “gom hàng”, Vietcap gọi tên 2 cổ phiếu đáng chú ý",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/du-bao-nhip-giam-sau-sap-toi-la-co-hoi-gom-hang-vietcap-goi-ten-2-co-phieu-dang-chu-y-188261105144121152.chn"
+   },
+   {
+    "title": "Chuyên gia chỉ tên một nhóm cổ phiếu định giá rẻ có thể \"dẫn sóng\" thị trường thời gian tới",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chuyen-gia-chi-ten-mot-nhom-co-phieu-dinh-gia-re-co-the-dan-song-thi-truong-thoi-gian-toi-188261108160801059.chn"
+   },
+   {
+    "title": "Chứng khoán phát tín hiệu mới, chuyên gia tiết lộ thời điểm nên mạnh tay xuống tiền",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chung-khoan-phat-tin-hieu-moi-chuyen-gia-tiet-lo-thoi-diem-nen-manh-tay-xuong-tien-188261108162804361.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Chuyên gia chỉ tên một nhóm cổ phiếu định giá rẻ có thể \"dẫn sóng\" thị trường thời gian tới",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chuyen-gia-chi-ten-mot-nhom-co-phieu-dinh-gia-re-co-the-dan-song-thi-truong-thoi-gian-toi-188261108160801059.chn",
+    "time": "09/11 00:06"
+   },
+   {
+    "title": "Chứng khoán phát tín hiệu mới, chuyên gia tiết lộ thời điểm nên mạnh tay xuống tiền",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chung-khoan-phat-tin-hieu-moi-chuyen-gia-tiet-lo-thoi-diem-nen-manh-tay-xuong-tien-188261108162804361.chn",
+    "time": "09/11 00:04"
+   },
+   {
+    "title": "Dự báo nhịp giảm sâu sắp tới là cơ hội “gom hàng”, Vietcap gọi tên 2 cổ phiếu đáng chú ý",
+    "source": "CafeF",
+    "url": "https://cafef.vn/du-bao-nhip-giam-sau-sap-toi-la-co-hoi-gom-hang-vietcap-goi-ten-2-co-phieu-dang-chu-y-188261105144121152.chn",
+    "time": "09/11 00:03"
+   }
+  ]
  },
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
@@ -36,14 +88,23 @@
    ]
   },
   {
-   "name": "Bất động sản",
+   "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-9999-hom-nay-ngay-9-11-188261108214620632.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng, vàng nhẫn 9999 hôm nay ngày 9/11",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-9999-hom-nay-ngay-9-11-188261108214620632.chn",
+     "time": "09/11 01:02"
+    }
+   ]
   },
   {
-   "name": "Vàng – trang sức",
+   "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
@@ -67,10 +128,10 @@
  "rss": {
   "window": [
    "2026-11-09T00:00:00+07:00",
-   "2026-11-09T00:03:36+07:00"
+   "2026-11-09T01:29:10+07:00"
   ],
   "sources": {
-   "CafeF": 1
+   "CafeF": 6
   },
   "failed": []
  }
