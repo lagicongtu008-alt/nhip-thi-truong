@@ -1,0 +1,77 @@
+{
+ "key": "2026-11-09-chieu",
+ "label": "Chiều 9/11/2026 (thứ Hai)",
+ "date": "2026-11-09",
+ "session": "chieu",
+ "updatedAt": "2026-11-09T00:03:36+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Chưa có bài về ngân hàng – tiền tệ trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [],
+  "articles": []
+ },
+ "securities": {
+  "summary": "Chưa có bài về chứng khoán trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [],
+  "articles": []
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/tap-doan-cong-nghiep-60-nam-tuoi-doanh-thu-gan-150000-ty-dong-chon-viet-nam-san-xuat-vat-lieu-cong-nghe-cao-188261108112029463.chn",
+   "articles": [
+    {
+     "title": "Tập đoàn công nghiệp 60 năm tuổi, doanh thu gần 150.000 tỷ đồng chọn Việt Nam sản xuất vật liệu công nghệ cao",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tap-doan-cong-nghiep-60-nam-tuoi-doanh-thu-gan-150000-ty-dong-chon-viet-nam-san-xuat-vat-lieu-cong-nghe-cao-188261108112029463.chn",
+     "time": "09/11 00:02"
+    }
+   ]
+  },
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Tiêu dùng – bán lẻ",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-09T00:00:00+07:00",
+   "2026-11-09T00:03:36+07:00"
+  ],
+  "sources": {
+   "CafeF": 1
+  },
+  "failed": []
+ }
+}
