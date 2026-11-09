@@ -3,10 +3,10 @@
  "label": "Chiều 10/11/2026 (thứ Ba)",
  "date": "2026-11-10",
  "session": "chieu",
- "updatedAt": "2026-11-10T04:26:17+07:00",
+ "updatedAt": "2026-11-10T06:08:21+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 2 nguồn (00:00 10/11 – 04:26 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 3 nguồn (00:00 10/11 – 06:08 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -14,6 +14,12 @@
     "impact": "tieu-cuc",
     "source": "CafeF",
     "url": "https://cafef.vn/ts-dao-minh-tu-nguoi-dan-minh-it-ai-gui-tien-ky-han-vai-nam-ma-chi-do-mot-nam-thoi-nhung-ngan-hang-cho-vay-dai-han-toi-5-nam-10-nam-va-hon-nua-188261109230834075.chn"
+   },
+   {
+    "title": "Nhiều ngân hàng tăng cho vay kinh doanh bất động sản, Techcombank ngược chiều",
+    "impact": "trung-tinh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/nhieu-ngan-hang-tang-cho-vay-kinh-doanh-bat-dong-san-2572909.html"
    },
    {
     "title": "Ngày 10/11, gửi dưới 1 tỷ đồng kỳ hạn 15 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
@@ -29,6 +35,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "Nhiều ngân hàng tăng cho vay kinh doanh bất động sản, Techcombank ngược chiều",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/nhieu-ngan-hang-tang-cho-vay-kinh-doanh-bat-dong-san-2572909.html",
+    "time": "10/11 05:45"
+   },
    {
     "title": "Ngày 10/11, gửi dưới 1 tỷ đồng kỳ hạn 15 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
     "source": "CafeF",
@@ -50,7 +62,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 10/11 – 04:26 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 10/11 – 06:08 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -122,11 +134,17 @@
   {
    "name": "Bất động sản",
    "status": "soi-noi",
-   "heat": 1,
-   "reason": "2 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn",
+   "heat": 2,
+   "reason": "3 bài trong khung giờ, từ 2 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/nhieu-ngan-hang-tang-cho-vay-kinh-doanh-bat-dong-san-2572909.html",
    "articles": [
+    {
+     "title": "Nhiều ngân hàng tăng cho vay kinh doanh bất động sản, Techcombank ngược chiều",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/nhieu-ngan-hang-tang-cho-vay-kinh-doanh-bat-dong-san-2572909.html",
+     "time": "10/11 05:45"
+    },
     {
      "title": "Tỷ phú Bill Gates bất ngờ mua thêm 200.000 cổ phiếu một công ty bất động sản Việt Nam",
      "source": "CafeF",
@@ -145,10 +163,16 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/gia-vang-hom-nay-10-11-the-gioi-tiep-da-tang-sjc-trien-vong-lac-quan-2573195.html",
    "articles": [
+    {
+     "title": "Giá vàng hôm nay 10/11: Thế giới tiếp đà tăng, SJC triển vọng lạc quan",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-10-11-the-gioi-tiep-da-tang-sjc-trien-vong-lac-quan-2573195.html",
+     "time": "10/11 06:00"
+    },
     {
      "title": "Giá vàng miếng, vàng nhẫn trơn 9999 sáng 10/11",
      "source": "CafeF",
@@ -161,15 +185,37 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/cuu-sinh-vien-truong-su-pham-tu-bo-giac-mo-lam-nghe-giao-quyet-theo-duoi-nhung-cong-trinh-xuyen-nui-chua-tung-co-trong-lich-su-tuyen-bo-khong-lan-san-bds-188261109160551105.chn",
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "Thanh Niên",
+   "url": "https://thanhnien.vn/go-tam-hoan-xuat-canh-tai-san-bay-duoc-khong-185261109215954951.htm",
    "articles": [
+    {
+     "title": "Gỡ tạm hoãn xuất cảnh tại sân bay được không ?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/go-tam-hoan-xuat-canh-tai-san-bay-duoc-khong-185261109215954951.htm",
+     "time": "10/11 06:00"
+    },
     {
      "title": "Cựu sinh viên trường sư phạm từ bỏ giấc mơ làm nghề giáo, quyết theo đuổi những công trình xuyên núi chưa từng có trong lịch sử, tuyên bố không lấn sân BĐS",
      "source": "CafeF",
      "url": "https://cafef.vn/cuu-sinh-vien-truong-su-pham-tu-bo-giac-mo-lam-nghe-giao-quyet-theo-duoi-nhung-cong-trinh-xuyen-nui-chua-tung-co-trong-lich-su-tuyen-bo-khong-lan-san-bds-188261109160551105.chn",
      "time": "10/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/ceo-nvidia-jensen-huang-tu-nguoi-rua-bat-den-de-che-chip-ai-va-cu-soc-2573092.html",
+   "articles": [
+    {
+     "title": "CEO NVIDIA: Hành trình từ người rửa bát đến tỷ phú chip AI và cú sốc ngang địa chấn",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/ceo-nvidia-jensen-huang-tu-nguoi-rua-bat-den-de-che-chip-ai-va-cu-soc-2573092.html",
+     "time": "10/11 06:03"
     }
    ]
   },
@@ -188,31 +234,17 @@
      "time": "10/11 00:00"
     }
    ]
-  },
-  {
-   "name": "Hàng không – logistics",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/may-bay-thu-23-cua-sun-phuquoc-airways-tung-thuoc-hang-bay-cua-ong-trum-hang-khong-malaysia-nang-gan-100-tan-nhung-dat-toc-do-840-km-h-18826110923371146.chn",
-   "articles": [
-    {
-     "title": "Máy bay thứ 23 của Sun PhuQuoc Airways từng thuộc hãng bay của ông trùm hàng không Malaysia: Nặng gần 100 tấn nhưng đạt tốc độ 840 km/h",
-     "source": "CafeF",
-     "url": "https://cafef.vn/may-bay-thu-23-cua-sun-phuquoc-airways-tung-thuoc-hang-bay-cua-ong-trum-hang-khong-malaysia-nang-gan-100-tan-nhung-dat-toc-do-840-km-h-18826110923371146.chn",
-     "time": "10/11 00:02"
-    }
-   ]
   }
  ],
  "rss": {
   "window": [
    "2026-11-10T00:00:00+07:00",
-   "2026-11-10T04:26:17+07:00"
+   "2026-11-10T06:08:21+07:00"
   ],
   "sources": {
    "CafeF": 11,
+   "VietnamNet": 3,
+   "Thanh Niên": 1,
    "Tuổi Trẻ": 1,
    "VnExpress": 1
   },
