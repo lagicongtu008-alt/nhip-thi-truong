@@ -3,7 +3,7 @@
  "label": "Sáng 9/11/2026 (thứ Hai)",
  "date": "2026-11-09",
  "session": "sang",
- "updatedAt": "2026-11-09T14:58:26+07:00",
+ "updatedAt": "2026-11-09T18:51:39+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 25 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 08/11 – 12:00 09/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -398,15 +398,15 @@
     "time": "09/11 06:07"
    },
    {
-    "title": "TPS ra mắt TP-BondX: Giải pháp đầu tư trái phiếu linh hoạt theo nhu cầu dòng tiền",
-    "source": "Vietstock",
-    "url": "http://vietstock.vn/2026/11/tps-ra-mat-tp-bondx-giai-phap-dau-tu-trai-phieu-linh-hoat-theo-nhu-cau-dong-tien-830-1512555.htm",
-    "time": "09/11 06:02"
-   },
-   {
     "title": "09/11: Đọc gì trước giờ giao dịch chứng khoán?",
     "source": "Vietstock",
     "url": "http://vietstock.vn/2026/11/0911-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1512829.htm",
+    "time": "09/11 06:02"
+   },
+   {
+    "title": "TPS ra mắt TP-BondX: Giải pháp đầu tư trái phiếu linh hoạt theo nhu cầu dòng tiền",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/tps-ra-mat-tp-bondx-giai-phap-dau-tu-trai-phieu-linh-hoat-theo-nhu-cau-dong-tien-830-1512555.htm",
     "time": "09/11 06:02"
    },
    {
@@ -483,7 +483,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "13 bài trong khung giờ, từ 2 nguồn.",
+   "reason": "12 bài trong khung giờ, từ 2 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/nguyen-giang-vien-dai-hoc-bach-khoa-gio-lam-ong-chu-dia-oc-so-huu-loat-du-an-bat-dong-san-tai-thanh-pho-giau-nhat-viet-nam-nay-van-manh-tay-chi-nghin-ty-gom-them-du-an-188261109114640826.chn",
    "articles": [
@@ -558,12 +558,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/choang-voi-muc-tra-gia-dat-gan-15-ty-dong-m-o-ninh-binh-188261108161419801.chn",
      "time": "08/11 16:36"
-    },
-    {
-     "title": "Bên trong những căn hộ nằm trong diện dự kiến di dời tại CT6 Kiến Hưng, Hà Nội",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ben-trong-nhung-can-ho-nam-trong-dien-du-kien-di-doi-tai-ct6-kien-hung-ha-noi-188261108122224033.chn",
-     "time": "08/11 12:25"
     }
    ]
   },
@@ -571,7 +565,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "13 bài trong khung giờ, từ 3 nguồn.",
+   "reason": "12 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/rang-tre-viet-nam-vuon-cao-giua-sieu-cong-trinh-quoc-te-he-lo-dien-mao-nha-hat-quy-mo-hang-dau-chau-a-188261109112342411.chn",
    "articles": [
@@ -636,12 +630,6 @@
      "time": "08/11 17:30"
     },
     {
-     "title": "Toàn cảnh công trường Trung tâm hành chính TP.HCM sau hơn 6 tháng khởi công",
-     "source": "CafeF",
-     "url": "https://cafef.vn/toan-canh-cong-truong-trung-tam-hanh-chinh-tphcm-sau-hon-6-thang-khoi-cong-188261108141613934.chn",
-     "time": "08/11 15:15"
-    },
-    {
      "title": "Sau hơn một năm khởi công, dự án khu thể thao hơn 500 tỷ đồng, quy mô 28,73ha nằm tại tỉnh miền núi biên giới đang có tiến độ ra sao?",
      "source": "CafeF",
      "url": "https://cafef.vn/sau-hon-mot-nam-khoi-cong-du-an-khu-the-thao-hon-500-ty-dong-quy-mo-2873ha-nam-tai-tinh-mien-nui-bien-gioi-dang-co-tien-do-ra-sao-188261108150220094.chn",
@@ -659,16 +647,10 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 6 nguồn.",
-   "source": "VietnamNet",
-   "url": "https://vietnamnet.vn/gia-vang-hom-nay-9-11-da-tang-gap-thach-thuc-sjc-van-neo-cao-2572780.html",
+   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
+   "source": "Thanh Niên",
+   "url": "https://thanhnien.vn/gia-vang-hom-nay-9112026-vang-mieng-sjc-tang-them-1-trieu-dong-moi-luong-185261109072343088.htm",
    "articles": [
-    {
-     "title": "Giá vàng hôm nay 9/11: Đồng loạt quay xe, vàng trong nước hạ nhiệt",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-9-11-da-tang-gap-thach-thuc-sjc-van-neo-cao-2572780.html",
-     "time": "09/11 11:31"
-    },
     {
      "title": "Giá vàng hôm nay 9.11.2026: Vàng miếng SJC tăng thêm 1 triệu đồng mỗi lượng",
      "source": "Thanh Niên",
@@ -818,11 +800,11 @@
    "2026-11-09T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 61,
+   "CafeF": 59,
    "VnEconomy": 11,
    "Tuổi Trẻ": 10,
    "Dân trí": 9,
-   "VietnamNet": 6,
+   "VietnamNet": 5,
    "Vietstock": 5,
    "Thanh Niên": 4,
    "VnExpress": 4
