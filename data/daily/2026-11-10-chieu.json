@@ -1,0 +1,221 @@
+{
+ "key": "2026-11-10-chieu",
+ "label": "Chiều 10/11/2026 (thứ Ba)",
+ "date": "2026-11-10",
+ "session": "chieu",
+ "updatedAt": "2026-11-10T03:02:01+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 2 nguồn (00:00 10/11 – 03:02 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "TS Đào Minh Tú: \"Người dân mình ít ai gửi tiền kỳ hạn vài năm mà chỉ độ một năm thôi, nhưng ngân hàng cho vay dài hạn tới 5 năm, 10 năm và hơn nữa\"",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ts-dao-minh-tu-nguoi-dan-minh-it-ai-gui-tien-ky-han-vai-nam-ma-chi-do-mot-nam-thoi-nhung-ngan-hang-cho-vay-dai-han-toi-5-nam-10-nam-va-hon-nua-188261109230834075.chn"
+   },
+   {
+    "title": "Ngày 10/11, gửi dưới 1 tỷ đồng kỳ hạn 15 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-10-11-gui-duoi-1-ty-dong-ky-han-15-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261109224318997.chn"
+   },
+   {
+    "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo các ngân hàng và tập đoàn lớn Nhật Bản",
+    "impact": "tich-cuc",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-cac-ngan-hang-va-tap-doan-lon-nhat-ban-10026111000003513.htm"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Ngày 10/11, gửi dưới 1 tỷ đồng kỳ hạn 15 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-10-11-gui-duoi-1-ty-dong-ky-han-15-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261109224318997.chn",
+    "time": "10/11 01:00"
+   },
+   {
+    "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo các ngân hàng và tập đoàn lớn Nhật Bản",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-cac-ngan-hang-va-tap-doan-lon-nhat-ban-10026111000003513.htm",
+    "time": "10/11 00:27"
+   },
+   {
+    "title": "TS Đào Minh Tú: \"Người dân mình ít ai gửi tiền kỳ hạn vài năm mà chỉ độ một năm thôi, nhưng ngân hàng cho vay dài hạn tới 5 năm, 10 năm và hơn nữa\"",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ts-dao-minh-tu-nguoi-dan-minh-it-ai-gui-tien-ky-han-vai-nam-ma-chi-do-mot-nam-thoi-nhung-ngan-hang-cho-vay-dai-han-toi-5-nam-10-nam-va-hon-nua-188261109230834075.chn",
+    "time": "10/11 00:15"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 10/11 – 03:02 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Loạt thương hiệu Việt về tay nước ngoài: Cuộc đi săn ngầm giữa cơn bão bán ròng hàng trăm nghìn tỷ trên sàn chứng khoán",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/loat-thuong-hieu-viet-ve-tay-nuoc-ngoai-cuoc-di-san-ngam-giua-con-bao-ban-rong-hang-tram-nghin-ty-tren-san-chung-khoan-188261109230616695.chn"
+   },
+   {
+    "title": "5.000 tỷ \"biến mất\" khỏi danh mục tự doanh CTCK sau một quý, điều gì đang diễn ra?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/5000-ty-bien-mat-khoi-danh-muc-tu-doanh-ctck-sau-mot-quy-dieu-gi-dang-dien-ra-188261109225759707.chn"
+   },
+   {
+    "title": "Tỷ phú Bill Gates bất ngờ mua thêm 200.000 cổ phiếu một công ty bất động sản Việt Nam",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn"
+   },
+   {
+    "title": "Giáo sư giàu nhất Việt Nam đối đầu với các quỹ ngoại thâu tóm ngược doanh nghiệp: Lợi nhuận tăng gấp 26 lần, cổ phiếu từng có giá cao nhất sàn",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giao-su-giau-nhat-viet-nam-doi-dau-voi-cac-quy-ngoai-thau-tom-nguoc-doanh-nghiep-loi-nhuan-tang-gap-26-lan-co-phieu-tung-co-gia-cao-nhat-san-188261109005409762.chn"
+   },
+   {
+    "title": "Vợ chồng bầu Kiên vẫn đều đặn nhận hàng trăm tỷ đồng mỗi năm từ ACB",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vo-chong-bau-kien-van-deu-dan-nhan-hang-tram-ty-dong-moi-nam-tu-acb-188261109230112292.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Loạt thương hiệu Việt về tay nước ngoài: Cuộc đi săn ngầm giữa cơn bão bán ròng hàng trăm nghìn tỷ trên sàn chứng khoán",
+    "source": "CafeF",
+    "url": "https://cafef.vn/loat-thuong-hieu-viet-ve-tay-nuoc-ngoai-cuoc-di-san-ngam-giua-con-bao-ban-rong-hang-tram-nghin-ty-tren-san-chung-khoan-188261109230616695.chn",
+    "time": "10/11 00:03"
+   },
+   {
+    "title": "Tỷ phú Bill Gates bất ngờ mua thêm 200.000 cổ phiếu một công ty bất động sản Việt Nam",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn",
+    "time": "10/11 00:03"
+   },
+   {
+    "title": "Vợ chồng bầu Kiên vẫn đều đặn nhận hàng trăm tỷ đồng mỗi năm từ ACB",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vo-chong-bau-kien-van-deu-dan-nhan-hang-tram-ty-dong-moi-nam-tu-acb-188261109230112292.chn",
+    "time": "10/11 00:01"
+   },
+   {
+    "title": "5.000 tỷ \"biến mất\" khỏi danh mục tự doanh CTCK sau một quý, điều gì đang diễn ra?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/5000-ty-bien-mat-khoi-danh-muc-tu-doanh-ctck-sau-mot-quy-dieu-gi-dang-dien-ra-188261109225759707.chn",
+    "time": "10/11 00:01"
+   },
+   {
+    "title": "Giáo sư giàu nhất Việt Nam đối đầu với các quỹ ngoại thâu tóm ngược doanh nghiệp: Lợi nhuận tăng gấp 26 lần, cổ phiếu từng có giá cao nhất sàn",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giao-su-giau-nhat-viet-nam-doi-dau-voi-cac-quy-ngoai-thau-tom-nguoc-doanh-nghiep-loi-nhuan-tang-gap-26-lan-co-phieu-tung-co-gia-cao-nhat-san-188261109005409762.chn",
+    "time": "10/11 00:01"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn",
+   "articles": [
+    {
+     "title": "Tỷ phú Bill Gates bất ngờ mua thêm 200.000 cổ phiếu một công ty bất động sản Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn",
+     "time": "10/11 00:03"
+    },
+    {
+     "title": "Diễn biến mới nhất về 2 khu đô thị đa mục tiêu rộng hơn 1.100ha, tổng vốn đầu tư gần 119.000 tỷ đồng tại thành phố giàu nhất miền Bắc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dien-bien-moi-nhat-ve-2-khu-do-thi-da-muc-tieu-rong-hon-1100ha-tong-von-dau-tu-gan-119000-ty-dong-tai-thanh-pho-giau-nhat-mien-bac-188261109213535345.chn",
+     "time": "10/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng, vàng nhẫn trơn 9999 sáng 10/11",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-sang-10-11-188261109220025556.chn",
+     "time": "10/11 01:05"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/cuu-sinh-vien-truong-su-pham-tu-bo-giac-mo-lam-nghe-giao-quyet-theo-duoi-nhung-cong-trinh-xuyen-nui-chua-tung-co-trong-lich-su-tuyen-bo-khong-lan-san-bds-188261109160551105.chn",
+   "articles": [
+    {
+     "title": "Cựu sinh viên trường sư phạm từ bỏ giấc mơ làm nghề giáo, quyết theo đuổi những công trình xuyên núi chưa từng có trong lịch sử, tuyên bố không lấn sân BĐS",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cuu-sinh-vien-truong-su-pham-tu-bo-giac-mo-lam-nghe-giao-quyet-theo-duoi-nhung-cong-trinh-xuyen-nui-chua-tung-co-trong-lich-su-tuyen-bo-khong-lan-san-bds-188261109160551105.chn",
+     "time": "10/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Năng lượng – điện",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/khung-gia-dien-mat-troi-cao-nhat-hon-2-120-dong-mot-kwh-5142638.html",
+   "articles": [
+    {
+     "title": "Khung giá điện mặt trời cao nhất hơn 2.120 đồng một kWh",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/khung-gia-dien-mat-troi-cao-nhat-hon-2-120-dong-mot-kwh-5142638.html",
+     "time": "10/11 00:00"
+    }
+   ]
+  },
+  {
+   "name": "Hàng không – logistics",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/may-bay-thu-23-cua-sun-phuquoc-airways-tung-thuoc-hang-bay-cua-ong-trum-hang-khong-malaysia-nang-gan-100-tan-nhung-dat-toc-do-840-km-h-18826110923371146.chn",
+   "articles": [
+    {
+     "title": "Máy bay thứ 23 của Sun PhuQuoc Airways từng thuộc hãng bay của ông trùm hàng không Malaysia: Nặng gần 100 tấn nhưng đạt tốc độ 840 km/h",
+     "source": "CafeF",
+     "url": "https://cafef.vn/may-bay-thu-23-cua-sun-phuquoc-airways-tung-thuoc-hang-bay-cua-ong-trum-hang-khong-malaysia-nang-gan-100-tan-nhung-dat-toc-do-840-km-h-18826110923371146.chn",
+     "time": "10/11 00:02"
+    }
+   ]
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-10T00:00:00+07:00",
+   "2026-11-10T03:02:01+07:00"
+  ],
+  "sources": {
+   "CafeF": 11,
+   "Tuổi Trẻ": 1,
+   "VnExpress": 1
+  },
+  "failed": []
+ }
+}
