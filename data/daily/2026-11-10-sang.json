@@ -3,10 +3,10 @@
  "label": "Sáng 10/11/2026 (thứ Ba)",
  "date": "2026-11-10",
  "session": "sang",
- "updatedAt": "2026-11-10T15:25:49+07:00",
+ "updatedAt": "2026-11-10T18:25:47+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 43 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 09/11 – 12:00 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 41 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 09/11 – 12:00 10/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -52,12 +52,6 @@
     "source": "VnExpress",
     "url": "https://vnexpress.net/ngan-hang-nha-nuoc-se-dinh-ky-mua-usd-tu-cac-nha-bang-5142801.html",
     "time": "10/11 11:34"
-   },
-   {
-    "title": "NHNN có động thái mới với 32,5% cổ phần Sacombank liên quan ông Trầm Bê",
-    "source": "CafeF",
-    "url": "https://cafef.vn/nhnn-co-dong-thai-moi-voi-325-co-phan-sacombank-lien-quan-ong-tram-be-188261110105749137.chn",
-    "time": "10/11 11:33"
    },
    {
     "title": "7 bước để dự án xanh nhận hỗ trợ lãi suất 2%/năm",
@@ -256,12 +250,6 @@
     "source": "VietnamNet",
     "url": "https://vietnamnet.vn/gpbank-tung-goi-1-000-ty-dong-giam-lai-suat-cho-vay-2-nam-2572994.html",
     "time": "09/11 14:08"
-   },
-   {
-    "title": "Dòng vốn Nhật Bản sẽ tăng chảy vào Việt Nam, hơn 20 ngân hàng cùng nhiều tổ chức được kết nối",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/dong-von-nhat-ban-se-tang-chay-vao-viet-nam-hon-20-ngan-hang-cung-nhieu-to-chuc-duoc-ket-noi-100261109134858614.htm",
-    "time": "09/11 14:06"
    },
    {
     "title": "CAEX đề xuất kết nối ngân hàng giúp minh bạch giao dịch tài sản mã hóa",
@@ -834,17 +822,11 @@
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
-   "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 6 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-trua-10-11-bat-ngo-dao-chieu-giam-manh-188261109220025556.chn",
+   "heat": 4,
+   "reason": "14 bài trong khung giờ, từ 6 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/gia-vang-hom-nay-10-11-the-gioi-tiep-da-tang-sjc-trien-vong-lac-quan-2573195.html",
    "articles": [
-    {
-     "title": "Giá vàng miếng, vàng nhẫn trơn 9999 trưa 10/11 bất ngờ đảo chiều giảm mạnh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-trua-10-11-bat-ngo-dao-chieu-giam-manh-188261109220025556.chn",
-     "time": "10/11 11:32"
-    },
     {
      "title": "Giá vàng hôm nay 10/11: Vàng SJC đảo chiều giảm, mất mốc 141 triệu đồng",
      "source": "VietnamNet",
@@ -1178,12 +1160,12 @@
    "2026-11-10T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 81,
+   "CafeF": 79,
    "VnEconomy": 27,
    "Dân trí": 16,
    "VietnamNet": 15,
    "VnExpress": 14,
-   "Tuổi Trẻ": 13,
+   "Tuổi Trẻ": 11,
    "Vietstock": 11,
    "Thanh Niên": 8
   },
