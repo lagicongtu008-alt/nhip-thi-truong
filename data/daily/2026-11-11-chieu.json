@@ -3,10 +3,10 @@
  "label": "Chiều 11/11/2026 (thứ Tư)",
  "date": "2026-11-11",
  "session": "chieu",
- "updatedAt": "2026-11-11T01:40:06+07:00",
+ "updatedAt": "2026-11-11T03:35:29+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 11/11 – 01:40 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 11/11 – 03:35 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -26,7 +26,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 11/11 – 01:40 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 11/11 – 03:35 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -102,6 +102,22 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
+   "name": "Tiêu dùng – bán lẻ",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/ap-dung-gia-ban-le-dien-2-thanh-phan-bo-cong-thuong-bao-cao-trong-nam-nay-20261110213507581.htm",
+   "articles": [
+    {
+     "title": "Áp dụng giá bán lẻ điện 2 thành phần: Bộ Công Thương báo cáo trong năm nay",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/ap-dung-gia-ban-le-dien-2-thanh-phan-bo-cong-thuong-bao-cao-trong-nam-nay-20261110213507581.htm",
+     "time": "11/11 00:00"
+    }
+   ]
+  },
+  {
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 1,
@@ -128,22 +144,16 @@
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
    "articles": []
-  },
-  {
-   "name": "Tiêu dùng – bán lẻ",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
   }
  ],
  "rss": {
   "window": [
    "2026-11-11T00:00:00+07:00",
-   "2026-11-11T01:40:06+07:00"
+   "2026-11-11T03:35:29+07:00"
   ],
   "sources": {
-   "CafeF": 7
+   "CafeF": 7,
+   "Dân trí": 1
   },
   "failed": []
  }
