@@ -3,10 +3,10 @@
  "label": "Sáng 11/11/2026 (thứ Tư)",
  "date": "2026-11-11",
  "session": "sang",
- "updatedAt": "2026-11-11T14:44:46+07:00",
+ "updatedAt": "2026-11-11T18:14:20+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 40 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 10/11 – 12:00 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 38 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 10/11 – 12:00 11/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -210,12 +210,6 @@
     "time": "10/11 16:20"
    },
    {
-    "title": "VN-Index khởi sắc sau động thái mới của Ngân hàng Nhà nước",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vn-index-khoi-sac-sau-dong-thai-moi-cua-ngan-hang-nha-nuoc-100261110154632384.htm",
-    "time": "10/11 16:14"
-   },
-   {
     "title": "Từ văn hóa concert đến brand love: Hướng đi để TPBank chinh phục khách hàng",
     "source": "CafeF",
     "url": "https://cafef.vn/tu-van-hoa-concert-den-brand-love-huong-di-de-tpbank-chinh-phuc-khach-hang-188261110154218205.chn",
@@ -226,12 +220,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/ceo-techcombank-tu-bai-toan-von-1100-ty-usd-den-vai-tro-cua-vifc-va-cac-dinh-che-tai-chinh-viet-nam-188261110153006085.chn",
     "time": "10/11 15:29"
-   },
-   {
-    "title": "Ngân hàng Nhà nước 'bơm' thêm VND, tiền có chảy vào chứng khoán?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/ngan-hang-nha-nuoc-bom-them-vnd-tien-co-chay-vao-chung-khoan-100261110144814316.htm",
-    "time": "10/11 15:10"
    },
    {
     "title": "\"Ông lớn\" ngân hàng Nhật Bản tiếp tục rót thêm tiền vào Vietcombank",
@@ -350,7 +338,7 @@
     "time": "11/11 11:15"
    },
    {
-    "title": "Margin liên tiếp lập kỷ lục, chứng khoán có thể đối diện làn sóng giải chấp trên diện rộng?",
+    "title": "Margin lập kỷ lục, chuyên gia nói gì?",
     "source": "CafeF",
     "url": "https://cafef.vn/margin-lien-tiep-lap-ky-luc-chung-khoan-co-the-doi-dien-lan-song-giai-chap-tren-dien-rong-188261111104343919.chn",
     "time": "11/11 11:14"
@@ -662,12 +650,6 @@
     "time": "10/11 16:20"
    },
    {
-    "title": "VN-Index khởi sắc sau động thái mới của Ngân hàng Nhà nước",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vn-index-khoi-sac-sau-dong-thai-moi-cua-ngan-hang-nha-nuoc-100261110154632384.htm",
-    "time": "10/11 16:14"
-   },
-   {
     "title": "Phiên 10/11: Khối ngoại mua ròng mạnh tay gần 500 tỷ đồng, cổ phiếu nào được \"gom\" nhiều nhất?",
     "source": "CafeF",
     "url": "https://cafef.vn/phien-10-11-khoi-ngoai-mua-rong-manh-tay-gan-500-ty-dong-co-phieu-nao-duoc-gom-nhieu-nhat-188261110152534078.chn",
@@ -678,6 +660,12 @@
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/khoi-ngoai-quay-lai-mua-rong-chung-khoan-tang-29-diem-20261110152103838.htm",
     "time": "10/11 15:33"
+   },
+   {
+    "title": "VN-Index tăng gần 30 điểm lên cao nhất nửa tháng",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/vn-index-tang-gan-30-diem-len-cao-nhat-nua-thang-5142982.html",
+    "time": "10/11 15:23"
    }
   ]
  },
@@ -817,7 +805,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 6 nguồn.",
+   "reason": "19 bài trong khung giờ, từ 6 nguồn.",
    "source": "VietnamNet",
    "url": "https://vietnamnet.vn/nha-thuoc-moc-san-sat-duoi-chan-chung-cu-cuoc-dua-giu-khach-nong-len-2573577.html",
    "articles": [
@@ -912,12 +900,6 @@
      "time": "10/11 20:29"
     },
     {
-     "title": "Đề xuất cho bán nhà ở xã hội theo giá thị trường sau 5 năm",
-     "source": "CafeF",
-     "url": "https://cafef.vn/de-xuat-cho-ban-nha-o-xa-hoi-theo-gia-thi-truong-sau-5-nam-188261110202051626.chn",
-     "time": "10/11 20:20"
-    },
-    {
      "title": "Keppel cùng Phú Long phát triển 420 căn hộ tại Nam TP HCM",
      "source": "VnExpress",
      "url": "https://vnexpress.net/keppel-cung-phu-long-phat-trien-420-can-ho-tai-nam-tp-hcm-5143014.html",
@@ -930,16 +912,16 @@
      "time": "10/11 16:17"
     },
     {
-     "title": "Nghị quyết 171 tác động thế nào đến nguồn cung và giá nhà ở thương mại?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nghi-quyet-171-tac-dong-the-nao-den-nguon-cung-va-gia-nha-o-thuong-mai-188261110144723838.chn",
-     "time": "10/11 15:45"
-    },
-    {
      "title": "Phó Thủ tướng: Giữ phương án HĐND cấp tỉnh ban hành, sửa đổi bảng giá đất",
      "source": "CafeF",
      "url": "https://cafef.vn/pho-thu-tuong-giu-phuong-an-hdnd-cap-tinh-ban-hanh-sua-doi-bang-gia-dat-188261110145151467.chn",
      "time": "10/11 15:18"
+    },
+    {
+     "title": "Cần cơ chế cho phép nhà ở xã hội được tự do mua bán",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/can-co-che-cho-phep-nha-o-xa-hoi-duoc-tu-do-mua-ban-185261110140629671.htm",
+     "time": "10/11 14:45"
     }
    ]
   },
@@ -947,16 +929,10 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 7 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-9999-trua-11-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261111071532931.chn",
+   "reason": "17 bài trong khung giờ, từ 7 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-giam-manh-boc-hoi-14-trieu-dongluong-trong-vai-gio-20261111110403002.htm",
    "articles": [
-    {
-     "title": "Giá vàng miếng, vàng nhẫn 9999 trưa 11/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-9999-trua-11-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261111071532931.chn",
-     "time": "11/11 11:32"
-    },
     {
      "title": "Giá vàng trong nước giảm mạnh, \"bốc hơi\" 1,4 triệu đồng/lượng trong vài giờ",
      "source": "Dân trí",
@@ -1178,10 +1154,10 @@
    "2026-11-11T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 94,
-   "Tuổi Trẻ": 21,
+   "CafeF": 86,
    "VnEconomy": 20,
    "Dân trí": 18,
+   "Tuổi Trẻ": 15,
    "VnExpress": 14,
    "VietnamNet": 12,
    "Thanh Niên": 9,
