@@ -3,12 +3,18 @@
  "label": "Chiều 12/11/2026 (thứ Năm)",
  "date": "2026-11-12",
  "session": "chieu",
- "updatedAt": "2026-11-12T00:25:42+07:00",
+ "updatedAt": "2026-11-12T01:41:35+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 12/11 – 00:25 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 12/11 – 01:41 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Ngày 12/11, gửi dưới 1 tỷ đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-12-11-gui-duoi-1-ty-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261111232658813.chn"
+   },
    {
     "title": "Phát hiện một cựu sinh viên NEU được khuyên học ngành Kế hoạch để “sau này làm lãnh đạo”: Không ngờ nay là ông chủ đứng sau ngân hàng, tập đoàn đa ngành 80.000 tỷ đồng",
     "impact": "trung-tinh",
@@ -18,6 +24,12 @@
   ],
   "articles": [
    {
+    "title": "Ngày 12/11, gửi dưới 1 tỷ đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-12-11-gui-duoi-1-ty-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261111232658813.chn",
+    "time": "12/11 01:11"
+   },
+   {
     "title": "Phát hiện một cựu sinh viên NEU được khuyên học ngành Kế hoạch để “sau này làm lãnh đạo”: Không ngờ nay là ông chủ đứng sau ngân hàng, tập đoàn đa ngành 80.000 tỷ đồng",
     "source": "CafeF",
     "url": "https://cafef.vn/phat-hien-mot-cuu-sinh-vien-neu-duoc-khuyen-hoc-nganh-ke-hoach-de-sau-nay-lam-lanh-dao-khong-ngo-nay-la-ong-chu-dung-sau-ngan-hang-tap-doan-da-nganh-80000-ty-dong-188261110152639889.chn",
@@ -26,9 +38,21 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 12/11 – 00:25 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 12/11 – 01:41 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Toàn thị trường bị bán ròng hơn 120.000 tỷ, UPCoM vẫn hút ròng vốn ngoại nhờ thương vụ của 1 tỷ phú",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/toan-thi-truong-bi-ban-rong-hon-120000-ty-upcom-van-hut-rong-von-ngoai-nho-thuong-vu-cua-1-ty-phu-188261111222222382.chn"
+   },
+   {
+    "title": "Cổ phiếu công ty thuộc hệ sinh thái Petrolimex tăng gần 50% sau 6 phiên, kinh doanh thua lỗ, cổ đông lớn nhiều lần bán vốn bất thành",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-cong-ty-thuoc-he-sinh-thai-petrolimex-tang-gan-50-sau-6-phien-kinh-doanh-thua-lo-co-dong-lon-nhieu-lan-ban-von-bat-thanh-188261111215104246.chn"
+   },
    {
     "title": "30 năm chứng khoán Việt Nam và hành trình biến niềm tin thành dòng vốn tỷ USD",
     "impact": "tich-cuc",
@@ -46,15 +70,21 @@
     "impact": "tich-cuc",
     "source": "CafeF",
     "url": "https://cafef.vn/lai-tang-bang-lan-hang-chuc-co-phieu-van-ngup-lan-cach-xa-dinh-gia-mot-nam-188261111224602347.chn"
-   },
-   {
-    "title": "Gió đổi chiều trên thị trường lao động: Môi giới ăn hoa hồng “chật vật”, nhân viên bán hàng, công nhân xây dựng được săn đón",
-    "impact": "trung-tinh",
-    "source": "CafeF",
-    "url": "https://cafef.vn/gio-doi-chieu-tren-thi-truong-lao-dong-moi-gioi-an-hoa-hong-chat-vat-nhan-vien-ban-hang-cong-nhan-xay-dung-duoc-san-don-18826111123081682.chn"
    }
   ],
   "articles": [
+   {
+    "title": "Cổ phiếu công ty thuộc hệ sinh thái Petrolimex tăng gần 50% sau 6 phiên, kinh doanh thua lỗ, cổ đông lớn nhiều lần bán vốn bất thành",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-cong-ty-thuoc-he-sinh-thai-petrolimex-tang-gan-50-sau-6-phien-kinh-doanh-thua-lo-co-dong-lon-nhieu-lan-ban-von-bat-thanh-188261111215104246.chn",
+    "time": "12/11 00:32"
+   },
+   {
+    "title": "Toàn thị trường bị bán ròng hơn 120.000 tỷ, UPCoM vẫn hút ròng vốn ngoại nhờ thương vụ của 1 tỷ phú",
+    "source": "CafeF",
+    "url": "https://cafef.vn/toan-thi-truong-bi-ban-rong-hon-120000-ty-upcom-van-hut-rong-von-ngoai-nho-thuong-vu-cua-1-ty-phu-188261111222222382.chn",
+    "time": "12/11 00:21"
+   },
    {
     "title": "30 năm chứng khoán Việt Nam và hành trình biến niềm tin thành dòng vốn tỷ USD",
     "source": "CafeF",
@@ -84,21 +114,45 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-hom-nay-ngay-12-11-188261111233803039.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng, vàng nhẫn trơn 9999 hôm nay ngày 12/11",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-9999-hom-nay-ngay-12-11-188261111233803039.chn",
+     "time": "12/11 01:05"
+    },
+    {
+     "title": "Phục hồi nhẹ buổi chiều, giá vàng thế giới bất ngờ giảm về 4.000 USD/ounce",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/phuc-hoi-nhe-buoi-chieu-gia-vang-the-gioi-bat-ngo-giam-ve-4000-usd-ounce-100261112001222849.htm",
+     "time": "12/11 00:31"
+    }
+   ]
+  },
+  {
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/chuyen-gia-dau-tu-luot-song-bat-dong-san-ngay-cang-rui-ro-5143545.html",
+   "articles": [
+    {
+     "title": "Chuyên gia: Đầu tư 'lướt sóng' bất động sản ngày càng rủi ro",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/chuyen-gia-dau-tu-luot-song-bat-dong-san-ngay-cang-rui-ro-5143545.html",
+     "time": "12/11 00:10"
+    }
+   ]
   },
   {
    "name": "Công nghệ – viễn thông",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
-  },
-  {
-   "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
@@ -122,10 +176,12 @@
  "rss": {
   "window": [
    "2026-11-12T00:00:00+07:00",
-   "2026-11-12T00:25:42+07:00"
+   "2026-11-12T01:41:35+07:00"
   ],
   "sources": {
-   "CafeF": 5
+   "CafeF": 9,
+   "Tuổi Trẻ": 1,
+   "VnExpress": 1
   },
   "failed": []
  }
