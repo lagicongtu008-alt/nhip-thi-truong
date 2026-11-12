@@ -1,0 +1,204 @@
+{
+ "key": "2026-11-13-chieu",
+ "label": "Chiều 13/11/2026 (thứ Sáu)",
+ "date": "2026-11-13",
+ "session": "chieu",
+ "updatedAt": "2026-11-13T00:43:46+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 13/11 – 00:43 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-188261112230124179.chn"
+   },
+   {
+    "title": "Việt Nam huy động 9 cần cẩu đưa 176 phiến dầm bê tông khổng lồ dài 40 m ra giữa biển: Công trình gần 4.000 tỷ đồng từng “trảm” nhà thầu nghìn tỷ",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-188261112230124179.chn",
+    "time": "13/11 00:15"
+   },
+   {
+    "title": "Việt Nam huy động 9 cần cẩu đưa 176 phiến dầm bê tông khổng lồ dài 40 m ra giữa biển: Công trình gần 4.000 tỷ đồng từng “trảm” nhà thầu nghìn tỷ",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn",
+    "time": "13/11 00:01"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 13/11 – 00:43 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "FPT Telecom sắp chi gần 1.500 tỷ đồng trả cổ tức, Bộ Công an nhận hơn 741 tỷ đồng và hàng chục triệu cổ phiếu thưởng",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/fpt-telecom-sap-chi-gan-1500-ty-dong-tra-co-tuc-bo-cong-an-nhan-hon-741-ty-dong-va-hang-chuc-trieu-co-phieu-thuong-188261112175409976.chn"
+   },
+   {
+    "title": "Doanh nghiệp vừa thay dàn lãnh đạo cấp cao, cổ phiếu bất ngờ “có biến”",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/doanh-nghiep-vua-thay-dan-lanh-dao-cap-cao-co-phieu-bat-ngo-co-bien-188261112214752138.chn"
+   },
+   {
+    "title": "Chứng khoán Việt Nam đi xuống sau nâng hạng, Chủ tịch VSDC chỉ ra điều còn thiếu để hút dòng vốn ngoại",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chung-khoan-viet-nam-di-xuong-sau-nang-hang-chu-tich-vsdc-chi-ra-dieu-con-thieu-de-hut-dong-von-ngoai-188261112164924677.chn"
+   },
+   {
+    "title": "Chuyên gia Đào Phúc Tường nói về cơ hội \"đổi đời\" trên sàn chứng khoán Việt Nam",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chuyen-gia-dao-phuc-tuong-noi-ve-co-hoi-doi-doi-tren-san-chung-khoan-viet-nam-188261112214055338.chn"
+   },
+   {
+    "title": "Mất gần 50.000 tỷ vốn hóa, 'đại gia' hàng tiêu dùng lớn nhất sàn chứng khoán xuống đáy 1 năm",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mat-gan-50000-ty-von-hoa-dai-gia-hang-tieu-dung-lon-nhat-san-chung-khoan-xuong-day-1-nam-18826111216131076.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Doanh nghiệp vừa thay dàn lãnh đạo cấp cao, cổ phiếu bất ngờ “có biến”",
+    "source": "CafeF",
+    "url": "https://cafef.vn/doanh-nghiep-vua-thay-dan-lanh-dao-cap-cao-co-phieu-bat-ngo-co-bien-188261112214752138.chn",
+    "time": "13/11 00:07"
+   },
+   {
+    "title": "Chuyên gia Đào Phúc Tường nói về cơ hội \"đổi đời\" trên sàn chứng khoán Việt Nam",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chuyen-gia-dao-phuc-tuong-noi-ve-co-hoi-doi-doi-tren-san-chung-khoan-viet-nam-188261112214055338.chn",
+    "time": "13/11 00:03"
+   },
+   {
+    "title": "Chứng khoán Việt Nam đi xuống sau nâng hạng, Chủ tịch VSDC chỉ ra điều còn thiếu để hút dòng vốn ngoại",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chung-khoan-viet-nam-di-xuong-sau-nang-hang-chu-tich-vsdc-chi-ra-dieu-con-thieu-de-hut-dong-von-ngoai-188261112164924677.chn",
+    "time": "13/11 00:03"
+   },
+   {
+    "title": "PNJ thua lỗ, giá giảm sàn, tại sao vẫn lọt rổ chỉ số quan trọng của MSCI?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pnj-thua-lo-gia-giam-san-tai-sao-van-lot-ro-chi-so-quan-trong-cua-msci-188261112225231116.chn",
+    "time": "13/11 00:02"
+   },
+   {
+    "title": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn",
+    "time": "13/11 00:02"
+   },
+   {
+    "title": "FPT Telecom sắp chi gần 1.500 tỷ đồng trả cổ tức, Bộ Công an nhận hơn 741 tỷ đồng và hàng chục triệu cổ phiếu thưởng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/fpt-telecom-sap-chi-gan-1500-ty-dong-tra-co-tuc-bo-cong-an-nhan-hon-741-ty-dong-va-hang-chuc-trieu-co-phieu-thuong-188261112175409976.chn",
+    "time": "13/11 00:02"
+   },
+   {
+    "title": "Mất gần 50.000 tỷ vốn hóa, 'đại gia' hàng tiêu dùng lớn nhất sàn chứng khoán xuống đáy 1 năm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mat-gan-50000-ty-von-hoa-dai-gia-hang-tieu-dung-lon-nhat-san-chung-khoan-xuong-day-1-nam-18826111216131076.chn",
+    "time": "13/11 00:02"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn",
+   "articles": [
+    {
+     "title": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn",
+     "time": "13/11 00:02"
+    }
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-188261112230124179.chn",
+   "articles": [
+    {
+     "title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-188261112230124179.chn",
+     "time": "13/11 00:15"
+    }
+   ]
+  },
+  {
+   "name": "Tiêu dùng – bán lẻ",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/mat-gan-50000-ty-von-hoa-dai-gia-hang-tieu-dung-lon-nhat-san-chung-khoan-xuong-day-1-nam-18826111216131076.chn",
+   "articles": [
+    {
+     "title": "Mất gần 50.000 tỷ vốn hóa, 'đại gia' hàng tiêu dùng lớn nhất sàn chứng khoán xuống đáy 1 năm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mat-gan-50000-ty-von-hoa-dai-gia-hang-tieu-dung-lon-nhat-san-chung-khoan-xuong-day-1-nam-18826111216131076.chn",
+     "time": "13/11 00:02"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn",
+   "articles": [
+    {
+     "title": "Việt Nam huy động 9 cần cẩu đưa 176 phiến dầm bê tông khổng lồ dài 40 m ra giữa biển: Công trình gần 4.000 tỷ đồng từng “trảm” nhà thầu nghìn tỷ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn",
+     "time": "13/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-13T00:00:00+07:00",
+   "2026-11-13T00:43:46+07:00"
+  ],
+  "sources": {
+   "CafeF": 9
+  },
+  "failed": []
+ }
+}
