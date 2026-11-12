@@ -3,10 +3,10 @@
  "label": "Chiều 13/11/2026 (thứ Sáu)",
  "date": "2026-11-13",
  "session": "chieu",
- "updatedAt": "2026-11-13T01:54:53+07:00",
+ "updatedAt": "2026-11-13T04:03:57+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 13/11 – 01:54 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 13/11 – 04:03 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -50,7 +50,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 13/11 – 01:54 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 13/11 – 04:03 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -164,6 +164,22 @@
    ]
   },
   {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-13-11-tai-sjc-doji-pnj-bao-tin-minh-chau-188261112231426077.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng, vàng nhẫn trơn sáng 13/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-13-11-tai-sjc-doji-pnj-bao-tin-minh-chau-188261112231426077.chn",
+     "time": "13/11 03:06"
+    }
+   ]
+  },
+  {
    "name": "Tiêu dùng – bán lẻ",
    "status": "soi-noi",
    "heat": 1,
@@ -194,22 +210,15 @@
      "time": "13/11 00:01"
     }
    ]
-  },
-  {
-   "name": "Vàng – trang sức",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
   }
  ],
  "rss": {
   "window": [
    "2026-11-13T00:00:00+07:00",
-   "2026-11-13T01:54:53+07:00"
+   "2026-11-13T04:03:57+07:00"
   ],
   "sources": {
-   "CafeF": 10
+   "CafeF": 11
   },
   "failed": []
  }
