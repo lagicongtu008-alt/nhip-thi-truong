@@ -3,10 +3,10 @@
  "label": "Sáng 12/11/2026 (thứ Năm)",
  "date": "2026-11-12",
  "session": "sang",
- "updatedAt": "2026-11-12T15:20:12+07:00",
+ "updatedAt": "2026-11-12T18:31:48+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 43 bài về ngân hàng – tiền tệ từ 8 nguồn (12:00 11/11 – 12:00 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 42 bài về ngân hàng – tiền tệ từ 8 nguồn (12:00 11/11 – 12:00 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -252,12 +252,6 @@
     "time": "11/11 14:31"
    },
    {
-    "title": "Bơm thêm gần 50.000 tỉ đồng cho thị trường, tạo dư địa giảm lãi suất",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/bom-them-gan-50000-ti-dong-cho-thi-truong-tao-du-dia-giam-lai-suat-100261111130740161.htm",
-    "time": "11/11 14:31"
-   },
-   {
     "title": "Ông Phạm Tiến Dũng và ông Phạm Thanh Hà tiếp tục làm Phó Thống đốc NHNN",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/ong-pham-tien-dung-va-ong-pham-thanh-ha-tiep-tuc-lam-pho-thong-doc-nhnn-20261111141124475.htm",
@@ -302,7 +296,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 57 bài về chứng khoán từ 7 nguồn (12:00 11/11 – 12:00 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 56 bài về chứng khoán từ 7 nguồn (12:00 11/11 – 12:00 12/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -644,12 +638,6 @@
     "time": "11/11 14:47"
    },
    {
-    "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đánh chuông tại Sở Giao dịch chứng khoán Tokyo",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-danh-chuong-tai-so-giao-dich-chung-khoan-tokyo-100261111131414716.htm",
-    "time": "11/11 14:32"
-   },
-   {
     "title": "Chính phủ trình luật riêng quản lý thị trường giao dịch 7.500 tỷ đồng/ngày",
     "source": "CafeF",
     "url": "https://cafef.vn/chinh-phu-trinh-luat-rieng-quan-ly-thi-truong-giao-dich-7500-ty-dong-ngay-188261111142829279.chn",
@@ -905,7 +893,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "13 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "12 bài trong khung giờ, từ 4 nguồn.",
    "source": "VnExpress",
    "url": "https://vnexpress.net/se-thi-diem-dau-gia-quyen-thu-phi-mot-so-doan-cao-toc-bac-nam-5143742.html",
    "articles": [
@@ -974,12 +962,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/can-canh-2-tuyen-duong-nghin-ty-nam-cho-san-bay-long-thanh-van-hanh-188261111143351879.chn",
      "time": "11/11 17:30"
-    },
-    {
-     "title": "Chốt thời gian khai thác sân bay Long Thành, thị trường bất động sản phía Đông TP. Hồ Chí Minh sẽ thế nào?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chot-thoi-gian-khai-thac-san-bay-long-thanh-thi-truong-bat-dong-san-phia-dong-tp-ho-chi-minh-se-the-nao-188261111153525004.chn",
-     "time": "11/11 16:18"
     },
     {
      "title": "Tổng Bí thư, Chủ tịch nước đề nghị Nhật Bản hợp tác huy động vốn cho đường sắt, năng lượng",
@@ -1124,8 +1106,8 @@
    "2026-11-12T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 74,
-   "Tuổi Trẻ": 26,
+   "CafeF": 73,
+   "Tuổi Trẻ": 21,
    "Dân trí": 17,
    "VnEconomy": 14,
    "Thanh Niên": 11,
