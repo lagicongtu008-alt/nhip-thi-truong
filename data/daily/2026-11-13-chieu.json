@@ -3,12 +3,18 @@
  "label": "Chiều 13/11/2026 (thứ Sáu)",
  "date": "2026-11-13",
  "session": "chieu",
- "updatedAt": "2026-11-13T00:43:46+07:00",
+ "updatedAt": "2026-11-13T01:54:53+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 13/11 – 00:43 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 13/11 – 01:54 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Ngày 13/11, gửi dưới 1 tỷ đồng kỳ hạn 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-13-11-gui-duoi-1-ty-dong-ky-han-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261112234438454.chn"
+   },
    {
     "title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
     "impact": "tich-cuc",
@@ -24,6 +30,12 @@
   ],
   "articles": [
    {
+    "title": "Ngày 13/11, gửi dưới 1 tỷ đồng kỳ hạn 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-13-11-gui-duoi-1-ty-dong-ky-han-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261112234438454.chn",
+    "time": "13/11 01:31"
+   },
+   {
     "title": "Tỷ phú xuất thân từ quê lúa: Sau 16 năm ghép gan vẫn quyết tái thiết ngân hàng, làm chip bán dẫn, robot ở tuổi 67",
     "source": "CafeF",
     "url": "https://cafef.vn/ty-phu-xuat-than-tu-que-lua-sau-16-nam-ghep-gan-van-quyet-tai-thiet-ngan-hang-lam-chip-ban-dan-robot-o-tuoi-67-188261112230124179.chn",
@@ -38,7 +50,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 13/11 – 00:43 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 13/11 – 01:54 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -194,10 +206,10 @@
  "rss": {
   "window": [
    "2026-11-13T00:00:00+07:00",
-   "2026-11-13T00:43:46+07:00"
+   "2026-11-13T01:54:53+07:00"
   ],
   "sources": {
-   "CafeF": 9
+   "CafeF": 10
   },
   "failed": []
  }
