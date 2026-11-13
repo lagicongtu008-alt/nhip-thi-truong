@@ -3,7 +3,7 @@
  "label": "Sáng 13/11/2026 (thứ Sáu)",
  "date": "2026-11-13",
  "session": "sang",
- "updatedAt": "2026-11-13T14:57:00+07:00",
+ "updatedAt": "2026-11-13T18:16:18+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 45 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 12/11 – 12:00 13/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -330,12 +330,6 @@
     "url": "https://thanhnien.vn/co-phieu-fpt-tiep-tuc-bi-khoi-ngoai-xa-hang-thung-moc-50000-dong-co-phieu-185261112164411553.htm"
    },
    {
-    "title": "VN-Index mất hơn 12 điểm, khối ngoại bán ròng FPT gần 450 tỉ đồng",
-    "impact": "tich-cuc",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vn-index-mat-hon-12-diem-khoi-ngoai-ban-rong-fpt-gan-450-ti-dong-100261112153703949.htm"
-   },
-   {
     "title": "Theo dấu dòng tiền cá mập 12/11: Khối ngoại và tự doanh mua bán trái chiều",
     "impact": "tich-cuc",
     "source": "Vietstock",
@@ -346,6 +340,12 @@
     "impact": "trung-tinh",
     "source": "CafeF",
     "url": "https://cafef.vn/dien-may-xanh-muon-sua-doi-phuong-an-chao-ban-trai-phieu-kem-chung-quyen-rieng-le-188261113082649291.chn"
+   },
+   {
+    "title": "Tự doanh CTCK \"tung\" hơn 300 tỷ mua cổ phiếu Việt Nam, mã nào là tâm điểm?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/tu-doanh-ctck-tung-hon-300-ty-mua-co-phieu-viet-nam-ma-nao-la-tam-diem-188261112184236163.chn"
    }
   ],
   "articles": [
@@ -668,12 +668,6 @@
     "time": "12/11 16:04"
    },
    {
-    "title": "VN-Index mất hơn 12 điểm, khối ngoại bán ròng FPT gần 450 tỉ đồng",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vn-index-mat-hon-12-diem-khoi-ngoai-ban-rong-fpt-gan-450-ti-dong-100261112153703949.htm",
-    "time": "12/11 16:02"
-   },
-   {
     "title": "Một cổ phiếu Bluechips bị khối ngoại thẳng tay \"xả\" 450 tỷ đồng trong ngày 12/11",
     "source": "CafeF",
     "url": "https://cafef.vn/mot-co-phieu-bluechips-bi-khoi-ngoai-thang-tay-xa-450-ty-dong-trong-ngay-12-11-188261112151736463.chn",
@@ -708,259 +702,17 @@
     "source": "CafeF",
     "url": "https://cafef.vn/ts-can-van-luc-viet-nam-da-buoc-vao-chu-ky-tang-truong-moi-toi-da-tham-gia-trao-doi-voi-cac-doanh-nghiep-bat-dong-san-nha-dau-tu-chung-khoan-va-co-the-thay-ro-dieu-nay-188261112142302204.chn",
     "time": "12/11 14:22"
+   },
+   {
+    "title": "Trái phiếu doanh nghiệp tháng 10: Lãi suất lên 12,5%, áp lực đáo hạn gần 45.000 tỷ đồng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/trai-phieu-doanh-nghiep-thang-10-lai-suat-len-125-ap-luc-dao-han-gan-45000-ty-dong-188261112141319609.chn",
+    "time": "12/11 14:13"
    }
   ]
  },
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
-  {
-   "name": "Xây dựng – hạ tầng",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/thong-tin-moi-tai-tuyen-cao-toc-gan-24000-ty-dong-dai-60km-ket-noi-viet-nam-voi-lao-co-su-gop-mat-cua-tap-doan-son-hai-va-deo-ca-188261113113507734.chn",
-   "articles": [
-    {
-     "title": "Thông tin mới tại tuyến cao tốc gần 24.000 tỷ đồng, dài 60km kết nối Việt Nam với Lào, có sự góp mặt của Tập đoàn Sơn Hải và Đèo Cả",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thong-tin-moi-tai-tuyen-cao-toc-gan-24000-ty-dong-dai-60km-ket-noi-viet-nam-voi-lao-co-su-gop-mat-cua-tap-doan-son-hai-va-deo-ca-188261113113507734.chn",
-     "time": "13/11 11:39"
-    },
-    {
-     "title": "Chấp thuận VSIP đầu tư dự án hạ tầng 3.525 tỷ đồng tại Khu thương mại tự do Đà Nẵng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chap-thuan-vsip-dau-tu-du-an-ha-tang-3525-ty-dong-tai-khu-thuong-mai-tu-do-da-nang-1882611131127064.chn",
-     "time": "13/11 11:26"
-    },
-    {
-     "title": "Việt Nam đang đào sâu xuống lòng đất 500m, xây dựng công trình 21.000 tỷ đồng, lớn nhất Đông Nam Á",
-     "source": "CafeF",
-     "url": "https://cafef.vn/viet-nam-dang-dao-sau-xuong-long-dat-500m-xay-dung-cong-trinh-21000-ty-dong-lon-nhat-dong-nam-a-188261113094445552.chn",
-     "time": "13/11 09:44"
-    },
-    {
-     "title": "Ra sân bay mới biết nợ thuế, làm sao chấm dứt?",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/ra-san-bay-moi-biet-no-thue-lam-sao-cham-dut-185261112192114092.htm",
-     "time": "13/11 06:00"
-    },
-    {
-     "title": "Lãnh đạo Cần Thơ: Các sở, ngành phải 'soi rọi' chính mình trong thực thi công vụ",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm",
-     "time": "13/11 05:03"
-    },
-    {
-     "title": "Việt Nam huy động 9 cần cẩu đưa 176 phiến dầm bê tông khổng lồ dài 40 m ra giữa biển: Công trình gần 4.000 tỷ đồng từng “trảm” nhà thầu nghìn tỷ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn",
-     "time": "13/11 00:01"
-    },
-    {
-     "title": "Cử tri phường Cầu Giấy, Nghĩa Đô, Yên Hòa kiến nghị giải quyết “điểm nghẽn” về hạ tầng, đô thị và dân sinh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cu-tri-phuong-cau-giay-nghia-do-yen-hoa-kien-nghi-giai-quyet-diem-nghen-ve-ha-tang-do-thi-va-dan-sinh-188261112202501808.chn",
-     "time": "12/11 20:43"
-    },
-    {
-     "title": "Đường Tam Trinh thi công dang dở, lùi tiến độ đến năm 2027",
-     "source": "CafeF",
-     "url": "https://cafef.vn/duong-tam-trinh-thi-cong-dang-do-lui-tien-do-den-nam-2027-188261015210458515.chn",
-     "time": "12/11 20:34"
-    },
-    {
-     "title": "Ngành xây dựng TP.HCM thiếu lao động cục bộ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nganh-xay-dung-tphcm-thieu-lao-dong-cuc-bo-188261112202023378.chn",
-     "time": "12/11 20:20"
-    },
-    {
-     "title": "VietinBank cùng JCB và Hanoi Metro thúc đẩy thanh toán không tiếp xúc trên metro Hà Nội",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/vietinbank-cung-jcb-va-hanoi-metro-thuc-day-thanh-toan-khong-tiep-xuc-tren-metro-ha-noi-185261112154058734.htm",
-     "time": "12/11 20:00"
-    },
-    {
-     "title": "Hà Nội: Xây dựng hạ tầng giao thông đồng bộ, thúc đẩy kinh tế nông thôn",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-xay-dung-ha-tang-giao-thong-dong-bo-thuc-day-kinh-te-nong-thon-188261112180716009.chn",
-     "time": "12/11 18:35"
-    },
-    {
-     "title": "Khánh thành các công trình liên doanh Việt - Nga của Zarubezhneft và Petrovietnam",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/khanh-thanh-cac-cong-trinh-lien-doanh-viet-nga-cua-zarubezhneft-va-petrovietnam-100261112141959454.htm",
-     "time": "12/11 18:14"
-    },
-    {
-     "title": "Dự án cải tạo, mở rộng ngõ 323 phố Xuân Đỉnh: Cần sớm đẩy nhanh tiến độ thi công",
-     "source": "CafeF",
-     "url": "https://cafef.vn/du-an-cai-tao-mo-rong-ngo-323-pho-xuan-dinh-can-som-day-nhanh-tien-do-thi-cong-188261112170447972.chn",
-     "time": "12/11 17:25"
-    },
-    {
-     "title": "Searefico - Từ nhà thầu cơ điện đến đầu tư tài sản công nghiệp",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/searefico-tu-nha-thau-co-dien-den-dau-tu-tai-san-cong-nghiep-2574282.html",
-     "time": "12/11 16:50"
-    },
-    {
-     "title": "\"Đại gia phố núi\" vang bóng một thời nghiên cứu đầu tư tuyến cao tốc 261 km, vốn gần 85.000 tỷ đồng qua 3 tỉnh rộng nhất Việt Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dai-gia-pho-nui-vang-bong-mot-thoi-nghien-cuu-dau-tu-tuyen-cao-toc-261-km-von-gan-85000-ty-dong-qua-3-tinh-rong-nhat-viet-nam-188261112151400103.chn",
-     "time": "12/11 16:12"
-    },
-    {
-     "title": "Siêu công trình gần 20.000 tỷ đồng, sở hữu thiết kế vặn xoắn độc đáo, do liên danh Vingroup của tỷ phú Phạm Nhật Vượng xây đạt tiến độ ra sao sau hơn một năm khởi công?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sieu-cong-trinh-gan-20000-ty-dong-so-huu-thiet-ke-van-xoan-doc-dao-do-lien-danh-vingroup-cua-ty-phu-pham-nhat-vuong-xay-dat-tien-do-ra-sao-sau-hon-mot-nam-khoi-cong-188261112151303481.chn",
-     "time": "12/11 15:30"
-    },
-    {
-     "title": "Đề xuất Cần Thơ lập khu thương mại tự do kết nối sân bay với cảng biển",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/de-xuat-can-tho-lap-khu-thuong-mai-tu-do-ket-noi-san-bay-voi-cang-bien-20261112104022955.htm",
-     "time": "12/11 15:20"
-    },
-    {
-     "title": "Hầm chui 6 làn xe ở cửa ngõ phía Đông Hà Nội tăng tốc thi công, lộ diện hình hài",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ham-chui-6-lan-xe-o-cua-ngo-phia-dong-ha-noi-tang-toc-thi-cong-lo-dien-hinh-hai-188261112133802149.chn",
-     "time": "12/11 15:00"
-    },
-    {
-     "title": "Việt Nam sắp có thêm tuyến cao tốc 15.000 tỷ đồng xuyên vùng núi, nối thẳng đến cửa khẩu quốc tế giáp Lào",
-     "source": "CafeF",
-     "url": "https://cafef.vn/viet-nam-sap-co-them-tuyen-cao-toc-15000-ty-dong-xuyen-vung-nui-noi-thang-den-cua-khau-quoc-te-giap-lao-188261112120224532.chn",
-     "time": "12/11 14:55"
-    },
-    {
-     "title": "Sắp thí điểm đấu giá, đấu thầu quyền thu phí một số đoạn cao tốc Bắc - Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sap-thi-diem-dau-gia-dau-thau-quyen-thu-phi-mot-so-doan-cao-toc-bac-nam-188261112133349544.chn",
-     "time": "12/11 14:00"
-    }
-   ]
-  },
-  {
-   "name": "Bất động sản",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 5 nguồn.",
-   "source": "VietnamNet",
-   "url": "https://vietnamnet.vn/dau-gia-dat-de-xuat-siet-nguoi-bo-coc-danh-thue-chuyen-nhuong-som-2574442.html",
-   "articles": [
-    {
-     "title": "Đấu giá đất: Đề xuất siết người bỏ cọc, đánh thuế chuyển nhượng trong 1-2 năm",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/dau-gia-dat-de-xuat-siet-nguoi-bo-coc-danh-thue-chuyen-nhuong-som-2574442.html",
-     "time": "13/11 11:20"
-    },
-    {
-     "title": "QMS được giao đất làm Dự án xây dựng khu nhà ở xã hội Thụy Hà",
-     "source": "CafeF",
-     "url": "https://cafef.vn/qms-duoc-giao-dat-lam-du-an-xay-dung-khu-nha-o-xa-hoi-thuy-ha-188261113094710444.chn",
-     "time": "13/11 10:46"
-    },
-    {
-     "title": "Hà Nội phê duyệt Điều chỉnh tổng thể Quy hoạch phân khu đô thị sông Hồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-phe-duyet-dieu-chinh-tong-the-quy-hoach-phan-khu-do-thi-song-hong-188261113103253519.chn",
-     "time": "13/11 10:32"
-    },
-    {
-     "title": "Chậm nhất ngày 17-12 phải khởi công dự án nhà chung cư 500 tỉ ở Ninh Bình",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/cham-nhat-ngay-17-12-phai-khoi-cong-du-an-nha-chung-cu-500-ti-o-ninh-binh-100261113084126737.htm",
-     "time": "13/11 10:15"
-    },
-    {
-     "title": "AI thay đổi 'cuộc chơi' bất động sản công nghiệp",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ai-thay-doi-cuoc-choi-bat-dong-san-cong-nghiep-188261113085444947.chn",
-     "time": "13/11 09:37"
-    },
-    {
-     "title": "Vụ gần 1,5 tỷ đồng/m² đất ở Ninh Bình: Đề xuất áp trần để tránh 'thổi giá'",
-     "source": "CafeF",
-     "url": "https://cafef.vn/vu-gan-15-ty-dong-m-dat-o-ninh-binh-de-xuat-ap-tran-de-tranh-thoi-gia-188261113085330417.chn",
-     "time": "13/11 09:16"
-    },
-    {
-     "title": "Hà Nội duyệt điều chỉnh quy hoạch phân khu đô thị sông Hồng 1/5.000",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-duyet-dieu-chinh-quy-hoach-phan-khu-do-thi-song-hong-1-5000-188261113090547283.chn",
-     "time": "13/11 09:05"
-    },
-    {
-     "title": "Căn hộ TT GENESIS: Chuẩn sống cao cấp được định nghĩa bằng những giá trị thực",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/can-ho-tt-genesis-chuan-song-cao-cap-duoc-dinh-nghia-bang-nhung-gia-tri-thuc-18526111217134123.htm",
-     "time": "13/11 08:00"
-    },
-    {
-     "title": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn",
-     "time": "13/11 00:02"
-    },
-    {
-     "title": "Cận cảnh khu nhà ở xã hội đang hoàn thiện tại Thiên Lộc",
-     "source": "CafeF",
-     "url": "https://cafef.vn/can-canh-khu-nha-o-xa-hoi-dang-hoan-thien-tai-thien-loc-188261112202718262.chn",
-     "time": "12/11 21:27"
-    },
-    {
-     "title": "Đấu giá 1,9ha đất làm dự án phát triển nhà ở khu vực Cam Lộ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dau-gia-19ha-dat-lam-du-an-phat-trien-nha-o-khu-vuc-cam-lo-188261031074027414.chn",
-     "time": "12/11 20:39"
-    },
-    {
-     "title": "Không phải Hà Nội hay TP.HCM, đây mới là địa phương có quỹ nhà ở xã hội lớn nhất Việt Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/khong-phai-ha-noi-hay-tphcm-day-moi-la-dia-phuong-co-quy-nha-o-xa-hoi-lon-nhat-viet-nam-188261112160714039.chn",
-     "time": "12/11 17:25"
-    },
-    {
-     "title": "Nợ thuế tăng gấp đôi, hơn một nửa là tiền sử dụng đất",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/no-thue-tang-gap-doi-hon-mot-nua-la-tien-su-dung-dat.htm",
-     "time": "12/11 16:13"
-    },
-    {
-     "title": "Nhà đất vùng ven hay căn hộ “all-in-one” tại trung tâm Vinh: Đâu là lựa chọn đáng giá?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nha-dat-vung-ven-hay-can-ho-all-in-one-tai-trung-tam-vinh-dau-la-lua-chon-dang-gia-188261112143927164.chn",
-     "time": "12/11 16:00"
-    },
-    {
-     "title": "TS. Cấn Văn Lực: 'Việt Nam đã bước vào chu kỳ tăng trưởng mới, tôi đã tham gia trao đổi với các doanh nghiệp bất động sản, nhà đầu tư chứng khoán và có thể thấy rõ điều này'",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ts-can-van-luc-viet-nam-da-buoc-vao-chu-ky-tang-truong-moi-toi-da-tham-gia-trao-doi-voi-cac-doanh-nghiep-bat-dong-san-nha-dau-tu-chung-khoan-va-co-the-thay-ro-dieu-nay-188261112142302204.chn",
-     "time": "12/11 14:22"
-    },
-    {
-     "title": "Gỡ vướng cấp sổ hồng cho căn hộ condotel",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/go-vuong-cap-so-hong-cho-can-ho-condotel-185261112095659623.htm",
-     "time": "12/11 13:50"
-    },
-    {
-     "title": "Nam Long và hành trình 34 năm kiến tạo bất động sản giá trị thực",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/nam-long-va-hanh-trinh-34-nam-kien-tao-bat-dong-san-gia-tri-thuc-185261112135655374.htm",
-     "time": "12/11 13:42"
-    },
-    {
-     "title": "Công ty con của Hòa Phát được thuê đất đợt 2 làm khu công nghiệp Hoàng Diệu",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cong-ty-con-cua-hoa-phat-duoc-thue-dat-dot-2-lam-khu-cong-nghiep-hoang-dieu-18826111213210335.chn",
-     "time": "12/11 13:20"
-    }
-   ]
-  },
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
@@ -1074,10 +826,222 @@
    ]
   },
   {
-   "name": "Dầu khí – xăng dầu",
+   "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "16 bài trong khung giờ, từ 5 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/dau-gia-dat-de-xuat-siet-nguoi-bo-coc-danh-thue-chuyen-nhuong-som-2574442.html",
+   "articles": [
+    {
+     "title": "Đấu giá đất: Đề xuất siết người bỏ cọc, đánh thuế chuyển nhượng trong 1-2 năm",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/dau-gia-dat-de-xuat-siet-nguoi-bo-coc-danh-thue-chuyen-nhuong-som-2574442.html",
+     "time": "13/11 11:20"
+    },
+    {
+     "title": "QMS được giao đất làm Dự án xây dựng khu nhà ở xã hội Thụy Hà",
+     "source": "CafeF",
+     "url": "https://cafef.vn/qms-duoc-giao-dat-lam-du-an-xay-dung-khu-nha-o-xa-hoi-thuy-ha-188261113094710444.chn",
+     "time": "13/11 10:46"
+    },
+    {
+     "title": "Hà Nội phê duyệt Điều chỉnh tổng thể Quy hoạch phân khu đô thị sông Hồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ha-noi-phe-duyet-dieu-chinh-tong-the-quy-hoach-phan-khu-do-thi-song-hong-188261113103253519.chn",
+     "time": "13/11 10:32"
+    },
+    {
+     "title": "Chậm nhất ngày 17-12 phải khởi công dự án nhà chung cư 500 tỉ ở Ninh Bình",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/cham-nhat-ngay-17-12-phai-khoi-cong-du-an-nha-chung-cu-500-ti-o-ninh-binh-100261113084126737.htm",
+     "time": "13/11 10:15"
+    },
+    {
+     "title": "Vụ gần 1,5 tỷ đồng/m² đất ở Ninh Bình: Đề xuất áp trần để tránh 'thổi giá'",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vu-gan-15-ty-dong-m-dat-o-ninh-binh-de-xuat-ap-tran-de-tranh-thoi-gia-188261113085330417.chn",
+     "time": "13/11 09:16"
+    },
+    {
+     "title": "Hà Nội duyệt điều chỉnh quy hoạch phân khu đô thị sông Hồng 1/5.000",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ha-noi-duyet-dieu-chinh-quy-hoach-phan-khu-do-thi-song-hong-1-5000-188261113090547283.chn",
+     "time": "13/11 09:05"
+    },
+    {
+     "title": "Căn hộ TT GENESIS: Chuẩn sống cao cấp được định nghĩa bằng những giá trị thực",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/can-ho-tt-genesis-chuan-song-cao-cap-duoc-dinh-nghia-bang-nhung-gia-tri-thuc-18526111217134123.htm",
+     "time": "13/11 08:00"
+    },
+    {
+     "title": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn",
+     "time": "13/11 00:02"
+    },
+    {
+     "title": "Cận cảnh khu nhà ở xã hội đang hoàn thiện tại Thiên Lộc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/can-canh-khu-nha-o-xa-hoi-dang-hoan-thien-tai-thien-loc-188261112202718262.chn",
+     "time": "12/11 21:27"
+    },
+    {
+     "title": "Đấu giá 1,9ha đất làm dự án phát triển nhà ở khu vực Cam Lộ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dau-gia-19ha-dat-lam-du-an-phat-trien-nha-o-khu-vuc-cam-lo-188261031074027414.chn",
+     "time": "12/11 20:39"
+    },
+    {
+     "title": "Không phải Hà Nội hay TP.HCM, đây mới là địa phương có quỹ nhà ở xã hội lớn nhất Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/khong-phai-ha-noi-hay-tphcm-day-moi-la-dia-phuong-co-quy-nha-o-xa-hoi-lon-nhat-viet-nam-188261112160714039.chn",
+     "time": "12/11 17:25"
+    },
+    {
+     "title": "Nợ thuế tăng gấp đôi, hơn một nửa là tiền sử dụng đất",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/no-thue-tang-gap-doi-hon-mot-nua-la-tien-su-dung-dat.htm",
+     "time": "12/11 16:13"
+    },
+    {
+     "title": "TS. Cấn Văn Lực: 'Việt Nam đã bước vào chu kỳ tăng trưởng mới, tôi đã tham gia trao đổi với các doanh nghiệp bất động sản, nhà đầu tư chứng khoán và có thể thấy rõ điều này'",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ts-can-van-luc-viet-nam-da-buoc-vao-chu-ky-tang-truong-moi-toi-da-tham-gia-trao-doi-voi-cac-doanh-nghiep-bat-dong-san-nha-dau-tu-chung-khoan-va-co-the-thay-ro-dieu-nay-188261112142302204.chn",
+     "time": "12/11 14:22"
+    },
+    {
+     "title": "Gỡ vướng cấp sổ hồng cho căn hộ condotel",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/go-vuong-cap-so-hong-cho-can-ho-condotel-185261112095659623.htm",
+     "time": "12/11 13:50"
+    },
+    {
+     "title": "Nam Long và hành trình 34 năm kiến tạo bất động sản giá trị thực",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/nam-long-va-hanh-trinh-34-nam-kien-tao-bat-dong-san-gia-tri-thuc-185261112135655374.htm",
+     "time": "12/11 13:42"
+    },
+    {
+     "title": "Công ty con của Hòa Phát được thuê đất đợt 2 làm khu công nghiệp Hoàng Diệu",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cong-ty-con-cua-hoa-phat-duoc-thue-dat-dot-2-lam-khu-cong-nghiep-hoang-dieu-18826111213210335.chn",
+     "time": "12/11 13:20"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "16 bài trong khung giờ, từ 5 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/thong-tin-moi-tai-tuyen-cao-toc-gan-24000-ty-dong-dai-60km-ket-noi-viet-nam-voi-lao-co-su-gop-mat-cua-tap-doan-son-hai-va-deo-ca-188261113113507734.chn",
+   "articles": [
+    {
+     "title": "Thông tin mới tại tuyến cao tốc gần 24.000 tỷ đồng, dài 60km kết nối Việt Nam với Lào, có sự góp mặt của Tập đoàn Sơn Hải và Đèo Cả",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thong-tin-moi-tai-tuyen-cao-toc-gan-24000-ty-dong-dai-60km-ket-noi-viet-nam-voi-lao-co-su-gop-mat-cua-tap-doan-son-hai-va-deo-ca-188261113113507734.chn",
+     "time": "13/11 11:39"
+    },
+    {
+     "title": "Chấp thuận VSIP đầu tư dự án hạ tầng 3.525 tỷ đồng tại Khu thương mại tự do Đà Nẵng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chap-thuan-vsip-dau-tu-du-an-ha-tang-3525-ty-dong-tai-khu-thuong-mai-tu-do-da-nang-1882611131127064.chn",
+     "time": "13/11 11:26"
+    },
+    {
+     "title": "Việt Nam đang đào sâu xuống lòng đất 500m, xây dựng công trình 21.000 tỷ đồng, lớn nhất Đông Nam Á",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-dang-dao-sau-xuong-long-dat-500m-xay-dung-cong-trinh-21000-ty-dong-lon-nhat-dong-nam-a-188261113094445552.chn",
+     "time": "13/11 09:44"
+    },
+    {
+     "title": "Ra sân bay mới biết nợ thuế, làm sao chấm dứt?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/ra-san-bay-moi-biet-no-thue-lam-sao-cham-dut-185261112192114092.htm",
+     "time": "13/11 06:00"
+    },
+    {
+     "title": "Lãnh đạo Cần Thơ: Các sở, ngành phải 'soi rọi' chính mình trong thực thi công vụ",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/lanh-dao-can-tho-cac-so-nganh-phai-soi-roi-chinh-minh-trong-thuc-thi-cong-vu-185261112155518634.htm",
+     "time": "13/11 05:03"
+    },
+    {
+     "title": "Việt Nam huy động 9 cần cẩu đưa 176 phiến dầm bê tông khổng lồ dài 40 m ra giữa biển: Công trình gần 4.000 tỷ đồng từng “trảm” nhà thầu nghìn tỷ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-huy-dong-9-can-cau-dua-176-phien-dam-be-tong-khong-lo-dai-40-m-ra-giua-bien-cong-trinh-gan-4000-ty-dong-tung-tram-nha-thau-nghin-ty-188261112153936814.chn",
+     "time": "13/11 00:01"
+    },
+    {
+     "title": "Cử tri phường Cầu Giấy, Nghĩa Đô, Yên Hòa kiến nghị giải quyết “điểm nghẽn” về hạ tầng, đô thị và dân sinh",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cu-tri-phuong-cau-giay-nghia-do-yen-hoa-kien-nghi-giai-quyet-diem-nghen-ve-ha-tang-do-thi-va-dan-sinh-188261112202501808.chn",
+     "time": "12/11 20:43"
+    },
+    {
+     "title": "Đường Tam Trinh thi công dang dở, lùi tiến độ đến năm 2027",
+     "source": "CafeF",
+     "url": "https://cafef.vn/duong-tam-trinh-thi-cong-dang-do-lui-tien-do-den-nam-2027-188261015210458515.chn",
+     "time": "12/11 20:34"
+    },
+    {
+     "title": "Ngành xây dựng TP.HCM thiếu lao động cục bộ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nganh-xay-dung-tphcm-thieu-lao-dong-cuc-bo-188261112202023378.chn",
+     "time": "12/11 20:20"
+    },
+    {
+     "title": "VietinBank cùng JCB và Hanoi Metro thúc đẩy thanh toán không tiếp xúc trên metro Hà Nội",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/vietinbank-cung-jcb-va-hanoi-metro-thuc-day-thanh-toan-khong-tiep-xuc-tren-metro-ha-noi-185261112154058734.htm",
+     "time": "12/11 20:00"
+    },
+    {
+     "title": "Khánh thành các công trình liên doanh Việt - Nga của Zarubezhneft và Petrovietnam",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/khanh-thanh-cac-cong-trinh-lien-doanh-viet-nga-cua-zarubezhneft-va-petrovietnam-100261112141959454.htm",
+     "time": "12/11 18:14"
+    },
+    {
+     "title": "Dự án cải tạo, mở rộng ngõ 323 phố Xuân Đỉnh: Cần sớm đẩy nhanh tiến độ thi công",
+     "source": "CafeF",
+     "url": "https://cafef.vn/du-an-cai-tao-mo-rong-ngo-323-pho-xuan-dinh-can-som-day-nhanh-tien-do-thi-cong-188261112170447972.chn",
+     "time": "12/11 17:25"
+    },
+    {
+     "title": "Searefico - Từ nhà thầu cơ điện đến đầu tư tài sản công nghiệp",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/searefico-tu-nha-thau-co-dien-den-dau-tu-tai-san-cong-nghiep-2574282.html",
+     "time": "12/11 16:50"
+    },
+    {
+     "title": "Đề xuất Cần Thơ lập khu thương mại tự do kết nối sân bay với cảng biển",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/de-xuat-can-tho-lap-khu-thuong-mai-tu-do-ket-noi-san-bay-voi-cang-bien-20261112104022955.htm",
+     "time": "12/11 15:20"
+    },
+    {
+     "title": "Hầm chui 6 làn xe ở cửa ngõ phía Đông Hà Nội tăng tốc thi công, lộ diện hình hài",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ham-chui-6-lan-xe-o-cua-ngo-phia-dong-ha-noi-tang-toc-thi-cong-lo-dien-hinh-hai-188261112133802149.chn",
+     "time": "12/11 15:00"
+    },
+    {
+     "title": "Sắp thí điểm đấu giá, đấu thầu quyền thu phí một số đoạn cao tốc Bắc - Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sap-thi-diem-dau-gia-dau-thau-quyen-thu-phi-mot-so-doan-cao-toc-bac-nam-188261112133349544.chn",
+     "time": "12/11 14:00"
+    }
+   ]
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 4,
+   "reason": "13 bài trong khung giờ, từ 7 nguồn.",
    "source": "Dân trí",
    "url": "https://dantri.com.vn/kinh-doanh/dieu-gi-khien-gia-xang-giam-hon-6600-donglit-chi-sau-4-ky-dieu-hanh-20261113101217172.htm",
    "articles": [
@@ -1130,12 +1094,6 @@
      "time": "12/11 16:00"
     },
     {
-     "title": "Xăng E10 tiêu chuẩn mức V tại TP.HCM giảm 810 đồng, còn 21.840 đồng/lít",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/xang-e10-tieu-chuan-muc-v-tai-tphcm-giam-810-dong-con-21840-dong-lit-100261112100455521.htm",
-     "time": "12/11 15:59"
-    },
-    {
      "title": "Giá xăng dầu mới nhất, áp dụng từ 15 giờ hôm nay 12.11",
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/gia-xang-dau-moi-nhat-ap-dung-tu-15-gio-hom-nay-1211-185261112145042422.htm",
@@ -1152,12 +1110,6 @@
      "source": "VietnamNet",
      "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-12-11-the-gioi-tang-trong-nuoc-dieu-chinh-2573996.html",
      "time": "12/11 15:00"
-    },
-    {
-     "title": "Từ 15h, giá xăng dầu tiếp tục giảm, có mặt hàng giảm gần 2.300 đồng",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/tu-15h-gia-xang-dau-tiep-tuc-giam-co-mat-hang-giam-gan-2300-dong-100261112090659368.htm",
-     "time": "12/11 14:42"
     },
     {
      "title": "Giá xăng tiếp tục giảm mạnh, xăng E10 còn hơn 19.000 đồng/lít",
@@ -1220,12 +1172,12 @@
    "2026-11-13T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 86,
+   "CafeF": 80,
    "VnEconomy": 23,
-   "Tuổi Trẻ": 17,
    "VietnamNet": 16,
    "Thanh Niên": 15,
    "Dân trí": 13,
+   "Tuổi Trẻ": 12,
    "VnExpress": 11,
    "Vietstock": 7
   },
