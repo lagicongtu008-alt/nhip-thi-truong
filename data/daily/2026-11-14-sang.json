@@ -3,10 +3,10 @@
  "label": "Sáng 14/11/2026 (thứ Bảy)",
  "date": "2026-11-14",
  "session": "sang",
- "updatedAt": "2026-11-14T10:33:24+07:00",
+ "updatedAt": "2026-11-14T14:36:35+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 31 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 13/11 – 10:33 14/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 32 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 13/11 – 12:00 14/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -42,6 +42,18 @@
   ],
   "articles": [
    {
+    "title": "Ngân hàng cam kết 1.000 tỷ đồng giúp ông Lê Thanh Thản khắc phục CT6 Kiến Hưng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngan-hang-cam-ket-1000-ty-dong-giup-ong-le-thanh-than-khac-phuc-ct6-kien-hung-188261114110903513.chn",
+    "time": "14/11 11:59"
+   },
+   {
+    "title": "HDBank dành 2.000 tỷ đồng cho doanh nghiệp do phụ nữ làm chủ, lãi suất chỉ từ 7,8%/năm đến hết quý I/2027",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hdbank-danh-2000-ty-dong-cho-doanh-nghiep-do-phu-nu-lam-chu-lai-suat-chi-tu-78-nam-den-het-quy-i-2027-188261114111748694.chn",
+    "time": "14/11 11:17"
+   },
+   {
     "title": "Hà Nội: Thuyết phục đối tượng lừa đảo tiền đổi ngoại tệ ra đầu thú",
     "source": "CafeF",
     "url": "https://cafef.vn/ha-noi-thuyet-phuc-doi-tuong-lua-dao-tien-doi-ngoai-te-ra-dau-thu-18826111409480828.chn",
@@ -60,16 +72,16 @@
     "time": "14/11 09:21"
    },
    {
+    "title": "Không chỉ giảm lãi suất, vốn mua nhà cần đến đúng người",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khong-chi-giam-lai-suat-von-mua-nha-can-den-dung-nguoi-188261114072239116.chn",
+    "time": "14/11 08:17"
+   },
+   {
     "title": "VietinBank tăng tốc chặng về đích 2026: Vững vàng chất lượng tài sản, dẫn đầu hiệu quả vận hành",
     "source": "CafeF",
     "url": "https://cafef.vn/vietinbank-tang-toc-chang-ve-dich-2026-vung-vang-chat-luong-tai-san-dan-dau-hieu-qua-van-hanh-188261113182727616.chn",
     "time": "14/11 08:00"
-   },
-   {
-    "title": "Không chỉ giảm lãi suất, vốn mua nhà cần đến đúng người",
-    "source": "CafeF",
-    "url": "https://cafef.vn/khong-chi-giam-lai-suat-von-mua-nha-can-den-dung-nguoi-188261114072239116.chn",
-    "time": "14/11 07:22"
    },
    {
     "title": "Ngân hàng thanh lý 5 xe Toyota Camry, giá khởi điểm từ 176 triệu đồng",
@@ -106,12 +118,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/bidv-vua-giam-lai-suat-tiet-kiem-ky-han-nao-co-lai-suat-cao-nhat-188261113204356829.chn",
     "time": "13/11 20:42"
-   },
-   {
-    "title": "SHB đứng thứ 10 trong Top 50 thương hiệu dẫn đầu năm 2026 của Forbes Việt Nam",
-    "source": "CafeF",
-    "url": "https://cafef.vn/shb-dung-thu-10-trong-top-50-thuong-hieu-dan-dau-nam-2026-cua-forbes-viet-nam-18826111318464968.chn",
-    "time": "13/11 18:46"
    },
    {
     "title": "Nợ xấu ngân hàng tăng mạnh",
@@ -230,7 +236,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 46 bài về chứng khoán từ 8 nguồn (12:00 13/11 – 10:33 14/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 49 bài về chứng khoán từ 8 nguồn (12:00 13/11 – 12:00 14/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -265,6 +271,24 @@
    }
   ],
   "articles": [
+   {
+    "title": "Cổ phiếu giá 1.000 đồng bất ngờ tăng trần: Công ty thừa nhận thông tin gần 7 năm trước là sai",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-gia-1000-dong-bat-ngo-tang-tran-cong-ty-thua-nhan-thong-tin-gan-7-nam-truoc-la-sai-188261114113545477.chn",
+    "time": "14/11 11:45"
+   },
+   {
+    "title": "TIG giải trình gì về việc cổ phiếu giảm sàn 5 phiên liên tiếp?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/tig-giai-trinh-gi-ve-viec-co-phieu-giam-san-5-phien-lien-tiep-188261114103833526.chn",
+    "time": "14/11 11:12"
+   },
+   {
+    "title": "Diễn biến lạ tại cổ phiếu LPBank",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dien-bien-la-tai-co-phieu-lpbank-188261114111125298.chn",
+    "time": "14/11 11:09"
+   },
    {
     "title": "Hơn 10% cổ phần LPB được 'sang tay' kể từ đầu tháng 11",
     "source": "Vietstock",
@@ -549,7 +573,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 3 nguồn.",
+   "reason": "17 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/destino-centro-huong-loi-tu-suc-bat-ha-tang-cua-ngo-phia-tay-tphcm-188261113164705837.chn",
    "articles": [
@@ -650,12 +674,6 @@
      "time": "13/11 14:50"
     },
     {
-     "title": "“Đại gia phố núi” muốn làm tuyến cao tốc dài hơn 260km, quy mô 4 làn xe với vận tốc 100km/h, vốn đầu tư gần 85.000 tỷ đồng đi qua 3 tỉnh Tây Nguyên",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dai-gia-pho-nui-muon-lam-tuyen-cao-toc-dai-hon-260km-quy-mo-4-lan-xe-voi-van-toc-100km-h-von-dau-tu-gan-85000-ty-dong-di-qua-3-tinh-tay-nguyen-188261113134050062.chn",
-     "time": "13/11 13:40"
-    },
-    {
      "title": "Việt Nam xẻ núi, vượt đèo xây cao tốc 125 km: Cần hơn 26 triệu m³ đất đá, dựng trụ cầu cao hơn 100 m, rút ngắn hành trình Quy Nhơn – Pleiku còn 2 giờ",
      "source": "CafeF",
      "url": "https://cafef.vn/viet-nam-xe-nui-vuot-deo-xay-cao-toc-125-km-can-hon-26-trieu-m-dat-da-dung-tru-cau-cao-hon-100-m-rut-ngan-hanh-trinh-quy-nhon-pleiku-con-2-gio-188261113133158434.chn",
@@ -668,9 +686,21 @@
    "status": "soi-noi",
    "heat": 5,
    "reason": "16 bài trong khung giờ, từ 4 nguồn.",
-   "source": "Tuổi Trẻ",
-   "url": "https://tuoitre.vn/du-an-khu-do-thi-tan-kien-duoc-chap-thuan-chu-truong-dau-tu-mo-them-du-dia-tang-truong-cho-van-phu-100261114084518409.htm",
+   "source": "CafeF",
+   "url": "https://cafef.vn/phat-trien-do-thi-gan-voi-giao-thong-cong-cong-them-nguon-cung-nha-o-vua-tui-tien-188261114104607315.chn",
    "articles": [
+    {
+     "title": "Phát triển đô thị gắn với giao thông công cộng: Thêm nguồn cung nhà ở vừa túi tiền",
+     "source": "CafeF",
+     "url": "https://cafef.vn/phat-trien-do-thi-gan-voi-giao-thong-cong-cong-them-nguon-cung-nha-o-vua-tui-tien-188261114104607315.chn",
+     "time": "14/11 10:45"
+    },
+    {
+     "title": "Đấu giá hơn 2,5 ha đất làm khu nhà ở, thương mại dịch vụ tại Vỹ Dạ",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/dau-gia-hon-2-5-ha-dat-lam-khu-nha-o-thuong-mai-dich-vu-tai-vy-da-5144503.html",
+     "time": "14/11 09:32"
+    },
     {
      "title": "Dự án Khu đô thị Tân Kiên được chấp thuận chủ trương đầu tư, mở thêm dư địa tăng trưởng cho Văn Phú",
      "source": "Tuổi Trẻ",
@@ -750,22 +780,10 @@
      "time": "13/11 15:34"
     },
     {
-     "title": "Thành phố giàu nhất nước ta sở hữu cầu dây văng có trụ tháp cao tương đương tòa nhà 35 tầng, kết nối trung tâm với khu đô thị rộng hơn 900ha, nơi Sun Group, Đại Quang Minh và THACO tìm tới đầu tư",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thanh-pho-giau-nhat-nuoc-ta-so-huu-cau-day-vang-co-tru-thap-cao-tuong-duong-toa-nha-35-tang-ket-noi-trung-tam-voi-khu-do-thi-rong-hon-900ha-noi-sun-group-dai-quang-minh-va-thaco-tim-toi-dau-tu-188261113151240419.chn",
-     "time": "13/11 15:23"
-    },
-    {
      "title": "Chủ tịch Hội các Nhà quản trị doanh nghiệp Việt Nam: Môi giới bất động sản phải có chứng chỉ, CEO điều hành cả doanh nghiệp lại không cần",
      "source": "CafeF",
      "url": "https://cafef.vn/chu-tich-hoi-cac-nha-quan-tri-doanh-nghiep-viet-nam-moi-gioi-bat-dong-san-phai-co-chung-chi-ceo-dieu-hanh-ca-doanh-nghiep-lai-khong-can-188261113145553117.chn",
      "time": "13/11 14:55"
-    },
-    {
-     "title": "Cận cảnh khu nhà ở xã hội giá từ 1 tỷ đồng/căn ở trung tâm Hà Nội",
-     "source": "CafeF",
-     "url": "https://cafef.vn/can-canh-khu-nha-o-xa-hoi-gia-tu-1-ty-dong-can-o-trung-tam-ha-noi-188261113133053387.chn",
-     "time": "13/11 13:30"
     }
    ]
   },
@@ -773,10 +791,28 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
-   "source": "VnExpress",
-   "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-11-5144582.html",
+   "reason": "12 bài trong khung giờ, từ 5 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-cham-day-sau-gan-1-nam-188261114115944616.chn",
    "articles": [
+    {
+     "title": "Giá vàng chạm đáy sau gần 1 năm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-cham-day-sau-gan-1-nam-188261114115944616.chn",
+     "time": "14/11 12:06"
+    },
+    {
+     "title": "Phố Wall cảnh báo: Giá vàng có thể giảm tiếp dù đang ở đáy một năm",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/pho-wall-canh-bao-gia-vang-co-the-giam-tiep-du-dang-o-day-mot-nam-20261114110410248.htm",
+     "time": "14/11 11:28"
+    },
+    {
+     "title": "Giá vàng miếng, vàng nhẫn trơn hôm nay ngày 14/11 tiếp tục giảm sâu",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-hom-nay-ngay-14-11-tiep-tuc-giam-sau-188261113234405328.chn",
+     "time": "14/11 11:20"
+    },
     {
      "title": "Giá vàng miếng xuống thấp nhất hơn một năm",
      "source": "VnExpress",
@@ -788,18 +824,6 @@
      "source": "VnEconomy",
      "url": "https://vneconomy.vn/gia-vang-hoan-tat-tuan-giam-manh-nhat-4-thang-usd-giu-da-tang.htm",
      "time": "14/11 08:51"
-    },
-    {
-     "title": "Giá vàng hôm nay 14/11: Vàng miếng SJC và nhẫn ‘bốc hơi’ 500 nghìn/lượng",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-14-11-vang-van-chim-sau-rui-ro-giam-tiep-2574785.html",
-     "time": "14/11 08:44"
-    },
-    {
-     "title": "Giá vàng miếng, vàng nhẫn trơn hôm nay ngày 14/11",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-hom-nay-ngay-14-11-188261113234405328.chn",
-     "time": "14/11 07:55"
     },
     {
      "title": "Giá vàng liên tục lao dốc, người mua lỗ bao nhiêu trong 1 tuần?",
@@ -846,13 +870,83 @@
    ]
   },
   {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 3,
+   "reason": "9 bài trong khung giờ, từ 4 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/gioi-ty-phu-cong-nghe-tai-chinh-noi-gi-ve-cu-nga-cua-jensen-huang-20261114103727475.htm",
+   "articles": [
+    {
+     "title": "Giới tỷ phú công nghệ, tài chính nói gì về cú ngã của Jensen Huang?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gioi-ty-phu-cong-nghe-tai-chinh-noi-gi-ve-cu-nga-cua-jensen-huang-20261114103727475.htm",
+     "time": "14/11 11:51"
+    },
+    {
+     "title": "Ba startup công nghệ khí hậu thắng giải nhất 15 tỉ đồng tại Net Zero Challenge 2026, có đại diện Việt Nam",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/ba-startup-cong-nghe-khi-hau-thang-giai-nhat-15-ti-dong-tai-net-zero-challenge-2026-co-dai-dien-viet-nam-100261114110850524.htm",
+     "time": "14/11 11:40"
+    },
+    {
+     "title": "Ông Trump mua cổ phiếu Nvidia trước khi hủy lệnh hạn chế bán chip",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ong-trump-mua-co-phieu-nvidia-truoc-khi-huy-lenh-han-che-ban-chip-5144567.html",
+     "time": "14/11 08:57"
+    },
+    {
+     "title": "Jensen Huang rời Nvidia: Châu Á mất chiếc cầu nối công nghệ tỷ USD",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/jensen-huang-roi-nvidia-chau-a-mat-chiec-cau-noi-cong-nghe-ty-usd-20261113215537900.htm",
+     "time": "14/11 08:00"
+    },
+    {
+     "title": "Vắng Jensen Huang, đế chế chip AI Nvidia sẽ ra sao?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/vang-jensen-huang-de-che-chip-ai-nvidia-se-ra-sao-20261113174812895.htm",
+     "time": "13/11 19:19"
+    },
+    {
+     "title": "Co.opmart Pro và chiến lược làm chủ công nghệ của Saigon Co.op",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/coopmart-pro-va-chien-luoc-lam-chu-cong-nghe-cua-saigon-coop-100261107110055179.htm",
+     "time": "13/11 19:00"
+    },
+    {
+     "title": "Chấm dứt cảnh phải sang tận Singapore để sử dụng, Việt Nam chính thức sở hữu cỗ máy công nghệ đặc biệt, FPT có đóng góp lớn",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cham-dut-canh-phai-sang-tan-singapore-de-su-dung-viet-nam-chinh-thuc-so-huu-co-may-cong-nghe-dac-biet-fpt-co-dong-gop-lon-188261113155717333.chn",
+     "time": "13/11 15:57"
+    },
+    {
+     "title": "Startup Việt với giải pháp nhiên liệu xanh giành quán quân tại Net Zero Challenge",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/startup-viet-voi-giai-phap-nhien-lieu-xanh-gianh-quan-quan-tai-net-zero-challenge-5144227.html",
+     "time": "13/11 15:55"
+    },
+    {
+     "title": "Đại gia công nghệ rót 690 triệu USD xây nhà máy rộng 30 ha tại Quảng Ninh: Công suất 123 triệu sản phẩm/năm, làm từ bàn phím, chuột máy tính đến bộ sạc xe điện",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dai-gia-cong-nghe-rot-690-trieu-usd-xay-nha-may-rong-30-ha-tai-quang-ninh-cong-suat-123-trieu-san-pham-nam-lam-tu-ban-phim-chuot-may-tinh-den-bo-sac-xe-dien-188261113154754873.chn",
+     "time": "13/11 15:47"
+    }
+   ]
+  },
+  {
    "name": "Nông sản – thực phẩm",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "8 bài trong khung giờ, từ 4 nguồn.",
-   "source": "Tuổi Trẻ",
-   "url": "https://tuoitre.vn/ca-mau-cham-dut-hop-tac-thu-mua-lua-gao-voi-cong-ty-toan-cau-100261114074227049.htm",
+   "reason": "9 bài trong khung giờ, từ 5 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/cong-doan-phuong-thong-nhat-ket-noi-lan-toa-gia-tri-nong-san-gia-lai-2574889.html",
    "articles": [
+    {
+     "title": "Công đoàn phường Thống Nhất kết nối, lan tỏa giá trị nông sản Gia Lai",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/cong-doan-phuong-thong-nhat-ket-noi-lan-toa-gia-tri-nong-san-gia-lai-2574889.html",
+     "time": "14/11 10:57"
+    },
     {
      "title": "Cà Mau chấm dứt hợp tác thu mua lúa gạo với Công ty Toàn Cầu",
      "source": "Tuổi Trẻ",
@@ -902,73 +996,21 @@
      "time": "13/11 13:36"
     }
    ]
-  },
-  {
-   "name": "Công nghệ – viễn thông",
-   "status": "soi-noi",
-   "heat": 3,
-   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
-   "source": "VnExpress",
-   "url": "https://vnexpress.net/ong-trump-mua-co-phieu-nvidia-truoc-khi-huy-lenh-han-che-ban-chip-5144567.html",
-   "articles": [
-    {
-     "title": "Ông Trump mua cổ phiếu Nvidia trước khi hủy lệnh hạn chế bán chip",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/ong-trump-mua-co-phieu-nvidia-truoc-khi-huy-lenh-han-che-ban-chip-5144567.html",
-     "time": "14/11 08:57"
-    },
-    {
-     "title": "Jensen Huang rời Nvidia: Châu Á mất chiếc cầu nối công nghệ tỷ USD",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/jensen-huang-roi-nvidia-chau-a-mat-chiec-cau-noi-cong-nghe-ty-usd-20261113215537900.htm",
-     "time": "14/11 08:00"
-    },
-    {
-     "title": "Vắng Jensen Huang, đế chế chip AI Nvidia sẽ ra sao?",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/vang-jensen-huang-de-che-chip-ai-nvidia-se-ra-sao-20261113174812895.htm",
-     "time": "13/11 19:19"
-    },
-    {
-     "title": "Co.opmart Pro và chiến lược làm chủ công nghệ của Saigon Co.op",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/coopmart-pro-va-chien-luoc-lam-chu-cong-nghe-cua-saigon-coop-100261107110055179.htm",
-     "time": "13/11 19:00"
-    },
-    {
-     "title": "Chấm dứt cảnh phải sang tận Singapore để sử dụng, Việt Nam chính thức sở hữu cỗ máy công nghệ đặc biệt, FPT có đóng góp lớn",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cham-dut-canh-phai-sang-tan-singapore-de-su-dung-viet-nam-chinh-thuc-so-huu-co-may-cong-nghe-dac-biet-fpt-co-dong-gop-lon-188261113155717333.chn",
-     "time": "13/11 15:57"
-    },
-    {
-     "title": "Startup Việt với giải pháp nhiên liệu xanh giành quán quân tại Net Zero Challenge",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/startup-viet-voi-giai-phap-nhien-lieu-xanh-gianh-quan-quan-tai-net-zero-challenge-5144227.html",
-     "time": "13/11 15:55"
-    },
-    {
-     "title": "Đại gia công nghệ rót 690 triệu USD xây nhà máy rộng 30 ha tại Quảng Ninh: Công suất 123 triệu sản phẩm/năm, làm từ bàn phím, chuột máy tính đến bộ sạc xe điện",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dai-gia-cong-nghe-rot-690-trieu-usd-xay-nha-may-rong-30-ha-tai-quang-ninh-cong-suat-123-trieu-san-pham-nam-lam-tu-ban-phim-chuot-may-tinh-den-bo-sac-xe-dien-188261113154754873.chn",
-     "time": "13/11 15:47"
-    }
-   ]
   }
  ],
  "rss": {
   "window": [
    "2026-11-13T12:00:00+07:00",
-   "2026-11-14T10:33:24+07:00"
+   "2026-11-14T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 73,
-   "Tuổi Trẻ": 15,
-   "Dân trí": 13,
-   "VnExpress": 12,
+   "CafeF": 75,
+   "Tuổi Trẻ": 19,
+   "Dân trí": 15,
+   "VnExpress": 13,
    "VnEconomy": 10,
+   "Thanh Niên": 7,
    "VietnamNet": 7,
-   "Thanh Niên": 6,
    "Vietstock": 6
   },
   "failed": []
