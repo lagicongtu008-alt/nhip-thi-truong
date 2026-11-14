@@ -3,7 +3,7 @@
  "label": "Sáng 14/11/2026 (thứ Bảy)",
  "date": "2026-11-14",
  "session": "sang",
- "updatedAt": "2026-11-14T14:36:35+07:00",
+ "updatedAt": "2026-11-14T17:41:30+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 32 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 13/11 – 12:00 14/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -573,7 +573,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "17 bài trong khung giờ, từ 3 nguồn.",
+   "reason": "16 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/destino-centro-huong-loi-tu-suc-bat-ha-tang-cua-ngo-phia-tay-tphcm-188261113164705837.chn",
    "articles": [
@@ -662,12 +662,6 @@
      "time": "13/11 15:30"
     },
     {
-     "title": "BLUEMARQ khởi công The Grand Tower, chào mừng 23 năm thành lập",
-     "source": "CafeF",
-     "url": "https://cafef.vn/bluemarq-khoi-cong-the-grand-tower-chao-mung-23-nam-thanh-lap-188261113144624278.chn",
-     "time": "13/11 15:30"
-    },
-    {
      "title": "Quảng trường hơn 2 ha bên hồ Gươm dần lộ diện sau 7 tháng thi công",
      "source": "CafeF",
      "url": "https://cafef.vn/quang-truong-hon-2-ha-ben-ho-guom-dan-lo-dien-sau-7-thang-thi-cong-188261113133426833.chn",
@@ -685,7 +679,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "16 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/phat-trien-do-thi-gan-voi-giao-thong-cong-cong-them-nguon-cung-nha-o-vua-tui-tien-188261114104607315.chn",
    "articles": [
@@ -774,12 +768,6 @@
      "time": "13/11 18:13"
     },
     {
-     "title": "Bất ngờ căn hộ chung cư tại TPHCM có lượng tiêu thụ tháng 10 tăng gấp 2,2 lần tháng trước",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tphcm-cu-100-can-biet-thu-nha-pho-duoc-ban-ra-thi-co-toi-95-can-khong-ban-duoc-188261113135928595.chn",
-     "time": "13/11 15:34"
-    },
-    {
      "title": "Chủ tịch Hội các Nhà quản trị doanh nghiệp Việt Nam: Môi giới bất động sản phải có chứng chỉ, CEO điều hành cả doanh nghiệp lại không cần",
      "source": "CafeF",
      "url": "https://cafef.vn/chu-tich-hoi-cac-nha-quan-tri-doanh-nghiep-viet-nam-moi-gioi-bat-dong-san-phai-co-chung-chi-ceo-dieu-hanh-ca-doanh-nghiep-lai-khong-can-188261113145553117.chn",
@@ -791,7 +779,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/gia-vang-cham-day-sau-gan-1-nam-188261114115944616.chn",
    "articles": [
@@ -806,12 +794,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/pho-wall-canh-bao-gia-vang-co-the-giam-tiep-du-dang-o-day-mot-nam-20261114110410248.htm",
      "time": "14/11 11:28"
-    },
-    {
-     "title": "Giá vàng miếng, vàng nhẫn trơn hôm nay ngày 14/11 tiếp tục giảm sâu",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-hom-nay-ngay-14-11-tiep-tuc-giam-sau-188261113234405328.chn",
-     "time": "14/11 11:20"
     },
     {
      "title": "Giá vàng miếng xuống thấp nhất hơn một năm",
@@ -1004,7 +986,7 @@
    "2026-11-14T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 75,
+   "CafeF": 72,
    "Tuổi Trẻ": 19,
    "Dân trí": 15,
    "VnExpress": 13,
