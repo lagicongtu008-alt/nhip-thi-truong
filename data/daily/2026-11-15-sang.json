@@ -3,10 +3,10 @@
  "label": "Sáng 15/11/2026 (Chủ nhật)",
  "date": "2026-11-15",
  "session": "sang",
- "updatedAt": "2026-11-15T10:04:24+07:00",
+ "updatedAt": "2026-11-15T14:51:36+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 14 bài về ngân hàng – tiền tệ từ 4 nguồn (12:00 14/11 – 10:04 15/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 14 bài về ngân hàng – tiền tệ từ 4 nguồn (12:00 14/11 – 12:00 15/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -34,7 +34,7 @@
     "url": "https://cafef.vn/linh-hoat-cong-cu-dieu-hanh-giai-bai-toan-da-muc-tieu-188261115093724148.chn"
    },
    {
-    "title": "Cuộc đua ngân hàng tư nhân: VPBank và Techcombank đang ở một đẳng cấp khác so với phần còn lại?",
+    "title": "Cuộc đua ngân hàng tư nhân: VPBank và Techcombank đang ở một đẳng cấp khác so với phần còn lại",
     "impact": "tich-cuc",
     "source": "CafeF",
     "url": "https://cafef.vn/cuoc-dua-ngan-hang-tu-nhan-vpbank-va-techcombank-dang-o-mot-dang-cap-khac-so-voi-phan-con-lai-188261113110230086.chn"
@@ -54,7 +54,7 @@
     "time": "15/11 08:54"
    },
    {
-    "title": "Cuộc đua ngân hàng tư nhân: VPBank và Techcombank đang ở một đẳng cấp khác so với phần còn lại?",
+    "title": "Cuộc đua ngân hàng tư nhân: VPBank và Techcombank đang ở một đẳng cấp khác so với phần còn lại",
     "source": "CafeF",
     "url": "https://cafef.vn/cuoc-dua-ngan-hang-tu-nhan-vpbank-va-techcombank-dang-o-mot-dang-cap-khac-so-voi-phan-con-lai-188261113110230086.chn",
     "time": "15/11 08:00"
@@ -128,7 +128,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 22 bài về chứng khoán từ 6 nguồn (12:00 14/11 – 10:04 15/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 25 bài về chứng khoán từ 6 nguồn (12:00 14/11 – 12:00 15/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -150,21 +150,39 @@
     "url": "http://vietstock.vn/2026/11/vic-nang-do-vn-indextig-lao-doc-tren-hnx-830-1514916.htm"
    },
    {
+    "title": "Xu thế dòng tiền: Vì sao thanh khoản “bốc hơi”?",
+    "impact": "tich-cuc",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/xu-the-dong-tien-vi-sao-thanh-khoan-boc-hoi.htm"
+   },
+   {
     "title": "Phạt nhiều doanh nghiệp vi phạm về trái phiếu",
     "impact": "tieu-cuc",
     "source": "CafeF",
     "url": "https://cafef.vn/phat-nhieu-doanh-nghiep-vi-pham-ve-trai-phieu-188261114155758362.chn"
-   },
-   {
-    "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 16-20/11/2026",
-    "impact": "trung-tinh",
-    "source": "Vietstock",
-    "url": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-16-20112026-585-1514888.htm"
    }
   ],
   "articles": [
    {
-    "title": "Con gái Chủ tịch Thép Nam Kim muốn mua 5 triệu cổ phiếu NKG",
+    "title": "2 cổ đông lớn kêu gọi Nvidia xem xét đưa ông Jensen Huang trở lại",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/2-co-dong-lon-keu-goi-nvidia-xem-xet-dua-ong-jensen-huang-tro-lai-100261115095853795.htm",
+    "time": "15/11 12:01"
+   },
+   {
+    "title": "Nhiều quỹ lớn tiếp tục tăng tỷ trọng tiền mặt, phòng ngừa thị trường nhiều biến động",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/nhieu-quy-lon-tiep-tuc-tang-ty-trong-tien-mat-phong-ngua-thi-truong-nhieu-bien-dong.htm",
+    "time": "15/11 10:29"
+   },
+   {
+    "title": "Xu thế dòng tiền: Vì sao thanh khoản “bốc hơi”?",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/xu-the-dong-tien-vi-sao-thanh-khoan-boc-hoi.htm",
+    "time": "15/11 10:25"
+   },
+   {
+    "title": "Con gái chủ tịch Thép Nam Kim muốn mua 5 triệu cổ phiếu NKG",
     "source": "Tuổi Trẻ",
     "url": "https://tuoitre.vn/con-gai-chu-tich-thep-nam-kim-muon-mua-5-trieu-co-phieu-nkg-100261115083539375.htm",
     "time": "15/11 09:56"
@@ -303,10 +321,34 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "16 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
    "source": "CafeF",
-   "url": "https://cafef.vn/ha-noi-xuat-hien-nhieu-nha-o-xa-hoi-gia-khoang-1-ti-dong-188261115090705646.chn",
+   "url": "https://cafef.vn/duong-sat-do-thi-mo-ra-cach-dinh-gia-moi-cho-bat-dong-san-188261115094334773.chn",
    "articles": [
+    {
+     "title": "Đường sắt đô thị mở ra cách định giá mới cho bất động sản",
+     "source": "CafeF",
+     "url": "https://cafef.vn/duong-sat-do-thi-mo-ra-cach-dinh-gia-moi-cho-bat-dong-san-188261115094334773.chn",
+     "time": "15/11 11:43"
+    },
+    {
+     "title": "Thị trường bất động sản bước vào chu kỳ mới",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thi-truong-bat-dong-san-buoc-vao-chu-ky-moi-188261115071357501.chn",
+     "time": "15/11 10:13"
+    },
+    {
+     "title": "4 nhóm vi phạm lớn tại chung cư The Sun Avenue, tự ý cắt nước, có dấu hiệu giả chữ ký",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/4-nhom-vi-pham-lon-tai-chung-cu-the-sun-avenue-tu-y-cat-nuoc-co-dau-hieu-gia-chu-ky-100261115090509155.htm",
+     "time": "15/11 10:03"
+    },
+    {
+     "title": "'Hoa hồng cao' không còn là ưu tiên của môi giới bất động sản",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/hoa-hong-cao-khong-con-la-uu-tien-cua-moi-gioi-bat-dong-san-5143938.html",
+     "time": "15/11 09:57"
+    },
     {
      "title": "Hà Nội xuất hiện nhiều nhà ở xã hội giá khoảng 1 tỉ đồng",
      "source": "CafeF",
@@ -408,11 +450,23 @@
   {
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "13 bài trong khung giờ, từ 3 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/ham-chui-co-linh-tang-toc-thi-cong-phan-dau-thong-xe-ky-thuat-truoc-30-4-2027-188261115072252338.chn",
+   "heat": 5,
+   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/dong-nai-khoi-cong-du-an-nha-dien-rac-dau-tien-hon-2-600-ty-dong-2575104.html",
    "articles": [
+    {
+     "title": "Đồng Nai khởi công dự án nhà điện rác đầu tiên hơn 2.600 tỷ đồng",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/dong-nai-khoi-cong-du-an-nha-dien-rac-dau-tien-hon-2-600-ty-dong-2575104.html",
+     "time": "15/11 12:04"
+    },
+    {
+     "title": "Thêm nhiều đối tượng được đi xe buýt, metro miễn phí ở Hà Nội",
+     "source": "CafeF",
+     "url": "https://cafef.vn/them-nhieu-doi-tuong-duoc-di-xe-buyt-metro-mien-phi-o-ha-noi-188261115093330956.chn",
+     "time": "15/11 10:30"
+    },
     {
      "title": "Hầm chui Cổ Linh tăng tốc thi công, phấn đấu thông xe kỹ thuật trước 30-4-2027",
      "source": "CafeF",
@@ -496,11 +550,23 @@
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
-   "heat": 3,
-   "reason": "8 bài trong khung giờ, từ 5 nguồn.",
+   "heat": 4,
+   "reason": "10 bài trong khung giờ, từ 5 nguồn.",
    "source": "Dân trí",
-   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-trai-qua-tuan-lao-doc-manh-nhat-nhieu-thang-vi-ap-luc-lai-suat-20261115081255817.htm",
+   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-xuong-day-hon-mot-nam-gioi-chuyen-gia-du-bao-gi-cho-tuan-toi-20261115092857901.htm",
    "articles": [
+    {
+     "title": "Giá vàng thế giới xuống đáy hơn một năm, giới chuyên gia dự báo gì cho tuần tới?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-xuong-day-hon-mot-nam-gioi-chuyen-gia-du-bao-gi-cho-tuan-toi-20261115092857901.htm",
+     "time": "15/11 12:01"
+    },
+    {
+     "title": "Giá vàng miếng, vàng nhẫn tròn ngày 15/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-ngay-15-11-tai-sjc-doji-pnj-bao-tin-minh-chau-va-bao-tin-manh-hai-1882611151139143.chn",
+     "time": "15/11 11:38"
+    },
     {
      "title": "Giá vàng trải qua tuần lao dốc mạnh nhất nhiều tháng vì áp lực lãi suất",
      "source": "Dân trí",
@@ -554,11 +620,17 @@
   {
    "name": "Hàng không – logistics",
    "status": "soi-noi",
-   "heat": 2,
-   "reason": "5 bài trong khung giờ, từ 4 nguồn.",
+   "heat": 3,
+   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
-   "url": "https://cafef.vn/dung-ngay-14-11-hang-hang-khong-cua-bau-hien-chinh-thuc-lam-1-viec-dac-biet-ket-noi-tp-co-gdp-500-ty-usd-188261114195621384.chn",
+   "url": "https://cafef.vn/doan-khach-quoc-te-sap-ghe-qua-cang-bien-lon-nhat-dong-nai-188261115085319278.chn",
    "articles": [
+    {
+     "title": "Đoàn khách quốc tế sắp ghé qua cảng biển lớn nhất Đồng Nai",
+     "source": "CafeF",
+     "url": "https://cafef.vn/doan-khach-quoc-te-sap-ghe-qua-cang-bien-lon-nhat-dong-nai-188261115085319278.chn",
+     "time": "15/11 10:01"
+    },
     {
      "title": "Đúng ngày 14/11, hãng hàng không của bầu Hiển chính thức làm 1 việc đặc biệt kết nối TP có GDP 500 tỷ USD",
      "source": "CafeF",
@@ -595,10 +667,16 @@
    "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
    "heat": 2,
-   "reason": "4 bài trong khung giờ, từ 2 nguồn.",
-   "source": "Dân trí",
-   "url": "https://dantri.com.vn/kinh-doanh/vi-sao-gioi-lanh-dao-cong-nghe-muon-ty-phu-jensen-huang-tiep-tuc-dieu-hanh-nvidia-20261115070710217.htm",
+   "reason": "5 bài trong khung giờ, từ 3 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/trung-quoc-phat-trien-xe-dien-than-toc-nho-cong-nghe-doi-pin-5144843.html",
    "articles": [
+    {
+     "title": "Trung Quốc phát triển xe điện thần tốc nhờ công nghệ đổi pin",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/trung-quoc-phat-trien-xe-dien-than-toc-nho-cong-nghe-doi-pin-5144843.html",
+     "time": "15/11 11:21"
+    },
     {
      "title": "Vì sao giới lãnh đạo công nghệ muốn tỷ phú Jensen Huang tiếp tục điều hành Nvidia?",
      "source": "Dân trí",
@@ -629,17 +707,17 @@
  "rss": {
   "window": [
    "2026-11-14T12:00:00+07:00",
-   "2026-11-15T10:04:24+07:00"
+   "2026-11-15T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 46,
-   "Dân trí": 11,
-   "Tuổi Trẻ": 11,
+   "CafeF": 53,
+   "Tuổi Trẻ": 13,
+   "Dân trí": 12,
    "Thanh Niên": 7,
-   "VietnamNet": 6,
-   "VnExpress": 5,
-   "Vietstock": 2,
-   "VnEconomy": 2
+   "VietnamNet": 7,
+   "VnExpress": 7,
+   "VnEconomy": 4,
+   "Vietstock": 2
   },
   "failed": []
  }
