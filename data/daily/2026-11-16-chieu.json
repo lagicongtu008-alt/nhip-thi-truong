@@ -3,16 +3,30 @@
  "label": "Chiều 16/11/2026 (thứ Hai)",
  "date": "2026-11-16",
  "session": "chieu",
- "updatedAt": "2026-11-16T00:42:53+07:00",
+ "updatedAt": "2026-11-16T02:27:00+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Chưa có bài về ngân hàng – tiền tệ trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 16/11 – 02:27 16/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
-  "news": [],
-  "articles": []
+  "news": [
+   {
+    "title": "Ngày 16/11, gửi 100 triệu tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi sau 9 tháng?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-16-11-gui-100-trieu-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-9-thang-188261115235833609.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Ngày 16/11, gửi 100 triệu tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi sau 9 tháng?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-16-11-gui-100-trieu-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-9-thang-188261115235833609.chn",
+    "time": "16/11 01:00"
+   }
+  ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 16/11 – 00:42 16/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 16/11 – 02:27 16/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -124,14 +138,23 @@
    ]
   },
   {
-   "name": "Công nghệ – viễn thông",
+   "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/sieu-to-hop-duong-sat-260-ha-cua-vingroup-noi-dung-chan-cua-du-an-duong-sat-toc-do-cao-67-ty-usd-di-qua-15-tinh-thanh-vua-co-dien-bien-moi-188261115225049514.chn",
+   "articles": [
+    {
+     "title": "Siêu tổ hợp đường sắt 260 ha của Vingroup, nơi dừng chân của dự án đường sắt tốc độ cao 67 tỷ USD đi qua 15 tỉnh thành vừa có diễn biến mới",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sieu-to-hop-duong-sat-260-ha-cua-vingroup-noi-dung-chan-cua-du-an-duong-sat-toc-do-cao-67-ty-usd-di-qua-15-tinh-thanh-vua-co-dien-bien-moi-188261115225049514.chn",
+     "time": "16/11 00:50"
+    }
+   ]
   },
   {
-   "name": "Dầu khí – xăng dầu",
+   "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
@@ -141,10 +164,10 @@
  "rss": {
   "window": [
    "2026-11-16T00:00:00+07:00",
-   "2026-11-16T00:42:53+07:00"
+   "2026-11-16T02:27:00+07:00"
   ],
   "sources": {
-   "CafeF": 6,
+   "CafeF": 8,
    "VnExpress": 2
   },
   "failed": []
