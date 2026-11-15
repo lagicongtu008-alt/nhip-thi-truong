@@ -1,0 +1,152 @@
+{
+ "key": "2026-11-16-chieu",
+ "label": "Chiều 16/11/2026 (thứ Hai)",
+ "date": "2026-11-16",
+ "session": "chieu",
+ "updatedAt": "2026-11-16T00:42:53+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Chưa có bài về ngân hàng – tiền tệ trong khung giờ này. Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [],
+  "articles": []
+ },
+ "securities": {
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 16/11 – 00:42 16/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Phó Chủ tịch UBCKNN Bùi Hoàng Hải: Sau 30 năm, chứng khoán Việt Nam đứng trước một sứ mệnh lớn",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-bui-hoang-hai-sau-30-nam-chung-khoan-viet-nam-dung-truoc-mot-su-menh-lon-18826111521224742.chn"
+   },
+   {
+    "title": "Giám đốc Nghiên cứu MBS gọi tên nhóm cổ phiếu có thể \"đánh bại\" VN-Index năm 2027",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giam-doc-nghien-cuu-mbs-goi-ten-nhom-co-phieu-co-the-danh-bai-vn-index-nam-2027-188261114163224877.chn"
+   },
+   {
+    "title": "Viettel nắm danh mục khủng 4,7 tỷ cổ phiếu trị giá 262.600 tỷ đồng: Riêng một công ty mang về gần 10.000 tỷ đồng cổ tức",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viettel-nam-danh-muc-khung-47-ty-co-phieu-tri-gia-262600-ty-dong-rieng-mot-cong-ty-mang-ve-gan-10000-ty-dong-co-tuc-188261115220547077.chn"
+   },
+   {
+    "title": "Giai đoạn nước rút cuối năm, chuyên gia Mirae Asset chỉ ra 4 biến số có thể chi phối VN-Index",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giai-doan-nuoc-rut-cuoi-nam-chuyen-gia-mirae-asset-chi-ra-4-bien-so-co-the-chi-phoi-vn-index-188261115163754562.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Giai đoạn nước rút cuối năm, chuyên gia Mirae Asset chỉ ra 4 biến số có thể chi phối VN-Index",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giai-doan-nuoc-rut-cuoi-nam-chuyen-gia-mirae-asset-chi-ra-4-bien-so-co-the-chi-phoi-vn-index-188261115163754562.chn",
+    "time": "16/11 00:03"
+   },
+   {
+    "title": "Giám đốc Nghiên cứu MBS gọi tên nhóm cổ phiếu có thể \"đánh bại\" VN-Index năm 2027",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giam-doc-nghien-cuu-mbs-goi-ten-nhom-co-phieu-co-the-danh-bai-vn-index-nam-2027-188261114163224877.chn",
+    "time": "16/11 00:02"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN Bùi Hoàng Hải: Sau 30 năm, chứng khoán Việt Nam đứng trước một sứ mệnh lớn",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-bui-hoang-hai-sau-30-nam-chung-khoan-viet-nam-dung-truoc-mot-su-menh-lon-18826111521224742.chn",
+    "time": "16/11 00:01"
+   },
+   {
+    "title": "Viettel nắm danh mục khủng 4,7 tỷ cổ phiếu trị giá 262.600 tỷ đồng: Riêng một công ty mang về gần 10.000 tỷ đồng cổ tức",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viettel-nam-danh-muc-khung-47-ty-co-phieu-tri-gia-262600-ty-dong-rieng-mot-cong-ty-mang-ve-gan-10000-ty-dong-co-tuc-188261115220547077.chn",
+    "time": "16/11 00:01"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Tiêu dùng – bán lẻ",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/soi-dong-tien-cua-the-gioi-di-dong-va-loat-dai-gia-ban-le-he-lo-bai-toan-kho-dang-sau-con-so-loi-nhuan-188261115221421449.chn",
+   "articles": [
+    {
+     "title": "Soi dòng tiền của Thế Giới Di Động và loạt đại gia bán lẻ: Hé lộ bài toán khó đằng sau con số lợi nhuận",
+     "source": "CafeF",
+     "url": "https://cafef.vn/soi-dong-tien-cua-the-gioi-di-dong-va-loat-dai-gia-ban-le-he-lo-bai-toan-kho-dang-sau-con-so-loi-nhuan-188261115221421449.chn",
+     "time": "16/11 00:06"
+    },
+    {
+     "title": "Nhiều nhà bán lẻ đầu tư vào phim ảnh, âm nhạc để hút khách",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/nhieu-nha-ban-le-dau-tu-vao-phim-anh-am-nhac-de-hut-khach-5144933.html",
+     "time": "16/11 00:05"
+    }
+   ]
+  },
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/chi-dao-moi-nhat-cua-pho-thu-tuong-lien-quan-den-cac-du-an-luat-ve-nha-o-kinh-doanh-bat-dong-san-dat-dai-188261115234607373.chn",
+   "articles": [
+    {
+     "title": "Chỉ đạo mới nhất của Phó Thủ tướng về các dự án sửa đổi Luật Kinh doanh bất động sản, Luật Nhà ở và Luật Đất đai",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chi-dao-moi-nhat-cua-pho-thu-tuong-lien-quan-den-cac-du-an-luat-ve-nha-o-kinh-doanh-bat-dong-san-dat-dai-188261115234607373.chn",
+     "time": "16/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/gia-vang-the-gioi-co-the-giam-tiep-tuan-nay-5144856.html",
+   "articles": [
+    {
+     "title": "Giá vàng thế giới có thể giảm tiếp tuần này",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-vang-the-gioi-co-the-giam-tiep-tuan-nay-5144856.html",
+     "time": "16/11 00:00"
+    }
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-16T00:00:00+07:00",
+   "2026-11-16T00:42:53+07:00"
+  ],
+  "sources": {
+   "CafeF": 6,
+   "VnExpress": 2
+  },
+  "failed": []
+ }
+}
