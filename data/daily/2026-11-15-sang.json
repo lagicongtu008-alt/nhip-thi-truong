@@ -3,7 +3,7 @@
  "label": "Sáng 15/11/2026 (Chủ nhật)",
  "date": "2026-11-15",
  "session": "sang",
- "updatedAt": "2026-11-15T14:51:36+07:00",
+ "updatedAt": "2026-11-15T18:15:25+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 14 bài về ngân hàng – tiền tệ từ 4 nguồn (12:00 14/11 – 12:00 15/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -450,17 +450,11 @@
   {
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
-   "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
-   "source": "VietnamNet",
-   "url": "https://vietnamnet.vn/dong-nai-khoi-cong-du-an-nha-dien-rac-dau-tien-hon-2-600-ty-dong-2575104.html",
+   "heat": 4,
+   "reason": "14 bài trong khung giờ, từ 3 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/them-nhieu-doi-tuong-duoc-di-xe-buyt-metro-mien-phi-o-ha-noi-188261115093330956.chn",
    "articles": [
-    {
-     "title": "Đồng Nai khởi công dự án nhà điện rác đầu tiên hơn 2.600 tỷ đồng",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/dong-nai-khoi-cong-du-an-nha-dien-rac-dau-tien-hon-2-600-ty-dong-2575104.html",
-     "time": "15/11 12:04"
-    },
     {
      "title": "Thêm nhiều đối tượng được đi xe buýt, metro miễn phí ở Hà Nội",
      "source": "CafeF",
@@ -550,8 +544,8 @@
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "10 bài trong khung giờ, từ 5 nguồn.",
+   "heat": 3,
+   "reason": "9 bài trong khung giờ, từ 5 nguồn.",
    "source": "Dân trí",
    "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-xuong-day-hon-mot-nam-gioi-chuyen-gia-du-bao-gi-cho-tuan-toi-20261115092857901.htm",
    "articles": [
@@ -560,12 +554,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-xuong-day-hon-mot-nam-gioi-chuyen-gia-du-bao-gi-cho-tuan-toi-20261115092857901.htm",
      "time": "15/11 12:01"
-    },
-    {
-     "title": "Giá vàng miếng, vàng nhẫn tròn ngày 15/11 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-ngay-15-11-tai-sjc-doji-pnj-bao-tin-minh-chau-va-bao-tin-manh-hai-1882611151139143.chn",
-     "time": "15/11 11:38"
     },
     {
      "title": "Giá vàng trải qua tuần lao dốc mạnh nhất nhiều tháng vì áp lực lãi suất",
@@ -710,12 +698,12 @@
    "2026-11-15T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 53,
+   "CafeF": 52,
    "Tuổi Trẻ": 13,
    "Dân trí": 12,
    "Thanh Niên": 7,
-   "VietnamNet": 7,
    "VnExpress": 7,
+   "VietnamNet": 6,
    "VnEconomy": 4,
    "Vietstock": 2
   },
