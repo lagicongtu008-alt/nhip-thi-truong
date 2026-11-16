@@ -3,10 +3,10 @@
  "label": "Chiều 17/11/2026 (thứ Ba)",
  "date": "2026-11-17",
  "session": "chieu",
- "updatedAt": "2026-11-17T04:01:51+07:00",
+ "updatedAt": "2026-11-17T06:00:19+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 17/11 – 04:01 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 17/11 – 06:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -14,6 +14,12 @@
     "impact": "tich-cuc",
     "source": "CafeF",
     "url": "https://cafef.vn/dien-bien-moi-tren-thi-truong-lai-suat-tiet-kiem-mot-ngan-hang-dua-lai-suat-ve-0-vpbank-va-bidv-tiep-tuc-giam-188261116232243753.chn"
+   },
+   {
+    "title": "Ngày 17/11, gửi 200 triệu tại Techcombank, Sacombank, SHB, HDBank, MB, VPBank và ACB nhận được bao nhiêu tiền lãi sau 6 tháng?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-17-11-gui-200-trieu-tai-techcombank-sacombank-shb-hdbank-mb-vpbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-6-thang-188261116235213303.chn"
    },
    {
     "title": "ACB: Một cổ đông đã bán sạch gần 51,5 triệu cổ phiếu",
@@ -29,6 +35,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "Ngày 17/11, gửi 200 triệu tại Techcombank, Sacombank, SHB, HDBank, MB, VPBank và ACB nhận được bao nhiêu tiền lãi sau 6 tháng?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-17-11-gui-200-trieu-tai-techcombank-sacombank-shb-hdbank-mb-vpbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-sau-6-thang-188261116235213303.chn",
+    "time": "17/11 04:50"
+   },
    {
     "title": "Diễn biến mới trên thị trường lãi suất tiết kiệm: Một ngân hàng đưa lãi suất về 0%, VPBank và BIDV tiếp tục giảm",
     "source": "CafeF",
@@ -50,7 +62,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 17/11 – 04:01 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 5 bài về chứng khoán từ 2 nguồn (00:00 17/11 – 06:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -76,9 +88,21 @@
     "impact": "trung-tinh",
     "source": "CafeF",
     "url": "https://cafef.vn/lanh-dao-vinacapital-chung-khoan-viet-nam-can-tro-thanh-diem-den-dai-han-thay-vi-co-hoi-dau-tu-nhat-thoi-188261115120103584.chn"
+   },
+   {
+    "title": "Có 500 triệu đồng mua vàng cất két hay đầu tư cổ phiếu?",
+    "impact": "trung-tinh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/co-500-trieu-dong-mua-vang-cat-ket-hay-dau-tu-co-phieu-2574986.html"
    }
   ],
   "articles": [
+   {
+    "title": "Có 500 triệu đồng mua vàng cất két hay đầu tư cổ phiếu?",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/co-500-trieu-dong-mua-vang-cat-ket-hay-dau-tu-co-phieu-2574986.html",
+    "time": "17/11 05:50"
+   },
    {
     "title": "ACB: Một cổ đông đã bán sạch gần 51,5 triệu cổ phiếu",
     "source": "CafeF",
@@ -110,11 +134,17 @@
   {
    "name": "Bất động sản",
    "status": "soi-noi",
-   "heat": 1,
-   "reason": "2 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/cuu-can-bo-nong-nghiep-khoi-nghiep-ban-thuoc-thu-y-sau-30-nam-gay-dung-doanh-nghiep-bat-dong-san-tram-nghin-ty-188261116151908617.chn",
+   "heat": 2,
+   "reason": "3 bài trong khung giờ, từ 2 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/ngoi-nha-o-campuchia-mo-san-vuon-don-gio-song-mekong-5144729.html",
    "articles": [
+    {
+     "title": "Ngôi nhà ở Campuchia mở sân vườn đón gió sông Mekong",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/ngoi-nha-o-campuchia-mo-san-vuon-don-gio-song-mekong-5144729.html",
+     "time": "17/11 04:00"
+    },
     {
      "title": "Cựu cán bộ nông nghiệp khởi nghiệp bán thuốc thú y, sau 30 năm gây dựng doanh nghiệp bất động sản trăm nghìn tỷ",
      "source": "CafeF",
@@ -125,6 +155,28 @@
      "title": "VN-Index có thể hướng tới 1.870 điểm, CTCK “chọn mặt gửi vàng” loạt cổ phiếu ngân hàng, chứng khoán, bất động sản",
      "source": "CafeF",
      "url": "https://cafef.vn/vn-index-co-the-huong-toi-1870-diem-ctck-chon-mat-gui-vang-loat-co-phieu-ngan-hang-chung-khoan-bat-dong-san-188261116140546278.chn",
+     "time": "17/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/quy-binh-on-gia-xang-dau-nhu-mot-van-giam-soc-co-nen-xoa-bo-2575469.html",
+   "articles": [
+    {
+     "title": "Quỹ bình ổn giá xăng dầu như một 'van' giảm sốc, có nên xoá bỏ?",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/quy-binh-on-gia-xang-dau-nhu-mot-van-giam-soc-co-nen-xoa-bo-2575469.html",
+     "time": "17/11 05:30"
+    },
+    {
+     "title": "Sang năm 2027, Hà Nội dự kiến mở rộng khu vực hạn chế xe xăng: Toàn bộ người dân có xe máy, ô tô lưu ý!",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sang-nam-2027-ha-noi-du-kien-mo-rong-khu-vuc-han-che-xe-xang-toan-bo-nguoi-dan-co-xe-may-o-to-luu-y-18826111622594198.chn",
      "time": "17/11 00:01"
     }
    ]
@@ -142,22 +194,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-9999-sang-ngay-17-11-188261117023420471.chn",
      "time": "17/11 02:34"
-    }
-   ]
-  },
-  {
-   "name": "Dầu khí – xăng dầu",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/sang-nam-2027-ha-noi-du-kien-mo-rong-khu-vuc-han-che-xe-xang-toan-bo-nguoi-dan-co-xe-may-o-to-luu-y-18826111622594198.chn",
-   "articles": [
-    {
-     "title": "Sang năm 2027, Hà Nội dự kiến mở rộng khu vực hạn chế xe xăng: Toàn bộ người dân có xe máy, ô tô lưu ý!",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sang-nam-2027-ha-noi-du-kien-mo-rong-khu-vuc-han-che-xe-xang-toan-bo-nguoi-dan-co-xe-may-o-to-luu-y-18826111622594198.chn",
-     "time": "17/11 00:01"
     }
    ]
   },
@@ -188,10 +224,12 @@
  "rss": {
   "window": [
    "2026-11-17T00:00:00+07:00",
-   "2026-11-17T04:01:51+07:00"
+   "2026-11-17T06:00:19+07:00"
   ],
   "sources": {
-   "CafeF": 8
+   "CafeF": 9,
+   "VietnamNet": 2,
+   "VnExpress": 1
   },
   "failed": []
  }
