@@ -3,7 +3,7 @@
  "label": "Sáng 17/11/2026 (thứ Ba)",
  "date": "2026-11-17",
  "session": "sang",
- "updatedAt": "2026-11-17T16:12:50+07:00",
+ "updatedAt": "2026-11-17T19:07:10+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 39 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 16/11 – 12:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -278,7 +278,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 58 bài về chứng khoán từ 7 nguồn (12:00 16/11 – 12:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 56 bài về chứng khoán từ 7 nguồn (12:00 16/11 – 12:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -578,12 +578,6 @@
     "time": "16/11 16:07"
    },
    {
-    "title": "VN-Index tăng nhẹ đầu tuần, vì sao dòng tiền vẫn 'dè dặt'?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vn-index-tang-nhe-dau-tuan-vi-sao-dong-tien-van-de-dat-100261116155712373.htm",
-    "time": "16/11 16:07"
-   },
-   {
     "title": "Mã FPT lại thủng mốc 50.000 đồng, khối ngoại tiếp tục bán mạnh",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/ma-fpt-lai-thung-moc-50000-dong-khoi-ngoai-tiep-tuc-ban-manh-20261116153913285.htm",
@@ -618,12 +612,6 @@
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/gia-bitcoin-duong-dau-ap-luc-giam-manh-truoc-vu-ipo-cua-anthropic.htm",
     "time": "16/11 14:23"
-   },
-   {
-    "title": "Một doanh nghiệp niêm yết chi tiền cho cổ đông đi họp đại hội, người sở hữu hơn 2,2 triệu cổ phiếu nhận 22 triệu đồng",
-    "source": "CafeF",
-    "url": "https://cafef.vn/mot-doanh-nghiep-niem-yet-chi-tien-cho-co-dong-di-hop-dai-hoi-nguoi-so-huu-hon-22-trieu-co-phieu-nhan-22-trieu-dong-188261116121751728.chn",
-    "time": "16/11 14:10"
    },
    {
     "title": "HOSE bổ sung GDA và SGN vào danh sách không được cấp margin",
@@ -799,7 +787,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "19 bài trong khung giờ, từ 5 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/de-xuat-cham-dut-du-an-duong-vao-khu-cong-nghiep-nam-thang-long-sau-22-nam-thi-cong-188261117102923758.chn",
    "articles": [
@@ -912,12 +900,6 @@
      "time": "16/11 15:34"
     },
     {
-     "title": "Công trường nhà ga T2 Sân bay Phú Quốc phục vụ APEC 2027 tăng tốc về đích",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cong-truong-nha-ga-t2-san-bay-phu-quoc-phuc-vu-apec-2027-tang-toc-ve-dich-188261116152511463.chn",
-     "time": "16/11 15:28"
-    },
-    {
      "title": "Hà Nội siết tiến độ đầu tư công, xử lý dứt điểm dự án chậm triển khai",
      "source": "VietnamNet",
      "url": "https://vietnamnet.vn/ha-noi-siet-tien-do-dau-tu-cong-xu-ly-dut-diem-du-an-cham-trien-khai-2575501.html",
@@ -1016,8 +998,8 @@
   {
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "10 bài trong khung giờ, từ 4 nguồn.",
+   "heat": 3,
+   "reason": "9 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/mot-doanh-nghiep-dau-khi-dung-truoc-nui-viec-10-ty-usd-loi-nhuan-2027-du-bao-tang-vot-188261117102300418.chn",
    "articles": [
@@ -1068,12 +1050,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-manh-bat-pho-van-50000-70000-dong-lam-sao-ha-gia-20261116162737229.htm",
      "time": "16/11 16:56"
-    },
-    {
-     "title": "Bỏ quỹ bình ổn xăng dầu, xử lý âm quỹ ra sao ở loạt doanh nghiệp PV Oil, Anh Phát Petro, Phúc Lộc Ninh...?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/bo-quy-binh-on-xang-dau-xu-ly-am-quy-ra-sao-o-loat-doanh-nghiep-pv-oil-anh-phat-petro-phuc-loc-ninh-100261116154358404.htm",
-     "time": "16/11 15:56"
     },
     {
      "title": "Điện khí hóa là gì mà các nước đua nhau dùng thay cho xăng dầu",
@@ -1142,10 +1118,10 @@
    "2026-11-17T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 76,
-   "Tuổi Trẻ": 20,
+   "CafeF": 74,
    "VnExpress": 15,
    "Dân trí": 14,
+   "Tuổi Trẻ": 14,
    "VnEconomy": 14,
    "VietnamNet": 12,
    "Vietstock": 11,
