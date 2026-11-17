@@ -3,10 +3,10 @@
  "label": "Sáng 17/11/2026 (thứ Ba)",
  "date": "2026-11-17",
  "session": "sang",
- "updatedAt": "2026-11-17T12:15:03+07:00",
+ "updatedAt": "2026-11-17T16:12:50+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 40 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 16/11 – 12:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 39 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 16/11 – 12:00 17/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -216,12 +216,6 @@
     "time": "16/11 14:51"
    },
    {
-    "title": "Doanh nghiệp Hàn Quốc huy động 160 tỉ đồng, mở rộng sản xuất linh kiện xe điện tại Việt Nam",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/doanh-nghiep-han-quoc-huy-dong-160-ti-dong-mo-rong-san-xuat-linh-kien-xe-dien-tai-viet-nam-10026111613495174.htm",
-    "time": "16/11 14:39"
-   },
-   {
     "title": "Chân dung tân Bí thư Đảng ủy VCCI Phạm Quang Dũng: 21 tuổi gia nhập Vietcombank, 34 tuổi làm Phó Tổng Giám đốc, 48 tuổi giữ chức Chủ tịch ngân hàng",
     "source": "CafeF",
     "url": "https://cafef.vn/chan-dung-tan-bi-thu-dang-uy-vcci-pham-quang-dung-21-tuoi-gia-nhap-vietcombank-34-tuoi-lam-pho-tong-giam-doc-48-tuoi-giu-chuc-chu-tich-ngan-hang-188261116142736678.chn",
@@ -404,7 +398,7 @@
     "time": "17/11 10:00"
    },
    {
-    "title": "Bất động sản “kẹt” dòng tiền, loạt doanh nghiệp “xin khất” hàng nghìn tỷ đồng nợ trái phiếu",
+    "title": "Loạt doanh nghiệp bất động sản “xin khất” hàng nghìn tỷ đồng nợ trái phiếu",
     "source": "CafeF",
     "url": "https://cafef.vn/bat-dong-san-ket-dong-tien-loat-doanh-nghiep-xin-khat-hang-nghin-ty-dong-no-trai-phieu-188261117062856976.chn",
     "time": "17/11 09:45"
@@ -704,7 +698,7 @@
      "time": "17/11 09:59"
     },
     {
-     "title": "Bất động sản “kẹt” dòng tiền, loạt doanh nghiệp “xin khất” hàng nghìn tỷ đồng nợ trái phiếu",
+     "title": "Loạt doanh nghiệp bất động sản “xin khất” hàng nghìn tỷ đồng nợ trái phiếu",
      "source": "CafeF",
      "url": "https://cafef.vn/bat-dong-san-ket-dong-tien-loat-doanh-nghiep-xin-khat-hang-nghin-ty-dong-no-trai-phieu-188261117062856976.chn",
      "time": "17/11 09:45"
@@ -935,7 +929,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "14 bài trong khung giờ, từ 6 nguồn.",
+   "reason": "13 bài trong khung giờ, từ 6 nguồn.",
    "source": "Thanh Niên",
    "url": "https://thanhnien.vn/gia-vang-bat-tang-tro-lai-185261117104604261.htm",
    "articles": [
@@ -956,12 +950,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-bac-17-11-vang-mat-hon-5-trieu-dong-so-voi-dinh-cap-nhat-moi-nhat-tai-sjc-phu-quy-btmc-18826111710043421.chn",
      "time": "17/11 10:09"
-    },
-    {
-     "title": "Giá vàng miếng SJC, vàng nhẫn 9999 sáng ngày 17/11",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-9999-sang-ngay-17-11-188261117023420471.chn",
-     "time": "17/11 09:58"
     },
     {
      "title": "Giá vàng có mức đáy mới kể từ đầu năm",
@@ -1154,8 +1142,8 @@
    "2026-11-17T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 82,
-   "Tuổi Trẻ": 21,
+   "CafeF": 76,
+   "Tuổi Trẻ": 20,
    "VnExpress": 15,
    "Dân trí": 14,
    "VnEconomy": 14,
