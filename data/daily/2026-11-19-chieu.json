@@ -1,0 +1,215 @@
+{
+ "key": "2026-11-19-chieu",
+ "label": "Chiều 19/11/2026 (thứ Năm)",
+ "date": "2026-11-19",
+ "session": "chieu",
+ "updatedAt": "2026-11-19T01:22:35+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 19/11 – 01:22 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Làm việc với tỉnh Hưng Yên, Phó Thống đốc Phạm Thanh Hà cho biết NHNN sẽ yêu cầu các TCTD trên địa bàn tiếp tục giữ ổn định mặt bằng lãi suất và phấn đấu giảm lãi suất cho vay",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lam-viec-voi-tinh-hung-yen-pho-thong-doc-pham-thanh-ha-cho-biet-nhnn-se-yeu-cau-cac-tctd-tren-dia-ban-tiep-tuc-giu-on-dinh-mat-bang-lai-suat-va-phan-dau-giam-lai-suat-cho-vay-188261118233614218.chn"
+   },
+   {
+    "title": "Ngày 19/11, gửi dưới 100 triệu 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-19-11-gui-duoi-100-trieu-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261118232517873.chn"
+   },
+   {
+    "title": "Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dinh-gia-ngan-hang-lon-nhat-san-chung-khoan-viet-nam-xuong-muc-thap-nhat-trong-hon-mot-thap-ky-188261118223033878.chn"
+   },
+   {
+    "title": "Lãi suất hạ nhiệt, CTCK bất ngờ gọi tên 4 cổ phiếu có thể hưởng lợi lớn",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ha-nhiet-ctck-bat-ngo-goi-ten-4-co-phieu-co-the-huong-loi-lon-188261118220420674.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Ngày 19/11, gửi dưới 100 triệu 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-19-11-gui-duoi-100-trieu-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261118232517873.chn",
+    "time": "19/11 01:00"
+   },
+   {
+    "title": "Làm việc với tỉnh Hưng Yên, Phó Thống đốc Phạm Thanh Hà cho biết NHNN sẽ yêu cầu các TCTD trên địa bàn tiếp tục giữ ổn định mặt bằng lãi suất và phấn đấu giảm lãi suất cho vay",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lam-viec-voi-tinh-hung-yen-pho-thong-doc-pham-thanh-ha-cho-biet-nhnn-se-yeu-cau-cac-tctd-tren-dia-ban-tiep-tuc-giu-on-dinh-mat-bang-lai-suat-va-phan-dau-giam-lai-suat-cho-vay-188261118233614218.chn",
+    "time": "19/11 00:34"
+   },
+   {
+    "title": "Lãi suất hạ nhiệt, CTCK bất ngờ gọi tên 4 cổ phiếu có thể hưởng lợi lớn",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ha-nhiet-ctck-bat-ngo-goi-ten-4-co-phieu-co-the-huong-loi-lon-188261118220420674.chn",
+    "time": "19/11 00:03"
+   },
+   {
+    "title": "Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dinh-gia-ngan-hang-lon-nhat-san-chung-khoan-viet-nam-xuong-muc-thap-nhat-trong-hon-mot-thap-ky-188261118223033878.chn",
+    "time": "19/11 00:01"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 19/11 – 01:22 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dinh-gia-ngan-hang-lon-nhat-san-chung-khoan-viet-nam-xuong-muc-thap-nhat-trong-hon-mot-thap-ky-188261118223033878.chn"
+   },
+   {
+    "title": "AI cũng \"chào thua\" chứng khoán?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ai-cung-chao-thua-chung-khoan-188261118225717338.chn"
+   },
+   {
+    "title": "Lãi suất hạ nhiệt, CTCK bất ngờ gọi tên 4 cổ phiếu có thể hưởng lợi lớn",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ha-nhiet-ctck-bat-ngo-goi-ten-4-co-phieu-co-the-huong-loi-lon-188261118220420674.chn"
+   },
+   {
+    "title": "Vietcap định giá Long Châu hơn 44.000 tỷ đồng, gấp 18 lần FPT Shop: Hé lộ nhóm cổ đông đặc biệt nắm hơn 11% vốn",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vietcap-dinh-gia-long-chau-hon-44000-ty-dong-gap-18-lan-fpt-shop-he-lo-nhom-co-dong-dac-biet-nam-hon-11-von-18826111822215302.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "AI cũng \"chào thua\" chứng khoán?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ai-cung-chao-thua-chung-khoan-188261118225717338.chn",
+    "time": "19/11 00:05"
+   },
+   {
+    "title": "Lãi suất hạ nhiệt, CTCK bất ngờ gọi tên 4 cổ phiếu có thể hưởng lợi lớn",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ha-nhiet-ctck-bat-ngo-goi-ten-4-co-phieu-co-the-huong-loi-lon-188261118220420674.chn",
+    "time": "19/11 00:03"
+   },
+   {
+    "title": "Vietcap định giá Long Châu hơn 44.000 tỷ đồng, gấp 18 lần FPT Shop: Hé lộ nhóm cổ đông đặc biệt nắm hơn 11% vốn",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vietcap-dinh-gia-long-chau-hon-44000-ty-dong-gap-18-lan-fpt-shop-he-lo-nhom-co-dong-dac-biet-nam-hon-11-von-18826111822215302.chn",
+    "time": "19/11 00:02"
+   },
+   {
+    "title": "Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dinh-gia-ngan-hang-lon-nhat-san-chung-khoan-viet-nam-xuong-muc-thap-nhat-trong-hon-mot-thap-ky-188261118223033878.chn",
+    "time": "19/11 00:01"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VnExpress",
+   "url": "https://vnexpress.net/da-nang-tim-nha-dau-tu-khu-do-thi-tay-bac-suon-doi-9-900-ty-dong-5146308.html",
+   "articles": [
+    {
+     "title": "Đà Nẵng tìm nhà đầu tư khu đô thị Tây Bắc sườn đồi 9.900 tỷ đồng",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/da-nang-tim-nha-dau-tu-khu-do-thi-tay-bac-suon-doi-9-900-ty-dong-5146308.html",
+     "time": "19/11 00:00"
+    }
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/co-don-hang-15-ty-startup-viet-van-phai-bo-vi-chinh-sach-cong-no-2576415.html",
+   "articles": [
+    {
+     "title": "Startup Việt bỏ đơn hàng 5-15 tỷ đồng vì không kham nổi công nợ",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/co-don-hang-15-ty-startup-viet-van-phai-bo-vi-chinh-sach-cong-no-2576415.html",
+     "time": "19/11 00:10"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/nha-thau-trung-quoc-nang-ket-cau-thep-khong-lo-616-tan-duong-kinh-hon-70-m-len-do-cao-34-m-chinh-xac-tung-milimet-cho-sieu-cong-trinh-viet-nam-188261118212600658.chn",
+   "articles": [
+    {
+     "title": "Nhà thầu Trung Quốc nâng kết cấu thép khổng lồ 616 tấn, đường kính hơn 70 m lên độ cao 34 m chính xác từng milimet cho siêu công trình Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nha-thau-trung-quoc-nang-ket-cau-thep-khong-lo-616-tan-duong-kinh-hon-70-m-len-do-cao-34-m-chinh-xac-tung-milimet-cho-sieu-cong-trinh-viet-nam-188261118212600658.chn",
+     "time": "19/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Thép – vật liệu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/nhung-khoi-thep-khong-lo-san-xuat-tai-vung-tau-sap-vuot-bien-den-chau-phi-phuc-vu-du-an-cang-bien-335-ty-yen-nhat-188261118225318072.chn",
+   "articles": [
+    {
+     "title": "Những khối thép khổng lồ sản xuất tại Vũng Tàu sắp vượt biển đến châu Phi, phục vụ dự án cảng biển 33,5 tỷ yên Nhật",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nhung-khoi-thep-khong-lo-san-xuat-tai-vung-tau-sap-vuot-bien-den-chau-phi-phuc-vu-du-an-cang-bien-335-ty-yen-nhat-188261118225318072.chn",
+     "time": "19/11 00:05"
+    }
+   ]
+  },
+  {
+   "name": "Năng lượng – điện",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/tt-group-cua-bau-hien-de-xuat-dau-tu-loat-du-an-nang-luong-tai-tao-tai-tinh-rong-nhat-nuoc-ta-tong-cong-suat-gap-doi-thuy-dien-lon-nhat-mien-nam-188261118220417202.chn",
+   "articles": [
+    {
+     "title": "T&T Group của bầu Hiển đề xuất đầu tư loạt dự án năng lượng tái tạo tại tỉnh rộng nhất nước ta, tổng công suất gấp đôi thủy điện lớn nhất miền Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tt-group-cua-bau-hien-de-xuat-dau-tu-loat-du-an-nang-luong-tai-tao-tai-tinh-rong-nhat-nuoc-ta-tong-cong-suat-gap-doi-thuy-dien-lon-nhat-mien-nam-188261118220417202.chn",
+     "time": "19/11 00:04"
+    }
+   ]
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-19T00:00:00+07:00",
+   "2026-11-19T01:22:35+07:00"
+  ],
+  "sources": {
+   "CafeF": 9,
+   "VietnamNet": 1,
+   "VnExpress": 1
+  },
+  "failed": []
+ }
+}
