@@ -3,7 +3,7 @@
  "label": "Sáng 18/11/2026 (thứ Tư)",
  "date": "2026-11-18",
  "session": "sang",
- "updatedAt": "2026-11-18T15:32:28+07:00",
+ "updatedAt": "2026-11-18T18:57:21+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 29 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 17/11 – 12:00 18/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -218,7 +218,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 54 bài về chứng khoán từ 7 nguồn (12:00 17/11 – 12:00 18/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 52 bài về chứng khoán từ 7 nguồn (12:00 17/11 – 12:00 18/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -488,18 +488,6 @@
     "time": "17/11 16:14"
    },
    {
-    "title": "Cổ phiếu dầu khí 'đỏ lửa', LPB liên tiếp xuất hiện giao dịch thỏa thuận lớn",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/co-phieu-dau-khi-do-lua-lpb-lien-tiep-xuat-hien-giao-dich-thoa-thuan-lon-100261117155229209.htm",
-    "time": "17/11 16:03"
-   },
-   {
-    "title": "Một quỹ ngoại bất ngờ bán sạch 51,5 triệu cổ phiếu ACB",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/mot-quy-ngoai-bat-ngo-ban-sach-515-trieu-co-phieu-acb-100261117152039435.htm",
-    "time": "17/11 16:01"
-   },
-   {
     "title": "Từ đầu quý IV, khối ngoại bán ròng hơn 3.000 tỷ đồng cổ phiếu FPT",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/tu-dau-quy-iv-khoi-ngoai-ban-rong-hon-3000-ty-dong-co-phieu-fpt-20261117153438938.htm",
@@ -709,7 +697,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "19 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "18 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/ha-noi-cong-khai-28-vi-tri-nha-ga-uu-tien-tren-5-tuyen-metro-188261118103818597.chn",
    "articles": [
@@ -742,12 +730,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/nha-gan-metro-gia-dat-van-hut-nguoi-mua-188261118081939785.chn",
      "time": "18/11 09:32"
-    },
-    {
-     "title": "Hà Nội: Tập trung giải quyết tồn tại, vi phạm tại một số công trình, dự án",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-tap-trung-giai-quyet-ton-tai-vi-pham-tai-mot-so-cong-trinh-du-an-188261118085607084.chn",
-     "time": "18/11 08:55"
     },
     {
      "title": "Có giới hạn số gói thầu được chỉ định cho một nhà thầu trong cùng dự án?",
@@ -833,7 +815,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "16 bài trong khung giờ, từ 5 nguồn.",
    "source": "VnExpress",
    "url": "https://vnexpress.net/can-ho-thu-cap-tai-tp-hcm-dua-nhau-giam-gia-5143920.html",
    "articles": [
@@ -884,18 +866,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/chi-tiet-135-can-ho-va-nha-thap-tang-kien-hung-lien-quan-dai-gia-dieu-cay-le-thanh-than-phai-di-doi-188261118083614001.chn",
      "time": "18/11 08:59"
-    },
-    {
-     "title": "Khám phá chuẩn bàn giao hạng sang tại căn hộ Khải Hoàn Imperial",
-     "source": "CafeF",
-     "url": "https://cafef.vn/kham-pha-chuan-ban-giao-hang-sang-tai-can-ho-khai-hoan-imperial-188261117165815864.chn",
-     "time": "18/11 08:00"
-    },
-    {
-     "title": "Xét xử đại gia Lê Thanh Thản vụ 519 căn hộ CT6 Kiến Hưng không sổ đỏ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/xet-xu-dai-gia-le-thanh-than-vu-519-can-ho-ct6-kien-hung-khong-so-do-188261118065301971.chn",
-     "time": "18/11 07:52"
     },
     {
      "title": "Xét xử đại gia 'điếu cày' Lê Thanh Thản lừa bán 519 căn hộ không được cấp sổ đỏ",
@@ -950,8 +920,8 @@
   {
    "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
+   "heat": 3,
+   "reason": "9 bài trong khung giờ, từ 5 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/ra-lenh-bat-tam-giam-tai-xe-xe-om-cong-nghe-huynh-trung-huy-sn-2001-188261118120828829.chn",
    "articles": [
@@ -998,18 +968,6 @@
      "time": "17/11 18:18"
     },
     {
-     "title": "Bắt đầu từ đâu để tham gia chuỗi cung ứng bán dẫn toàn cầu, làm chủ công nghệ chiến lược?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/bat-dau-tu-dau-de-tham-gia-chuoi-cung-ung-ban-dan-toan-cau-lam-chu-cong-nghe-chien-luoc-10026111715245592.htm",
-     "time": "17/11 16:29"
-    },
-    {
-     "title": "Chuyển đổi số: Làm sao để bà bán tạp hóa đầu đường cũng biết dùng công nghệ?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/chuyen-doi-so-lam-sao-de-ba-ban-tap-hoa-dau-duong-cung-biet-dung-cong-nghe-100261117144921953.htm",
-     "time": "17/11 16:00"
-    },
-    {
      "title": "Viettel vừa “khoe\" với thế giới một \"báu vật công nghệ\" có khả năng thực hiện 1.000 tỷ phép tính/giây",
      "source": "CafeF",
      "url": "https://cafef.vn/viettel-vua-khoe-voi-the-gioi-mot-bau-vat-cong-nghe-co-kha-nang-thuc-hien-1000-ty-phep-tinh-giay-188261117142112249.chn",
@@ -1026,8 +984,8 @@
   {
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
-   "heat": 3,
-   "reason": "6 bài trong khung giờ, từ 5 nguồn.",
+   "heat": 2,
+   "reason": "5 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/bo-cong-thuong-chap-thuan-chu-truong-dieu-chinh-quy-hoach-ha-tang-xang-dau-khi-dot-188261118093945384.chn",
    "articles": [
@@ -1056,12 +1014,6 @@
      "time": "17/11 19:14"
     },
     {
-     "title": "Cổ phiếu dầu khí 'đỏ lửa', LPB liên tiếp xuất hiện giao dịch thỏa thuận lớn",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/co-phieu-dau-khi-do-lua-lpb-lien-tiep-xuat-hien-giao-dich-thoa-thuan-lon-100261117155229209.htm",
-     "time": "17/11 16:03"
-    },
-    {
      "title": "Giá dầu diesel vẫn gần 27.000 đồng/lít, có nhà xe chấp nhận lỗ để giảm giá vé",
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-dau-diesel-van-gan-27000-donglit-co-nha-xe-chap-nhan-lo-de-giam-gia-ve-20261117135434366.htm",
@@ -1076,10 +1028,10 @@
    "2026-11-18T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 69,
+   "CafeF": 66,
    "Dân trí": 17,
-   "Tuổi Trẻ": 17,
    "VnEconomy": 17,
+   "Tuổi Trẻ": 12,
    "VietnamNet": 12,
    "Thanh Niên": 11,
    "Vietstock": 10,
