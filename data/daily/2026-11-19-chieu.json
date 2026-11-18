@@ -3,10 +3,10 @@
  "label": "Chiều 19/11/2026 (thứ Năm)",
  "date": "2026-11-19",
  "session": "chieu",
- "updatedAt": "2026-11-19T02:24:49+07:00",
+ "updatedAt": "2026-11-19T04:33:51+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 19/11 – 02:24 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 19/11 – 04:33 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -62,7 +62,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 19/11 – 02:24 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 19/11 – 04:33 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -203,7 +203,7 @@
  "rss": {
   "window": [
    "2026-11-19T00:00:00+07:00",
-   "2026-11-19T02:24:49+07:00"
+   "2026-11-19T04:33:51+07:00"
   ],
   "sources": {
    "CafeF": 10,
