@@ -3,10 +3,10 @@
  "label": "Chiều 19/11/2026 (thứ Năm)",
  "date": "2026-11-19",
  "session": "chieu",
- "updatedAt": "2026-11-19T01:22:35+07:00",
+ "updatedAt": "2026-11-19T02:24:49+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 19/11 – 01:22 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 19/11 – 02:24 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -62,7 +62,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 19/11 – 01:22 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 19/11 – 02:24 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -152,6 +152,22 @@
    ]
   },
   {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-9999-sang-ngay-19-11-188261119020430468.chn",
+   "articles": [
+    {
+     "title": "Giá vàng SJC, vàng nhẫn 9999 sáng ngày 19/11",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-9999-sang-ngay-19-11-188261119020430468.chn",
+     "time": "19/11 02:04"
+    }
+   ]
+  },
+  {
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 1,
@@ -182,31 +198,15 @@
      "time": "19/11 00:05"
     }
    ]
-  },
-  {
-   "name": "Năng lượng – điện",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/tt-group-cua-bau-hien-de-xuat-dau-tu-loat-du-an-nang-luong-tai-tao-tai-tinh-rong-nhat-nuoc-ta-tong-cong-suat-gap-doi-thuy-dien-lon-nhat-mien-nam-188261118220417202.chn",
-   "articles": [
-    {
-     "title": "T&T Group của bầu Hiển đề xuất đầu tư loạt dự án năng lượng tái tạo tại tỉnh rộng nhất nước ta, tổng công suất gấp đôi thủy điện lớn nhất miền Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tt-group-cua-bau-hien-de-xuat-dau-tu-loat-du-an-nang-luong-tai-tao-tai-tinh-rong-nhat-nuoc-ta-tong-cong-suat-gap-doi-thuy-dien-lon-nhat-mien-nam-188261118220417202.chn",
-     "time": "19/11 00:04"
-    }
-   ]
   }
  ],
  "rss": {
   "window": [
    "2026-11-19T00:00:00+07:00",
-   "2026-11-19T01:22:35+07:00"
+   "2026-11-19T02:24:49+07:00"
   ],
   "sources": {
-   "CafeF": 9,
+   "CafeF": 10,
    "VietnamNet": 1,
    "VnExpress": 1
   },
