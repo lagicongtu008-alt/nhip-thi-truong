@@ -3,12 +3,18 @@
  "label": "Sáng 19/11/2026 (thứ Năm)",
  "date": "2026-11-19",
  "session": "sang",
- "updatedAt": "2026-11-19T11:30:31+07:00",
+ "updatedAt": "2026-11-19T15:47:50+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 35 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 18/11 – 11:30 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 35 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 18/11 – 12:00 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Lãi suất ngân hàng: Trái phiếu neo cao, tiết kiệm hạ nhiệt",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ngan-hang-trai-phieu-neo-cao-tiet-kiem-ha-nhiet-188261119112330236.chn"
+   },
    {
     "title": "VIB chủ động đón cơ hội tối ưu thanh khoản từ giải pháp hoán đổi ngoại tệ của NHNN",
     "impact": "tich-cuc",
@@ -32,15 +38,15 @@
     "impact": "trung-tinh",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/vib-chu-dong-don-co-hoi-toi-uu-thanh-khoan-tu-giai-phap-hoan-doi-ngoai-te-cua-ngan-hang-nha-nuoc.htm"
-   },
-   {
-    "title": "Đề xuất nâng tiêu chí phân loại, xếp hạng ngân hàng",
-    "impact": "trung-tinh",
-    "source": "CafeF",
-    "url": "https://cafef.vn/de-xuat-nang-tieu-chi-phan-loai-xep-hang-ngan-hang-188261118110912566.chn"
    }
   ],
   "articles": [
+   {
+    "title": "Lãi suất ngân hàng: Trái phiếu neo cao, tiết kiệm hạ nhiệt",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ngan-hang-trai-phieu-neo-cao-tiet-kiem-ha-nhiet-188261119112330236.chn",
+    "time": "19/11 11:50"
+   },
    {
     "title": "Đồng USD vững ở mức cao nhất 19 tháng",
     "source": "VnEconomy",
@@ -228,12 +234,6 @@
     "time": "18/11 13:59"
    },
    {
-    "title": "Quà Tết năm nay, doanh nghiệp đặt tiêu chí thiết thực và tiết kiệm",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/qua-tet-nam-nay-doanh-nghiep-dat-tieu-chi-thiet-thuc-va-tiet-kiem-100261117152235718.htm",
-    "time": "18/11 13:16"
-   },
-   {
     "title": "Đề xuất nâng tiêu chí phân loại, xếp hạng ngân hàng",
     "source": "CafeF",
     "url": "https://cafef.vn/de-xuat-nang-tieu-chi-phan-loai-xep-hang-ngan-hang-188261118110912566.chn",
@@ -254,7 +254,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 60 bài về chứng khoán từ 7 nguồn (12:00 18/11 – 11:30 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 60 bài về chứng khoán từ 7 nguồn (12:00 18/11 – 12:00 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -290,10 +290,28 @@
   ],
   "articles": [
    {
-    "title": "Nhịp đập Thị trường 19/11: Khởi đầu rung lắc, thanh khoản ảm đạm",
+    "title": "Dòng tiền vẫn dửng dưng, VN-Index có nguy cơ thủng đáy",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/dong-tien-van-dung-dung-vn-index-co-nguy-co-thung-day.htm",
+    "time": "19/11 12:00"
+   },
+   {
+    "title": "Lãi suất ngân hàng: Trái phiếu neo cao, tiết kiệm hạ nhiệt",
+    "source": "CafeF",
+    "url": "https://cafef.vn/lai-suat-ngan-hang-trai-phieu-neo-cao-tiet-kiem-ha-nhiet-188261119112330236.chn",
+    "time": "19/11 11:50"
+   },
+   {
+    "title": "30 năm ngành chứng khoán: Người trong cuộc kể chuyện hậu trường trước lúc khai mở thị trường",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/30-nam-nganh-chung-khoan-nguoi-trong-cuoc-ke-chuyen-hau-truong-truoc-luc-khai-mo-thi-truong-100261118112143487.htm",
+    "time": "19/11 11:23"
+   },
+   {
+    "title": "Hơn 17,355 tỷ đồng cổ phiếu LPB được 'sang tay' chỉ trong 12 phiên",
     "source": "Vietstock",
-    "url": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1911-khoi-dau-rung-lac-thanh-khoan-am-dam-1636-1516045.htm",
-    "time": "19/11 10:46"
+    "url": "http://vietstock.vn/2026/11/hon-17355-ty-dong-co-phieu-lpb-duoc-sang-tay-chi-trong-12-phien-830-1516048.htm",
+    "time": "19/11 11:08"
    },
    {
     "title": "Cổ phiếu Vinamilk xuống đáy 13 tháng",
@@ -630,24 +648,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/fpt-thung-day-loat-ctck-dua-ra-khuyen-nghi-bat-ngo-188261118123609762.chn",
     "time": "18/11 13:07"
-   },
-   {
-    "title": "Dù Bầu Đức tuyên bố \"nếu 1-2 năm nữa mà lỗ, cứ kêu tôi ra chửi\": Cổ phiếu HAG xuống đáy 16 tháng, giảm gần 30% sau 1 năm",
-    "source": "CafeF",
-    "url": "https://cafef.vn/du-bau-duc-tuyen-bo-neu-1-2-nam-nua-ma-lo-cu-keu-toi-ra-chui-co-phieu-hag-xuong-day-16-thang-giam-gan-30-sau-1-nam-188261118112837196.chn",
-    "time": "18/11 12:16"
-   },
-   {
-    "title": "Thị trường tiếp tục “tra tấn” tâm lý, khối ngoại bán ròng mạnh",
-    "source": "VnEconomy",
-    "url": "https://vneconomy.vn/thi-truong-tiep-tuc-tra-tan-tam-ly-khoi-ngoai-ban-rong-manh.htm",
-    "time": "18/11 12:06"
-   },
-   {
-    "title": "Bắt buộc xác thực danh tính điện tử quốc gia với tài khoản ngân hàng, chứng khoán",
-    "source": "VnEconomy",
-    "url": "https://vneconomy.vn/bat-buoc-xac-thuc-danh-tinh-dien-tu-quoc-gia-voi-tai-khoan-ngan-hang-chung-khoan.htm",
-    "time": "18/11 12:03"
    }
   ]
  },
@@ -798,12 +798,6 @@
      "time": "19/11 11:01"
     },
     {
-     "title": "Giá vàng SJC, vàng nhẫn 9999 sáng ngày 19/11",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-9999-sang-ngay-19-11-188261119020430468.chn",
-     "time": "19/11 10:37"
-    },
-    {
      "title": "Giá vàng thủng đáy 14 tháng, quỹ vàng lớn nhất thế giới có động thái \"lạ\"",
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-thung-day-14-thang-quy-vang-lon-nhat-the-gioi-co-dong-thai-la-188261119102608695.chn",
@@ -826,12 +820,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-vang-ve-day-mot-nam-nguoi-mua-tu-dinh-lo-gan-58-trieu-dongluong-20261118230926646.htm",
      "time": "19/11 09:31"
-    },
-    {
-     "title": "Giá vàng hôm nay 19/11: Tiếp tục giảm sâu, nỗi lo bao trùm",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-19-11-tiep-tuc-lao-doc-noi-lo-bao-trum-2576502.html",
-     "time": "19/11 09:08"
     },
     {
      "title": "Giá vàng hôm nay 19.11.2026: Tiếp tục lao dốc, rớt khỏi mức 137 triệu đồng",
@@ -900,16 +888,28 @@
      "time": "18/11 15:33"
     },
     {
-     "title": "Giá vàng thế giới giảm mạnh, chỉ còn 3.767 USD/ounce",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-vang-the-gioi-giam-manh-chi-con-3767-usd-ounce-100261118144929603.htm",
-     "time": "18/11 15:07"
-    },
-    {
      "title": "Giá vàng miếng, vàng nhẫn trơn 9999 chiều ngày 18/11 tại SJC, Bảo Tín Mạnh Hải, DOJI, PNJ...",
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-tron-9999-sang-ngay-18-11-188261118052841548.chn",
      "time": "18/11 14:19"
+    },
+    {
+     "title": "Giá vàng thế giới thủng 3.800 USD/ounce, SJC giảm sâu, áp lực chưa dứt",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-thung-3-800-usd-ounce-sjc-giam-sau-ap-luc-chua-dut-2576272.html",
+     "time": "18/11 14:01"
+    },
+    {
+     "title": "Giá vàng miếng SJC rơi về vùng đáy sau hơn một năm",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/gia-vang-mieng-sjc-roi-ve-vung-day-sau-hon-mot-nam.htm",
+     "time": "18/11 13:51"
+    },
+    {
+     "title": "Tập đoàn Bảo Tín chính thức ra mắt MHJ, thương hiệu trang sức cao cấp",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/tap-doan-bao-tin-chinh-thuc-ra-mat-mhj-thuong-hieu-trang-suc-cao-cap.htm",
+     "time": "18/11 12:47"
     }
    ]
   },
@@ -919,8 +919,20 @@
    "heat": 5,
    "reason": "16 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
-   "url": "https://cafef.vn/thap-doi-cao-den-363m-trong-khu-nha-giau-ciputra-vua-ve-tay-sun-group-tung-duoc-don-vi-kien-truc-dung-sau-nhieu-cong-trinh-noi-tieng-the-gioi-thiet-ke-khoi-cong-tu-nam-2010-188261119103302689.chn",
+   "url": "https://cafef.vn/tuyen-cao-toc-415km-duoc-ty-phu-an-chay-xuan-truong-de-xuat-rot-72000-ty-dong-mo-rong-len-6-lan-xe-muon-thu-phi-toan-tuyen-ngay-tu-khi-trien-khai-co-chuyen-dong-moi-188261119113512331.chn",
    "articles": [
+    {
+     "title": "Tuyến cao tốc 415km được tỷ phú \"ăn chay\" Xuân Trường đề xuất rót 72.000 tỷ đồng mở rộng lên 6 làn xe, muốn thu phí toàn tuyến ngay từ khi triển khai có chuyển động mới",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tuyen-cao-toc-415km-duoc-ty-phu-an-chay-xuan-truong-de-xuat-rot-72000-ty-dong-mo-rong-len-6-lan-xe-muon-thu-phi-toan-tuyen-ngay-tu-khi-trien-khai-co-chuyen-dong-moi-188261119113512331.chn",
+     "time": "19/11 11:35"
+    },
+    {
+     "title": "Bí thư Thành ủy Hà Nội Trần Đức Thắng: Ưu tiên đồng bộ hạ tầng, bảo đảm an sinh xã hội tại các dự án",
+     "source": "CafeF",
+     "url": "https://cafef.vn/bi-thu-thanh-uy-ha-noi-tran-duc-thang-uu-tien-dong-bo-ha-tang-bao-dam-an-sinh-xa-hoi-tai-cac-du-an-188261119103350167.chn",
+     "time": "19/11 11:33"
+    },
     {
      "title": "Tháp đôi cao đến 363m trong \"khu nhà giàu\" Ciputra vừa về tay Sun Group, từng được đơn vị kiến trúc đứng sau nhiều công trình nổi tiếng thế giới thiết kế, khởi công từ năm 2010",
      "source": "CafeF",
@@ -1004,18 +1016,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/5-tuyen-metro-gan-900000-ty-dong-duoc-ong-pham-nhat-vuong-dat-hon-100-day-chuyen-tbm-de-thi-cong-dat-muc-tieu-khoi-cong-dong-loat-toan-mang-luoi-ngay-trong-nam-2026-188261118150142305.chn",
      "time": "18/11 15:06"
-    },
-    {
-     "title": "Tăng tốc thi công dự án hồ điều hòa Cự Khối",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tang-toc-thi-cong-du-an-ho-dieu-hoa-cu-khoi-188261118133330802.chn",
-     "time": "18/11 13:45"
-    },
-    {
-     "title": "Tổ hợp ga Ngọc Hồi: Định hình đầu mối đường sắt phía Nam Thủ đô",
-     "source": "CafeF",
-     "url": "https://cafef.vn/to-hop-ga-ngoc-hoi-dinh-hinh-dau-moi-duong-sat-phia-nam-thu-do-188261118133150477.chn",
-     "time": "18/11 13:31"
     }
    ]
   },
@@ -1023,7 +1023,7 @@
    "name": "Tiêu dùng – bán lẻ",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "9 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "8 bài trong khung giờ, từ 4 nguồn.",
    "source": "Thanh Niên",
    "url": "https://thanhnien.vn/winx-gia-tang-uu-dai-cho-15-trieu-khach-hang-hoi-vien-185261119092336389.htm",
    "articles": [
@@ -1074,12 +1074,6 @@
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/nguoi-viet-da-co-the-quet-ma-qr-thanh-toan-khi-chi-tieu-mua-sam-tai-singapore-185261118155045493.htm",
      "time": "18/11 15:42"
-    },
-    {
-     "title": "WinX mở rộng từ chương trình tích điểm thành nền tảng kết nối tiêu dùng",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/winx-mo-rong-tu-chuong-trinh-tich-diem-thanh-nen-tang-ket-noi-tieu-dung-100261118123402432.htm",
-     "time": "18/11 13:32"
     }
    ]
   },
@@ -1127,15 +1121,15 @@
  "rss": {
   "window": [
    "2026-11-18T12:00:00+07:00",
-   "2026-11-19T11:30:31+07:00"
+   "2026-11-19T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 75,
-   "Tuổi Trẻ": 18,
-   "VnEconomy": 18,
+   "CafeF": 74,
+   "VnEconomy": 19,
    "Thanh Niên": 16,
+   "Tuổi Trẻ": 16,
    "Dân trí": 15,
-   "VietnamNet": 13,
+   "VietnamNet": 12,
    "VnExpress": 11,
    "Vietstock": 9
   },
