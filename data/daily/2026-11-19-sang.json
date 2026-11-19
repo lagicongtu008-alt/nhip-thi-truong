@@ -3,7 +3,7 @@
  "label": "Sáng 19/11/2026 (thứ Năm)",
  "date": "2026-11-19",
  "session": "sang",
- "updatedAt": "2026-11-19T15:47:50+07:00",
+ "updatedAt": "2026-11-19T18:55:04+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 35 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 18/11 – 12:00 19/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -440,12 +440,6 @@
     "time": "19/11 00:03"
    },
    {
-    "title": "Vietcap định giá Long Châu hơn 44.000 tỷ đồng, gấp 18 lần FPT Shop: Hé lộ nhóm cổ đông đặc biệt nắm hơn 11% vốn",
-    "source": "CafeF",
-    "url": "https://cafef.vn/vietcap-dinh-gia-long-chau-hon-44000-ty-dong-gap-18-lan-fpt-shop-he-lo-nhom-co-dong-dac-biet-nam-hon-11-von-18826111822215302.chn",
-    "time": "19/11 00:02"
-   },
-   {
     "title": "Định giá ngân hàng lớn nhất sàn chứng khoán Việt Nam xuống mức thấp nhất trong hơn một thập kỷ",
     "source": "CafeF",
     "url": "https://cafef.vn/dinh-gia-ngan-hang-lon-nhat-san-chung-khoan-viet-nam-xuong-muc-thap-nhat-trong-hon-mot-thap-ky-188261118223033878.chn",
@@ -554,12 +548,6 @@
     "time": "18/11 16:14"
    },
    {
-    "title": "Vì sao có thời điểm VN-Index rơi hơn 50 điểm?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vi-sao-co-thoi-diem-vn-index-roi-hon-50-diem-100261118154505778.htm",
-    "time": "18/11 16:10"
-   },
-   {
     "title": "Tăng trưởng hai con số cần thị trường hàng hóa phái sinh đủ mạnh",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/tang-truong-hai-con-so-can-thi-truong-hang-hoa-phai-sinh-du-manh.htm",
@@ -575,12 +563,6 @@
     "title": "Khối ngoại bán ròng hơn nghìn tỷ đồng, mã LPB gây chú ý",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/khoi-ngoai-ban-rong-hon-nghin-ty-dong-ma-lpb-gay-chu-y-20261118151354873.htm",
-    "time": "18/11 16:00"
-   },
-   {
-    "title": "Dòng vốn mới, vị thế mới của chứng khoán Việt Nam: Nâng hạng rồi, còn gì phía trước?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/dong-von-moi-vi-the-moi-cua-chung-khoan-viet-nam-nang-hang-roi-con-gi-phia-truoc-100261113161752132.htm",
     "time": "18/11 16:00"
    },
    {
@@ -648,6 +630,24 @@
     "source": "CafeF",
     "url": "https://cafef.vn/fpt-thung-day-loat-ctck-dua-ra-khuyen-nghi-bat-ngo-188261118123609762.chn",
     "time": "18/11 13:07"
+   },
+   {
+    "title": "Dù Bầu Đức tuyên bố \"nếu 1-2 năm nữa mà lỗ, cứ kêu tôi ra chửi\": Cổ phiếu HAG xuống đáy 16 tháng, giảm gần 30% sau 1 năm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/du-bau-duc-tuyen-bo-neu-1-2-nam-nua-ma-lo-cu-keu-toi-ra-chui-co-phieu-hag-xuong-day-16-thang-giam-gan-30-sau-1-nam-188261118112837196.chn",
+    "time": "18/11 12:16"
+   },
+   {
+    "title": "Thị trường tiếp tục “tra tấn” tâm lý, khối ngoại bán ròng mạnh",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/thi-truong-tiep-tuc-tra-tan-tam-ly-khoi-ngoai-ban-rong-manh.htm",
+    "time": "18/11 12:06"
+   },
+   {
+    "title": "Bắt buộc xác thực danh tính điện tử quốc gia với tài khoản ngân hàng, chứng khoán",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/bat-buoc-xac-thuc-danh-tinh-dien-tu-quoc-gia-voi-tai-khoan-ngan-hang-chung-khoan.htm",
+    "time": "18/11 12:03"
    }
   ]
  },
@@ -657,7 +657,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/thai-nguyen-huy-ket-qua-lua-chon-nha-dau-tu-khu-do-thi-nghin-ty-188261119102340288.chn",
    "articles": [
@@ -770,16 +770,16 @@
      "time": "18/11 20:02"
     },
     {
-     "title": "Lộ diện khu đô thị gần 10.000 tỉ đồng, rộng 3,26 triệu m², có sân golf ở Đà Nẵng",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/lo-dien-khu-do-thi-gan-10000-ti-dong-rong-326-trieu-m-co-san-golf-o-da-nang-100261118174053355.htm",
-     "time": "18/11 18:03"
-    },
-    {
      "title": "Saigontourist Group không được thuê đất xây Bến tàu Du lịch Nam Sài Gòn",
      "source": "CafeF",
      "url": "https://cafef.vn/saigontourist-group-khong-duoc-thue-dat-xay-ben-tau-du-lich-nam-sai-gon-188261118172426165.chn",
      "time": "18/11 17:24"
+    },
+    {
+     "title": "Đại diện TP Hà Nội nói gì trong phiên xét xử ông Lê Thanh Thản",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dai-dien-tp-ha-noi-noi-gi-trong-phien-xet-xu-ong-le-thanh-than-188261118145147001.chn",
+     "time": "18/11 15:51"
     }
    ]
   },
@@ -787,7 +787,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "19 bài trong khung giờ, từ 7 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/gia-vang-boc-hoi-hon-30-tu-dinh-chuyen-gia-chi-ra-tin-hieu-tao-day-quan-trong-188261119104559267.chn",
    "articles": [
@@ -868,12 +868,6 @@
      "source": "VietnamNet",
      "url": "https://vietnamnet.vn/gia-vang-hom-nay-18-11-thung-day-mot-nam-ap-luc-giam-van-lon-2576068.html",
      "time": "18/11 20:21"
-    },
-    {
-     "title": "Dự kiến thanh tra SJC, DOJI, PNJ, Phú Quý, Bảo Tín Minh Châu về phòng, chống rửa tiền",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/du-kien-thanh-tra-sjc-doji-pnj-phu-quy-bao-tin-minh-chau-ve-phong-chong-rua-tien-100261118174459451.htm",
-     "time": "18/11 18:11"
     },
     {
      "title": "Nóng: Bảo Tín Minh Châu, PNJ, DOJI, SJC vào danh sách thanh tra năm 2027",
@@ -1098,6 +1092,12 @@
      "time": "19/11 08:32"
     },
     {
+     "title": "FPT Retail phát triển hai trụ cột bán lẻ, chú trọng công nghệ và trải nghiệm khách hàng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vietcap-dinh-gia-long-chau-hon-44000-ty-dong-gap-18-lan-fpt-shop-he-lo-nhom-co-dong-dac-biet-nam-hon-11-von-18826111822215302.chn",
+     "time": "19/11 00:02"
+    },
+    {
      "title": "Đẩy mạnh công nghệ, ứng dụng AI giám sát thị trường chứng khoán",
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/day-manh-cong-nghe-ung-dung-ai-giam-sat-thi-truong-chung-khoan-185261118181913447.htm",
@@ -1108,12 +1108,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/han-quoc-can-40-nam-trung-quoc-can-30-nam-nhung-viet-nam-chi-co-5-nam-de-hoan-thanh-muc-tieu-lon-ve-khoa-hoc-va-cong-nghe-chuyen-gia-noi-gi-188261118141915935.chn",
      "time": "18/11 15:06"
-    },
-    {
-     "title": "Ra lệnh bắt tạm giam tài xế xe ôm công nghệ Huỳnh Trung Huy SN 2001",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ra-lenh-bat-tam-giam-tai-xe-xe-om-cong-nghe-huynh-trung-huy-sn-2001-188261118120828829.chn",
-     "time": "18/11 12:09"
     }
    ]
   }
@@ -1124,12 +1118,12 @@
    "2026-11-19T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 74,
+   "CafeF": 73,
    "VnEconomy": 19,
    "Thanh Niên": 16,
-   "Tuổi Trẻ": 16,
    "Dân trí": 15,
    "VietnamNet": 12,
+   "Tuổi Trẻ": 11,
    "VnExpress": 11,
    "Vietstock": 9
   },
