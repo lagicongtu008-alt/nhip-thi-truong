@@ -3,10 +3,10 @@
  "label": "Chiều 20/11/2026 (thứ Sáu)",
  "date": "2026-11-20",
  "session": "chieu",
- "updatedAt": "2026-11-20T01:39:03+07:00",
+ "updatedAt": "2026-11-20T02:28:47+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 20/11 – 01:39 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 20/11 – 02:28 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -38,7 +38,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 20/11 – 01:39 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 20/11 – 02:28 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -112,14 +112,23 @@
    ]
   },
   {
-   "name": "Công nghệ – viễn thông",
+   "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/chuyen-gia-ly-giai-nguyen-nhan-gia-vang-giam-soc-188261120014541813.chn",
+   "articles": [
+    {
+     "title": "Chuyên gia lý giải nguyên nhân giá vàng giảm sốc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chuyen-gia-ly-giai-nguyen-nhan-gia-vang-giam-soc-188261120014541813.chn",
+     "time": "20/11 01:44"
+    }
+   ]
   },
   {
-   "name": "Vàng – trang sức",
+   "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
@@ -143,10 +152,10 @@
  "rss": {
   "window": [
    "2026-11-20T00:00:00+07:00",
-   "2026-11-20T01:39:03+07:00"
+   "2026-11-20T02:28:47+07:00"
   ],
   "sources": {
-   "CafeF": 6
+   "CafeF": 7
   },
   "failed": []
  }
