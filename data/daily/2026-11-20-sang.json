@@ -3,10 +3,10 @@
  "label": "Sáng 20/11/2026 (thứ Sáu)",
  "date": "2026-11-20",
  "session": "sang",
- "updatedAt": "2026-11-20T15:32:02+07:00",
+ "updatedAt": "2026-11-20T18:55:58+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 38 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 19/11 – 12:00 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 36 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 19/11 – 12:00 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -180,18 +180,6 @@
     "time": "19/11 17:30"
    },
    {
-    "title": "NCB lọt Top 6 Nơi làm việc tốt nhất ngành Ngân hàng",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/ncb-lot-top-6-noi-lam-viec-tot-nhat-nganh-ngan-hang-100261119175834699.htm",
-    "time": "19/11 17:30"
-   },
-   {
-    "title": "Thủ tướng: Đưa chứng khoán trở thành kênh huy động vốn trung và dài hạn chủ lực nền kinh tế",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/thu-tuong-dua-chung-khoan-tro-thanh-kenh-huy-dong-von-trung-va-dai-han-chu-luc-nen-kinh-te-100261119150627319.htm",
-    "time": "19/11 17:27"
-   },
-   {
     "title": "Tín dụng đen: Công nhân thường xuyên bị đòi nợ, gây sức ép",
     "source": "CafeF",
     "url": "https://cafef.vn/tin-dung-den-cong-nhan-thuong-xuyen-bi-doi-no-gay-suc-ep-188261119161622784.chn",
@@ -272,7 +260,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 44 bài về chứng khoán từ 7 nguồn (12:00 19/11 – 12:00 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 43 bài về chứng khoán từ 7 nguồn (12:00 19/11 – 12:00 20/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -446,12 +434,6 @@
     "time": "19/11 17:58"
    },
    {
-    "title": "Thủ tướng: Đưa chứng khoán trở thành kênh huy động vốn trung và dài hạn chủ lực nền kinh tế",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/thu-tuong-dua-chung-khoan-tro-thanh-kenh-huy-dong-von-trung-va-dai-han-chu-luc-nen-kinh-te-100261119150627319.htm",
-    "time": "19/11 17:27"
-   },
-   {
     "title": "Chứng khoán mất mốc 1.700 điểm, một mã bị khối ngoại bán liên tục 8 phiên",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-mat-moc-1700-diem-mot-ma-bi-khoi-ngoai-ban-lien-tuc-8-phien-20261119164059625.htm",
@@ -575,136 +557,6 @@
  },
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
-  {
-   "name": "Bất động sản",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-co-gan-1-4-tong-du-no-lien-quan-den-bat-dong-san-dua-ra-nhan-dinh-dang-chu-y-ve-trien-vong-thi-truong-188261120112817945.chn",
-   "articles": [
-    {
-     "title": "Ngân hàng lớn nhất Việt Nam có gần 1/4 tổng dư nợ liên quan đến bất động sản, đưa ra nhận định đáng chú ý về triển vọng thị trường",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-co-gan-1-4-tong-du-no-lien-quan-den-bat-dong-san-dua-ra-nhan-dinh-dang-chu-y-ve-trien-vong-thi-truong-188261120112817945.chn",
-     "time": "20/11 11:27"
-    },
-    {
-     "title": "Đấu giá đất ở: Chính thức 'chốt' mức tiền đặt trước lên tới 50%",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dau-gia-dat-o-chinh-thuc-chot-muc-tien-dat-truoc-len-toi-50-188261120100432896.chn",
-     "time": "20/11 10:44"
-    },
-    {
-     "title": "Áp hệ số K, tiền sử dụng đất có thể tăng: Làm gì để giá nhà bớt áp lực?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ap-he-so-k-tien-su-dung-dat-co-the-tang-lam-gi-de-gia-nha-bot-ap-luc-188261120084235783.chn",
-     "time": "20/11 09:18"
-    },
-    {
-     "title": "Đồng Nai cho thuê hơn 1.500m2 đất làm Khu công nghiệp Long Đức 3",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dong-nai-cho-thue-hon-1500m2-dat-lam-khu-cong-nghiep-long-duc-3-188261120084428669.chn",
-     "time": "20/11 08:59"
-    },
-    {
-     "title": "“Kinh tế bạc” và xu hướng định hình mô hình bất động sản an cư mới tại Việt Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/kinh-te-bac-va-xu-huong-dinh-hinh-mo-hinh-bat-dong-san-an-cu-moi-tai-viet-nam-188261120080201725.chn",
-     "time": "20/11 08:00"
-    },
-    {
-     "title": "Những điều chưa từng có trên thị trường bất động sản trong vòng một thập kỷ qua",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chua-tung-co-bat-dong-san-giam-gia-khap-noi-nha-dau-tu-chap-nhan-cat-lo-toi-20-van-kho-thoat-hang-188261112164420551.chn",
-     "time": "20/11 07:45"
-    },
-    {
-     "title": "Thành phố đáng sống bậc nhất Việt Nam sắp đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng, quy mô hơn 183ha, dân số dự kiến gần 34.000 người",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thanh-pho-dang-song-bac-nhat-viet-nam-sap-dau-thau-quoc-te-khu-do-thi-gan-19000-ty-dong-quy-mo-hon-183ha-dan-so-du-kien-gan-34000-nguoi-188261119224749258.chn",
-     "time": "20/11 07:19"
-    },
-    {
-     "title": "Vingroup khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/vingroup-khoi-cong-du-an-nha-o-xa-hoi-lon-nhat-viet-nam-185261119215821481.htm",
-     "time": "20/11 06:14"
-    },
-    {
-     "title": "Quỹ bảo trì: Nguồn cơn xung đột ở chung cư",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/quy-bao-tri-nguon-con-xung-dot-o-chung-cu-185261119213547675.htm",
-     "time": "20/11 06:00"
-    },
-    {
-     "title": "Thủ tướng: Trình Quốc hội xem xét miễn thuế TNDN, không tính tiền sử dụng đất đối với các cơ sở giáo dục không vì mục tiêu lợi nhuận, kể cả công và tư",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thu-tuong-trinh-quoc-hoi-xem-xet-mien-thue-tndn-khong-tinh-tien-su-dung-dat-doi-voi-cac-co-so-giao-duc-khong-vi-muc-tieu-loi-nhuan-ke-ca-cong-va-tu-188261119223118597.chn",
-     "time": "19/11 22:30"
-    },
-    {
-     "title": "Viện kiểm sát: Không làm đúng cam kết, ông Lê Thanh Thản phải bồi thường căn hộ theo giá thị trường",
-     "source": "CafeF",
-     "url": "https://cafef.vn/vien-kiem-sat-khong-lam-dung-cam-ket-ong-le-thanh-than-phai-boi-thuong-can-ho-theo-gia-thi-truong-188261119203810675.chn",
-     "time": "19/11 20:54"
-    },
-    {
-     "title": "Giá thuê đất khu công nghiệp phía Nam quý 3/2026: TP.HCM lập đỉnh mới, Tây Ninh giảm sâu hút khách",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-thue-dat-khu-cong-nghiep-phia-nam-quy-3-2026-tphcm-lap-dinh-moi-tay-ninh-giam-sau-hut-khach-188261119204744743.chn",
-     "time": "19/11 20:47"
-    },
-    {
-     "title": "Sau cuộc đua giá thuê, bất động sản công nghiệp lấy gì ‘hút’ khách?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/sau-cuoc-dua-gia-thue-bat-dong-san-cong-nghiep-lay-gi-hut-khach-100261119151406448.htm",
-     "time": "19/11 20:07"
-    },
-    {
-     "title": "Đà Nẵng đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/da-nang-dau-thau-quoc-te-khu-do-thi-gan-19-000-ty-dong-5146681.html",
-     "time": "19/11 19:01"
-    },
-    {
-     "title": "Phú Mỹ Hưng hỗ trợ lãi vay mua căn hộ The Aristo",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/phu-my-hung-ho-tro-lai-vay-mua-can-ho-the-aristo-100261119174111957.htm",
-     "time": "19/11 19:00"
-    },
-    {
-     "title": "Thời gian đi lại đang thay đổi cách người mua chọn căn hộ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thoi-gian-di-lai-dang-thay-doi-cach-nguoi-mua-chon-can-ho-188261119183339342.chn",
-     "time": "19/11 18:33"
-    },
-    {
-     "title": "Dự án nhà ở xã hội lớn nhất Việt Nam của tỷ phú Phạm Nhật Vượng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/du-an-nha-o-lon-nhat-viet-nam-cua-ty-phu-pham-nhat-vuong-188261119155605922.chn",
-     "time": "19/11 17:06"
-    },
-    {
-     "title": "Vingroup của tỷ phú Phạm Nhật Vượng chính thức khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/vingroup-cua-ty-phu-pham-nhat-vuong-chinh-thuc-khoi-cong-du-an-nha-o-xa-hoi-lon-nhat-viet-nam-188261119151901347.chn",
-     "time": "19/11 15:22"
-    },
-    {
-     "title": "Danh tính cựu sinh viên biến khoản vay 10.000 USD thành đế chế bất động sản 70 tỷ USD, hào phóng tặng gần nửa tỷ USD cho trường cũ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/danh-tinh-cuu-sinh-vien-bien-khoan-vay-10000-usd-thanh-de-che-bat-dong-san-70-ty-usd-hao-phong-tang-gan-nua-ty-usd-cho-truong-cu-188261119150745658.chn",
-     "time": "19/11 15:17"
-    },
-    {
-     "title": "Chung cư giảm sức hút, đất nền tại thành phố có bờ biển dài nhất Việt Nam có diễn biến đáng chú ý",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chung-cu-giam-suc-hut-dat-nen-tai-thanh-pho-co-bo-bien-dai-nhat-viet-nam-co-dien-bien-dang-chu-y-188261119143831743.chn",
-     "time": "19/11 14:38"
-    }
-   ]
-  },
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
@@ -836,10 +688,140 @@
    ]
   },
   {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-co-gan-1-4-tong-du-no-lien-quan-den-bat-dong-san-dua-ra-nhan-dinh-dang-chu-y-ve-trien-vong-thi-truong-188261120112817945.chn",
+   "articles": [
+    {
+     "title": "Ngân hàng lớn nhất Việt Nam có gần 1/4 tổng dư nợ liên quan đến bất động sản, đưa ra nhận định đáng chú ý về triển vọng thị trường",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ngan-hang-lon-nhat-viet-nam-co-gan-1-4-tong-du-no-lien-quan-den-bat-dong-san-dua-ra-nhan-dinh-dang-chu-y-ve-trien-vong-thi-truong-188261120112817945.chn",
+     "time": "20/11 11:27"
+    },
+    {
+     "title": "Đấu giá đất ở: Chính thức 'chốt' mức tiền đặt trước lên tới 50%",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dau-gia-dat-o-chinh-thuc-chot-muc-tien-dat-truoc-len-toi-50-188261120100432896.chn",
+     "time": "20/11 10:44"
+    },
+    {
+     "title": "Áp hệ số K, tiền sử dụng đất có thể tăng: Làm gì để giá nhà bớt áp lực?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ap-he-so-k-tien-su-dung-dat-co-the-tang-lam-gi-de-gia-nha-bot-ap-luc-188261120084235783.chn",
+     "time": "20/11 09:18"
+    },
+    {
+     "title": "Đồng Nai cho thuê hơn 1.500m2 đất làm Khu công nghiệp Long Đức 3",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dong-nai-cho-thue-hon-1500m2-dat-lam-khu-cong-nghiep-long-duc-3-188261120084428669.chn",
+     "time": "20/11 08:59"
+    },
+    {
+     "title": "“Kinh tế bạc” và xu hướng định hình mô hình bất động sản an cư mới tại Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/kinh-te-bac-va-xu-huong-dinh-hinh-mo-hinh-bat-dong-san-an-cu-moi-tai-viet-nam-188261120080201725.chn",
+     "time": "20/11 08:00"
+    },
+    {
+     "title": "Những điều chưa từng có trên thị trường bất động sản trong vòng một thập kỷ qua",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chua-tung-co-bat-dong-san-giam-gia-khap-noi-nha-dau-tu-chap-nhan-cat-lo-toi-20-van-kho-thoat-hang-188261112164420551.chn",
+     "time": "20/11 07:45"
+    },
+    {
+     "title": "Thành phố đáng sống bậc nhất Việt Nam sắp đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng, quy mô hơn 183ha, dân số dự kiến gần 34.000 người",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thanh-pho-dang-song-bac-nhat-viet-nam-sap-dau-thau-quoc-te-khu-do-thi-gan-19000-ty-dong-quy-mo-hon-183ha-dan-so-du-kien-gan-34000-nguoi-188261119224749258.chn",
+     "time": "20/11 07:19"
+    },
+    {
+     "title": "Vingroup khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/vingroup-khoi-cong-du-an-nha-o-xa-hoi-lon-nhat-viet-nam-185261119215821481.htm",
+     "time": "20/11 06:14"
+    },
+    {
+     "title": "Quỹ bảo trì: Nguồn cơn xung đột ở chung cư",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/quy-bao-tri-nguon-con-xung-dot-o-chung-cu-185261119213547675.htm",
+     "time": "20/11 06:00"
+    },
+    {
+     "title": "Thủ tướng: Trình Quốc hội xem xét miễn thuế TNDN, không tính tiền sử dụng đất đối với các cơ sở giáo dục không vì mục tiêu lợi nhuận, kể cả công và tư",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thu-tuong-trinh-quoc-hoi-xem-xet-mien-thue-tndn-khong-tinh-tien-su-dung-dat-doi-voi-cac-co-so-giao-duc-khong-vi-muc-tieu-loi-nhuan-ke-ca-cong-va-tu-188261119223118597.chn",
+     "time": "19/11 22:30"
+    },
+    {
+     "title": "Viện kiểm sát: Không làm đúng cam kết, ông Lê Thanh Thản phải bồi thường căn hộ theo giá thị trường",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vien-kiem-sat-khong-lam-dung-cam-ket-ong-le-thanh-than-phai-boi-thuong-can-ho-theo-gia-thi-truong-188261119203810675.chn",
+     "time": "19/11 20:54"
+    },
+    {
+     "title": "Giá thuê đất khu công nghiệp phía Nam quý 3/2026: TP.HCM lập đỉnh mới, Tây Ninh giảm sâu hút khách",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-thue-dat-khu-cong-nghiep-phia-nam-quy-3-2026-tphcm-lap-dinh-moi-tay-ninh-giam-sau-hut-khach-188261119204744743.chn",
+     "time": "19/11 20:47"
+    },
+    {
+     "title": "Sau cuộc đua giá thuê, bất động sản công nghiệp lấy gì ‘hút’ khách?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/sau-cuoc-dua-gia-thue-bat-dong-san-cong-nghiep-lay-gi-hut-khach-100261119151406448.htm",
+     "time": "19/11 20:07"
+    },
+    {
+     "title": "Đà Nẵng đấu thầu quốc tế khu đô thị gần 19.000 tỷ đồng",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/da-nang-dau-thau-quoc-te-khu-do-thi-gan-19-000-ty-dong-5146681.html",
+     "time": "19/11 19:01"
+    },
+    {
+     "title": "Phú Mỹ Hưng hỗ trợ lãi vay mua căn hộ The Aristo",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/phu-my-hung-ho-tro-lai-vay-mua-can-ho-the-aristo-100261119174111957.htm",
+     "time": "19/11 19:00"
+    },
+    {
+     "title": "Thời gian đi lại đang thay đổi cách người mua chọn căn hộ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thoi-gian-di-lai-dang-thay-doi-cach-nguoi-mua-chon-can-ho-188261119183339342.chn",
+     "time": "19/11 18:33"
+    },
+    {
+     "title": "Dự án nhà ở xã hội lớn nhất Việt Nam của tỷ phú Phạm Nhật Vượng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/du-an-nha-o-lon-nhat-viet-nam-cua-ty-phu-pham-nhat-vuong-188261119155605922.chn",
+     "time": "19/11 17:06"
+    },
+    {
+     "title": "Vingroup của tỷ phú Phạm Nhật Vượng chính thức khởi công dự án nhà ở xã hội lớn nhất Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vingroup-cua-ty-phu-pham-nhat-vuong-chinh-thuc-khoi-cong-du-an-nha-o-xa-hoi-lon-nhat-viet-nam-188261119151901347.chn",
+     "time": "19/11 15:22"
+    },
+    {
+     "title": "Danh tính cựu sinh viên biến khoản vay 10.000 USD thành đế chế bất động sản 70 tỷ USD, hào phóng tặng gần nửa tỷ USD cho trường cũ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/danh-tinh-cuu-sinh-vien-bien-khoan-vay-10000-usd-thanh-de-che-bat-dong-san-70-ty-usd-hao-phong-tang-gan-nua-ty-usd-cho-truong-cu-188261119150745658.chn",
+     "time": "19/11 15:17"
+    },
+    {
+     "title": "Chung cư giảm sức hút, đất nền tại thành phố có bờ biển dài nhất Việt Nam có diễn biến đáng chú ý",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chung-cu-giam-suc-hut-dat-nen-tai-thanh-pho-co-bo-bien-dai-nhat-viet-nam-co-dien-bien-dang-chu-y-188261119143831743.chn",
+     "time": "19/11 14:38"
+    }
+   ]
+  },
+  {
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "19 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "18 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/dai-gia-goc-thanh-hoa-tung-thi-cong-mai-vom-thep-lon-nhat-hanh-tinh-da-hoan-thanh-khoang-70-ket-cau-cay-cau-co-thiet-ke-dac-biet-tai-thanh-pho-giau-nhat-viet-nam-188261120113228528.chn",
    "articles": [
@@ -860,6 +842,12 @@
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/van-chua-the-danh-gia-day-du-nang-luc-ket-noi-giao-thong-toi-san-bay-longthanh-185261120092229568.htm",
      "time": "20/11 10:27"
+    },
+    {
+     "title": "Một hòn đảo của Việt Nam được tạo nên từ những đợt phun trào núi lửa từ hàng triệu năm trước sắp được xây sân bay, cáp treo, tàu điện 76.600 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mot-hon-dao-cua-viet-nam-duoc-tao-nen-tu-nhung-dot-phun-trao-nui-lua-tu-hang-trieu-nam-truoc-sap-duoc-xay-san-bay-cap-treo-tau-dien-76600-ty-dong-188261120145724484.chn",
+     "time": "20/11 00:00"
     },
     {
      "title": "TPHCM lên phương án chống ùn tắc sân bay Long Thành",
@@ -886,22 +874,10 @@
      "time": "19/11 18:44"
     },
     {
-     "title": "Metro số 1 TP.HCM đông khách thấy rõ",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/metro-so-1-tphcm-dong-khach-thay-ro-10026111917465136.htm",
-     "time": "19/11 18:04"
-    },
-    {
      "title": "Chủ tịch UBND tỉnh Đắk Lắk kiểm tra, đôn đốc thi công các dự án trọng điểm",
      "source": "CafeF",
      "url": "https://cafef.vn/chu-tich-ubnd-tinh-dak-lak-kiem-tra-don-doc-thi-cong-cac-du-an-trong-diem-18826111918192112.chn",
      "time": "19/11 18:00"
-    },
-    {
-     "title": "Sân bay Long Thành hoạt động từ ngày 24-12, với 20-30 chuyến bay mỗi ngày",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/san-bay-long-thanh-hoat-dong-tu-ngay-24-12-voi-20-30-chuyen-bay-moi-ngay-100261119173245108.htm",
-     "time": "19/11 17:50"
     },
     {
      "title": "TP.HCM chuẩn bị phương án giao thông phục vụ sân bay Long Thành",
@@ -1097,7 +1073,7 @@
    "CafeF": 77,
    "Dân trí": 19,
    "Thanh Niên": 19,
-   "Tuổi Trẻ": 16,
+   "Tuổi Trẻ": 11,
    "VnExpress": 11,
    "VietnamNet": 10,
    "VnEconomy": 10,
