@@ -3,10 +3,10 @@
  "label": "Sáng 21/11/2026 (thứ Bảy)",
  "date": "2026-11-21",
  "session": "sang",
- "updatedAt": "2026-11-21T11:17:02+07:00",
+ "updatedAt": "2026-11-21T15:17:07+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 23 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 20/11 – 11:17 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 24 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 20/11 – 12:00 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -41,6 +41,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "Chất lượng tài sản các ngân hàng suy giảm trên diện rộng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chat-luong-tai-san-cac-ngan-hang-suy-giam-tren-dien-rong-188261121113245238.chn",
+    "time": "21/11 11:32"
+   },
    {
     "title": "Ngân hàng rao bán khoản nợ của ông Lê Hải Trà",
     "source": "Dân trí",
@@ -182,7 +188,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 39 bài về chứng khoán từ 7 nguồn (12:00 20/11 – 11:17 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 39 bài về chứng khoán từ 7 nguồn (12:00 20/11 – 12:00 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -476,10 +482,16 @@
      "time": "21/11 10:41"
     },
     {
-     "title": "Nhà ở xã hội không được bán lại tự do từ 1/7/2027",
+     "title": "Nhà ở xã hội được chuyển nhượng theo giá thị trường nhưng phải đúng đối tượng",
      "source": "VnExpress",
-     "url": "https://vnexpress.net/nha-o-xa-hoi-khong-duoc-ban-lai-tu-do-tu-1-7-2027-5147341.html",
+     "url": "https://vnexpress.net/nha-o-xa-hoi-duoc-chuyen-nhuong-theo-gia-thi-truong-nhung-phai-dung-doi-tuong-5147341.html",
      "time": "21/11 10:24"
+    },
+    {
+     "title": "Luật Kinh doanh bất động sản mới: khống chế tiền đặt cọc, tiền thu trước, siết điều kiện môi giới",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/luat-kinh-doanh-bat-dong-san-moi-khong-che-tien-dat-coc-tien-thu-truoc-siet-dieu-kien-moi-gioi-100261121090833189.htm",
+     "time": "21/11 10:05"
     },
     {
      "title": "Liên danh có Geleximco của đại gia Vũ Văn Tiền chuẩn bị khởi công khu đô thị 296ha hơn 18.500 tỷ đồng: Bắt đầu thu hồi đất, 15,5ha dự kiến bàn giao vào tháng 2/2027",
@@ -576,12 +588,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/hang-tram-can-ho-chung-cu-khu-tap-the-di-doi-sau-mo-rong-quoc-lo-1a-qua-ha-noi-188261120143730034.chn",
      "time": "20/11 15:37"
-    },
-    {
-     "title": "Quốc hội \"chốt\" giữ khung tiền đặt trước 20%-50% đối với đấu giá đất ở",
-     "source": "CafeF",
-     "url": "https://cafef.vn/quoc-hoi-chot-giu-khung-tien-dat-truoc-20-50-doi-voi-dau-gia-dat-o-188261120112659155.chn",
-     "time": "20/11 15:00"
     }
    ]
   },
@@ -589,7 +595,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "19 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "18 bài trong khung giờ, từ 7 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/gia-vang-lao-doc-chuyen-gia-dua-ra-du-bao-bat-ngo-188261121101010928.chn",
    "articles": [
@@ -610,12 +616,6 @@
      "source": "VnExpress",
      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-11-5147347.html",
      "time": "21/11 09:56"
-    },
-    {
-     "title": "Giá vàng hôm nay 21/11: Vàng trong nước giảm 700.000 đồng/lượng",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-21-11-the-gioi-di-xuong-vang-sjc-giam-manh-2577216.html",
-     "time": "21/11 09:23"
     },
     {
      "title": "Giá vàng giảm chóng mặt về gần 3.500 USD/oz khi cổ phiếu AI bị bán tháo",
@@ -822,6 +822,58 @@
    ]
   },
   {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 3,
+   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/xang-giam-5-lan-lien-tiep-gia-to-pho-o-banh-mi-nhieu-noi-van-chua-nhuc-nhich-20261121112452337.htm",
+   "articles": [
+    {
+     "title": "Xăng giảm 5 lần liên tiếp: Giá tô phở, ổ bánh mì nhiều nơi vẫn chưa “nhúc nhích”",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/xang-giam-5-lan-lien-tiep-gia-to-pho-o-banh-mi-nhieu-noi-van-chua-nhuc-nhich-20261121112452337.htm",
+     "time": "21/11 12:03"
+    },
+    {
+     "title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
+     "time": "21/11 09:18"
+    },
+    {
+     "title": "Doanh nghiệp tự quyết giá xăng, cửa hàng bán lẻ lo bị ép chiết khấu",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/doanh-nghiep-tu-quyet-gia-xang-cua-hang-ban-le-lo-bi-ep-chiet-khau-100261120221500323.htm",
+     "time": "21/11 08:23"
+    },
+    {
+     "title": "Giá xăng dầu hôm nay 21/11: Dầu trong nước về sát mốc 26.000 đồng/lít",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-21-11-dau-trong-nuoc-sat-26-000-dong-lit-2577247.html",
+     "time": "21/11 07:57"
+    },
+    {
+     "title": "Ngân hàng muốn đấu giá tài sản 228 tỷ của đại gia xăng dầu từng nộp thuế lớn nhất tỉnh",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/ngan-hang-muon-ban-dau-gia-tai-san-cua-dai-gia-xang-dau-2576559.html",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Xăng giảm 5 lần, tô phở, dĩa cơm vẫn chưa chịu giảm giá",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/xang-giam-5-lan-to-pho-dia-com-van-chua-chiu-giam-gia-100261120182649775.htm",
+     "time": "20/11 19:19"
+    },
+    {
+     "title": "Giá xăng giảm 5 kỳ liên tiếp, vé máy bay Tết vẫn tăng",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-5-ky-lien-tiep-ve-may-bay-tet-van-tang-20261120153640524.htm",
+     "time": "20/11 15:45"
+    }
+   ]
+  },
+  {
    "name": "Năng lượng – điện",
    "status": "soi-noi",
    "heat": 3,
@@ -872,67 +924,21 @@
      "time": "20/11 13:55"
     }
    ]
-  },
-  {
-   "name": "Dầu khí – xăng dầu",
-   "status": "soi-noi",
-   "heat": 3,
-   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
-   "source": "VnEconomy",
-   "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
-   "articles": [
-    {
-     "title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
-     "time": "21/11 09:18"
-    },
-    {
-     "title": "Doanh nghiệp tự quyết giá xăng, cửa hàng bán lẻ lo bị ép chiết khấu",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/doanh-nghiep-tu-quyet-gia-xang-cua-hang-ban-le-lo-bi-ep-chiet-khau-100261120221500323.htm",
-     "time": "21/11 08:23"
-    },
-    {
-     "title": "Giá xăng dầu hôm nay 21/11: Dầu trong nước về sát mốc 26.000 đồng/lít",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-21-11-dau-trong-nuoc-sat-26-000-dong-lit-2577247.html",
-     "time": "21/11 07:57"
-    },
-    {
-     "title": "Ngân hàng muốn đấu giá tài sản 228 tỷ của đại gia xăng dầu từng nộp thuế lớn nhất tỉnh",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/ngan-hang-muon-ban-dau-gia-tai-san-cua-dai-gia-xang-dau-2576559.html",
-     "time": "21/11 06:00"
-    },
-    {
-     "title": "Xăng giảm 5 lần, tô phở, dĩa cơm vẫn chưa chịu giảm giá",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/xang-giam-5-lan-to-pho-dia-com-van-chua-chiu-giam-gia-100261120182649775.htm",
-     "time": "20/11 19:19"
-    },
-    {
-     "title": "Giá xăng giảm 5 kỳ liên tiếp, vé máy bay Tết vẫn tăng",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-5-ky-lien-tiep-ve-may-bay-tet-van-tang-20261120153640524.htm",
-     "time": "20/11 15:45"
-    }
-   ]
   }
  ],
  "rss": {
   "window": [
    "2026-11-20T12:00:00+07:00",
-   "2026-11-21T11:17:02+07:00"
+   "2026-11-21T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 62,
-   "Tuổi Trẻ": 15,
-   "VnExpress": 15,
-   "Dân trí": 13,
+   "CafeF": 63,
+   "Tuổi Trẻ": 17,
+   "VnExpress": 16,
+   "Dân trí": 15,
    "VnEconomy": 12,
    "Thanh Niên": 9,
-   "VietnamNet": 7,
+   "VietnamNet": 6,
    "Vietstock": 6
   },
   "failed": []
