@@ -3,7 +3,7 @@
  "label": "Sáng 21/11/2026 (thứ Bảy)",
  "date": "2026-11-21",
  "session": "sang",
- "updatedAt": "2026-11-21T15:17:07+07:00",
+ "updatedAt": "2026-11-21T18:27:12+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 24 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 20/11 – 12:00 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -188,7 +188,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 39 bài về chứng khoán từ 7 nguồn (12:00 20/11 – 12:00 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 38 bài về chứng khoán từ 7 nguồn (12:00 20/11 – 12:00 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -446,12 +446,6 @@
     "time": "20/11 12:54"
    },
    {
-    "title": "Chứng khoán 20-11: Mất mốc 1.700 điểm, VN-Index có thể lùi về đâu?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-20-11-mat-moc-1700-diem-vn-index-co-the-lui-ve-dau-100261120073637195.htm",
-    "time": "20/11 12:45"
-   },
-   {
     "title": "Đà giảm chưa dừng, VN-Index về sát đáy 7 tháng, khối ngoại bán ròng đột biến",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/da-giam-chua-dung-vn-index-ve-sat-day-7-thang-khoi-ngoai-ban-rong-dot-bien.htm",
@@ -595,7 +589,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "17 bài trong khung giờ, từ 6 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/gia-vang-lao-doc-chuyen-gia-dua-ra-du-bao-bat-ngo-188261121101010928.chn",
    "articles": [
@@ -700,12 +694,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-vang-co-tuan-giam-manh-nhat-tu-thang-3-khi-fed-giu-lap-truong-cung-ran-20261116150737995.htm",
      "time": "20/11 13:20"
-    },
-    {
-     "title": "Giá vàng trưa 20-11 về sát 3.500 USD/ounce",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-vang-trua-nay-ve-sat-3500-usd-ounce-100261120123717525.htm",
-     "time": "20/11 13:16"
     }
    ]
   },
@@ -877,7 +865,7 @@
    "name": "Năng lượng – điện",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/xay-dung-lo-trinh-ap-dung-gia-dien-sinh-hoat-theo-khung-gio-cao-diem-thap-diem-188261121083740281.chn",
    "articles": [
@@ -916,12 +904,6 @@
      "source": "Tuổi Trẻ",
      "url": "https://tuoitre.vn/viet-nam-nhap-khau-lng-tang-gap-ba-lan-do-el-nino-100261120135533198.htm",
      "time": "20/11 15:19"
-    },
-    {
-     "title": "Điện gió sai phạm đất đai, nợ thuế, dừng chạy hơn 1,5 năm, sở ngành vẫn chưa làm rõ trách nhiệm",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/dien-gio-sai-pham-dat-dai-no-thue-dung-chay-hon-15-nam-so-nganh-van-chua-lam-ro-trach-nhiem-100261120085915945.htm",
-     "time": "20/11 13:55"
     }
    ]
   }
@@ -933,9 +915,9 @@
   ],
   "sources": {
    "CafeF": 63,
-   "Tuổi Trẻ": 17,
    "VnExpress": 16,
    "Dân trí": 15,
+   "Tuổi Trẻ": 14,
    "VnEconomy": 12,
    "Thanh Niên": 9,
    "VietnamNet": 6,
