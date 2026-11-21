@@ -1,0 +1,940 @@
+{
+ "key": "2026-11-21-sang",
+ "label": "Sáng 21/11/2026 (thứ Bảy)",
+ "date": "2026-11-21",
+ "session": "sang",
+ "updatedAt": "2026-11-21T11:17:02+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 23 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 20/11 – 11:17 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Ngành ngân hàng 9T/2026: Nợ xấu tăng lên 2,3%, áp lực vốn chưa hạ nhiệt",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nganh-ngan-hang-9t-2026-no-xau-tang-len-23-ap-luc-von-chua-ha-nhiet-188261121090137222.chn"
+   },
+   {
+    "title": "AgriS (SBT) dự kiến huy động 1.000 tỷ đồng trái phiếu, lãi suất 11,8%/năm để cơ cấu nợ vay",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/agris-sbt-du-kien-huy-dong-1000-ty-dong-trai-phieu-lai-suat-118-nam-de-co-cau-no-vay-188261121090001629.chn"
+   },
+   {
+    "title": "Giá USD hôm nay 21.11.2026: Ngân hàng tiếp tục tăng",
+    "impact": "trung-tinh",
+    "source": "Thanh Niên",
+    "url": "https://thanhnien.vn/gia-usd-hom-nay-21112026-ngan-hang-tiep-tuc-tang-185261121084917766.htm"
+   },
+   {
+    "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 3 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-3-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261120220140008.chn"
+   },
+   {
+    "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 12 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-12-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261120222928672.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Ngân hàng rao bán khoản nợ của ông Lê Hải Trà",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-rao-ban-khoan-no-cua-ong-le-hai-tra-20261121091923274.htm",
+    "time": "21/11 10:55"
+   },
+   {
+    "title": "Ngành ngân hàng 9T/2026: Nợ xấu tăng lên 2,3%, áp lực vốn chưa hạ nhiệt",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nganh-ngan-hang-9t-2026-no-xau-tang-len-23-ap-luc-von-chua-ha-nhiet-188261121090137222.chn",
+    "time": "21/11 09:01"
+   },
+   {
+    "title": "AgriS (SBT) dự kiến huy động 1.000 tỷ đồng trái phiếu, lãi suất 11,8%/năm để cơ cấu nợ vay",
+    "source": "CafeF",
+    "url": "https://cafef.vn/agris-sbt-du-kien-huy-dong-1000-ty-dong-trai-phieu-lai-suat-118-nam-de-co-cau-no-vay-188261121090001629.chn",
+    "time": "21/11 08:59"
+   },
+   {
+    "title": "Giá USD hôm nay 21.11.2026: Ngân hàng tiếp tục tăng",
+    "source": "Thanh Niên",
+    "url": "https://thanhnien.vn/gia-usd-hom-nay-21112026-ngan-hang-tiep-tuc-tang-185261121084917766.htm",
+    "time": "21/11 08:55"
+   },
+   {
+    "title": "IVB: Củng cố nền tảng kinh doanh, đầu tư vào con người hướng đến phát triển bền vững",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/ivb-cung-co-nen-tang-kinh-doanh-dau-tu-vao-con-nguoi-huong-den-phat-trien-ben-vung.htm",
+    "time": "21/11 08:00"
+   },
+   {
+    "title": "Vinhomes dự kiến huy động thêm 3.000 tỷ đồng trái phiếu",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vinhomes-du-kien-huy-dong-them-3000-ty-dong-trai-phieu-188261121063148805.chn",
+    "time": "21/11 07:31"
+   },
+   {
+    "title": "Ngân hàng muốn đấu giá tài sản 228 tỷ của đại gia xăng dầu từng nộp thuế lớn nhất tỉnh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/ngan-hang-muon-ban-dau-gia-tai-san-cua-dai-gia-xang-dau-2576559.html",
+    "time": "21/11 06:00"
+   },
+   {
+    "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 12 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-12-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261120222928672.chn",
+    "time": "21/11 05:27"
+   },
+   {
+    "title": "Ngày 21/11, gửi dưới 100 triệu đồng kỳ hạn 3 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-21-11-gui-duoi-100-trieu-dong-ky-han-3-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261120220140008.chn",
+    "time": "21/11 01:00"
+   },
+   {
+    "title": "Ngân hàng rao bán hai khoản nợ hơn 25 tỷ đồng của ông Lê Hải Trà",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/ngan-hang-rao-ban-hai-khoan-no-hon-25-ty-dong-cua-ong-le-hai-tra-5147249.html",
+    "time": "21/11 00:10"
+   },
+   {
+    "title": "Hàng loạt \"cá mập\" bất ngờ quay xe bán cổ phiếu ngân hàng, gom mạnh một nhóm cổ phiếu \"hot\"",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hang-loat-ca-map-bat-ngo-quay-xe-ban-co-phieu-ngan-hang-gom-manh-mot-nhom-co-phieu-hot-188261120121715102.chn",
+    "time": "21/11 00:03"
+   },
+   {
+    "title": "Thị trường IPO Mỹ lập kỷ lục về vốn huy động nhưng số thương vụ vẫn thấp",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/thi-truong-ipo-my-lap-ky-luc-ve-von-huy-dong-nhung-so-thuong-vu-van-thap.htm",
+    "time": "20/11 20:08"
+   },
+   {
+    "title": "Nợ cần chú ý tại nhiều ngân hàng tăng mạnh, vượt 255.500 tỷ đồng",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/no-can-chu-y-tai-nhieu-ngan-hang-tang-manh-vuot-255500-ty-dong-20261120193918748.htm",
+    "time": "20/11 19:57"
+   },
+   {
+    "title": "Cú lừa ngoạn mục tráo sổ đỏ, đóng giả chủ nhà để rút ruột ngân hàng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/cu-lua-ngoan-muc-trao-so-do-dong-gia-chu-nha-de-rut-ruot-ngan-hang-188261120160358792.chn",
+    "time": "20/11 17:21"
+   },
+   {
+    "title": "VPBank NEO ra mắt tính năng Quản lý tiền gửi theo nhóm",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/vpbank-neo-ra-mat-tinh-nang-quan-ly-tien-gui-theo-nhom-2577130.html",
+    "time": "20/11 16:40"
+   },
+   {
+    "title": "Ngân hàng rao bán nợ 'khủng' liên quan ông Lê Hải Trà, Hà Văn Thắm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngan-hang-rao-ban-no-khung-lien-quan-ong-le-hai-tra-ha-van-tham-188261120151747792.chn",
+    "time": "20/11 16:23"
+   },
+   {
+    "title": "VRB giảm 1% lãi suất vay kinh doanh, hỗ trợ hộ kinh doanh tăng vốn cuối năm",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/vrb-giam-1-lai-suat-vay-kinh-doanh-ho-tro-ho-kinh-doanh-tang-von-cuoi-nam-2577108.html",
+    "time": "20/11 16:00"
+   },
+   {
+    "title": "Phiên 20/11: Khối ngoại thẳng tay bán ròng gần 900 tỷ đồng, xả mạnh FPT cùng loạt cổ phiếu ngân hàng hot",
+    "source": "CafeF",
+    "url": "https://cafef.vn/phien-20-11-khoi-ngoai-thang-tay-ban-rong-gan-900-ty-dong-xa-manh-fpt-cung-loat-co-phieu-ngan-hang-hot-188261120154440739.chn",
+    "time": "20/11 15:45"
+   },
+   {
+    "title": "Phú Mỹ Hưng The Aristo: 122 căn hộ cao cấp, dự kiến lãi suất 0% khi nhận nhà",
+    "source": "CafeF",
+    "url": "https://cafef.vn/phu-my-hung-the-aristo-122-can-ho-cao-cap-du-kien-lai-suat-0-khi-nhan-nha-188261120141320206.chn",
+    "time": "20/11 14:30"
+   },
+   {
+    "title": "Ngân hàng sắp đấu giá hai khoản nợ liên quan ông Lê Hải Trà",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/ngan-hang-chuan-bi-dau-gia-khoan-no-lien-quan-den-ong-le-hai-tra-2576967.html",
+    "time": "20/11 13:43"
+   },
+   {
+    "title": "Agribank, HDBank dẫn đầu nhóm ngân hàng và dịch vụ tài chính tại VARI 2026",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/agribank-hdbank-dan-dau-nhom-ngan-hang-va-dich-vu-tai-chinh-tai-vari-2026.htm",
+    "time": "20/11 12:44"
+   },
+   {
+    "title": "4 ngân hàng có lãi suất cho vay bình quân vượt 11%/năm",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/4-ngan-hang-co-lai-suat-cho-vay-binh-quan-vuot-11nam-20261120110325612.htm",
+    "time": "20/11 12:13"
+   },
+   {
+    "title": "Món nợ gần 1.000 tỷ đồng dưới thời cựu Chủ tịch Ocean Bank Hà Văn Thắm đang được rao bán",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mon-no-gan-1000-ty-dong-duoi-thoi-cuu-chu-tich-ocean-bank-ha-van-tham-dang-duoc-rao-ban-188261120120208027.chn",
+    "time": "20/11 12:01"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 39 bài về chứng khoán từ 7 nguồn (12:00 20/11 – 11:17 21/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Theo dấu dòng tiền cá mập 20/11: Khối ngoại và tự doanh giao dịch ngược chiều tại POW",
+    "impact": "trung-tinh",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-2011-khoi-ngoai-va-tu-doanh-giao-dich-nguoc-chieu-tai-pow-830-1516689.htm"
+   },
+   {
+    "title": "Novaland phát hành cổ phiếu cao gấp 3,4 lần thị giá để chuyển đổi trái phiếu quốc tế",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/novaland-phat-hanh-co-phieu-cao-gap-34-lan-thi-gia-de-chuyen-doi-trai-phieu-quoc-te-188261121085640171.chn"
+   },
+   {
+    "title": "Chứng khoán đảo chiều cuối phiên, khối ngoại bán ròng gần 900 tỷ đồng",
+    "impact": "tich-cuc",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-dao-chieu-cuoi-phien-khoi-ngoai-ban-rong-gan-900-ty-dong-20261120154040118.htm"
+   },
+   {
+    "title": "Phiên 20/11: Khối ngoại thẳng tay bán ròng gần 900 tỷ đồng, xả mạnh FPT cùng loạt cổ phiếu ngân hàng hot",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/phien-20-11-khoi-ngoai-thang-tay-ban-rong-gan-900-ty-dong-xa-manh-fpt-cung-loat-co-phieu-ngan-hang-hot-188261120154440739.chn"
+   },
+   {
+    "title": "Đà giảm chưa dừng, VN-Index về sát đáy 7 tháng, khối ngoại bán ròng đột biến",
+    "impact": "tieu-cuc",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/da-giam-chua-dung-vn-index-ve-sat-day-7-thang-khoi-ngoai-ban-rong-dot-bien.htm"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Vàng bạc liên tục phá đáy, hai “cá mập” bất ngờ hành động trái ngược",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vang-bac-lien-tuc-pha-day-hai-ca-map-bat-ngo-hanh-dong-trai-nguoc-188261121102002294.chn",
+    "time": "21/11 10:20"
+   },
+   {
+    "title": "Novaland phát thông báo nóng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/novaland-phat-thong-bao-nong-188261120230501543.chn",
+    "time": "21/11 10:12"
+   },
+   {
+    "title": "Cổ phiếu Nvidia, Anthropic bị bán tháo",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/co-phieu-nvidia-anthropic-bi-ban-thao-5147289.html",
+    "time": "21/11 09:25"
+   },
+   {
+    "title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
+    "time": "21/11 09:18"
+   },
+   {
+    "title": "30 năm chứng khoán Việt: Chuyện đi vận động doanh nghiệp lên sàn và những bao tải tiền... mua cổ phiếu",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/30-nam-chung-khoan-viet-chuyen-di-van-dong-doanh-nghiep-len-san-va-nhung-bao-tai-tien-mua-co-phieu-100261118121130328.htm",
+    "time": "21/11 09:08"
+   },
+   {
+    "title": "Ngành ngân hàng 9T/2026: Nợ xấu tăng lên 2,3%, áp lực vốn chưa hạ nhiệt",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nganh-ngan-hang-9t-2026-no-xau-tang-len-23-ap-luc-von-chua-ha-nhiet-188261121090137222.chn",
+    "time": "21/11 09:01"
+   },
+   {
+    "title": "AgriS (SBT) dự kiến huy động 1.000 tỷ đồng trái phiếu, lãi suất 11,8%/năm để cơ cấu nợ vay",
+    "source": "CafeF",
+    "url": "https://cafef.vn/agris-sbt-du-kien-huy-dong-1000-ty-dong-trai-phieu-lai-suat-118-nam-de-co-cau-no-vay-188261121090001629.chn",
+    "time": "21/11 08:59"
+   },
+   {
+    "title": "Novaland phát hành cổ phiếu cao gấp 3,4 lần thị giá để chuyển đổi trái phiếu quốc tế",
+    "source": "CafeF",
+    "url": "https://cafef.vn/novaland-phat-hanh-co-phieu-cao-gap-34-lan-thi-gia-de-chuyen-doi-trai-phieu-quoc-te-188261121085640171.chn",
+    "time": "21/11 08:56"
+   },
+   {
+    "title": "Giá vàng giảm chóng mặt về gần 3.500 USD/oz khi cổ phiếu AI bị bán tháo",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/gia-vang-giam-chong-mat-ve-gan-3500-usdoz-khi-co-phieu-ai-bi-ban-thao.htm",
+    "time": "21/11 08:55"
+   },
+   {
+    "title": "Vinhomes dự kiến huy động thêm 3.000 tỷ đồng trái phiếu",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vinhomes-du-kien-huy-dong-them-3000-ty-dong-trai-phieu-188261121063148805.chn",
+    "time": "21/11 07:31"
+   },
+   {
+    "title": "Chủ tịch SMC đăng ký nhận chuyển nhượng 27,4 triệu quyền mua cổ phiếu",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chu-tich-smc-dang-ky-nhan-chuyen-nhuong-274-trieu-quyen-mua-co-phieu-188261121063307088.chn",
+    "time": "21/11 07:12"
+   },
+   {
+    "title": "[Bài 4] Hiểu hợp đồng quyền chọn trên chỉ số chứng khoán",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/bai-4-hieu-hop-dong-quyen-chon-tren-chi-so-chung-khoan.htm",
+    "time": "21/11 07:00"
+   },
+   {
+    "title": "Động thái lạ của loạt \"cá mập\" trên sàn chứng khoán",
+    "source": "CafeF",
+    "url": "https://cafef.vn/dong-thai-la-cua-loat-ca-map-tren-san-chung-khoan-188261120122931783.chn",
+    "time": "21/11 00:04"
+   },
+   {
+    "title": "Hàng loạt \"cá mập\" bất ngờ quay xe bán cổ phiếu ngân hàng, gom mạnh một nhóm cổ phiếu \"hot\"",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hang-loat-ca-map-bat-ngo-quay-xe-ban-co-phieu-ngan-hang-gom-manh-mot-nhom-co-phieu-hot-188261120121715102.chn",
+    "time": "21/11 00:03"
+   },
+   {
+    "title": "Cổ phiếu Anthropic lên sàn ấn tượng vẫn không dập tắt nỗi lo đầu tư AI",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/co-phieu-anthropic-len-san-an-tuong-van-khong-dap-tat-noi-lo-dau-tu-ai-100261120221143058.htm",
+    "time": "20/11 22:37"
+   },
+   {
+    "title": "THACO hút thành công 3.000 tỷ đồng trái phiếu, đem cổ phần Đại Quang Minh và “đất vàng” Thủ Thiêm bảo đảm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/thaco-hut-thanh-cong-3000-ty-dong-trai-phieu-dem-co-phan-dai-quang-minh-va-dat-vang-thu-thiem-bao-dam-188261120201445978.chn",
+    "time": "20/11 20:14"
+   },
+   {
+    "title": "Chứng khoán lao dốc, Đài Loan siết hoạt động bán khống để hỗ trợ thị trường",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/chung-khoan-lao-doc-dai-loan-siet-hoat-dong-ban-khong-de-ho-tro-thi-truong.htm",
+    "time": "20/11 20:08"
+   },
+   {
+    "title": "Thị trường IPO Mỹ lập kỷ lục về vốn huy động nhưng số thương vụ vẫn thấp",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/thi-truong-ipo-my-lap-ky-luc-ve-von-huy-dong-nhung-so-thuong-vu-van-thap.htm",
+    "time": "20/11 20:08"
+   },
+   {
+    "title": "Có AI trong tay, nhà đầu tư có dễ thắng hơn trên thị trường chứng khoán?",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/co-ai-trong-tay-nha-dau-tu-co-de-thang-hon-tren-thi-truong-chung-khoan-100261120190225591.htm",
+    "time": "20/11 19:51"
+   },
+   {
+    "title": "Theo dấu dòng tiền cá mập 20/11: Khối ngoại và tự doanh giao dịch ngược chiều tại POW",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-2011-khoi-ngoai-va-tu-doanh-giao-dich-nguoc-chieu-tai-pow-830-1516689.htm",
+    "time": "20/11 19:07"
+   },
+   {
+    "title": "VN-Index lao dốc, nhà đầu tư dùng AI phân tích cổ phiếu sao để bớt thua lỗ?",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/vn-index-lao-doc-nha-dau-tu-dung-ai-phan-tich-co-phieu-sao-de-bot-thua-lo-20261120184430517.htm",
+    "time": "20/11 19:00"
+   },
+   {
+    "title": "Hai doanh nghiệp vừa bị UBCKNN xử phạt, có một công ty chứng khoán",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/hai-doanh-nghiep-vua-bi-ubcknn-xu-phat-co-mot-cong-ty-chung-khoan-830-1516684.htm",
+    "time": "20/11 18:52"
+   },
+   {
+    "title": "Chứng khoán Tuần 16-20/11/2026: Áp lực bủa vây",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/chung-khoan-tuan-16-20112026-ap-luc-bua-vay-1636-1516624.htm",
+    "time": "20/11 18:06"
+   },
+   {
+    "title": "[Bài 3] Giao dịch quyền chọn theo xu hướng với mức rủi ro được xác định trước",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/bai-3-giao-dich-quyen-chon-theo-xu-huong-voi-muc-rui-ro-duoc-xac-dinh-truoc.htm",
+    "time": "20/11 17:23"
+   },
+   {
+    "title": "Blog chứng khoán: Cầu bắt đáy tốt hơn, áp lực cắt lỗ vẫn còn",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/blog-chung-khoan-cau-bat-day-tot-hon-ap-luc-cat-lo-van-con.htm",
+    "time": "20/11 16:26"
+   },
+   {
+    "title": "VN-Index giảm 4 phiên liên tiếp, cả tuần rơi hơn 46 điểm",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/vn-index-giam-4-phien-lien-tiep-ca-tuan-roi-hon-46-diem-100261120154558936.htm",
+    "time": "20/11 16:26"
+   },
+   {
+    "title": "Nhịp đập Thị trường 20/11: Lực cầu cuối phiên kéo VN-Index trở lại gần mốc tham chiếu",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2011-luc-cau-cuoi-phien-keo-vn-index-tro-lai-gan-moc-tham-chieu-1636-1516413.htm",
+    "time": "20/11 16:02"
+   },
+   {
+    "title": "Chứng khoán đảo chiều cuối phiên, khối ngoại bán ròng gần 900 tỷ đồng",
+    "source": "Dân trí",
+    "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-dao-chieu-cuoi-phien-khoi-ngoai-ban-rong-gan-900-ty-dong-20261120154040118.htm",
+    "time": "20/11 16:01"
+   },
+   {
+    "title": "Chứng khoán giảm 4 phiên liên tiếp",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/chung-khoan-giam-4-phien-lien-tiep-5147106.html",
+    "time": "20/11 15:59"
+   },
+   {
+    "title": "Lãi 'khủng' gần 18.000 tỉ đồng, xổ số miền Nam xin tăng phát hành vé số tết",
+    "source": "Thanh Niên",
+    "url": "https://thanhnien.vn/lai-khung-gan-18000-ti-dong-xo-so-mien-nam-xin-tang-phat-hanh-ve-so-tet-185261120152556106.htm",
+    "time": "20/11 15:52"
+   },
+   {
+    "title": "Chứng khoán Maybank bị phạt 137 triệu đồng do vi phạm quy định",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/chung-khoan-maybank-bi-phat-137-trieu-dong-do-vi-pham-quy-dinh-100261120142116055.htm",
+    "time": "20/11 15:48"
+   },
+   {
+    "title": "Phiên 20/11: Khối ngoại thẳng tay bán ròng gần 900 tỷ đồng, xả mạnh FPT cùng loạt cổ phiếu ngân hàng hot",
+    "source": "CafeF",
+    "url": "https://cafef.vn/phien-20-11-khoi-ngoai-thang-tay-ban-rong-gan-900-ty-dong-xa-manh-fpt-cung-loat-co-phieu-ngan-hang-hot-188261120154440739.chn",
+    "time": "20/11 15:45"
+   },
+   {
+    "title": "Cầu bắt đáy cải thiện, cổ phiếu phục hồi giá tích cực",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/cau-bat-day-cai-thien-co-phieu-phuc-hoi-gia-tich-cuc.htm",
+    "time": "20/11 15:37"
+   },
+   {
+    "title": "Doanh nghiệp sở hữu mỏ đá có 6 dây chuyền nghiền công suất 2.400 tấn/giờ chính thức lên HOSE, vốn hóa gần 1.250 tỷ đồng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/doanh-nghiep-so-huu-mo-da-co-6-day-chuyen-nghien-cong-suat-2400-tan-gio-chinh-thuc-len-hose-von-hoa-gan-1250-ty-dong-188261120143952447.chn",
+    "time": "20/11 14:39"
+   },
+   {
+    "title": "Tổng Công ty Sông Đà sắp tạm ứng cổ tức năm 2026 bằng tiền tỷ lệ 10%",
+    "source": "CafeF",
+    "url": "https://cafef.vn/tong-cong-ty-song-da-sap-tam-ung-co-tuc-nam-2026-bang-tien-ty-le-10-18826112013371461.chn",
+    "time": "20/11 13:43"
+   },
+   {
+    "title": "Phân tích kỹ thuật phiên chiều 20/11: Lui về ngưỡng hỗ trợ quan trọng",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-2011-lui-ve-nguong-ho-tro-quan-trong-585-1516473.htm",
+    "time": "20/11 13:08"
+   },
+   {
+    "title": "Cen Land thoái vốn công ty con thứ 4 trong năm, cổ phiếu mất giá trên 60%",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/cen-land-thoai-von-cong-ty-con-thu-4-trong-nam-co-phieu-mat-gia-tren-60-830-1516471.htm",
+    "time": "20/11 12:54"
+   },
+   {
+    "title": "Chứng khoán 20-11: Mất mốc 1.700 điểm, VN-Index có thể lùi về đâu?",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/chung-khoan-20-11-mat-moc-1700-diem-vn-index-co-the-lui-ve-dau-100261120073637195.htm",
+    "time": "20/11 12:45"
+   },
+   {
+    "title": "Đà giảm chưa dừng, VN-Index về sát đáy 7 tháng, khối ngoại bán ròng đột biến",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/da-giam-chua-dung-vn-index-ve-sat-day-7-thang-khoi-ngoai-ban-rong-dot-bien.htm",
+    "time": "20/11 12:04"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/can-ho-120m-phong-cach-wabi-sabi-huong-den-khong-gian-song-binh-yen-18826112107511379.chn",
+   "articles": [
+    {
+     "title": "Căn hộ 120m² phong cách Wabi Sabi, hướng đến không gian sống bình yên",
+     "source": "CafeF",
+     "url": "https://cafef.vn/can-ho-120m-phong-cach-wabi-sabi-huong-den-khong-gian-song-binh-yen-18826112107511379.chn",
+     "time": "21/11 10:50"
+    },
+    {
+     "title": "Chính thức: Quốc hội 'chốt' Luật Đất đai, Luật Kinh doanh bất động sản và Luật Nhà ở (sửa đổi)",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chinh-thuc-quoc-hoi-chot-luat-dat-dai-luat-kinh-doanh-bat-dong-san-va-luat-nha-o-sua-doi-188261121104230827.chn",
+     "time": "21/11 10:41"
+    },
+    {
+     "title": "Nhà ở xã hội không được bán lại tự do từ 1/7/2027",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/nha-o-xa-hoi-khong-duoc-ban-lai-tu-do-tu-1-7-2027-5147341.html",
+     "time": "21/11 10:24"
+    },
+    {
+     "title": "Liên danh có Geleximco của đại gia Vũ Văn Tiền chuẩn bị khởi công khu đô thị 296ha hơn 18.500 tỷ đồng: Bắt đầu thu hồi đất, 15,5ha dự kiến bàn giao vào tháng 2/2027",
+     "source": "CafeF",
+     "url": "https://cafef.vn/lien-danh-co-geleximco-cua-dai-gia-vu-van-tien-chuan-bi-khoi-cong-khu-do-thi-296ha-hon-18500-ty-dong-bat-dau-thu-hoi-dat-155ha-du-kien-ban-giao-vao-thang-2-2027-188261121085641491.chn",
+     "time": "21/11 08:53"
+    },
+    {
+     "title": "Giá nhà ở xã hội tăng gấp 3 lần sau 5 năm, đề xuất 'khóa' người mua",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-nha-o-xa-hoi-tang-gap-3-lan-sau-5-nam-de-xuat-khoa-nguoi-mua-188261121075906812.chn",
+     "time": "21/11 08:38"
+    },
+    {
+     "title": "Được thừa kế bất động sản, vì sao nhiều người Nhật Bản sợ hãi từ chối?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/duoc-thua-ke-bat-dong-san-vi-sao-nhieu-nguoi-nhat-ban-so-hai-tu-choi-188261121082204549.chn",
+     "time": "21/11 08:21"
+    },
+    {
+     "title": "Sun Group sẽ làm khu đô thị lấn biển 72.200 tỷ đồng tại hòn đảo đẹp bậc nhất châu Á, liên tục được Oscar du lịch vinh danh",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sun-group-se-lam-khu-do-thi-lan-bien-72200-ty-dong-tai-hon-dao-dep-bac-nhat-chau-a-lien-tuc-duoc-oscar-du-lich-vinh-danh-1882611210254457.chn",
+     "time": "21/11 08:14"
+    },
+    {
+     "title": "Doanh nghiệp bất động sản 'đổ bộ' vào năng lượng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/doanh-nghiep-bat-dong-san-do-bo-vao-nang-luong-188261121062511349.chn",
+     "time": "21/11 06:30"
+    },
+    {
+     "title": "Quỹ bảo trì, nguồn cơn xung đột ở chung cư: Có nên giao cho chủ đầu tư quản lý?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/co-nen-giao-cho-chu-dau-tu-quan-ly-185261120200654986.htm",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Có nên ứng trước 80% tiền mua căn hộ để giải chấp cho chủ nhà?",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/co-nen-ung-truoc-80-tien-mua-can-ho-de-giai-chap-cho-chu-nha-5146608.html",
+     "time": "21/11 00:02"
+    },
+    {
+     "title": "Căn hộ 100 m2 bớt một phòng ngủ để làm studio chụp ảnh",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/can-ho-100-m2-bot-mot-phong-ngu-de-lam-studio-chup-anh-5146175.html",
+     "time": "21/11 00:00"
+    },
+    {
+     "title": "Quảng Ngãi đề xuất chuyển hơn 125 ha rừng làm khu đô thị ở Măng Đen",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/quang-ngai-de-xuat-chuyen-hon-125-ha-rung-lam-khu-do-thi-o-mang-den-5147077.html",
+     "time": "20/11 22:00"
+    },
+    {
+     "title": "Lâm Đồng quy hoạch khu đô thị lấn biển 400 ha",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/lam-dong-quy-hoach-khu-do-thi-lan-bien-400-ha-5147215.html",
+     "time": "20/11 21:18"
+    },
+    {
+     "title": "Hà Nội mở cơ chế giao trực tiếp chủ đầu tư dự án nhà ở cho thuê",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ha-noi-mo-co-che-giao-truc-tiep-chu-dau-tu-du-an-nha-o-cho-thue-188261120185006294.chn",
+     "time": "20/11 20:37"
+    },
+    {
+     "title": "Đấu giá đất thiếu kiểm soát: Nguy cơ tạo giá ảo, gây nhiễu loạn thị trường",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dau-gia-dat-thieu-kiem-soat-nguy-co-tao-gia-ao-gay-nhieu-loan-thi-truong-188261120185144597.chn",
+     "time": "20/11 20:07"
+    },
+    {
+     "title": "Dân chung cư 'ông Thản'- CT6 Kiến Hưng: 'Mong vẫn ở lại căn nhà mình, đừng nói bồi thường cao'",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dan-chung-cu-ong-than-ct6-kien-hung-mong-van-o-lai-can-nha-minh-dung-noi-boi-thuong-cao-188261120144047806.chn",
+     "time": "20/11 19:14"
+    },
+    {
+     "title": "Rao bán khoản nợ của ông Lê Hải Trà, tài sản bảo đảm là căn hộ 273m² ở Thảo Điền",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/rao-ban-khoan-no-cua-ong-le-hai-tra-tai-san-bao-dam-la-can-ho-273m-o-thao-dien-100261120175415465.htm",
+     "time": "20/11 18:00"
+    },
+    {
+     "title": "Kiến nghị đưa nghề quản lý vận hành nhà chung cư vào nhóm đặc thù",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/kien-nghi-dua-nghe-quan-ly-van-hanh-nha-chung-cu-vao-nhom-dac-thu-18526112015423441.htm",
+     "time": "20/11 15:55"
+    },
+    {
+     "title": "Hàng trăm căn hộ chung cư khu tập thể di dời sau mở rộng Quốc lộ 1A qua Hà Nội",
+     "source": "CafeF",
+     "url": "https://cafef.vn/hang-tram-can-ho-chung-cu-khu-tap-the-di-doi-sau-mo-rong-quoc-lo-1a-qua-ha-noi-188261120143730034.chn",
+     "time": "20/11 15:37"
+    },
+    {
+     "title": "Quốc hội \"chốt\" giữ khung tiền đặt trước 20%-50% đối với đấu giá đất ở",
+     "source": "CafeF",
+     "url": "https://cafef.vn/quoc-hoi-chot-giu-khung-tien-dat-truoc-20-50-doi-voi-dau-gia-dat-o-188261120112659155.chn",
+     "time": "20/11 15:00"
+    }
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "19 bài trong khung giờ, từ 7 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-lao-doc-chuyen-gia-dua-ra-du-bao-bat-ngo-188261121101010928.chn",
+   "articles": [
+    {
+     "title": "Giá vàng lao dốc, chuyên gia đưa ra dự báo bất ngờ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-lao-doc-chuyen-gia-dua-ra-du-bao-bat-ngo-188261121101010928.chn",
+     "time": "21/11 10:15"
+    },
+    {
+     "title": "Giá vàng hôm nay 21/11: Rơi không phanh, tạo đáy lần thứ 6 trong tuần",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-hom-nay-21-11-roi-khong-phanh-tao-day-lan-thu-6-trong-tuan-18826112110074071.chn",
+     "time": "21/11 10:09"
+    },
+    {
+     "title": "Giá vàng miếng xuống mức thấp nhất 15 tháng",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-11-5147347.html",
+     "time": "21/11 09:56"
+    },
+    {
+     "title": "Giá vàng hôm nay 21/11: Vàng trong nước giảm 700.000 đồng/lượng",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-21-11-the-gioi-di-xuong-vang-sjc-giam-manh-2577216.html",
+     "time": "21/11 09:23"
+    },
+    {
+     "title": "Giá vàng giảm chóng mặt về gần 3.500 USD/oz khi cổ phiếu AI bị bán tháo",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/gia-vang-giam-chong-mat-ve-gan-3500-usdoz-khi-co-phieu-ai-bi-ban-thao.htm",
+     "time": "21/11 08:55"
+    },
+    {
+     "title": "Giá vàng hôm nay 21.11.2026: Tiếp tục lao dốc, chênh lệch mua bán vàng nhẫn lên kỷ lục",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gia-vang-hom-nay-21112026-tiep-tuc-lao-doc-chenh-lech-mua-ban-vang-nhan-len-ky-luc-185261121082006743.htm",
+     "time": "21/11 08:50"
+    },
+    {
+     "title": "Giá vàng 9999 Bảo Tín Mạnh Hải hôm nay 21/11/2026 bao nhiêu 1 chỉ?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-9999-bao-tin-manh-hai-hom-nay-21-11-2026-bao-nhieu-1-chi-188261121084214369.chn",
+     "time": "21/11 08:42"
+    },
+    {
+     "title": "Giá vàng hôm nay 21/11: SJC, Bảo Tín Mạnh Hải, Bảo Tín Minh Châu, PNJ,... đồng loạt giảm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-hom-nay-21-11-sjc-bao-tin-manh-hai-bao-tin-minh-chau-pnj-dong-loat-giam-188261121081706324.chn",
+     "time": "21/11 08:16"
+    },
+    {
+     "title": "Giá vàng thế giới về sát 3.500 USD",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/gia-vang-the-gioi-ve-sat-3-500-usd-5147287.html",
+     "time": "21/11 07:41"
+    },
+    {
+     "title": "Giá vàng thế giới tiếp tục lao dốc, vàng miếng SJC giảm tới 4 triệu đồng/lượng",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-the-gioi-tiep-tuc-lao-doc-vang-mieng-sjc-giam-toi-4-trieu-dongluong-20261121062407770.htm",
+     "time": "21/11 06:51"
+    },
+    {
+     "title": "Vì sao giá vàng thế giới liên tục giảm?",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vi-sao-gia-vang-the-gioi-lien-tuc-giam-5147111.html",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Giá vàng rơi không phanh, rủi ro gia tăng",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gia-vang-roi-khong-phanh-rui-ro-gia-tang-185261120214015873.htm",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Vì sao giá vàng lao dốc, giảm mạnh nhất 32 tuần?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/vi-sao-gia-vang-lao-doc-giam-manh-nhat-32-tuan-188261120212416431.chn",
+     "time": "20/11 21:55"
+    },
+    {
+     "title": "Giá vàng hôm nay 20/11: Giảm 2 triệu đồng/lượng, vàng SJC thấp nhất gần 14 tháng",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-20-11-lao-doc-xuong-sat-3-690-usd-ounce-thap-nhat-14-thang-2576914.html",
+     "time": "20/11 21:32"
+    },
+    {
+     "title": "Giá vàng, bạc đồng loạt lao dốc mạnh",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-bac-dong-loat-lao-doc-manh-20261120183246145.htm",
+     "time": "20/11 19:34"
+    },
+    {
+     "title": "Bốc hơi 1.000 tỷ USD sau 6 giờ, giá vàng thế giới rơi về đâu?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/boc-hoi-1000-ty-usd-sau-6-gio-gia-vang-the-gioi-roi-ve-dau-20261120163722939.htm",
+     "time": "20/11 17:50"
+    },
+    {
+     "title": "Giá vàng giảm rất mạnh, chênh thế giới hơn 22 triệu đồng/lượng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-giam-rat-manh-chenh-the-gioi-hon-22-trieu-dong-luong-188261120134115219.chn",
+     "time": "20/11 13:43"
+    },
+    {
+     "title": "Giá vàng có tuần giảm mạnh nhất từ tháng 3 khi Fed giữ lập trường cứng rắn",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-co-tuan-giam-manh-nhat-tu-thang-3-khi-fed-giu-lap-truong-cung-ran-20261116150737995.htm",
+     "time": "20/11 13:20"
+    },
+    {
+     "title": "Giá vàng trưa 20-11 về sát 3.500 USD/ounce",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gia-vang-trua-nay-ve-sat-3500-usd-ounce-100261120123717525.htm",
+     "time": "20/11 13:16"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "17 bài trong khung giờ, từ 3 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/phe-binh-chu-dau-tu-canh-cao-nha-thau-du-an-giao-thong-tai-hue-18826112108003547.chn",
+   "articles": [
+    {
+     "title": "Phê bình chủ đầu tư, cảnh cáo nhà thầu dự án giao thông tại Huế",
+     "source": "CafeF",
+     "url": "https://cafef.vn/phe-binh-chu-dau-tu-canh-cao-nha-thau-du-an-giao-thong-tai-hue-18826112108003547.chn",
+     "time": "21/11 09:00"
+    },
+    {
+     "title": "Hà Nội thông tin về dự án cải tạo sông Tô Lịch sau gần 1 năm khởi công",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ha-noi-thong-tin-ve-du-an-cai-tao-song-to-lich-sau-gan-1-nam-khoi-cong-18826112107563516.chn",
+     "time": "21/11 08:18"
+    },
+    {
+     "title": "28 ga metro ưu tiên của Hà Nội nằm ở đâu?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/28-ga-metro-uu-tien-cua-ha-noi-nam-o-dau-188261121075503305.chn",
+     "time": "21/11 07:50"
+    },
+    {
+     "title": "Một hòn đảo của Việt Nam được tạo nên từ những đợt phun trào núi lửa từ hàng triệu năm trước sắp được xây sân bay, cáp treo, tàu điện 76.600 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mot-hon-dao-cua-viet-nam-duoc-tao-nen-tu-nhung-dot-phun-trao-nui-lua-tu-hang-trieu-nam-truoc-sap-duoc-xay-san-bay-cap-treo-tau-dien-76600-ty-dong-188261120145724484.chn",
+     "time": "21/11 07:42"
+    },
+    {
+     "title": "TP.HCM mời doanh nghiệp Singapore làm đường sắt nối Long Thành, công viên Safari",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tphcm-moi-doanh-nghiep-singapore-lam-duong-sat-noi-long-thanh-cong-vien-safari-188261121062926952.chn",
+     "time": "21/11 06:29"
+    },
+    {
+     "title": "Mong chờ metro 'cứu' kẹt xe TP.HCM",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/mong-cho-metro-cuu-ket-xe-tphcm-1852611202204036.htm",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Đại gia gốc Thanh Hóa từng thi công vòm thép lớn nhất hành tinh góp mặt tại công trình 915 triệu AUD nổi tiếng ở ÚC vừa mở cửa: Đã sản xuất, gia công gần 10.000 tấn thép",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dai-gia-goc-thanh-hoa-tung-thi-cong-vom-thep-lon-nhat-hanh-tinh-gop-mat-tai-cong-trinh-915-trieu-aud-noi-tieng-o-uc-vua-mo-cua-da-san-xuat-gia-cong-gan-10000-tan-thep-188261120170509238.chn",
+     "time": "21/11 00:01"
+    },
+    {
+     "title": "Thần tốc thi công đưa hai cầu vượt trên đường Vành đai 1 về đích",
+     "source": "CafeF",
+     "url": "https://cafef.vn/than-toc-thi-cong-dua-hai-cau-vuot-tren-duong-vanh-dai-1-ve-dich-188261120155639773.chn",
+     "time": "20/11 17:55"
+    },
+    {
+     "title": "Gói thầu 5 tuyến metro hơn 873.000 tỷ đồng kết nối sân bay Nội Bài, SVĐ 135.000 chỗ lớn nhất hành tinh và loạt KĐT lớn được giao cho liên danh của tỷ phú Phạm Nhật Vượng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/goi-thau-5-tuyen-metro-hon-873000-ty-dong-ket-noi-san-bay-noi-bai-svd-135000-cho-lon-nhat-hanh-tinh-va-loat-kdt-lon-duoc-giao-cho-lien-danh-cua-ty-phu-pham-nhat-vuong-188261120160949605.chn",
+     "time": "20/11 16:09"
+    },
+    {
+     "title": "Tỉnh định hướng lên TP trực thuộc Trung ương chuẩn bị khởi công tuyến đường dài 74km kết nối hai đô thị, tổng mức đầu tư trên 20.700 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tinh-dinh-huong-len-tp-truc-thuoc-trung-uong-chuan-bi-khoi-cong-tuyen-duong-dai-74km-ket-noi-hai-do-thi-tong-muc-dau-tu-tren-20700-ty-dong-1882611201503508.chn",
+     "time": "20/11 16:05"
+    },
+    {
+     "title": "Diện mạo đường Vành đai 3 TPHCM trước ngày thông xe",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dien-mao-duong-vanh-dai-3-tphcm-truoc-ngay-thong-xe-188261120143350522.chn",
+     "time": "20/11 15:30"
+    },
+    {
+     "title": "\"Soi\" các đại công trình hàng nghìn tỷ đang “lột xác” đón sự kiện lớn bậc nhất hành tinh ở Việt Nam năm sau",
+     "source": "CafeF",
+     "url": "https://cafef.vn/soi-cac-dai-cong-trinh-hang-nghin-ty-dang-lot-xac-don-su-kien-lon-bac-nhat-hanh-tinh-o-viet-nam-nam-sau-188261120151959255.chn",
+     "time": "20/11 15:19"
+    },
+    {
+     "title": "Liên danh của tỷ phú Phạm Nhật Vượng trúng thầu 5 tuyến đường sắt 250 km tại Hà Nội, trị giá hơn 873.000 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/lien-danh-cua-ty-phu-pham-nhat-vuong-trung-thau-5-tuyen-duong-sat-250-km-tai-ha-noi-tri-gia-hon-873000-ty-dong-18826112014515942.chn",
+     "time": "20/11 15:18"
+    },
+    {
+     "title": "Tăng kết nối đường sắt, cửa khẩu, cảng biển với các tỉnh Tây Nam Trung Quốc",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tang-ket-noi-duong-sat-cua-khau-cang-bien-voi-cac-tinh-tay-nam-trung-quoc-5147074.html",
+     "time": "20/11 15:03"
+    },
+    {
+     "title": "Siêu dự án đường sắt tốc độ cao hơn 10 tỷ USD, dài 357 km sắp bước vào giai đoạn triển khai mới, đặt mục tiêu khai thác năm 2033",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sieu-du-an-duong-sat-toc-do-cao-hon-10-ty-usd-dai-357-km-sap-buoc-vao-giai-doan-trien-khai-moi-dat-muc-tieu-khai-thac-nam-2033-18826112014401393.chn",
+     "time": "20/11 14:52"
+    },
+    {
+     "title": "Việt Nam đang xây cao tốc nối 'rừng - biển' hơn 21.900 tỷ đồng, dài 117km rút ngắn thời gian đi từ Khánh Hòa - Đắk Lắk",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-dang-xay-cao-toc-noi-rung-bien-hon-21900-ty-dong-dai-117km-rut-ngan-thoi-gian-di-tu-khanh-hoa-dak-lak-188261120140858237.chn",
+     "time": "20/11 14:25"
+    },
+    {
+     "title": "Từ ngày 23-11, điều chỉnh giao thông trên đường Trường Sa phục vụ thi công cầu Tứ Liên",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tu-ngay-23-11-dieu-chinh-giao-thong-tren-duong-truong-sa-phuc-vu-thi-cong-cau-tu-lien-188261120135327703.chn",
+     "time": "20/11 13:53"
+    }
+   ]
+  },
+  {
+   "name": "Năng lượng – điện",
+   "status": "soi-noi",
+   "heat": 3,
+   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/xay-dung-lo-trinh-ap-dung-gia-dien-sinh-hoat-theo-khung-gio-cao-diem-thap-diem-188261121083740281.chn",
+   "articles": [
+    {
+     "title": "Xây dựng lộ trình áp dụng giá điện sinh hoạt theo khung giờ cao điểm, thấp điểm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/xay-dung-lo-trinh-ap-dung-gia-dien-sinh-hoat-theo-khung-gio-cao-diem-thap-diem-188261121083740281.chn",
+     "time": "21/11 09:43"
+    },
+    {
+     "title": "Sẽ nghiên cứu tính giá điện sinh hoạt theo khung giờ",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/se-nghien-cuu-tinh-gia-dien-sinh-hoat-theo-khung-gio-5147315.html",
+     "time": "21/11 09:30"
+    },
+    {
+     "title": "Quốc hội chính thức cho phép tính giá điện sinh hoạt theo giờ cao điểm, thấp điểm",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/quoc-hoi-chinh-thuc-cho-phep-tinh-gia-dien-sinh-hoat-theo-gio-cao-diem-thap-diem-100261121082341552.htm",
+     "time": "21/11 08:57"
+    },
+    {
+     "title": "Đối tác Ý cung cấp tuabin khí cho Nhà máy điện khí LNG Cà Ná",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/doi-tac-y-cung-cap-tuabin-khi-cho-nha-may-dien-khi-lng-ca-na-18526112017591639.htm",
+     "time": "21/11 08:51"
+    },
+    {
+     "title": "Đề xuất thay đổi tính giá điện cho trung tâm dữ liệu, trạm sạc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/de-xuat-thay-doi-tinh-gia-dien-cho-trung-tam-du-lieu-tram-sac-188261121062620139.chn",
+     "time": "21/11 06:26"
+    },
+    {
+     "title": "Việt Nam nhập khẩu LNG tăng gấp ba lần do El Nino",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/viet-nam-nhap-khau-lng-tang-gap-ba-lan-do-el-nino-100261120135533198.htm",
+     "time": "20/11 15:19"
+    },
+    {
+     "title": "Điện gió sai phạm đất đai, nợ thuế, dừng chạy hơn 1,5 năm, sở ngành vẫn chưa làm rõ trách nhiệm",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/dien-gio-sai-pham-dat-dai-no-thue-dung-chay-hon-15-nam-so-nganh-van-chua-lam-ro-trach-nhiem-100261120085915945.htm",
+     "time": "20/11 13:55"
+    }
+   ]
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 3,
+   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
+   "source": "VnEconomy",
+   "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
+   "articles": [
+    {
+     "title": "Chứng khoán Mỹ tiếp tục bị bán tháo, giá dầu sụt 4% trong tuần này",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/chung-khoan-my-tiep-tuc-bi-ban-thao-gia-dau-sut-4-trong-tuan-nay.htm",
+     "time": "21/11 09:18"
+    },
+    {
+     "title": "Doanh nghiệp tự quyết giá xăng, cửa hàng bán lẻ lo bị ép chiết khấu",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/doanh-nghiep-tu-quyet-gia-xang-cua-hang-ban-le-lo-bi-ep-chiet-khau-100261120221500323.htm",
+     "time": "21/11 08:23"
+    },
+    {
+     "title": "Giá xăng dầu hôm nay 21/11: Dầu trong nước về sát mốc 26.000 đồng/lít",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-21-11-dau-trong-nuoc-sat-26-000-dong-lit-2577247.html",
+     "time": "21/11 07:57"
+    },
+    {
+     "title": "Ngân hàng muốn đấu giá tài sản 228 tỷ của đại gia xăng dầu từng nộp thuế lớn nhất tỉnh",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/ngan-hang-muon-ban-dau-gia-tai-san-cua-dai-gia-xang-dau-2576559.html",
+     "time": "21/11 06:00"
+    },
+    {
+     "title": "Xăng giảm 5 lần, tô phở, dĩa cơm vẫn chưa chịu giảm giá",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/xang-giam-5-lan-to-pho-dia-com-van-chua-chiu-giam-gia-100261120182649775.htm",
+     "time": "20/11 19:19"
+    },
+    {
+     "title": "Giá xăng giảm 5 kỳ liên tiếp, vé máy bay Tết vẫn tăng",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-5-ky-lien-tiep-ve-may-bay-tet-van-tang-20261120153640524.htm",
+     "time": "20/11 15:45"
+    }
+   ]
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-20T12:00:00+07:00",
+   "2026-11-21T11:17:02+07:00"
+  ],
+  "sources": {
+   "CafeF": 62,
+   "Tuổi Trẻ": 15,
+   "VnExpress": 15,
+   "Dân trí": 13,
+   "VnEconomy": 12,
+   "Thanh Niên": 9,
+   "VietnamNet": 7,
+   "Vietstock": 6
+  },
+  "failed": []
+ }
+}
