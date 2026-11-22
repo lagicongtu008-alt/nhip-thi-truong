@@ -3,10 +3,10 @@
  "label": "Sáng 22/11/2026 (Chủ nhật)",
  "date": "2026-11-22",
  "session": "sang",
- "updatedAt": "2026-11-22T14:59:06+07:00",
+ "updatedAt": "2026-11-22T18:42:13+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 14 bài về ngân hàng – tiền tệ từ 3 nguồn (12:00 21/11 – 12:00 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 13 bài về ngân hàng – tiền tệ từ 3 nguồn (12:00 21/11 – 12:00 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -46,12 +46,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/hai-co-phieu-ngan-hang-nguoc-chieu-tang-gia-trong-tuan-do-lua-188261122105306833.chn",
     "time": "22/11 10:58"
-   },
-   {
-    "title": "Nhật Bản siết cho vay DA điện dùng nhiên liệu hóa thạch, Việt Nam vẫn nhận khoản vay hơn 4.500 tỷ đồng lãi suất 1,4% nhờ một văn kiện từ 13 năm trước",
-    "source": "CafeF",
-    "url": "https://cafef.vn/nhat-ban-siet-cho-vay-da-dien-dung-nhien-lieu-hoa-thach-viet-nam-van-nhan-khoan-vay-hon-4500-ty-dong-lai-suat-14-nho-mot-van-kien-tu-13-nam-truoc-188261122095157999.chn",
-    "time": "22/11 10:50"
    },
    {
     "title": "Lãi suất giảm, nên giữ hay bán bất động sản?",
@@ -308,7 +302,7 @@
      "time": "22/11 12:07"
     },
     {
-     "title": "Dự kiến giá nhà khu đô thị nhà ở xã hội xã Bà Điểm mức nào?",
+     "title": "Dự kiến Khu đô thị nhà ở xã hội xã Bà Điểm được bán cho ai?",
      "source": "Tuổi Trẻ",
      "url": "https://tuoitre.vn/du-kien-gia-nha-khu-do-thi-nha-o-xa-hoi-xa-ba-diem-muc-nao-100261121113334342.htm",
      "time": "22/11 10:26"
@@ -710,7 +704,7 @@
    "2026-11-22T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 51,
+   "CafeF": 50,
    "Tuổi Trẻ": 14,
    "Dân trí": 11,
    "Thanh Niên": 8,
