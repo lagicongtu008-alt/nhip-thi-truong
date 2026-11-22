@@ -1,0 +1,168 @@
+{
+ "key": "2026-11-23-chieu",
+ "label": "Chiều 23/11/2026 (thứ Hai)",
+ "date": "2026-11-23",
+ "session": "chieu",
+ "updatedAt": "2026-11-23T00:22:49+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 23/11 – 00:22 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "CTCK dự báo: Ngân hàng lãi thêm 45.500 tỷ đồng, tổng tất cả các ngành còn lại giảm 800 tỷ đồng nếu không tính nhóm Vin",
+    "impact": "tieu-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ctck-du-bao-ngan-hang-lai-them-45500-ty-dong-tong-tat-ca-cac-nganh-con-lai-giam-800-ty-dong-neu-khong-tinh-nhom-vin-188261122104753285.chn"
+   },
+   {
+    "title": "Một cổ phiếu tăng 64% từ đầu năm, công ty có lượng tiền gửi lớn gấp rưỡi giá trị vốn hóa dù đã dừng sản xuất",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-tang-64-tu-dau-nam-cong-ty-co-luong-tien-gui-lon-gap-ruoi-gia-tri-von-hoa-du-da-dung-san-xuat-18826112222244743.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "CTCK dự báo: Ngân hàng lãi thêm 45.500 tỷ đồng, tổng tất cả các ngành còn lại giảm 800 tỷ đồng nếu không tính nhóm Vin",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ctck-du-bao-ngan-hang-lai-them-45500-ty-dong-tong-tat-ca-cac-nganh-con-lai-giam-800-ty-dong-neu-khong-tinh-nhom-vin-188261122104753285.chn",
+    "time": "23/11 00:03"
+   },
+   {
+    "title": "Một cổ phiếu tăng 64% từ đầu năm, công ty có lượng tiền gửi lớn gấp rưỡi giá trị vốn hóa dù đã dừng sản xuất",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-tang-64-tu-dau-nam-cong-ty-co-luong-tien-gui-lon-gap-ruoi-gia-tri-von-hoa-du-da-dung-san-xuat-18826112222244743.chn",
+    "time": "23/11 00:02"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 23/11 – 00:22 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-ky-luc-127000-ty-dong-chuyen-gia-du-bao-ve-thoi-diem-dao-chieu-188261122220501841.chn"
+   },
+   {
+    "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/thi-truong-chung-khoan-thieu-tien-loat-thuong-vu-ban-von-bat-thanh-nguoi-noi-bo-cung-rut-re-mua-co-phieu-188261122230850822.chn"
+   },
+   {
+    "title": "Nghịch lý: VN-Index neo ở vùng cao, loạt Bluechips đình đám \"cưa đôi\" từ đỉnh, nhiều mã ngụp lặn dưới đáy",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nghich-ly-vn-index-neo-o-vung-cao-loat-bluechips-dinh-dam-cua-doi-tu-dinh-nhieu-ma-ngup-lan-duoi-day-188261121183458581.chn"
+   },
+   {
+    "title": "Một cổ phiếu tăng 64% từ đầu năm, công ty có lượng tiền gửi lớn gấp rưỡi giá trị vốn hóa dù đã dừng sản xuất",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-tang-64-tu-dau-nam-cong-ty-co-luong-tien-gui-lon-gap-ruoi-gia-tri-von-hoa-du-da-dung-san-xuat-18826112222244743.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
+    "source": "CafeF",
+    "url": "https://cafef.vn/thi-truong-chung-khoan-thieu-tien-loat-thuong-vu-ban-von-bat-thanh-nguoi-noi-bo-cung-rut-re-mua-co-phieu-188261122230850822.chn",
+    "time": "23/11 00:05"
+   },
+   {
+    "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-ky-luc-127000-ty-dong-chuyen-gia-du-bao-ve-thoi-diem-dao-chieu-188261122220501841.chn",
+    "time": "23/11 00:03"
+   },
+   {
+    "title": "Nghịch lý: VN-Index neo ở vùng cao, loạt Bluechips đình đám \"cưa đôi\" từ đỉnh, nhiều mã ngụp lặn dưới đáy",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nghich-ly-vn-index-neo-o-vung-cao-loat-bluechips-dinh-dam-cua-doi-tu-dinh-nhieu-ma-ngup-lan-duoi-day-188261121183458581.chn",
+    "time": "23/11 00:03"
+   },
+   {
+    "title": "Một cổ phiếu tăng 64% từ đầu năm, công ty có lượng tiền gửi lớn gấp rưỡi giá trị vốn hóa dù đã dừng sản xuất",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-tang-64-tu-dau-nam-cong-ty-co-luong-tien-gui-lon-gap-ruoi-gia-tri-von-hoa-du-da-dung-san-xuat-18826112222244743.chn",
+    "time": "23/11 00:02"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/mot-nha-thau-quan-doi-viet-nam-tung-xay-cau-dai-383-m-than-toc-trong-9-thang-nay-lai-dua-cau-day-vang-moi-ve-gan-dich-chi-sau-280-ngay-188261122175900642.chn",
+   "articles": [
+    {
+     "title": "Một nhà thầu quân đội Việt Nam từng xây cầu dài 383 m thần tốc trong 9 tháng, nay lại đưa cầu dây văng mới về gần đích chỉ sau 280 ngày",
+     "source": "CafeF",
+     "url": "https://cafef.vn/mot-nha-thau-quan-doi-viet-nam-tung-xay-cau-dai-383-m-than-toc-trong-9-thang-nay-lai-dua-cau-day-vang-moi-ve-gan-dich-chi-sau-280-ngay-188261122175900642.chn",
+     "time": "23/11 00:03"
+    },
+    {
+     "title": "Thành phố nhỏ nhất Việt Nam chuẩn bị khởi công 2 dự án lớn tại đặc khu Cát Hải: Một dự án gần 25.000 tỷ đồng có quy mô 146,2ha với tổng chiều dài cầu bến 1.800 m",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thanh-pho-nho-nhat-viet-nam-chuan-bi-khoi-cong-2-du-an-lon-tai-dac-khu-cat-hai-mot-du-an-gan-25000-ty-dong-co-quy-mo-1462ha-voi-tong-chieu-dai-cau-ben-1800-m-188261122225728456.chn",
+     "time": "23/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Thép – vật liệu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/dai-gia-goc-thanh-hoa-tung-thi-cong-mai-vom-thep-lon-nhat-the-gioi-da-cung-cap-28000-tan-thep-cho-sieu-san-van-dong-40000-cho-so-huu-thiet-ke-dac-biet-co-the-thao-roi-bat-cu-luc-nao-18826112220451098.chn",
+   "articles": [
+    {
+     "title": "Đại gia gốc Thanh Hóa từng thi công mái vòm thép lớn nhất thế giới đã cung cấp 28.000 tấn thép cho siêu sân vận động 40.000 chỗ, sở hữu thiết kế đặc biệt có thể tháo rời bất cứ lúc nào",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dai-gia-goc-thanh-hoa-tung-thi-cong-mai-vom-thep-lon-nhat-the-gioi-da-cung-cap-28000-tan-thep-cho-sieu-san-van-dong-40000-cho-so-huu-thiet-ke-dac-biet-co-the-thao-roi-bat-cu-luc-nao-18826112220451098.chn",
+     "time": "23/11 00:03"
+    }
+   ]
+  },
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-23T00:00:00+07:00",
+   "2026-11-23T00:22:49+07:00"
+  ],
+  "sources": {
+   "CafeF": 8
+  },
+  "failed": []
+ }
+}
