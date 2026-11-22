@@ -3,10 +3,10 @@
  "label": "Sáng 22/11/2026 (Chủ nhật)",
  "date": "2026-11-22",
  "session": "sang",
- "updatedAt": "2026-11-22T10:28:59+07:00",
+ "updatedAt": "2026-11-22T14:59:06+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 12 bài về ngân hàng – tiền tệ từ 3 nguồn (12:00 21/11 – 10:28 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 14 bài về ngân hàng – tiền tệ từ 3 nguồn (12:00 21/11 – 12:00 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -41,6 +41,18 @@
    }
   ],
   "articles": [
+   {
+    "title": "Hai cổ phiếu ngân hàng ngược chiều tăng giá trong tuần đỏ lửa",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hai-co-phieu-ngan-hang-nguoc-chieu-tang-gia-trong-tuan-do-lua-188261122105306833.chn",
+    "time": "22/11 10:58"
+   },
+   {
+    "title": "Nhật Bản siết cho vay DA điện dùng nhiên liệu hóa thạch, Việt Nam vẫn nhận khoản vay hơn 4.500 tỷ đồng lãi suất 1,4% nhờ một văn kiện từ 13 năm trước",
+    "source": "CafeF",
+    "url": "https://cafef.vn/nhat-ban-siet-cho-vay-da-dien-dung-nhien-lieu-hoa-thach-viet-nam-van-nhan-khoan-vay-hon-4500-ty-dong-lai-suat-14-nho-mot-van-kien-tu-13-nam-truoc-188261122095157999.chn",
+    "time": "22/11 10:50"
+   },
    {
     "title": "Lãi suất giảm, nên giữ hay bán bất động sản?",
     "source": "CafeF",
@@ -116,7 +128,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 18 bài về chứng khoán từ 6 nguồn (12:00 21/11 – 10:28 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 21 bài về chứng khoán từ 6 nguồn (12:00 21/11 – 12:00 22/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -151,6 +163,24 @@
    }
   ],
   "articles": [
+   {
+    "title": "Hai cổ phiếu ngân hàng ngược chiều tăng giá trong tuần đỏ lửa",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hai-co-phieu-ngan-hang-nguoc-chieu-tang-gia-trong-tuan-do-lua-188261122105306833.chn",
+    "time": "22/11 10:58"
+   },
+   {
+    "title": "Công ty chứng khoán nhận định gì về rủi ro VN-Index thủng đáy ngắn hạn?",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-ve-rui-ro-vn-index-thung-day-ngan-han.htm",
+    "time": "22/11 10:33"
+   },
+   {
+    "title": "Xu thế dòng tiền: Rủi ro ngoại biên có đẩy VN-Index về đáy 1600 điểm?",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/xu-the-dong-tien-rui-ro-ngoai-bien-co-day-vn-index-ve-day-1600-diem.htm",
+    "time": "22/11 10:33"
+   },
    {
     "title": "Lợi nhuận doanh nghiệp tăng gần 50% nhưng định giá chứng khoán xuống đáy 6 năm: Điều gì đang xảy ra?",
     "source": "CafeF",
@@ -267,10 +297,22 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 3 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/lai-suat-giam-nen-giu-hay-ban-bat-dong-san-1882611220823449.chn",
+   "reason": "17 bài trong khung giờ, từ 3 nguồn.",
+   "source": "Tuổi Trẻ",
+   "url": "https://tuoitre.vn/luat-nha-o-sua-doi-chinh-thuc-cho-phep-su-dung-can-ho-chung-cu-de-cho-thue-luu-tru-100261122102130507.htm",
    "articles": [
+    {
+     "title": "Luật Nhà ở sửa đổi chính thức cho phép sử dụng căn hộ chung cư để cho thuê lưu trú",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/luat-nha-o-sua-doi-chinh-thuc-cho-phep-su-dung-can-ho-chung-cu-de-cho-thue-luu-tru-100261122102130507.htm",
+     "time": "22/11 12:07"
+    },
+    {
+     "title": "Dự kiến giá nhà khu đô thị nhà ở xã hội xã Bà Điểm mức nào?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/du-kien-gia-nha-khu-do-thi-nha-o-xa-hoi-xa-ba-diem-muc-nao-100261121113334342.htm",
+     "time": "22/11 10:26"
+    },
     {
      "title": "Lãi suất giảm, nên giữ hay bán bất động sản?",
      "source": "CafeF",
@@ -366,11 +408,23 @@
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "14 bài trong khung giờ, từ 6 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-hom-nay-22-11-hoi-phuc-nhe-nhung-van-dung-o-nguong-thap-188261122090107889.chn",
+   "heat": 5,
+   "reason": "16 bài trong khung giờ, từ 6 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-manh-nguoi-mua-lo-gan-10-trieu-dongluong-sau-mot-tuan-20261122102117729.htm",
    "articles": [
+    {
+     "title": "Giá vàng miếng giảm mạnh, người mua lỗ gần 10 triệu đồng/lượng sau một tuần",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-giam-manh-nguoi-mua-lo-gan-10-trieu-dongluong-sau-mot-tuan-20261122102117729.htm",
+     "time": "22/11 10:40"
+    },
+    {
+     "title": "Giá vàng thế giới giảm mạnh nhất trong 8 tháng, tuần tới có nhích lên?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gia-vang-the-gioi-giam-manh-nhat-trong-8-thang-tuan-toi-co-nhich-len-100261122094553541.htm",
+     "time": "22/11 10:16"
+    },
     {
      "title": "Giá vàng hôm nay 22/11: Hồi phục nhẹ nhưng vẫn đứng ở ngưỡng thấp",
      "source": "CafeF",
@@ -461,10 +515,28 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 2 nguồn.",
+   "reason": "14 bài trong khung giờ, từ 2 nguồn.",
    "source": "CafeF",
-   "url": "https://cafef.vn/co-phieu-acv-xuong-day-6-nam-von-hoa-dn-quan-ly-san-bay-lon-nhat-viet-nam-giam-hon-100000-ty-dong-sau-10-thang-1882611220940554.chn",
+   "url": "https://cafef.vn/nguoi-dan-tay-ninh-don-tin-vui-sap-khoi-cong-3-tuyen-duong-tong-von-hon-30000-ty-dong-co-tuyen-dai-hon-74km-ket-noi-den-cua-khau-quoc-te-188261122090651275.chn",
    "articles": [
+    {
+     "title": "Người dân Tây Ninh đón tin vui: Sắp khởi công 3 tuyến đường tổng vốn hơn 30.000 tỷ đồng, có tuyến dài hơn 74km kết nối đến cửa khẩu quốc tế",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nguoi-dan-tay-ninh-don-tin-vui-sap-khoi-cong-3-tuyen-duong-tong-von-hon-30000-ty-dong-co-tuyen-dai-hon-74km-ket-noi-den-cua-khau-quoc-te-188261122090651275.chn",
+     "time": "22/11 12:10"
+    },
+    {
+     "title": "Gần 10 km cao tốc TP.HCM - Long Thành mở rộng lên 10 làn, xe di chuyển thế nào?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gan-10-km-cao-toc-tphcm-long-thanh-mo-rong-len-10-lan-xe-di-chuyen-the-nao-185261122113751644.htm",
+     "time": "22/11 11:59"
+    },
+    {
+     "title": "Hôm nay, chính thức khai thác đoạn cao tốc 10 làn xe, vốn gần 15.000 tỷ đồng nối thành phố giàu nhất nước ta với siêu sân bay lớn nhất Việt Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/hom-nay-chinh-thuc-khai-thac-doan-cao-toc-10-lan-xe-von-gan-15000-ty-dong-noi-thanh-pho-giau-nhat-nuoc-ta-voi-sieu-san-bay-lon-nhat-viet-nam-1882611212227425.chn",
+     "time": "22/11 10:27"
+    },
     {
      "title": "Cổ phiếu ACV xuống đáy 6 năm, vốn hóa DN quản lý sân bay lớn nhất Việt Nam giảm hơn 100.000 tỷ đồng sau 10 tháng",
      "source": "CafeF",
@@ -478,16 +550,10 @@
      "time": "22/11 09:41"
     },
     {
-     "title": "Quá nhanh: Đại lộ rộng gần gấp 3 lần đường băng sân bay, chạy xuyên siêu dự án 925.000 tỷ đồng, kết nối trực tiếp tới sân vận động 135.000 chỗ lớn nhất thế giới của Vingroup dự kiến thông xe sau 10 ngày nữa",
+     "title": "Quá nhanh: Đại lộ rộng gần gấp 3 lần đường băng sân bay, chạy xuyên siêu dự án 925.000 tỷ đồng, kết nối trực tiếp tới sân vận động 135.000 chỗ lớn nhất thế giới của Vingroup dự kiến hoàn tất xây dựng sau 10 ngày nữa",
      "source": "CafeF",
      "url": "https://cafef.vn/qua-nhanh-dai-lo-rong-gan-gap-3-lan-duong-bang-san-bay-chay-xuyen-sieu-du-an-925000-ty-dong-ket-noi-truc-tiep-toi-san-van-dong-135000-cho-lon-nhat-the-gioi-cua-vingroup-du-kien-thong-xe-sau-10-ngay-nua-188261121220948287.chn",
      "time": "22/11 09:14"
-    },
-    {
-     "title": "Người dân Tây Ninh đón tin vui: 3 tuyến đường tổng vốn hơn 30.000 tỷ đồng sắp khởi công, có tuyến dài hơn 74km kết nối đến cửa khẩu quốc tế",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nguoi-dan-tay-ninh-don-tin-vui-3-tuyen-duong-tong-von-hon-30000-ty-dong-sap-khoi-cong-co-tuyen-dai-hon-74km-ket-noi-den-cua-khau-quoc-te-188261122090651275.chn",
-     "time": "22/11 09:10"
     },
     {
      "title": "Thành phố đáng sống bậc nhất Việt Nam nghiên cứu mở rộng Khu thương mại tự do thêm 1.205ha, 2 vị trí nằm gần ga đường sắt tốc độ cao, sân bay Chu Lai và loạt cảng biển",
@@ -543,10 +609,16 @@
    "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "6 bài trong khung giờ, từ 3 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/chuyen-gia-chi-buoc-tien-vuot-bac-ve-cong-nghe-xay-dung-cua-ky-su-viet-188261122085811565.chn",
+   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "source": "Thanh Niên",
+   "url": "https://thanhnien.vn/de-xuat-ap-gia-dien-san-xuat-cho-trung-tam-du-lieu-185261122111538388.htm",
    "articles": [
+    {
+     "title": "Đề xuất áp giá điện sản xuất cho trung tâm dữ liệu",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/de-xuat-ap-gia-dien-san-xuat-cho-trung-tam-du-lieu-185261122111538388.htm",
+     "time": "22/11 12:02"
+    },
     {
      "title": "Chuyên gia chỉ bước tiến vượt bậc về công nghệ xây dựng của kỹ sư Việt",
      "source": "CafeF",
@@ -588,11 +660,17 @@
   {
    "name": "Tiêu dùng – bán lẻ",
    "status": "soi-noi",
-   "heat": 2,
-   "reason": "5 bài trong khung giờ, từ 4 nguồn.",
-   "source": "Thanh Niên",
-   "url": "https://thanhnien.vn/thu-tuong-yeu-cau-kiem-soat-tinh-trang-tang-gia-hang-hoa-kich-cau-tieu-dung-18526112208570037.htm",
+   "heat": 3,
+   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/tphcm-kich-cau-mua-sam-cuoi-nam-doanh-thu-ban-le-vuot-60000-ty-dong-20261122094030938.htm",
    "articles": [
+    {
+     "title": "TPHCM kích cầu mua sắm cuối năm, doanh thu bán lẻ vượt 60.000 tỷ đồng",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/tphcm-kich-cau-mua-sam-cuoi-nam-doanh-thu-ban-le-vuot-60000-ty-dong-20261122094030938.htm",
+     "time": "22/11 10:05"
+    },
     {
      "title": "Thủ tướng yêu cầu kiểm soát tình trạng tăng giá hàng hóa, kích cầu tiêu dùng",
      "source": "Thanh Niên",
@@ -629,15 +707,15 @@
  "rss": {
   "window": [
    "2026-11-21T12:00:00+07:00",
-   "2026-11-22T10:28:59+07:00"
+   "2026-11-22T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 48,
-   "Tuổi Trẻ": 10,
-   "Dân trí": 8,
-   "Thanh Niên": 6,
+   "CafeF": 51,
+   "Tuổi Trẻ": 14,
+   "Dân trí": 11,
+   "Thanh Niên": 8,
    "VietnamNet": 6,
-   "VnEconomy": 2,
+   "VnEconomy": 4,
    "VnExpress": 2,
    "Vietstock": 1
   },
