@@ -3,12 +3,18 @@
  "label": "Chiều 23/11/2026 (thứ Hai)",
  "date": "2026-11-23",
  "session": "chieu",
- "updatedAt": "2026-11-23T01:29:49+07:00",
+ "updatedAt": "2026-11-23T03:27:48+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 23/11 – 01:29 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 5 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 23/11 – 03:27 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Ngày 23/11, gửi dưới 500 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-23-11-gui-duoi-500-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261122224452882.chn"
+   },
    {
     "title": "Ngày 23/11, gửi dưới 100 triệu đồng kỳ hạn 1 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
     "impact": "trung-tinh",
@@ -36,6 +42,12 @@
   ],
   "articles": [
    {
+    "title": "Ngày 23/11, gửi dưới 500 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-23-11-gui-duoi-500-trieu-dong-ky-han-12-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-188261122224452882.chn",
+    "time": "23/11 03:00"
+   },
+   {
     "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
     "source": "CafeF",
     "url": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn",
@@ -62,7 +74,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 23/11 – 01:29 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 23/11 – 03:27 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -194,10 +206,10 @@
  "rss": {
   "window": [
    "2026-11-23T00:00:00+07:00",
-   "2026-11-23T01:29:49+07:00"
+   "2026-11-23T03:27:48+07:00"
   ],
   "sources": {
-   "CafeF": 10
+   "CafeF": 11
   },
   "failed": []
  }
