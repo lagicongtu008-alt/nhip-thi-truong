@@ -3,12 +3,24 @@
  "label": "Chiều 23/11/2026 (thứ Hai)",
  "date": "2026-11-23",
  "session": "chieu",
- "updatedAt": "2026-11-23T00:22:49+07:00",
+ "updatedAt": "2026-11-23T01:29:49+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 23/11 – 00:22 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 23/11 – 01:29 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Ngày 23/11, gửi dưới 100 triệu đồng kỳ hạn 1 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-23-11-gui-duoi-100-trieu-dong-ky-han-1-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261122223854439.chn"
+   },
+   {
+    "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn"
+   },
    {
     "title": "CTCK dự báo: Ngân hàng lãi thêm 45.500 tỷ đồng, tổng tất cả các ngành còn lại giảm 800 tỷ đồng nếu không tính nhóm Vin",
     "impact": "tieu-cuc",
@@ -24,6 +36,18 @@
   ],
   "articles": [
    {
+    "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn",
+    "time": "23/11 01:00"
+   },
+   {
+    "title": "Ngày 23/11, gửi dưới 100 triệu đồng kỳ hạn 1 tháng tại LPBank, MSB, Nam A Bank, VIB và OCB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-23-11-gui-duoi-100-trieu-dong-ky-han-1-thang-tai-lpbank-msb-nam-a-bank-vib-va-ocb-nhan-duoc-bao-nhieu-tien-lai-188261122223854439.chn",
+    "time": "23/11 01:00"
+   },
+   {
     "title": "CTCK dự báo: Ngân hàng lãi thêm 45.500 tỷ đồng, tổng tất cả các ngành còn lại giảm 800 tỷ đồng nếu không tính nhóm Vin",
     "source": "CafeF",
     "url": "https://cafef.vn/ctck-du-bao-ngan-hang-lai-them-45500-ty-dong-tong-tat-ca-cac-nganh-con-lai-giam-800-ty-dong-neu-khong-tinh-nhom-vin-188261122104753285.chn",
@@ -38,9 +62,15 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 23/11 – 00:22 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 5 bài về chứng khoán từ 1 nguồn (00:00 23/11 – 01:29 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
+   {
+    "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn"
+   },
    {
     "title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều",
     "impact": "tich-cuc",
@@ -67,6 +97,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "Khối ngoại bán ròng hơn 47.000 tỷ đồng cổ phiếu ngân hàng từ đầu năm 2026, tâm điểm ACB, VCB, STB, HDB và VPB",
+    "source": "CafeF",
+    "url": "https://cafef.vn/khoi-ngoai-ban-rong-hon-47000-ty-dong-co-phieu-ngan-hang-tam-diem-acb-vcb-stb-hdb-va-vpb-188261122234006725.chn",
+    "time": "23/11 01:00"
+   },
    {
     "title": "Thị trường chứng khoán “thiếu tiền”: Loạt thương vụ bán vốn bất thành, người nội bộ cũng “rụt rè” mua cổ phiếu",
     "source": "CafeF",
@@ -158,10 +194,10 @@
  "rss": {
   "window": [
    "2026-11-23T00:00:00+07:00",
-   "2026-11-23T00:22:49+07:00"
+   "2026-11-23T01:29:49+07:00"
   ],
   "sources": {
-   "CafeF": 8
+   "CafeF": 10
   },
   "failed": []
  }
