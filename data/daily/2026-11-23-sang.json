@@ -3,10 +3,10 @@
  "label": "Sáng 23/11/2026 (thứ Hai)",
  "date": "2026-11-23",
  "session": "sang",
- "updatedAt": "2026-11-23T16:04:08+07:00",
+ "updatedAt": "2026-11-23T20:16:43+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 28 bài về ngân hàng – tiền tệ từ 8 nguồn (12:00 22/11 – 12:00 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 27 bài về ngân hàng – tiền tệ từ 8 nguồn (12:00 22/11 – 12:00 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -186,12 +186,6 @@
     "time": "22/11 19:24"
    },
    {
-    "title": "Techcombank huy động 7.500 tỉ đồng trái phiếu, lãi suất cao nhất lên tới 9%/năm",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/techcombank-huy-dong-7500-ti-dong-trai-phieu-lai-suat-cao-nhat-len-toi-9-nam-100261122164231538.htm",
-    "time": "22/11 18:05"
-   },
-   {
     "title": "Siêu nhà máy điện tại Cần Thơ được Nhật Bản cho vay hơn 4.500 tỷ đồng lãi suất 1,4%: Hé lộ một văn kiện đặc biệt từ 13 năm trước",
     "source": "CafeF",
     "url": "https://cafef.vn/sieu-nha-may-dien-tai-can-tho-duoc-nhat-ban-cho-vay-hon-4500-ty-dong-lai-suat-14-he-lo-mot-van-kien-dac-biet-tu-13-nam-truoc-188261122095157999.chn",
@@ -212,7 +206,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 36 bài về chứng khoán từ 7 nguồn (12:00 22/11 – 12:00 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 31 bài về chứng khoán từ 7 nguồn (12:00 22/11 – 12:00 23/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -404,22 +398,10 @@
     "time": "22/11 19:24"
    },
    {
-    "title": "Techcombank huy động 7.500 tỉ đồng trái phiếu, lãi suất cao nhất lên tới 9%/năm",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/techcombank-huy-dong-7500-ti-dong-trai-phieu-lai-suat-cao-nhat-len-toi-9-nam-100261122164231538.htm",
-    "time": "22/11 18:05"
-   },
-   {
     "title": "Vietstock Weekly 23-27/11/2026: Thử thách tại vùng hỗ trợ?",
     "source": "Vietstock",
     "url": "http://vietstock.vn/2026/11/vietstock-weekly-23-27112026-thu-thach-tai-vung-ho-tro-1636-1516787.htm",
     "time": "22/11 18:00"
-   },
-   {
-    "title": "5 quỹ cổ phiếu sinh lời tốt nhất 3 năm qua rót tiền vào những mã nào?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/5-quy-co-phieu-sinh-loi-tot-nhat-3-nam-qua-rot-tien-vao-nhung-ma-nao-100261122151822586.htm",
-    "time": "22/11 17:16"
    },
    {
     "title": "Công ty bầu Đức muốn phát hành 400 tỷ đồng trái phiếu",
@@ -434,34 +416,16 @@
     "time": "22/11 16:38"
    },
    {
-    "title": "30 năm chứng khoán: Lời gửi gắm từ những người đặt nền móng thị trường",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/30-nam-chung-khoan-loi-gui-gam-tu-nhung-nguoi-dat-nen-mong-thi-truong-100261118131613521.htm",
-    "time": "22/11 16:08"
-   },
-   {
     "title": "Góc nhìn chuyên gia: Nhịp giảm là cơ hội giải ngân chọn lọc, 3 nhóm cổ phiếu tiềm năng kỳ vọng đón dòng tiền mới",
     "source": "CafeF",
     "url": "https://cafef.vn/goc-nhin-chuyen-gia-nhip-giam-la-co-hoi-giai-ngan-chon-loc-3-nhom-co-phieu-tiem-nang-ky-vong-don-dong-tien-moi-188261122141751308.chn",
     "time": "22/11 14:14"
    },
    {
-    "title": "HAGL dự kiến phát hành 400 tỷ đồng trái phiếu",
-    "source": "CafeF",
-    "url": "https://cafef.vn/hagl-du-kien-phat-hanh-400-ty-dong-trai-phieu-188261122113414686.chn",
-    "time": "22/11 13:34"
-   },
-   {
     "title": "Chủ tịch 35 tuổi sắp mua gần 14 triệu cổ phiếu SMC",
     "source": "CafeF",
     "url": "https://cafef.vn/chu-tich-35-tuoi-sap-mua-gan-14-trieu-co-phieu-smc-188261122124812704.chn",
     "time": "22/11 12:48"
-   },
-   {
-    "title": "Novaland, SMC, BAF chờ cổ đông, nhân viên xuống tiền mua cổ phiếu",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/novaland-smc-baf-cho-co-dong-nhan-vien-xuong-tien-mua-co-phieu-100261122104906855.htm",
-    "time": "22/11 12:18"
    }
   ]
  },
@@ -471,7 +435,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "19 bài trong khung giờ, từ 4 nguồn.",
    "source": "Thanh Niên",
    "url": "https://thanhnien.vn/sun-group-khoi-cong-khu-do-thi-gan-6700-ti-dong-tai-mang-den-185261123113444536.htm",
    "articles": [
@@ -588,12 +552,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/khung-hoang-nha-o-tai-tay-ban-nha-bai-toan-an-sinh-xa-hoi-truoc-them-bau-cu-188261122130446036.chn",
      "time": "22/11 14:04"
-    },
-    {
-     "title": "TPHCM bán nhà ở xã hội giá chưa tới 15 triệu/m2",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tphcm-ban-nha-o-xa-hoi-gia-chua-toi-15-trieu-m2-188261122125436425.chn",
-     "time": "22/11 12:49"
     }
    ]
   },
@@ -601,7 +559,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "18 bài trong khung giờ, từ 4 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/masterise-de-xuat-bo-sung-4-ga-duong-sat-tai-san-bay-gia-binh-200000-ty-thiet-ke-don-100000-khach-ngay-18826112310504185.chn",
    "articles": [
@@ -696,12 +654,6 @@
      "time": "22/11 17:51"
     },
     {
-     "title": "Liên danh 8 doanh nghiệp Pháp - Hàn Quốc - Việt Nam trúng thầu gói tư vấn đường sắt tốc độ cao Bắc - Nam",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/lien-danh-8-doanh-nghiep-phap-han-quoc-viet-nam-trung-thau-goi-tu-van-duong-sat-toc-do-cao-bac-nam-100261122170451116.htm",
-     "time": "22/11 17:29"
-    },
-    {
      "title": "Cao tốc TPHCM - Long Thành mở rộng lên 10 làn xe đoạn qua Đồng Nai, tài xế cần lưu ý gì?",
      "source": "CafeF",
      "url": "https://cafef.vn/cao-toc-tphcm-long-thanh-mo-rong-len-10-lan-xe-doan-qua-dong-nai-tai-xe-can-luu-y-gi-188261122111045706.chn",
@@ -718,12 +670,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/vanh-dai-35-tap-trung-thao-go-diem-nghen-thuc-day-tien-do-cac-du-an-thanh-phan-188261122130907756.chn",
      "time": "22/11 13:08"
-    },
-    {
-     "title": "Cận cảnh khai thác rừng phục vụ cao tốc nghìn tỷ kết nối với Lào",
-     "source": "CafeF",
-     "url": "https://cafef.vn/can-canh-khai-thac-rung-phuc-vu-cao-toc-nghin-ty-ket-noi-voi-lao-188261122125728241.chn",
-     "time": "22/11 12:57"
     }
    ]
   },
@@ -878,8 +824,8 @@
    "2026-11-23T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 64,
-   "Tuổi Trẻ": 21,
+   "CafeF": 60,
+   "Tuổi Trẻ": 14,
    "Dân trí": 9,
    "Thanh Niên": 8,
    "VnExpress": 8,
