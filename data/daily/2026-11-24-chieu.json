@@ -3,10 +3,10 @@
  "label": "Chiều 24/11/2026 (thứ Ba)",
  "date": "2026-11-24",
  "session": "chieu",
- "updatedAt": "2026-11-24T04:39:27+07:00",
+ "updatedAt": "2026-11-24T05:38:11+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 3 nguồn (00:00 24/11 – 04:39 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về ngân hàng – tiền tệ từ 3 nguồn (00:00 24/11 – 05:38 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -26,9 +26,21 @@
     "impact": "trung-tinh",
     "source": "VnExpress",
     "url": "https://vnexpress.net/ngan-hang-scb-co-chu-tich-moi-5148245.html"
+   },
+   {
+    "title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn"
    }
   ],
   "articles": [
+   {
+    "title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+    "source": "CafeF",
+    "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
+    "time": "24/11 05:18"
+   },
    {
     "title": "Ngày 24/11, gửi dưới 100 triệu đồng kỳ hạn 9 tháng tại Nam A Bank, LPBank, MSB, VIB và OCB nhận được bao nhiêu tiền lãi?",
     "source": "CafeF",
@@ -50,7 +62,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 24/11 – 04:39 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 4 bài về chứng khoán từ 1 nguồn (00:00 24/11 – 05:38 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -111,10 +123,16 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "VietnamNet",
-   "url": "https://vietnamnet.vn/gia-vang-hom-nay-24-11-bat-tang-du-doi-hon-100-usd-ounce-2577974.html",
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
    "articles": [
+    {
+     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
+     "time": "24/11 05:18"
+    },
     {
      "title": "Giá vàng hôm nay 24/11: Bật tăng dữ dội hơn 100 USD/ounce",
      "source": "VietnamNet",
@@ -164,10 +182,10 @@
  "rss": {
   "window": [
    "2026-11-24T00:00:00+07:00",
-   "2026-11-24T04:39:27+07:00"
+   "2026-11-24T05:38:11+07:00"
   ],
   "sources": {
-   "CafeF": 6,
+   "CafeF": 7,
    "Dân trí": 1,
    "VietnamNet": 1,
    "VnExpress": 1
