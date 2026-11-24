@@ -3,7 +3,7 @@
  "label": "Sáng 24/11/2026 (thứ Ba)",
  "date": "2026-11-24",
  "session": "sang",
- "updatedAt": "2026-11-24T14:05:56+07:00",
+ "updatedAt": "2026-11-24T17:54:58+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 20 bài về ngân hàng – tiền tệ từ 5 nguồn (12:00 23/11 – 12:00 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -164,7 +164,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 47 bài về chứng khoán từ 6 nguồn (12:00 23/11 – 12:00 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 44 bài về chứng khoán từ 6 nguồn (12:00 23/11 – 12:00 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -374,18 +374,6 @@
     "time": "23/11 16:01"
    },
    {
-    "title": "Từng là cổ đông lớn tại PNJ, công ty quản lý quỹ ngoại sắp đóng cửa sau 33 năm",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/tung-la-co-dong-lon-tai-pnj-cong-ty-quan-ly-quy-ngoai-sap-dong-cua-sau-33-nam-100261123153700608.htm",
-    "time": "23/11 15:55"
-   },
-   {
-    "title": "Cổ phiếu PNJ giảm kịch sàn sau thông tin lãnh đạo thừa nhận khó khăn tài chính",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/co-phieu-pnj-giam-kich-san-sau-thong-tin-lanh-dao-thua-nhan-kho-khan-tai-chinh-100261123153644513.htm",
-    "time": "23/11 15:54"
-   },
-   {
     "title": "Phiên 23/11: Khối ngoại tiếp tục bán ròng, bất ngờ tung gần 200 tỷ đồng gom một cổ phiếu HOSE",
     "source": "CafeF",
     "url": "https://cafef.vn/phien-23-11-khoi-ngoai-tiep-tuc-ban-rong-bat-ngo-tung-gan-200-ty-dong-gom-mot-co-phieu-hose-188261123152245939.chn",
@@ -402,12 +390,6 @@
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/co-phieu-phuc-hoi-dien-rong-ben-mua-van-rat-than-trong.htm",
     "time": "23/11 15:19"
-   },
-   {
-    "title": "Thủ tướng chủ trì lễ kỷ niệm 30 năm ngành chứng khoán, FTSE Russell và MSCI cùng nhiều định chế tài chính tham dự",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/thu-tuong-chu-tri-le-ky-niem-30-nam-nganh-chung-khoan-ftse-russell-va-msci-cung-nhieu-dinh-che-tai-chinh-tham-du-100261123132607358.htm",
-    "time": "23/11 14:51"
    },
    {
     "title": "Quỹ ngoại vừa bán 6,6 triệu cổ phiếu PNJ bất ngờ đóng cửa sau 33 năm, từng quản lý hơn 300.000 tỷ tài sản",
@@ -590,28 +572,28 @@
      "time": "23/11 16:31"
     },
     {
-     "title": "Sun Group khởi công khu đô thị gần 6.700 tỉ đồng tại Măng Đen",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/sun-group-khoi-cong-khu-do-thi-gan-6700-ti-dong-tai-mang-den-100261123134755375.htm",
-     "time": "23/11 16:01"
-    },
-    {
      "title": "Tổ hợp căn hộ, khách sạn 36 tầng do Alphanam của đại gia Nguyễn Tuấn Hải đầu tư tại TP đáng sống bậc nhất Việt Nam có diễn biến mới",
      "source": "CafeF",
      "url": "https://cafef.vn/to-hop-can-ho-khach-san-36-tang-do-alphanam-cua-dai-gia-nguyen-tuan-hai-dau-tu-tai-tp-dang-song-bac-nhat-viet-nam-co-dien-bien-moi-188261123155115856.chn",
      "time": "23/11 15:57"
     },
     {
-     "title": "Cần Thơ tiếp tục giao, cho thuê đất thực hiện 17 dự án",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/can-tho-tiep-tuc-giao-cho-thue-dat-thuc-hien-17-du-an-100261123142609521.htm",
-     "time": "23/11 15:47"
-    },
-    {
      "title": "Đặt cọc mua bất động sản không quá 5% giá bán",
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/cam-dat-coc-mua-bat-dong-san-duoi-moi-hinh-thuc-185261123142446658.htm",
      "time": "23/11 14:47"
+    },
+    {
+     "title": "Cẩn trọng với chiêu 'cắt lỗ' bất động sản nửa tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/can-trong-voi-chieu-cat-lo-bat-dong-san-nua-ty-dong-188261123120547242.chn",
+     "time": "23/11 13:04"
+    },
+    {
+     "title": "Sun Group khởi công khu đô thị gần 6.700 tỷ đồng ở Măng Đen",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/sun-group-khoi-cong-khu-do-thi-gan-6-700-ty-dong-o-mang-den-5147947.html",
+     "time": "23/11 12:48"
     }
    ]
   },
@@ -619,7 +601,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "19 bài trong khung giờ, từ 3 nguồn.",
+   "reason": "18 bài trong khung giờ, từ 2 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/cuong-che-17-cong-trinh-vi-pham-dat-dai-tai-xa-tay-phuong-188261124072829969.chn",
    "articles": [
@@ -684,12 +666,6 @@
      "time": "23/11 17:35"
     },
     {
-     "title": "Thủ tướng nhấn nút khởi công 4 bến cảng Lạch Huyện và nhà máy chế biến sâu đất hiếm",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/thu-tuong-nhan-nut-khoi-cong-4-ben-cang-lach-huyen-va-nha-may-che-bien-sau-dat-hiem-100261123150115977.htm",
-     "time": "23/11 17:01"
-    },
-    {
      "title": "Bộ Xây dựng: Chưa xem xét điều chỉnh giá vé máy bay phổ thông nội địa",
      "source": "CafeF",
      "url": "https://cafef.vn/bo-xay-dung-chua-xem-xet-dieu-chinh-gia-ve-may-bay-pho-thong-noi-dia-188261123161915012.chn",
@@ -743,16 +719,10 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "17 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "16 bài trong khung giờ, từ 7 nguồn.",
    "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
+   "url": "https://cafef.vn/gia-vang-mieng-dung-im-vang-nhan-tiep-tuc-tang-188261124102104666.chn",
    "articles": [
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 24/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải: Tăng tại một số thương hiệu",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261123231959617.chn",
-     "time": "24/11 10:48"
-    },
     {
      "title": "Giá vàng miếng đứng im, vàng nhẫn tiếp tục tăng",
      "source": "CafeF",
@@ -907,7 +877,7 @@
    "name": "Nông sản – thực phẩm",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "6 bài trong khung giờ, từ 4 nguồn.",
    "source": "Tuổi Trẻ",
    "url": "https://tuoitre.vn/gia-ca-dau-ngay-sau-rieng-chuong-bo-dang-vao-vu-con-70000-dong-kg-gia-heo-hoi-bat-ngo-giam-100261124080204703.htm",
    "articles": [
@@ -942,12 +912,6 @@
      "time": "23/11 17:25"
     },
     {
-     "title": "Gạo Việt muốn tăng giá trị, cần thay đổi từ khâu chọn tạo giống",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gao-viet-muon-tang-gia-tri-can-thay-doi-tu-khau-chon-tao-giong-100261123141521927.htm",
-     "time": "23/11 14:57"
-    },
-    {
      "title": "Kỳ vọng sàn hàng hóa tại VIFC-HCMC giúp nông sản Việt chủ động về giá",
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/ky-vong-san-hang-hoa-tai-vifc-hcmc-giup-nong-san-viet-chu-dong-ve-gia-20261123112654693.htm",
@@ -962,11 +926,11 @@
    "2026-11-24T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 66,
-   "Tuổi Trẻ": 19,
+   "CafeF": 65,
    "VnExpress": 17,
    "VnEconomy": 14,
    "Dân trí": 13,
+   "Tuổi Trẻ": 12,
    "Thanh Niên": 8,
    "VietnamNet": 7,
    "Vietstock": 6
