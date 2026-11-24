@@ -3,7 +3,7 @@
  "label": "Sáng 24/11/2026 (thứ Ba)",
  "date": "2026-11-24",
  "session": "sang",
- "updatedAt": "2026-11-24T17:54:58+07:00",
+ "updatedAt": "2026-11-24T20:58:47+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 20 bài về ngân hàng – tiền tệ từ 5 nguồn (12:00 23/11 – 12:00 24/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -471,7 +471,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "19 bài trong khung giờ, từ 5 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/da-nang-phe-duyet-gia-dat-chi-tiet-to-hop-alphanam-luxury-188261124072101498.chn",
    "articles": [
@@ -582,12 +582,6 @@
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/cam-dat-coc-mua-bat-dong-san-duoi-moi-hinh-thuc-185261123142446658.htm",
      "time": "23/11 14:47"
-    },
-    {
-     "title": "Cẩn trọng với chiêu 'cắt lỗ' bất động sản nửa tỷ đồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/can-trong-voi-chieu-cat-lo-bat-dong-san-nua-ty-dong-188261123120547242.chn",
-     "time": "23/11 13:04"
     },
     {
      "title": "Sun Group khởi công khu đô thị gần 6.700 tỷ đồng ở Măng Đen",
@@ -825,7 +819,7 @@
    "name": "Công nghệ – viễn thông",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "7 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "6 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/doanh-nghiep-viet-dung-sau-mo-dat-hiem-gan-400-ha-tai-lao-cai-vua-khoi-cong-nha-may-1580-ty-dong-o-hai-phong-188261124083949069.chn",
    "articles": [
@@ -840,12 +834,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/mot-doanh-nghiep-my-sap-xay-nha-may-hon-3000-ty-dong-tai-viet-nam-cong-suat-5000-container-pin-nam-tung-bat-tay-ford-lam-cong-nghe-dac-biet-188261124094620053.chn",
      "time": "24/11 09:59"
-    },
-    {
-     "title": "TP.HCM chuẩn bị cơ chế phát triển đô thị khoa học, công nghệ",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/tphcm-chuan-bi-co-che-phat-trien-do-thi-khoa-hoc-cong-nghe-100261123161533524.htm",
-     "time": "23/11 17:37"
     },
     {
      "title": "Tỷ phú Nguyễn Thị Phương Thảo ký hợp tác toàn diện với Tổng công ty của Bộ Công an, mở rộng sang công nghiệp an ninh và công nghệ cao",
@@ -926,11 +914,11 @@
    "2026-11-24T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 65,
+   "CafeF": 62,
    "VnExpress": 17,
    "VnEconomy": 14,
    "Dân trí": 13,
-   "Tuổi Trẻ": 12,
+   "Tuổi Trẻ": 11,
    "Thanh Niên": 8,
    "VietnamNet": 7,
    "Vietstock": 6
