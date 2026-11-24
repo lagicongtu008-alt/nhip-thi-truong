@@ -1,0 +1,235 @@
+{
+ "key": "2026-11-25-chieu",
+ "label": "Chiều 25/11/2026 (thứ Tư)",
+ "date": "2026-11-25",
+ "session": "chieu",
+ "updatedAt": "2026-11-25T03:19:45+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 5 bài về ngân hàng – tiền tệ từ 2 nguồn (00:00 25/11 – 03:19 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Ngày 25/11, gửi dưới 500 triệu đồng kỳ hạn 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-25-11-gui-duoi-500-trieu-dong-ky-han-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-18826112423263424.chn"
+   },
+   {
+    "title": "Hàng loạt ngân hàng thay tướng",
+    "impact": "trung-tinh",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/hang-loat-ngan-hang-thay-tuong-5148503.html"
+   },
+   {
+    "title": "Bài toán khó để PNJ huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/bai-toan-kho-de-pnj-huy-dong-8000-ty-chua-chay-bat-ngo-loi-giai-co-the-den-tu-khoan-lo-ky-luc-188261125020201109.chn"
+   },
+   {
+    "title": "Việt Nam đang huy động hơn 1.500 người và 800 máy móc đào hầm gần 6km xuyên núi qua 2 đèo hiểm trở bậc nhất cả nước, dự kiến thông xe ngay năm sau",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viet-nam-dang-huy-dong-hon-1500-nguoi-va-800-may-moc-dao-ham-gan-6km-xuyen-nui-qua-2-deo-hiem-tro-bac-nhat-ca-nuoc-du-kien-thong-xe-ngay-nam-sau-188261124201544886.chn"
+   },
+   {
+    "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Bài toán khó để PNJ huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục",
+    "source": "CafeF",
+    "url": "https://cafef.vn/bai-toan-kho-de-pnj-huy-dong-8000-ty-chua-chay-bat-ngo-loi-giai-co-the-den-tu-khoan-lo-ky-luc-188261125020201109.chn",
+    "time": "25/11 02:01"
+   },
+   {
+    "title": "Ngày 25/11, gửi dưới 500 triệu đồng kỳ hạn 6 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ngay-25-11-gui-duoi-500-trieu-dong-ky-han-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-18826112423263424.chn",
+    "time": "25/11 01:00"
+   },
+   {
+    "title": "Hàng loạt ngân hàng thay tướng",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/hang-loat-ngan-hang-thay-tuong-5148503.html",
+    "time": "25/11 00:22"
+   },
+   {
+    "title": "Việt Nam đang huy động hơn 1.500 người và 800 máy móc đào hầm gần 6km xuyên núi qua 2 đèo hiểm trở bậc nhất cả nước, dự kiến thông xe ngay năm sau",
+    "source": "CafeF",
+    "url": "https://cafef.vn/viet-nam-dang-huy-dong-hon-1500-nguoi-va-800-may-moc-dao-ham-gan-6km-xuyen-nui-qua-2-deo-hiem-tro-bac-nhat-ca-nuoc-du-kien-thong-xe-ngay-nam-sau-188261124201544886.chn",
+    "time": "25/11 00:02"
+   },
+   {
+    "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn",
+    "time": "25/11 00:00"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 25/11 – 03:19 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Một cổ phiếu HoSE bất ngờ \"lau sàn\" 4 phiên liên tiếp",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-hose-bat-ngo-lau-san-4-phien-lien-tiep-188261123230059787.chn"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu hé lộ yếu tố quyết định sức hút của doanh nghiệp Việt với dòng vốn ngoại",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-he-lo-yeu-to-quyet-dinh-suc-hut-cua-doanh-nghiep-viet-voi-dong-von-ngoai-188261124142907786.chn"
+   },
+   {
+    "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn"
+   },
+   {
+    "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn"
+   },
+   {
+    "title": "Bài toán khó để PNJ huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/bai-toan-kho-de-pnj-huy-dong-8000-ty-chua-chay-bat-ngo-loi-giai-co-the-den-tu-khoan-lo-ky-luc-188261125020201109.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
+    "time": "25/11 02:20"
+   },
+   {
+    "title": "Bài toán khó để PNJ huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục",
+    "source": "CafeF",
+    "url": "https://cafef.vn/bai-toan-kho-de-pnj-huy-dong-8000-ty-chua-chay-bat-ngo-loi-giai-co-the-den-tu-khoan-lo-ky-luc-188261125020201109.chn",
+    "time": "25/11 02:01"
+   },
+   {
+    "title": "Một cổ phiếu HoSE bất ngờ \"lau sàn\" 4 phiên liên tiếp",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-co-phieu-hose-bat-ngo-lau-san-4-phien-lien-tiep-188261123230059787.chn",
+    "time": "25/11 00:04"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN Hoàng Văn Thu hé lộ yếu tố quyết định sức hút của doanh nghiệp Việt với dòng vốn ngoại",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-hoang-van-thu-he-lo-yeu-to-quyet-dinh-suc-hut-cua-doanh-nghiep-viet-voi-dong-von-ngoai-188261124142907786.chn",
+    "time": "25/11 00:03"
+   },
+   {
+    "title": "Công ty Việt liên tiếp thắng thầu từ đường sắt cao tốc Bắc - Nam đến metro 72.300 tỷ: Cổ phiếu lập đỉnh lịch sử, lợi nhuận tăng hơn 500%",
+    "source": "CafeF",
+    "url": "https://cafef.vn/cong-ty-viet-lien-tiep-thang-thau-tu-duong-sat-cao-toc-bac-nam-den-metro-72300-ty-co-phieu-lap-dinh-lich-su-loi-nhuan-tang-hon-500-188261124224149743.chn",
+    "time": "25/11 00:03"
+   },
+   {
+    "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn",
+    "time": "25/11 00:00"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
+   "articles": [
+    {
+     "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
+     "time": "25/11 02:20"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/cong-ty-viet-lien-tiep-thang-thau-tu-duong-sat-cao-toc-bac-nam-den-metro-72300-ty-co-phieu-lap-dinh-lich-su-loi-nhuan-tang-hon-500-188261124224149743.chn",
+   "articles": [
+    {
+     "title": "Công ty Việt liên tiếp thắng thầu từ đường sắt cao tốc Bắc - Nam đến metro 72.300 tỷ: Cổ phiếu lập đỉnh lịch sử, lợi nhuận tăng hơn 500%",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cong-ty-viet-lien-tiep-thang-thau-tu-duong-sat-cao-toc-bac-nam-den-metro-72300-ty-co-phieu-lap-dinh-lich-su-loi-nhuan-tang-hon-500-188261124224149743.chn",
+     "time": "25/11 00:03"
+    }
+   ]
+  },
+  {
+   "name": "Thép – vật liệu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/viet-nam-dang-dong-tau-khong-lo-dai-250-m-gan-2-canh-buom-thep-cao-bang-toa-nha-12-tang-du-van-chay-bang-khi-va-dau-188261124221226683.chn",
+   "articles": [
+    {
+     "title": "Việt Nam đang đóng tàu khổng lồ dài 250 m: Gắn 2 cánh buồm thép cao bằng tòa nhà 12 tầng dù vẫn chạy bằng khí và dầu",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-dang-dong-tau-khong-lo-dai-250-m-gan-2-canh-buom-thep-cao-bang-toa-nha-12-tang-du-van-chay-bang-khi-va-dau-188261124221226683.chn",
+     "time": "25/11 00:01"
+    }
+   ]
+  },
+  {
+   "name": "Năng lượng – điện",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/tap-doan-trung-quoc-noi-tieng-ve-tau-cao-toc-xay-nha-may-tai-viet-nam-sap-lam-canh-quat-dien-gio-dai-bang-toa-nha-50-tang-188261124224834909.chn",
+   "articles": [
+    {
+     "title": "Tập đoàn Trung Quốc nổi tiếng về tàu cao tốc xây nhà máy tại Việt Nam: Sắp làm cánh quạt điện gió dài bằng tòa nhà 50 tầng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tap-doan-trung-quoc-noi-tieng-ve-tau-cao-toc-xay-nha-may-tai-viet-nam-sap-lam-canh-quat-dien-gio-dai-bang-toa-nha-50-tang-188261124224834909.chn",
+     "time": "25/11 00:03"
+    }
+   ]
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-25T00:00:00+07:00",
+   "2026-11-25T03:19:45+07:00"
+  ],
+  "sources": {
+   "CafeF": 10,
+   "VnExpress": 1
+  },
+  "failed": []
+ }
+}
