@@ -3,10 +3,10 @@
  "label": "Chiều 25/11/2026 (thứ Tư)",
  "date": "2026-11-25",
  "session": "chieu",
- "updatedAt": "2026-11-25T04:10:52+07:00",
+ "updatedAt": "2026-11-25T06:14:40+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 5 bài về ngân hàng – tiền tệ từ 2 nguồn (00:00 25/11 – 04:10 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 7 bài về ngân hàng – tiền tệ từ 3 nguồn (00:00 25/11 – 06:14 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -14,6 +14,18 @@
     "impact": "trung-tinh",
     "source": "CafeF",
     "url": "https://cafef.vn/ngay-25-11-gui-duoi-500-trieu-dong-ky-han-6-thang-tai-mb-vpbank-techcombank-sacombank-shb-hdbank-va-acb-nhan-duoc-bao-nhieu-tien-lai-18826112423263424.chn"
+   },
+   {
+    "title": "Ngân hàng thu giữ 707m2 đất Hội An để xử lý nợ của Tập đoàn Mai Linh",
+    "impact": "trung-tinh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/thu-giu-707m2-dat-hoi-an-de-xu-ly-no-cua-tap-doan-mai-linh-2578275.html"
+   },
+   {
+    "title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
+    "impact": "trung-tinh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html"
    },
    {
     "title": "Hàng loạt ngân hàng thay tướng",
@@ -26,21 +38,21 @@
     "impact": "trung-tinh",
     "source": "CafeF",
     "url": "https://cafef.vn/bai-toan-kho-de-pnj-huy-dong-8000-ty-chua-chay-bat-ngo-loi-giai-co-the-den-tu-khoan-lo-ky-luc-188261125020201109.chn"
-   },
-   {
-    "title": "Việt Nam đang huy động hơn 1.500 người và 800 máy móc đào hầm gần 6km xuyên núi qua 2 đèo hiểm trở bậc nhất cả nước, dự kiến thông xe ngay năm sau",
-    "impact": "trung-tinh",
-    "source": "CafeF",
-    "url": "https://cafef.vn/viet-nam-dang-huy-dong-hon-1500-nguoi-va-800-may-moc-dao-ham-gan-6km-xuyen-nui-qua-2-deo-hiem-tro-bac-nhat-ca-nuoc-du-kien-thong-xe-ngay-nam-sau-188261124201544886.chn"
-   },
-   {
-    "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
-    "impact": "trung-tinh",
-    "source": "CafeF",
-    "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn"
    }
   ],
   "articles": [
+   {
+    "title": "Ngân hàng thu giữ 707m2 đất Hội An để xử lý nợ của Tập đoàn Mai Linh",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/thu-giu-707m2-dat-hoi-an-de-xu-ly-no-cua-tap-doan-mai-linh-2578275.html",
+    "time": "25/11 06:10"
+   },
+   {
+    "title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html",
+    "time": "25/11 05:45"
+   },
    {
     "title": "Bài toán khó để PNJ huy động 8.000 tỷ \"chữa cháy\": Bất ngờ lời giải có thể đến từ khoản lỗ kỷ lục",
     "source": "CafeF",
@@ -74,7 +86,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 25/11 – 04:10 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 25/11 – 06:14 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -150,6 +162,28 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "2 bài trong khung giờ, từ 2 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-25-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261124224943954.chn",
+   "articles": [
+    {
+     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 25/11 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-25-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188261124224943954.chn",
+     "time": "25/11 05:00"
+    },
+    {
+     "title": "Giá vàng hôm nay 25/11: Đà phục hồi đối mặt áp lực lớn",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-25-11-da-phuc-hoi-doi-mat-ap-luc-lon-2578291.html",
+     "time": "25/11 05:00"
+    }
+   ]
+  },
+  {
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 1,
@@ -162,6 +196,38 @@
      "source": "CafeF",
      "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
      "time": "25/11 02:20"
+    }
+   ]
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
+   "articles": [
+    {
+     "title": "Xăng giảm nhiều kỳ, vì sao cước xe khách vẫn chưa hạ?",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/xang-giam-nhieu-ky-vi-sao-cuoc-xe-khach-van-chua-ha-2577824.html",
+     "time": "25/11 05:30"
+    }
+   ]
+  },
+  {
+   "name": "Tiêu dùng – bán lẻ",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/khach-den-xem-roi-mua-online-sieu-thi-dien-may-diu-hiu-mua-cao-diem-2578280.html",
+   "articles": [
+    {
+     "title": "Khách đến xem, khảo giá rồi về mua online, siêu thị điện máy chao đảo mùa cao điểm",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/khach-den-xem-roi-mua-online-sieu-thi-dien-may-diu-hiu-mua-cao-diem-2578280.html",
+     "time": "25/11 06:00"
     }
    ]
   },
@@ -180,54 +246,17 @@
      "time": "25/11 00:03"
     }
    ]
-  },
-  {
-   "name": "Thép – vật liệu",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/viet-nam-dang-dong-tau-khong-lo-dai-250-m-gan-2-canh-buom-thep-cao-bang-toa-nha-12-tang-du-van-chay-bang-khi-va-dau-188261124221226683.chn",
-   "articles": [
-    {
-     "title": "Việt Nam đang đóng tàu khổng lồ dài 250 m: Gắn 2 cánh buồm thép cao bằng tòa nhà 12 tầng dù vẫn chạy bằng khí và dầu",
-     "source": "CafeF",
-     "url": "https://cafef.vn/viet-nam-dang-dong-tau-khong-lo-dai-250-m-gan-2-canh-buom-thep-cao-bang-toa-nha-12-tang-du-van-chay-bang-khi-va-dau-188261124221226683.chn",
-     "time": "25/11 00:01"
-    }
-   ]
-  },
-  {
-   "name": "Năng lượng – điện",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/tap-doan-trung-quoc-noi-tieng-ve-tau-cao-toc-xay-nha-may-tai-viet-nam-sap-lam-canh-quat-dien-gio-dai-bang-toa-nha-50-tang-188261124224834909.chn",
-   "articles": [
-    {
-     "title": "Tập đoàn Trung Quốc nổi tiếng về tàu cao tốc xây nhà máy tại Việt Nam: Sắp làm cánh quạt điện gió dài bằng tòa nhà 50 tầng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tap-doan-trung-quoc-noi-tieng-ve-tau-cao-toc-xay-nha-may-tai-viet-nam-sap-lam-canh-quat-dien-gio-dai-bang-toa-nha-50-tang-188261124224834909.chn",
-     "time": "25/11 00:03"
-    }
-   ]
-  },
-  {
-   "name": "Công nghệ – viễn thông",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
   }
  ],
  "rss": {
   "window": [
    "2026-11-25T00:00:00+07:00",
-   "2026-11-25T04:10:52+07:00"
+   "2026-11-25T06:14:40+07:00"
   ],
   "sources": {
-   "CafeF": 10,
+   "CafeF": 11,
+   "VietnamNet": 5,
+   "Thanh Niên": 1,
    "VnExpress": 1
   },
   "failed": []
