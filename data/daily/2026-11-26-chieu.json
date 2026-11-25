@@ -3,10 +3,10 @@
  "label": "Chiều 26/11/2026 (thứ Năm)",
  "date": "2026-11-26",
  "session": "chieu",
- "updatedAt": "2026-11-26T02:34:17+07:00",
+ "updatedAt": "2026-11-26T03:28:58+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 2 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 26/11 – 02:34 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 26/11 – 03:28 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -16,6 +16,12 @@
     "url": "https://cafef.vn/tu-hom-nay-26-11-ngan-hang-tu-nhan-lon-nhat-he-thong-dieu-chinh-lai-suat-tiet-kiem-188261125223209256.chn"
    },
    {
+    "title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-188261125162851362.chn"
+   },
+   {
     "title": "Ngày 26/11, gửi 100 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
     "impact": "trung-tinh",
     "source": "CafeF",
@@ -23,6 +29,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "Trớ trêu chuyển nhầm 300 triệu vào tài khoản người đang vay nợ, ngân hàng tự động trừ luôn 261 triệu đồng, không đồng ý trả lại",
+    "source": "CafeF",
+    "url": "https://cafef.vn/tro-treu-chuyen-nham-300-trieu-vao-tai-khoan-nguoi-dang-vay-no-ngan-hang-tu-dong-tru-luon-261-trieu-dong-khong-dong-y-tra-lai-188261125162851362.chn",
+    "time": "26/11 03:04"
+   },
    {
     "title": "Ngày 26/11, gửi 100 triệu đồng kỳ hạn 12 tháng tại MB, VPBank, Techcombank, Sacombank, SHB, HDBank và ACB nhận được bao nhiêu tiền lãi?",
     "source": "CafeF",
@@ -38,7 +50,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 26/11 – 02:34 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 26/11 – 03:28 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -179,10 +191,10 @@
  "rss": {
   "window": [
    "2026-11-26T00:00:00+07:00",
-   "2026-11-26T02:34:17+07:00"
+   "2026-11-26T03:28:58+07:00"
   ],
   "sources": {
-   "CafeF": 11
+   "CafeF": 12
   },
   "failed": []
  }
