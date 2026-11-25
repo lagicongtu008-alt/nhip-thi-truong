@@ -3,10 +3,10 @@
  "label": "Sáng 25/11/2026 (thứ Tư)",
  "date": "2026-11-25",
  "session": "sang",
- "updatedAt": "2026-11-25T16:51:24+07:00",
+ "updatedAt": "2026-11-25T20:13:06+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 31 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 24/11 – 12:00 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 29 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 24/11 – 12:00 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -120,12 +120,6 @@
     "time": "25/11 08:50"
    },
    {
-    "title": "Chuyển nhầm 301 triệu, bị ngân hàng trích hơn 261 triệu để thu hồi nợ của bên nhận tiền",
-    "source": "VietnamNet",
-    "url": "https://vietnamnet.vn/chuyen-nham-301-trieu-bi-ngan-hang-trich-hon-261-trieu-de-thu-hoi-no-2573160.html",
-    "time": "25/11 08:49"
-   },
-   {
     "title": "Hơn 96% cổ đông đồng ý để công ty của bầu Đức huy động 127 tỷ đồng trả nợ",
     "source": "CafeF",
     "url": "https://cafef.vn/hon-96-co-dong-dong-y-de-cong-ty-cua-bau-duc-huy-dong-127-ty-dong-tra-no-188261125081326925.chn",
@@ -180,12 +174,6 @@
     "time": "25/11 00:22"
    },
    {
-    "title": "Việt Nam đang huy động hơn 1.500 người và 800 máy móc đào hầm gần 6km xuyên núi qua 2 đèo hiểm trở bậc nhất cả nước, dự kiến thông xe ngay năm sau",
-    "source": "CafeF",
-    "url": "https://cafef.vn/viet-nam-dang-huy-dong-hon-1500-nguoi-va-800-may-moc-dao-ham-gan-6km-xuyen-nui-qua-2-deo-hiem-tro-bac-nhat-ca-nuoc-du-kien-thong-xe-ngay-nam-sau-188261124201544886.chn",
-    "time": "25/11 00:02"
-   },
-   {
     "title": "Một năm, hai thái cực của cổ phiếu Vietcombank: Tháng 1 lập đỉnh lịch sử, tháng 11 rơi xuống đáy gần 4 năm",
     "source": "CafeF",
     "url": "https://cafef.vn/mot-nam-hai-thai-cuc-cua-co-phieu-vietcombank-thang-1-lap-dinh-lich-su-thang-11-roi-xuong-day-gan-4-nam-18826112423534886.chn",
@@ -230,7 +218,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 43 bài về chứng khoán từ 6 nguồn (12:00 24/11 – 12:00 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 41 bài về chứng khoán từ 6 nguồn (12:00 24/11 – 12:00 25/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -470,12 +458,6 @@
     "time": "24/11 21:16"
    },
    {
-    "title": "Xử phạt Hưng Thịnh Phát do chậm công bố thông tin về trái phiếu, tài chính",
-    "source": "CafeF",
-    "url": "https://cafef.vn/xu-phat-hung-thinh-phat-do-cham-cong-bo-thong-tin-ve-trai-phieu-tai-chinh-188261124183129401.chn",
-    "time": "24/11 20:45"
-   },
-   {
     "title": "Lý do khối ngoại bán ròng gần 5 tỷ USD chứng khoán Việt",
     "source": "Dân trí",
     "url": "https://dantri.com.vn/kinh-doanh/ly-do-khoi-ngoai-ban-rong-gan-5-ty-usd-chung-khoan-viet-20261124165031906.htm",
@@ -486,12 +468,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/ceo-ocbs-nganh-chung-khoan-dang-buoc-vao-mot-giai-doan-canh-tranh-rat-khac-188261124170057862.chn",
     "time": "24/11 17:31"
-   },
-   {
-    "title": "30 năm ngành chứng khoán Việt: Từ sáng mua chiều lãi đến bài học đầu tư dài hạn",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/30-nam-chung-khoan-viet-tu-sang-mua-chieu-lai-den-bai-hoc-dau-tu-dai-han-100261013221802298.htm",
-    "time": "24/11 16:19"
    },
    {
     "title": "Vietstock Daily 25/11/2026: Hồi phục thận trọng",
@@ -658,106 +634,6 @@
    ]
   },
   {
-   "name": "Bất động sản",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 5 nguồn.",
-   "source": "Tuổi Trẻ",
-   "url": "https://tuoitre.vn/gia-thue-nha-o-xa-hoi-282000-dong-m-can-61m-khoang-17-trieu-dong-thang-co-qua-cao-100261125101414121.htm",
-   "articles": [
-    {
-     "title": "Giá thuê nhà ở xã hội 282.000 đồng/m², căn 61m² khoảng 17 triệu đồng/tháng có quá cao?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-thue-nha-o-xa-hoi-282000-dong-m-can-61m-khoang-17-trieu-dong-thang-co-qua-cao-100261125101414121.htm",
-     "time": "25/11 11:55"
-    },
-    {
-     "title": "TP HCM xây dựng hệ số điều chỉnh giá đất mới cho năm 2027",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/tp-hcm-xay-dung-he-so-dieu-chinh-gia-dat-moi-cho-nam-2027-5148640.html",
-     "time": "25/11 11:30"
-    },
-    {
-     "title": "Sau khi siêu dự án tâm linh 19.000ha của tỷ phú \"ăn chay\" Xuân Trường bị chấm dứt hoạt động, nơi này chuẩn bị đấu giá đất làm khu đô thị, du lịch vốn đầu tư 4.480 tỷ đồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sau-khi-sieu-du-an-tam-linh-19000ha-cua-ty-phu-an-chay-xuan-truong-bi-cham-dut-hoat-dong-noi-nay-chuan-bi-dau-gia-dat-lam-khu-do-thi-du-lich-von-dau-tu-4480-ty-dong-188261125111258473.chn",
-     "time": "25/11 11:28"
-    },
-    {
-     "title": "Dòng tiền rút khỏi cổ phiếu bất động sản, chứng khoán",
-     "source": "Vietstock",
-     "url": "http://vietstock.vn/2026/11/dong-tien-rut-khoi-co-phieu-bat-dong-san-chung-khoan-830-1517112.htm",
-     "time": "25/11 09:19"
-    },
-    {
-     "title": "Mua bất động sản hay cổ phiếu, nhà đầu tư Trung Quốc đều thua lỗ",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/mua-bat-dong-san-hay-co-phieu-nha-dau-tu-trung-quoc-deu-thua-lo.htm",
-     "time": "25/11 07:42"
-    },
-    {
-     "title": "Lãi suất huy động giảm, lãi vay bất động sản vẫn neo cao",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/lai-suat-huy-dong-giam-lai-vay-bat-dong-san-van-neo-cao-5147943.html",
-     "time": "25/11 07:30"
-    },
-    {
-     "title": "TPHCM xây dựng hệ số K mới, dự kiến áp dụng đầu 2027",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tphcm-xay-dung-he-so-k-moi-du-kien-ap-dung-dau-2027-188261125061953864.chn",
-     "time": "25/11 07:19"
-    },
-    {
-     "title": "Thị trường bất động sản 2027: Ai sẽ thắng, ai phải rời cuộc chơi?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thi-truong-bat-dong-san-2027-ai-se-thang-ai-phai-roi-cuoc-choi-188261125070728572.chn",
-     "time": "25/11 07:07"
-    },
-    {
-     "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
-     "source": "CafeF",
-     "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
-     "time": "25/11 02:20"
-    },
-    {
-     "title": "Hà Nội sắp bán nhà ở xã hội giá gần 15 triệu đồng/m²",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-sap-ban-nha-o-xa-hoi-gia-gan-15-trieu-dong-m-188261124183305069.chn",
-     "time": "24/11 21:19"
-    },
-    {
-     "title": "Taxi Mai Linh nợ quá hạn, ngân hàng thu giữ bất động sản",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/taxi-mai-linh-no-qua-han-ngan-hang-thu-giu-bat-dong-san-5148449.html",
-     "time": "24/11 19:16"
-    },
-    {
-     "title": "Thái Nguyên đấu giá 137 ha đất làm khu đô thị, du lịch Hồ Núi Cốc",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/thai-nguyen-dau-gia-137-ha-dat-lam-khu-do-thi-du-lich-ho-nui-coc-5148421.html",
-     "time": "24/11 18:00"
-    },
-    {
-     "title": "Từ 1/7/2027, căn hộ chung cư được cho thuê lưu trú",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tu-1-7-2027-can-ho-chung-cu-duoc-cho-thue-luu-tru-188261124153125698.chn",
-     "time": "24/11 16:31"
-    },
-    {
-     "title": "Luật đất đai sửa đổi: Bảng giá đất được xây dựng theo tiêu chí nào?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/luat-dat-dai-sua-doi-bang-gia-dat-duoc-xay-dung-theo-tieu-chi-nao-100261124133229794.htm",
-     "time": "24/11 15:42"
-    },
-    {
-     "title": "Sun Group sẽ làm khu đô thị lấn biển 2,8 tỷ USD ở Phú Quốc",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/sun-group-se-lam-khu-do-thi-lan-bien-2-8-ty-usd-o-phu-quoc-5148364.html",
-     "time": "24/11 13:51"
-    }
-   ]
-  },
-  {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
@@ -848,6 +724,82 @@
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-24-11-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tang-200000-500000-dong-luong-188261123231959617.chn",
      "time": "24/11 17:30"
+    }
+   ]
+  },
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 4,
+   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
+   "source": "Tuổi Trẻ",
+   "url": "https://tuoitre.vn/gia-thue-nha-o-xa-hoi-282000-dong-m-can-61m-khoang-17-trieu-dong-thang-co-qua-cao-100261125101414121.htm",
+   "articles": [
+    {
+     "title": "Giá thuê nhà ở xã hội cao nhất lên tới 282.000 đồng/m², căn 61m² khoảng 17 triệu đồng/tháng có quá cao?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gia-thue-nha-o-xa-hoi-282000-dong-m-can-61m-khoang-17-trieu-dong-thang-co-qua-cao-100261125101414121.htm",
+     "time": "25/11 11:55"
+    },
+    {
+     "title": "TP HCM xây dựng hệ số điều chỉnh giá đất mới cho năm 2027",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/tp-hcm-xay-dung-he-so-dieu-chinh-gia-dat-moi-cho-nam-2027-5148640.html",
+     "time": "25/11 11:30"
+    },
+    {
+     "title": "Sau khi siêu dự án tâm linh 19.000ha của tỷ phú \"ăn chay\" Xuân Trường bị chấm dứt hoạt động, nơi này chuẩn bị đấu giá đất làm khu đô thị, du lịch vốn đầu tư 4.480 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sau-khi-sieu-du-an-tam-linh-19000ha-cua-ty-phu-an-chay-xuan-truong-bi-cham-dut-hoat-dong-noi-nay-chuan-bi-dau-gia-dat-lam-khu-do-thi-du-lich-von-dau-tu-4480-ty-dong-188261125111258473.chn",
+     "time": "25/11 11:28"
+    },
+    {
+     "title": "Dòng tiền rút khỏi cổ phiếu bất động sản, chứng khoán",
+     "source": "Vietstock",
+     "url": "http://vietstock.vn/2026/11/dong-tien-rut-khoi-co-phieu-bat-dong-san-chung-khoan-830-1517112.htm",
+     "time": "25/11 09:19"
+    },
+    {
+     "title": "Mua bất động sản hay cổ phiếu, nhà đầu tư Trung Quốc đều thua lỗ",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/mua-bat-dong-san-hay-co-phieu-nha-dau-tu-trung-quoc-deu-thua-lo.htm",
+     "time": "25/11 07:42"
+    },
+    {
+     "title": "Lãi suất huy động giảm, lãi vay bất động sản vẫn neo cao",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/lai-suat-huy-dong-giam-lai-vay-bat-dong-san-van-neo-cao-5147943.html",
+     "time": "25/11 07:30"
+    },
+    {
+     "title": "Cổ phiếu bất động sản midcap đón dòng tiền trở lại, kỳ vọng từ mùa cuối năm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/co-phieu-bat-dong-san-midcap-don-dong-tien-tro-lai-ky-vong-tu-mua-cuoi-nam-188261125021951405.chn",
+     "time": "25/11 02:20"
+    },
+    {
+     "title": "Taxi Mai Linh nợ quá hạn, ngân hàng thu giữ bất động sản",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/taxi-mai-linh-no-qua-han-ngan-hang-thu-giu-bat-dong-san-5148449.html",
+     "time": "24/11 19:16"
+    },
+    {
+     "title": "Thái Nguyên đấu giá 137 ha đất làm khu đô thị, du lịch Hồ Núi Cốc",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/thai-nguyen-dau-gia-137-ha-dat-lam-khu-do-thi-du-lich-ho-nui-coc-5148421.html",
+     "time": "24/11 18:00"
+    },
+    {
+     "title": "Từ 1/7/2027, căn hộ chung cư được cho thuê lưu trú",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tu-1-7-2027-can-ho-chung-cu-duoc-cho-thue-luu-tru-188261124153125698.chn",
+     "time": "24/11 16:31"
+    },
+    {
+     "title": "Sun Group sẽ làm khu đô thị lấn biển 2,8 tỷ USD ở Phú Quốc",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/sun-group-se-lam-khu-do-thi-lan-bien-2-8-ty-usd-o-phu-quoc-5148364.html",
+     "time": "24/11 13:51"
     }
    ]
   },
@@ -944,13 +896,13 @@
    "2026-11-25T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 63,
-   "Tuổi Trẻ": 18,
+   "CafeF": 57,
+   "Tuổi Trẻ": 13,
    "VnEconomy": 12,
    "VnExpress": 10,
    "Thanh Niên": 9,
    "Dân trí": 8,
-   "VietnamNet": 8,
+   "VietnamNet": 7,
    "Vietstock": 6
   },
   "failed": []
