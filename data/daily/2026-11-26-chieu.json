@@ -3,10 +3,10 @@
  "label": "Chiều 26/11/2026 (thứ Năm)",
  "date": "2026-11-26",
  "session": "chieu",
- "updatedAt": "2026-11-26T03:28:58+07:00",
+ "updatedAt": "2026-11-26T05:42:39+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 26/11 – 03:28 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 3 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 26/11 – 05:42 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -50,7 +50,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 26/11 – 03:28 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 6 bài về chứng khoán từ 1 nguồn (00:00 26/11 – 05:42 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -142,6 +142,22 @@
    ]
   },
   {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "1 bài trong khung giờ, từ 1 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-11-dao-chieu-tang-manh-bat-hon-150-usd-ounce-tu-day-2578641.html",
+   "articles": [
+    {
+     "title": "Giá vàng hôm nay 26/11 đảo chiều tăng mạnh, bật hơn 150 USD/ounce từ đáy",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-11-dao-chieu-tang-manh-bat-hon-150-usd-ounce-tu-day-2578641.html",
+     "time": "26/11 05:00"
+    }
+   ]
+  },
+  {
    "name": "Năng lượng – điện",
    "status": "soi-noi",
    "heat": 1,
@@ -179,22 +195,16 @@
    "heat": 1,
    "reason": "Chưa có bài trong khung giờ này.",
    "articles": []
-  },
-  {
-   "name": "Vàng – trang sức",
-   "status": "soi-noi",
-   "heat": 1,
-   "reason": "Chưa có bài trong khung giờ này.",
-   "articles": []
   }
  ],
  "rss": {
   "window": [
    "2026-11-26T00:00:00+07:00",
-   "2026-11-26T03:28:58+07:00"
+   "2026-11-26T05:42:39+07:00"
   ],
   "sources": {
-   "CafeF": 12
+   "CafeF": 12,
+   "VietnamNet": 1
   },
   "failed": []
  }
