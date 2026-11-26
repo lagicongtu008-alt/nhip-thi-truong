@@ -1,0 +1,178 @@
+{
+ "key": "2026-11-27-chieu",
+ "label": "Chiều 27/11/2026 (thứ Sáu)",
+ "date": "2026-11-27",
+ "session": "chieu",
+ "updatedAt": "2026-11-27T02:15:51+07:00",
+ "mode": "rss",
+ "banking": {
+  "summary": "Có 1 bài về ngân hàng – tiền tệ từ 1 nguồn (00:00 27/11 – 02:15 27/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
+    "impact": "trung-tinh",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html"
+   }
+  ],
+  "articles": [
+   {
+    "title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html",
+    "time": "27/11 00:00"
+   }
+  ]
+ },
+ "securities": {
+  "summary": "Có 7 bài về chứng khoán từ 1 nguồn (00:00 27/11 – 02:15 27/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "metrics": [],
+  "news": [
+   {
+    "title": "VN-Index giảm sâu hơn 6% từ đầu tháng, bộ đôi cổ phiếu này vẫn tăng giá bằng lần",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vn-index-giam-sau-hon-6-tu-dau-thang-bo-doi-co-phieu-nay-van-tang-gia-bang-lan-18826112621532482.chn"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN: Chứng khoán Việt Nam sắp đón thay đổi quan trọng vào đầu năm 2027",
+    "impact": "tich-cuc",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-chung-khoan-viet-nam-sap-don-thay-doi-quan-trong-vao-dau-nam-2027-188261126162152687.chn"
+   },
+   {
+    "title": "Hiện tượng đáng chú ý tại FPT, VCB và BID sau phiên VN-Index giảm sâu gần 60 điểm",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hien-tuong-dang-chu-y-tai-fpt-vcb-va-bid-sau-phien-vn-index-giam-sau-gan-60-diem-188261126155203138.chn"
+   },
+   {
+    "title": "Giám đốc Phân tích VPBankS: Định giá chứng khoán đang bị nén rất sâu, một cú hích có thể kích hoạt sóng tăng mới",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giam-doc-phan-tich-vpbanks-dinh-gia-chung-khoan-dang-bi-nen-rat-sau-mot-cu-hich-co-the-kich-hoat-song-tang-moi-188261126174014482.chn"
+   },
+   {
+    "title": "Vị đại gia 7X đứng tên gần 900 tỷ đồng cổ phiếu, hệ sinh thái đầu tư trải rộng trên 6 mã chứng khoán",
+    "impact": "trung-tinh",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vi-dai-gia-7x-dung-ten-gan-900-ty-dong-co-phieu-he-sinh-thai-dau-tu-trai-rong-tren-6-ma-chung-khoan-188261126164108702.chn"
+   }
+  ],
+  "articles": [
+   {
+    "title": "CTCK dự báo bất ngờ về lợi nhuận Hoà Phát năm 2027",
+    "source": "CafeF",
+    "url": "https://cafef.vn/ctck-du-bao-bat-ngo-ve-loi-nhuan-hoa-phat-nam-2027-188261126212607123.chn",
+    "time": "27/11 00:05"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN: Chứng khoán Việt Nam sắp đón thay đổi quan trọng vào đầu năm 2027",
+    "source": "CafeF",
+    "url": "https://cafef.vn/pho-chu-tich-ubcknn-chung-khoan-viet-nam-sap-don-thay-doi-quan-trong-vao-dau-nam-2027-188261126162152687.chn",
+    "time": "27/11 00:05"
+   },
+   {
+    "title": "Giám đốc Phân tích VPBankS: Định giá chứng khoán đang bị nén rất sâu, một cú hích có thể kích hoạt sóng tăng mới",
+    "source": "CafeF",
+    "url": "https://cafef.vn/giam-doc-phan-tich-vpbanks-dinh-gia-chung-khoan-dang-bi-nen-rat-sau-mot-cu-hich-co-the-kich-hoat-song-tang-moi-188261126174014482.chn",
+    "time": "27/11 00:04"
+   },
+   {
+    "title": "Cổ phiếu Hòa Phát rơi xuống mức thấp nhất 18 tháng",
+    "source": "CafeF",
+    "url": "https://cafef.vn/co-phieu-hoa-phat-roi-xuong-muc-thap-nhat-18-thang-188261127000458313.chn",
+    "time": "27/11 00:04"
+   },
+   {
+    "title": "VN-Index giảm sâu hơn 6% từ đầu tháng, bộ đôi cổ phiếu này vẫn tăng giá bằng lần",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vn-index-giam-sau-hon-6-tu-dau-thang-bo-doi-co-phieu-nay-van-tang-gia-bang-lan-18826112621532482.chn",
+    "time": "27/11 00:02"
+   },
+   {
+    "title": "Hiện tượng đáng chú ý tại FPT, VCB và BID sau phiên VN-Index giảm sâu gần 60 điểm",
+    "source": "CafeF",
+    "url": "https://cafef.vn/hien-tuong-dang-chu-y-tai-fpt-vcb-va-bid-sau-phien-vn-index-giam-sau-gan-60-diem-188261126155203138.chn",
+    "time": "27/11 00:01"
+   },
+   {
+    "title": "Vị đại gia 7X đứng tên gần 900 tỷ đồng cổ phiếu, hệ sinh thái đầu tư trải rộng trên 6 mã chứng khoán",
+    "source": "CafeF",
+    "url": "https://cafef.vn/vi-dai-gia-7x-dung-ten-gan-900-ty-dong-co-phieu-he-sinh-thai-dau-tu-trai-rong-tren-6-ma-chung-khoan-188261126164108702.chn",
+    "time": "27/11 00:01"
+   }
+  ]
+ },
+ "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
+ "sectors": [
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 2,
+   "reason": "3 bài trong khung giờ, từ 2 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/dai-du-an-nha-may-thep-gan-80000-ty-dong-cong-suat-20-trieu-tan-nam-khi-hoan-thanh-cua-vingroup-tai-ha-tinh-co-them-cong-trinh-dai-gan-30-km-von-hon-2244-ty-dong-188261126223957008.chn",
+   "articles": [
+    {
+     "title": "Đại dự án nhà máy thép gần 80.000 tỷ đồng công suất 20 triệu tấn/năm khi hoàn thành của Vingroup tại Hà Tĩnh có thêm công trình dài gần 30 km, vốn hơn 2.244 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dai-du-an-nha-may-thep-gan-80000-ty-dong-cong-suat-20-trieu-tan-nam-khi-hoan-thanh-cua-vingroup-tai-ha-tinh-co-them-cong-trinh-dai-gan-30-km-von-hon-2244-ty-dong-188261126223957008.chn",
+     "time": "27/11 00:03"
+    },
+    {
+     "title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html",
+     "time": "27/11 00:00"
+    },
+    {
+     "title": "Nhà thầu Việt lắp đặt kết cấu thép khổng lồ 1.260 tấn, cao bằng tòa nhà 5 tầng ở độ cao 110 m, giúp tháp đôi 235 m ngay chợ Bến Thành chống chao đảo trước gió bão",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nha-thau-viet-lap-dat-ket-cau-thep-khong-lo-1260-tan-cao-bang-toa-nha-5-tang-o-do-cao-110-m-giup-thap-doi-235-m-ngay-cho-ben-thanh-chong-chao-dao-truoc-gio-bao-188261126224212173.chn",
+     "time": "27/11 00:00"
+    }
+   ]
+  },
+  {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Công nghệ – viễn thông",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  },
+  {
+   "name": "Dầu khí – xăng dầu",
+   "status": "soi-noi",
+   "heat": 1,
+   "reason": "Chưa có bài trong khung giờ này.",
+   "articles": []
+  }
+ ],
+ "rss": {
+  "window": [
+   "2026-11-27T00:00:00+07:00",
+   "2026-11-27T02:15:51+07:00"
+  ],
+  "sources": {
+   "CafeF": 9,
+   "VnExpress": 1
+  },
+  "failed": []
+ }
+}
