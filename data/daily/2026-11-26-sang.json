@@ -3,10 +3,10 @@
  "label": "Sáng 26/11/2026 (thứ Năm)",
  "date": "2026-11-26",
  "session": "sang",
- "updatedAt": "2026-11-26T12:28:19+07:00",
+ "updatedAt": "2026-11-26T16:31:43+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 32 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 25/11 – 12:00 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 31 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 25/11 – 12:00 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -204,12 +204,6 @@
     "time": "25/11 15:45"
    },
    {
-    "title": "Tín dụng đón nguồn cung nhà ở xã hội mới",
-    "source": "CafeF",
-    "url": "https://cafef.vn/tin-dung-don-nguon-cung-nha-o-xa-hoi-moi-18826112514313184.chn",
-    "time": "25/11 15:38"
-   },
-   {
     "title": "Nền tảng giao dịch USDT dần lấn át các điểm mua bán đô la tự do",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/nen-tang-giao-dich-usdt-dan-lan-at-cac-diem-mua-ban-do-la-tu-do.htm",
@@ -236,7 +230,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 52 bài về chứng khoán từ 8 nguồn (12:00 25/11 – 12:00 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 54 bài về chứng khoán từ 8 nguồn (12:00 25/11 – 12:00 26/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -276,6 +270,12 @@
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/thi-truong-lao-doc-sau-tin-thue-quan-moi-cau-bat-day-hoat-dong-manh.htm",
     "time": "26/11 12:02"
+   },
+   {
+    "title": "Phó Chủ tịch UBCKNN: Bốn ưu tiên để thị trường chứng khoán 'nâng cấp từ bên trong'",
+    "source": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/pho-chu-tich-ubcknn-bon-uu-tien-de-thi-truong-chung-khoan-nang-cap-tu-ben-trong-100261118134127742.htm",
+    "time": "26/11 11:30"
    },
    {
     "title": "Lãi suất huy động lên 9,5%/năm",
@@ -324,6 +324,12 @@
     "source": "VietnamNet",
     "url": "https://vietnamnet.vn/thao-tung-co-phieu-bce-ong-le-viet-cuong-bi-phat-1-5-ty-dong-2572556.html",
     "time": "26/11 09:56"
+   },
+   {
+    "title": "Triển lãm dấu ấn 30 năm xây dựng và phát triển ngành Chứng khoán Việt Nam",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/trien-lam-dau-an-30-nam-xay-dung-va-phat-trien-nganh-chung-khoan-viet-nam.htm",
+    "time": "26/11 09:42"
    },
    {
     "title": "Cổ phiếu Bông Bạch Tuyết liên tiếp lập đỉnh lịch sử sau gần 20 năm chờ đợi",
@@ -588,136 +594,6 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
-   "name": "Xây dựng – hạ tầng",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 6 nguồn.",
-   "source": "VietnamNet",
-   "url": "https://vietnamnet.vn/ha-tang-giao-thong-mo-rong-khong-gian-phat-trien-kinh-te-tay-bac-2578474.html",
-   "articles": [
-    {
-     "title": "Hạ tầng giao thông mở rộng không gian phát triển kinh tế Tây Bắc",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/ha-tang-giao-thong-mo-rong-khong-gian-phat-trien-kinh-te-tay-bac-2578474.html",
-     "time": "26/11 11:11"
-    },
-    {
-     "title": "Sắp phá dỡ sân vận động 15.000 chỗ ngồi tại Việt Nam, nhường chỗ xây công trình rộng 45.871 m2, vốn đầu tư hơn 256 tỷ đồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sap-pha-do-san-van-dong-15000-cho-ngoi-tai-viet-nam-nhuong-cho-xay-cong-trinh-rong-45871-m2-von-dau-tu-hon-256-ty-dong-188261126102233517.chn",
-     "time": "26/11 10:24"
-    },
-    {
-     "title": "Phó Thủ tướng Phạm Gia Túc tháo gỡ vướng mắc, đẩy nhanh tiến độ sân bay Long Thành",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/pho-thu-tuong-pham-gia-tuc-thao-go-vuong-mac-day-nhanh-tien-do-san-bay-long-thanh.htm",
-     "time": "26/11 10:15"
-    },
-    {
-     "title": "Chậm giải phóng mặt bằng dự án đường sắt Lào Cai - Hà Nội - Hải Phòng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cham-giai-phong-mat-bang-du-an-duong-sat-lao-cai-ha-noi-hai-phong-18826112608543827.chn",
-     "time": "26/11 09:54"
-    },
-    {
-     "title": "Triển khai bay kiểm tra, hiệu chuẩn tại sân bay Gia Bình",
-     "source": "CafeF",
-     "url": "https://cafef.vn/trien-khai-bay-kiem-tra-hieu-chuan-tai-san-bay-gia-binh-188261126085716164.chn",
-     "time": "26/11 09:13"
-    },
-    {
-     "title": "Đường sắt tiếp nhận lô đầu máy mới, tăng cường sức kéo phục vụ vận tải Tết",
-     "source": "CafeF",
-     "url": "https://cafef.vn/duong-sat-tiep-nhan-lo-dau-may-moi-tang-cuong-suc-keo-phuc-vu-van-tai-tet-188261126084720816.chn",
-     "time": "26/11 09:05"
-    },
-    {
-     "title": "Sân bay Long Thành nguy cơ ‘lỡ hẹn’, Phó Thủ tướng chỉ đạo khẩn trương gỡ vướng mắc",
-     "source": "CafeF",
-     "url": "https://cafef.vn/san-bay-long-thanh-nguy-co-lo-hen-pho-thu-tuong-chi-dao-khan-truong-go-vuong-mac-188261126085620072.chn",
-     "time": "26/11 08:51"
-    },
-    {
-     "title": "Yêu cầu triển khai ngay 4 nhiệm vụ với đường sắt tốc độ cao Bắc - Nam",
-     "source": "CafeF",
-     "url": "https://cafef.vn/yeu-cau-trien-khai-ngay-4-nhiem-vu-voi-duong-sat-toc-do-cao-bac-nam-188261125224611444.chn",
-     "time": "26/11 07:45"
-    },
-    {
-     "title": "Hàng chục tỉ USD làm metro, đường sắt cao tốc, vốn dài hạn ở đâu?",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/hang-chuc-ti-usd-lam-metro-duong-sat-cao-toc-von-dai-han-o-dau-185261125213601286.htm",
-     "time": "26/11 06:32"
-    },
-    {
-     "title": "Ngay tháng sau, Việt Nam sẽ làm siêu dự án metro gần 89.000 tỷ đồng tại thành phố giàu nhất cả nước, tương lai có thể đón tới 830.000 lượt khách mỗi ngày",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ngay-thang-sau-viet-nam-se-lam-sieu-du-an-metro-gan-89000-ty-dong-tai-thanh-pho-giau-nhat-ca-nuoc-tuong-lai-co-the-don-toi-830000-luot-khach-moi-ngay-188261126020938537.chn",
-     "time": "26/11 06:09"
-    },
-    {
-     "title": "Ai 'rót' hơn 16.400 tỷ làm đường trên cao nối cao tốc Biên Hòa - Vũng Tàu?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ai-rot-hon-16400-ty-lam-duong-tren-cao-noi-cao-toc-bien-hoa-vung-tau-188261125204911975.chn",
-     "time": "25/11 21:48"
-    },
-    {
-     "title": "Doanh nghiệp Hàn Quốc giành hợp đồng 1.260 tỷ đồng, tham gia siêu dự án 5 tuyến metro với tỷ phú Phạm Nhật Vượng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/doanh-nghiep-han-quoc-gianh-hop-dong-1260-ty-dong-tham-gia-sieu-du-an-5-tuyen-metro-voi-ty-phu-pham-nhat-vuong-188261125212452.chn",
-     "time": "25/11 21:24"
-    },
-    {
-     "title": "Lộ trình triển khai dự án đường vành đai 5 Vùng Thủ đô",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/lo-trinh-trien-khai-du-an-duong-vanh-dai-5-vung-thu-do-100261125204632501.htm",
-     "time": "25/11 21:24"
-    },
-    {
-     "title": "Thử nghiệm thành công biến 1.000 m³ bùn nạo vét sông thành vật liệu đắp nền cao tốc",
-     "source": "CafeF",
-     "url": "https://cafef.vn/thu-nghiem-thanh-cong-bien-1000-m-bun-nao-vet-song-thanh-vat-lieu-dap-nen-cao-toc-188261125205159769.chn",
-     "time": "25/11 21:17"
-    },
-    {
-     "title": "Nút giao Vành đai 3,5 nguy cơ chậm tiến độ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nut-giao-vanh-dai-35-nguy-co-cham-tien-do-188261125205346409.chn",
-     "time": "25/11 21:12"
-    },
-    {
-     "title": "Vành đai 5 Vùng Thủ đô: Trung ương rót tối đa 61.000 tỷ đồng, 7 địa phương phải bàn giao mặt bằng từ năm 2027",
-     "source": "CafeF",
-     "url": "https://cafef.vn/vanh-dai-5-vung-thu-do-trung-uong-rot-toi-da-61000-ty-dong-7-dia-phuong-phai-ban-giao-mat-bang-tu-nam-2027-188261125180239837.chn",
-     "time": "25/11 21:01"
-    },
-    {
-     "title": "Vành đai 5 Vùng Thủ đô: Hơn 61.000 tỷ đồng làm 116 km cao tốc, khởi công tháng 9/2027",
-     "source": "CafeF",
-     "url": "https://cafef.vn/vanh-dai-5-vung-thu-do-hon-61000-ty-dong-lam-116-km-cao-toc-khoi-cong-thang-9-2027-188261125205532336.chn",
-     "time": "25/11 20:55"
-    },
-    {
-     "title": "ACV phải xác định rõ thời điểm công bố thông tin khai thác sân bay Long Thành",
-     "source": "CafeF",
-     "url": "https://cafef.vn/acv-phai-xac-dinh-ro-thoi-diem-cong-bo-thong-tin-khai-thac-san-bay-long-thanh-188261125191450836.chn",
-     "time": "25/11 19:54"
-    },
-    {
-     "title": "Đại công trường xây dựng sân bay quốc tế Gia Bình: Các hạng mục quan trọng thành hình",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/dai-cong-truong-xay-dung-san-bay-quoc-te-gia-binh-cac-hang-muc-quan-trong-thanh-hinh-20261125184653056.htm",
-     "time": "25/11 19:45"
-    },
-    {
-     "title": "Dự kiến khởi công đường sắt tốc độ cao Bắc - Nam năm 2028",
-     "source": "CafeF",
-     "url": "https://cafef.vn/du-kien-khoi-cong-duong-sat-toc-do-cao-bac-nam-nam-2028-188261125175704029.chn",
-     "time": "25/11 18:56"
-    }
-   ]
-  },
-  {
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
@@ -810,12 +686,6 @@
      "time": "25/11 21:21"
     },
     {
-     "title": "Hoa hồng chậm thanh toán: Môi giới bất động sản “mắc kẹt” trong vòng xoáy công nợ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/hoa-hong-cham-thanh-toan-moi-gioi-bat-dong-san-mac-ket-trong-vong-xoay-cong-no-188261125175837356.chn",
-     "time": "25/11 19:57"
-    },
-    {
      "title": "Công ty bất động sản đứng đầu danh sách nợ thuế ở Thanh Hóa",
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/cong-ty-bat-dong-san-dung-dau-danh-sach-no-thue-o-thanh-hoa-20261125165940221.htm",
@@ -828,12 +698,6 @@
      "time": "25/11 18:00"
     },
     {
-     "title": "Nhà ở xã hội Lý Thường Kiệt bị bán trộm 600 suất: Chủ đầu tư từng cảnh báo",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nha-o-xa-hoi-ly-thuong-kiet-bi-ban-trom-600-suat-chu-dau-tu-tung-canh-bao-188261125163159488.chn",
-     "time": "25/11 17:52"
-    },
-    {
      "title": "Bất động sản vào nhóm ngành có điểm hài lòng dưới trung bình",
      "source": "VietnamNet",
      "url": "https://vietnamnet.vn/bat-dong-san-vao-nhom-nganh-co-diem-hai-long-duoi-trung-binh-2578578.html",
@@ -844,6 +708,148 @@
      "source": "Vietstock",
      "url": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2511-xuat-hien-giao-dich-thoa-thuan-khung-o-mot-co-phieu-bat-dong-san-1636-1517452.htm",
      "time": "25/11 16:57"
+    },
+    {
+     "title": "Hơn 600 người sập bẫy lừa đảo mua nhà ở xã hội Lý Thường Kiệt",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/hon-600-nguoi-sap-bay-lua-dao-mua-nha-o-xa-hoi-ly-thuong-kiet-185261125151502534.htm",
+     "time": "25/11 16:01"
+    },
+    {
+     "title": "Kho TP HCM kín chỗ, dòng vốn bất động sản logistics dồn về Đồng Nai, Tây Ninh",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/kho-tp-hcm-kin-cho-dong-von-bat-dong-san-logistics-don-ve-dong-nai-tay-ninh-5148756.html",
+     "time": "25/11 15:06"
+    }
+   ]
+  },
+  {
+   "name": "Xây dựng – hạ tầng",
+   "status": "soi-noi",
+   "heat": 5,
+   "reason": "20 bài trong khung giờ, từ 6 nguồn.",
+   "source": "VietnamNet",
+   "url": "https://vietnamnet.vn/ha-tang-giao-thong-mo-rong-khong-gian-phat-trien-kinh-te-tay-bac-2578474.html",
+   "articles": [
+    {
+     "title": "Hạ tầng giao thông mở rộng không gian phát triển kinh tế Tây Bắc",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/ha-tang-giao-thong-mo-rong-khong-gian-phat-trien-kinh-te-tay-bac-2578474.html",
+     "time": "26/11 11:11"
+    },
+    {
+     "title": "Sắp phá dỡ sân vận động 15.000 chỗ ngồi tại Việt Nam, nhường chỗ xây công trình rộng 45.871 m2, vốn đầu tư hơn 256 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sap-pha-do-san-van-dong-15000-cho-ngoi-tai-viet-nam-nhuong-cho-xay-cong-trinh-rong-45871-m2-von-dau-tu-hon-256-ty-dong-188261126102233517.chn",
+     "time": "26/11 10:24"
+    },
+    {
+     "title": "Phó Thủ tướng Phạm Gia Túc yêu cầu tháo gỡ vướng mắc, đẩy nhanh tiến độ sân bay Long Thành",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/pho-thu-tuong-pham-gia-tuc-yeu-cau-thao-go-vuong-mac-day-nhanh-tien-do-san-bay-long-thanh.htm",
+     "time": "26/11 10:15"
+    },
+    {
+     "title": "Chậm giải phóng mặt bằng dự án đường sắt Lào Cai - Hà Nội - Hải Phòng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cham-giai-phong-mat-bang-du-an-duong-sat-lao-cai-ha-noi-hai-phong-18826112608543827.chn",
+     "time": "26/11 09:54"
+    },
+    {
+     "title": "Triển khai bay kiểm tra, hiệu chuẩn tại sân bay Gia Bình",
+     "source": "CafeF",
+     "url": "https://cafef.vn/trien-khai-bay-kiem-tra-hieu-chuan-tai-san-bay-gia-binh-188261126085716164.chn",
+     "time": "26/11 09:13"
+    },
+    {
+     "title": "Đường sắt tiếp nhận lô đầu máy mới, tăng cường sức kéo phục vụ vận tải Tết",
+     "source": "CafeF",
+     "url": "https://cafef.vn/duong-sat-tiep-nhan-lo-dau-may-moi-tang-cuong-suc-keo-phuc-vu-van-tai-tet-188261126084720816.chn",
+     "time": "26/11 09:05"
+    },
+    {
+     "title": "Sân bay Long Thành nguy cơ ‘lỡ hẹn’, Phó Thủ tướng chỉ đạo khẩn trương gỡ vướng mắc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/san-bay-long-thanh-nguy-co-lo-hen-pho-thu-tuong-chi-dao-khan-truong-go-vuong-mac-188261126085620072.chn",
+     "time": "26/11 08:51"
+    },
+    {
+     "title": "Yêu cầu triển khai ngay 4 nhiệm vụ với đường sắt tốc độ cao Bắc - Nam",
+     "source": "CafeF",
+     "url": "https://cafef.vn/yeu-cau-trien-khai-ngay-4-nhiem-vu-voi-duong-sat-toc-do-cao-bac-nam-188261125224611444.chn",
+     "time": "26/11 07:45"
+    },
+    {
+     "title": "Hàng chục tỉ USD làm metro, đường sắt cao tốc, vốn dài hạn ở đâu?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/hang-chuc-ti-usd-lam-metro-duong-sat-cao-toc-von-dai-han-o-dau-185261125213601286.htm",
+     "time": "26/11 06:32"
+    },
+    {
+     "title": "Ngay tháng sau, Việt Nam sẽ làm siêu dự án metro gần 89.000 tỷ đồng tại thành phố giàu nhất cả nước, tương lai có thể đón tới 830.000 lượt khách mỗi ngày",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ngay-thang-sau-viet-nam-se-lam-sieu-du-an-metro-gan-89000-ty-dong-tai-thanh-pho-giau-nhat-ca-nuoc-tuong-lai-co-the-don-toi-830000-luot-khach-moi-ngay-188261126020938537.chn",
+     "time": "26/11 06:09"
+    },
+    {
+     "title": "Ai 'rót' hơn 16.400 tỷ làm đường trên cao nối cao tốc Biên Hòa - Vũng Tàu?",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ai-rot-hon-16400-ty-lam-duong-tren-cao-noi-cao-toc-bien-hoa-vung-tau-188261125204911975.chn",
+     "time": "25/11 21:48"
+    },
+    {
+     "title": "Doanh nghiệp Hàn Quốc giành hợp đồng 1.260 tỷ đồng, tham gia siêu dự án 5 tuyến metro với tỷ phú Phạm Nhật Vượng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/doanh-nghiep-han-quoc-gianh-hop-dong-1260-ty-dong-tham-gia-sieu-du-an-5-tuyen-metro-voi-ty-phu-pham-nhat-vuong-188261125212452.chn",
+     "time": "25/11 21:24"
+    },
+    {
+     "title": "Lộ trình triển khai dự án đường vành đai 5 Vùng Thủ đô",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/lo-trinh-trien-khai-du-an-duong-vanh-dai-5-vung-thu-do-100261125204632501.htm",
+     "time": "25/11 21:24"
+    },
+    {
+     "title": "Thử nghiệm thành công biến 1.000 m³ bùn nạo vét sông thành vật liệu đắp nền cao tốc",
+     "source": "CafeF",
+     "url": "https://cafef.vn/thu-nghiem-thanh-cong-bien-1000-m-bun-nao-vet-song-thanh-vat-lieu-dap-nen-cao-toc-188261125205159769.chn",
+     "time": "25/11 21:17"
+    },
+    {
+     "title": "Nút giao Vành đai 3,5 nguy cơ chậm tiến độ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nut-giao-vanh-dai-35-nguy-co-cham-tien-do-188261125205346409.chn",
+     "time": "25/11 21:12"
+    },
+    {
+     "title": "ACV phải xác định rõ thời điểm công bố thông tin khai thác sân bay Long Thành",
+     "source": "CafeF",
+     "url": "https://cafef.vn/acv-phai-xac-dinh-ro-thoi-diem-cong-bo-thong-tin-khai-thac-san-bay-long-thanh-188261125191450836.chn",
+     "time": "25/11 19:54"
+    },
+    {
+     "title": "Đại công trường xây dựng sân bay quốc tế Gia Bình: Các hạng mục quan trọng thành hình",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/dai-cong-truong-xay-dung-san-bay-quoc-te-gia-binh-cac-hang-muc-quan-trong-thanh-hinh-20261125184653056.htm",
+     "time": "25/11 19:45"
+    },
+    {
+     "title": "Tuyến cao tốc đầu tiên của Việt Nam xây dựng theo tiêu chuẩn quốc tế",
+     "source": "CafeF",
+     "url": "https://cafef.vn/tuyen-cao-toc-dau-tien-cua-viet-nam-xay-dung-theo-tieu-chuan-quoc-te-188261125152012946.chn",
+     "time": "25/11 17:58"
+    },
+    {
+     "title": "Nóng: Một số gói thầu quan trọng của sân bay Long Thành trễ hẹn tới tháng 6.2027",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/nong-mot-so-goi-thau-quan-trong-cua-san-bay-long-thanh-tre-hen-toi-thang-62027-185261125174435525.htm",
+     "time": "25/11 17:56"
+    },
+    {
+     "title": "Sau công trình lập kỷ lục thế giới, tỉnh rộng nhất miền Bắc đang chuẩn bị xây cây cầu kính thứ hai, thuộc tổ hợp du lịch dự kiến khởi công ngay tháng sau",
+     "source": "CafeF",
+     "url": "https://cafef.vn/sau-cong-trinh-lap-ky-luc-the-gioi-tinh-rong-nhat-mien-bac-dang-chuan-bi-xay-cay-cau-kinh-thu-hai-thuoc-to-hop-du-lich-du-kien-khoi-cong-ngay-thang-sau-188261125163821663.chn",
+     "time": "25/11 17:32"
     }
    ]
   },
@@ -851,7 +857,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 7 nguồn.",
+   "reason": "17 bài trong khung giờ, từ 7 nguồn.",
    "source": "VietnamNet",
    "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-11-dao-chieu-tang-manh-bat-hon-150-usd-ounce-tu-day-2578641.html",
    "articles": [
@@ -871,12 +877,6 @@
      "title": "Giá vàng bạc 26/11: Phú Quý, SJC, DOJI đồng loạt bật tăng!",
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-bac-26-11-phu-quy-sjc-doji-dong-loat-bat-tang-188261126094004125.chn",
-     "time": "26/11 10:10"
-    },
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 26/11 tăng tại một số thương hiệu",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-26-11-tang-tai-mot-so-thuong-hieu-188261126071729871.chn",
      "time": "26/11 10:10"
     },
     {
@@ -969,7 +969,7 @@
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "16 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
    "source": "VietnamNet",
    "url": "https://vietnamnet.vn/thanh-tra-chinh-phu-chi-ro-dong-tien-48-100-ty-dang-ngo-tai-xang-dau-thanh-binh-2572375.html",
    "articles": [
@@ -1046,12 +1046,6 @@
      "time": "26/11 08:29"
     },
     {
-     "title": "Giá xăng dầu hôm nay 26/11: Thế giới tăng, trong nước chiều nay điều chỉnh",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-26-11-the-gioi-tang-trong-nuoc-dieu-chinh-2578750.html",
-     "time": "26/11 07:48"
-    },
-    {
      "title": "Giá dầu vọt lên gần 95 USD/thùng sau biến cố tại cơ sở lọc dầu Saudi Arabia",
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/gia-dau-vot-len-gan-95-usdthung-sau-bien-co-tai-co-so-loc-dau-saudi-arabia-20261126060711430.htm",
@@ -1124,10 +1118,10 @@
    "2026-11-26T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 83,
-   "VietnamNet": 25,
-   "Tuổi Trẻ": 17,
-   "VnEconomy": 17,
+   "CafeF": 71,
+   "VietnamNet": 24,
+   "Tuổi Trẻ": 18,
+   "VnEconomy": 18,
    "Dân trí": 12,
    "Thanh Niên": 11,
    "VnExpress": 11,
