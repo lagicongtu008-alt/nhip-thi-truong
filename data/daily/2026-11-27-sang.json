@@ -3,10 +3,10 @@
  "label": "Sáng 27/11/2026 (thứ Sáu)",
  "date": "2026-11-27",
  "session": "sang",
- "updatedAt": "2026-11-27T16:40:36+07:00",
+ "updatedAt": "2026-11-27T19:49:08+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 30 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 26/11 – 12:00 27/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 27 bài về ngân hàng – tiền tệ từ 6 nguồn (12:00 26/11 – 12:00 27/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -150,22 +150,10 @@
     "time": "27/11 00:00"
    },
    {
-    "title": "Chuyên gia VPBankS: Kỳ vọng lãi suất cho vay hạ nhiệt từ nửa cuối năm 2027",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chuyen-gia-vpbanks-ky-vong-lai-suat-cho-vay-ha-nhiet-tu-nua-cuoi-nam-2027-100261126202938362.htm",
-    "time": "26/11 21:02"
-   },
-   {
     "title": "Ngân hàng thanh lý loạt nhà, xe dính nợ xấu",
     "source": "CafeF",
     "url": "https://cafef.vn/ngan-hang-thanh-ly-loat-nha-xe-dinh-no-xau-188261126203557499.chn",
     "time": "26/11 20:35"
-   },
-   {
-    "title": "Hà Nội thống nhất chủ trương phát hành trái phiếu để huy động vốn xây metro",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/ha-noi-thong-nhat-chu-truong-phat-hanh-trai-phieu-de-huy-dong-von-xay-metro-100261126185418604.htm",
-    "time": "26/11 19:44"
    },
    {
     "title": "TS Lê Anh Tuấn: Cổ phiếu ngân hàng đang quá rẻ, rẻ hơn cả thời khủng hoảng 2012, giai đoạn Covid hay lúc xảy ra vụ Vạn Thịnh Phát",
@@ -184,12 +172,6 @@
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/giam-doc-cua-vpbanks-thi-truong-dang-o-vung-dinh-lai-suat-dinh-gia-da-bi-nen-qua-sau.htm",
     "time": "26/11 19:10"
-   },
-   {
-    "title": "VietinBank được vinh danh về dịch vụ ngân hàng ưu tiên",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/vietinbank-duoc-vinh-danh-ve-dich-vu-ngan-hang-uu-tien-100261126181429215.htm",
-    "time": "26/11 18:30"
    },
    {
     "title": "Ngân hàng 'đua' lãi suất huy động, có nơi tới 9,7%/năm",
@@ -422,18 +404,6 @@
     "time": "27/11 07:44"
    },
    {
-    "title": "Đọc nhanh 27-11: Chứng khoán Mỹ nghỉ lễ; Chủ tịch Coteccons lần đầu mua thêm cổ phiếu sau 2 năm",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/doc-nhanh-27-11-chung-khoan-my-nghi-le-chu-tich-coteccons-lan-dau-mua-them-co-phieu-sau-2-nam-10026112706582139.htm",
-    "time": "27/11 07:34"
-   },
-   {
-    "title": "Chứng khoán 27-11: VN-Index đối diện mốc 1.600 điểm, dự báo về thời điểm phục hồi của PNJ",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-27-11-vn-index-doi-dien-moc-1600-diem-du-bao-ve-thoi-diem-phuc-hoi-cua-pnj-100261126222018063.htm",
-    "time": "27/11 07:34"
-   },
-   {
     "title": "Vỡ bong bóng AI có thể khiến kinh tế Mỹ chao đảo mạnh hơn vụ sụp đổ dot-com",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/vo-bong-bong-ai-co-the-khien-kinh-te-my-chao-dao-manh-hon-vu-sup-do-dot-com.htm",
@@ -530,12 +500,6 @@
     "time": "26/11 21:33"
    },
    {
-    "title": "Hà Nội thống nhất chủ trương phát hành trái phiếu để huy động vốn xây metro",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/ha-noi-thong-nhat-chu-truong-phat-hanh-trai-phieu-de-huy-dong-von-xay-metro-100261126185418604.htm",
-    "time": "26/11 19:44"
-   },
-   {
     "title": "TS Lê Anh Tuấn: Cổ phiếu ngân hàng đang quá rẻ, rẻ hơn cả thời khủng hoảng 2012, giai đoạn Covid hay lúc xảy ra vụ Vạn Thịnh Phát",
     "source": "CafeF",
     "url": "https://cafef.vn/ts-le-anh-tuan-co-phieu-ngan-hang-dang-qua-re-re-hon-ca-thoi-khung-hoang-2012-giai-doan-covid-hay-luc-xay-ra-vu-van-thinh-phat-188261126182224873.chn",
@@ -578,22 +542,10 @@
     "time": "26/11 19:01"
    },
    {
-    "title": "30 năm chứng khoán Việt Nam: Từ mở rộng quy mô đến đổi mới phương thức đầu tư",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/30-nam-chung-khoan-viet-nam-tu-mo-rong-quy-mo-den-doi-moi-phuong-thuc-dau-tu-100261126112728229.htm",
-    "time": "26/11 19:00"
-   },
-   {
     "title": "Vietstock Daily 27/11/2026: Mây đen phủ bóng",
     "source": "Vietstock",
     "url": "http://vietstock.vn/2026/11/vietstock-daily-27112026-may-den-phu-bong-1636-1518145.htm",
     "time": "26/11 18:58"
-   },
-   {
-    "title": "Chứng khoán trong thế 'gọng kìm', chuyên gia dự báo gì về những phiên tới?",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-trong-the-gong-kim-chuyen-gia-du-bao-gi-ve-nhung-phien-toi-100261126170727246.htm",
-    "time": "26/11 18:46"
    },
    {
     "title": "Hàng trăm cổ phiếu có giá chưa đến 10.000 đồng, chuyện gì đang xảy ra?",
@@ -618,6 +570,36 @@
     "source": "CafeF",
     "url": "https://cafef.vn/nha-dau-tu-ban-thao-tren-dien-rong-vn-index-lao-doc-gan-58-diem-1882611261646383.chn",
     "time": "26/11 16:59"
+   },
+   {
+    "title": "Blog chứng khoán: “Vạ” đúng lúc",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/blog-chung-khoan-va-dung-luc.htm",
+    "time": "26/11 16:27"
+   },
+   {
+    "title": "Amy Grupo tạm ứng cổ tức 20% sau khi lên sàn HoSE",
+    "source": "CafeF",
+    "url": "https://cafef.vn/amy-grupo-tam-ung-co-tuc-20-sau-khi-len-san-hose-188261126161219834.chn",
+    "time": "26/11 16:12"
+   },
+   {
+    "title": "VN-Index mất gần 58 điểm, cổ phiếu trụ cột đồng loạt giảm sâu",
+    "source": "VietnamNet",
+    "url": "https://vietnamnet.vn/vn-index-mat-gan-58-diem-co-phieu-tru-cot-dong-loat-giam-sau-2578957.html",
+    "time": "26/11 15:57"
+   },
+   {
+    "title": "Thị trường chứng khoán Việt Nam giảm mạnh nhất thế giới",
+    "source": "CafeF",
+    "url": "https://cafef.vn/thi-truong-chung-khoan-viet-nam-giam-manh-nhat-the-gioi-188261126155230572.chn",
+    "time": "26/11 15:52"
+   },
+   {
+    "title": "Chứng khoán đột ngột \"rơi\" gần 60 điểm, chuyện gì đang xảy ra?",
+    "source": "CafeF",
+    "url": "https://cafef.vn/chung-khoan-dot-ngot-roi-gan-60-diem-chuyen-gi-dang-xay-ra-188261126153001016.chn",
+    "time": "26/11 15:50"
    }
   ]
  },
@@ -627,7 +609,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 6 nguồn.",
+   "reason": "17 bài trong khung giờ, từ 6 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/pha-do-nha-thi-dau-hon-30-nam-tuoi-tren-khu-dat-vang-tai-thanh-pho-giau-nhat-viet-nam-nhuong-cho-cho-cong-trinh-1850-ty-dong-suc-chua-4000-cho-ngoi-du-kien-khoi-cong-nam-2027-188261127111224779.chn",
    "articles": [
@@ -680,12 +662,6 @@
      "time": "27/11 06:05"
     },
     {
-     "title": "Đại dự án nhà máy thép gần 80.000 tỷ đồng công suất 20 triệu tấn/năm khi hoàn thành của Vingroup tại Hà Tĩnh có thêm công trình dài gần 30 km, vốn hơn 2.244 tỷ đồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dai-du-an-nha-may-thep-gan-80000-ty-dong-cong-suat-20-trieu-tan-nam-khi-hoan-thanh-cua-vingroup-tai-ha-tinh-co-them-cong-trinh-dai-gan-30-km-von-hon-2244-ty-dong-188261126223957008.chn",
-     "time": "27/11 00:03"
-    },
-    {
      "title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
      "source": "VnExpress",
      "url": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html",
@@ -698,22 +674,10 @@
      "time": "27/11 00:00"
     },
     {
-     "title": "Sân bay dân dụng cao nhất thế giới nằm ở độ cao 4.411m, vốn đầu tư hơn 5.500 tỷ đồng, phi công phải phải đáp ứng loạt tiêu chuẩn khắt khe có ít nhất 1.200 giờ bay, khách vừa hạ cánh đã cần bình oxy",
-     "source": "CafeF",
-     "url": "https://cafef.vn/san-bay-dan-dung-cao-nhat-the-gioi-nam-o-do-cao-4411m-von-dau-tu-hon-5500-ty-dong-phi-cong-phai-phai-dap-ung-loat-tieu-chuan-khat-khe-co-it-nhat-1200-gio-bay-khach-vua-ha-canh-da-can-binh-oxy-188261126225819166.chn",
-     "time": "26/11 22:58"
-    },
-    {
      "title": "TP HCM mời Singapore phát triển 3 nhóm hạ tầng chiến lược",
      "source": "VnExpress",
      "url": "https://vnexpress.net/tp-hcm-moi-singapore-phat-trien-3-nhom-ha-tang-chien-luoc-5149290.html",
      "time": "26/11 20:14"
-    },
-    {
-     "title": "Hà Nội thống nhất chủ trương phát hành trái phiếu để huy động vốn xây metro",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/ha-noi-thong-nhat-chu-truong-phat-hanh-trai-phieu-de-huy-dong-von-xay-metro-100261126185418604.htm",
-     "time": "26/11 19:44"
     },
     {
      "title": "Côn Đảo sẽ có sân bay quốc tế đón Boeing 787, Airbus A350",
@@ -857,7 +821,7 @@
    "name": "Vàng – trang sức",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "13 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "12 bài trong khung giờ, từ 4 nguồn.",
    "source": "Thanh Niên",
    "url": "https://thanhnien.vn/gia-vang-tang-lien-tiep-sang-2711-185261127112640431.htm",
    "articles": [
@@ -884,12 +848,6 @@
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/gia-vang-hom-nay-27112026-quay-dau-giam-xuong-sat-140-trieu-dong-185261127081817052.htm",
      "time": "27/11 08:49"
-    },
-    {
-     "title": "Giá vàng hôm nay 27-11: Vàng, bạc cùng khởi sắc, vàng miếng SJC tăng 400.000 đồng",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-vang-hom-nay-27-11-vang-bac-cung-khoi-sac-vang-mieng-sjc-tang-400000-dong-100261127065107352.htm",
-     "time": "27/11 07:26"
     },
     {
      "title": "Giá vàng thế giới giảm hơn một phần ba từ vùng đỉnh",
@@ -945,7 +903,7 @@
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "10 bài trong khung giờ, từ 5 nguồn.",
    "source": "Dân trí",
    "url": "https://dantri.com.vn/kinh-doanh/gia-xang-da-giam-hon-7600-donglit-chi-trong-gan-mot-thang-20261127093827246.htm",
    "articles": [
@@ -992,12 +950,6 @@
      "time": "26/11 15:22"
     },
     {
-     "title": "Nhà máy lọc dầu Dung Quất cán mốc 60 triệu giờ công an toàn",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/nha-may-loc-dau-dung-quat-can-moc-60-trieu-gio-cong-an-toan-2578940.html",
-     "time": "26/11 15:07"
-    },
-    {
      "title": "Giá xăng, dầu cùng giảm",
      "source": "VnExpress",
      "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-26-11-5149212.html",
@@ -1021,7 +973,7 @@
    "name": "Tiêu dùng – bán lẻ",
    "status": "soi-noi",
    "heat": 3,
-   "reason": "9 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "8 bài trong khung giờ, từ 4 nguồn.",
    "source": "VnExpress",
    "url": "https://vnexpress.net/mua-sam-ket-hop-giai-tri-tao-suc-hut-tren-shopee-dip-11-11-5149467.html",
    "articles": [
@@ -1072,12 +1024,6 @@
      "source": "Dân trí",
      "url": "https://dantri.com.vn/kinh-doanh/thuong-mai-dien-tu-mua-tet-ao-dai-hoa-canh-ban-chay-20261126204052281.htm",
      "time": "26/11 21:10"
-    },
-    {
-     "title": "Làng hoa nổi tiếng ở Cần Thơ vào vụ Tết, nhà vườn thấp thỏm sức mua",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/lang-hoa-noi-tieng-o-can-tho-vao-vu-tet-nha-vuon-thap-thom-suc-mua-100261126165538948.htm",
-     "time": "26/11 17:18"
     }
    ]
   }
@@ -1088,14 +1034,14 @@
    "2026-11-27T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 72,
+   "CafeF": 70,
    "Dân trí": 21,
    "VnEconomy": 20,
-   "Tuổi Trẻ": 15,
-   "VietnamNet": 15,
+   "VietnamNet": 14,
    "VnExpress": 13,
    "Thanh Niên": 11,
-   "Vietstock": 10
+   "Vietstock": 10,
+   "Tuổi Trẻ": 6
   },
   "failed": []
  }
