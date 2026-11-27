@@ -3,7 +3,7 @@
  "label": "Sáng 27/11/2026 (thứ Sáu)",
  "date": "2026-11-27",
  "session": "sang",
- "updatedAt": "2026-11-27T12:21:14+07:00",
+ "updatedAt": "2026-11-27T16:40:36+07:00",
  "mode": "rss",
  "banking": {
   "summary": "Có 30 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 26/11 – 12:00 27/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
@@ -41,6 +41,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "'Chứng khoán phải là kênh huy động vốn trung, dài hạn'",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/chung-khoan-phai-la-kenh-huy-dong-von-trung-dai-han-5149538.html",
+    "time": "27/11 12:01"
+   },
    {
     "title": "Cổ phiếu AI bị bán tháo có ngăn được quyết tâm tăng lãi suất của Fed?",
     "source": "VnEconomy",
@@ -138,12 +144,6 @@
     "time": "27/11 06:00"
    },
    {
-    "title": "29 ngân hàng giảm ròng 3.722 nhân sự, riêng Sacombank giảm 4.291 người",
-    "source": "VietnamNet",
-    "url": "https://vietnamnet.vn/nhieu-ngan-hang-lon-giam-nhan-su-sacombank-dan-dau-2578741.html",
-    "time": "27/11 05:50"
-   },
-   {
     "title": "Có nên mở thẻ tín dụng để lấy lượt vào phòng chờ sân bay?",
     "source": "VnExpress",
     "url": "https://vnexpress.net/co-nen-mo-the-tin-dung-de-lay-luot-vao-phong-cho-san-bay-5147047.html",
@@ -228,12 +228,6 @@
   "metrics": [],
   "news": [
    {
-    "title": "Nhịp đập Thị trường 27/11: Khối ngoại đảo chiều mua ròng, VN-Index nới rộng đà tăng gần 30 điểm",
-    "impact": "tich-cuc",
-    "source": "Vietstock",
-    "url": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2711-khoi-ngoai-dao-chieu-mua-rong-vn-index-noi-rong-da-tang-gan-30-diem-1636-1518388.htm"
-   },
-   {
     "title": "VN-Index giảm sâu hơn 6% từ đầu tháng, bộ đôi cổ phiếu này vẫn tăng giá bằng lần",
     "impact": "tich-cuc",
     "source": "CafeF",
@@ -256,6 +250,12 @@
     "impact": "trung-tinh",
     "source": "CafeF",
     "url": "https://cafef.vn/mot-co-phieu-hose-nam-san-6-phien-lien-tiep-tong-giam-doc-bat-ngo-muon-gom-hang-188261126233412808.chn"
+   },
+   {
+    "title": "Trái phiếu kho bạc Mỹ là “hầm trú ẩn” được ưa chuộng giữa lúc cổ phiếu AI bị bán tháo",
+    "impact": "tieu-cuc",
+    "source": "VnEconomy",
+    "url": "https://vneconomy.vn/trai-phieu-kho-bac-my-la-ham-tru-an-duoc-ua-chuong-giua-luc-co-phieu-ai-bi-ban-thao.htm"
    }
   ],
   "articles": [
@@ -269,6 +269,12 @@
     "title": "Chủ tịch IOSCO: Tiếp tục đồng hành để chứng khoán Việt Nam hội nhập sâu rộng vào hệ thống toàn cầu",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/chu-tich-iosco-tiep-tuc-dong-hanh-de-chung-khoan-viet-nam-hoi-nhap-sau-rong-vao-he-thong-toan-cau.htm",
+    "time": "27/11 12:01"
+   },
+   {
+    "title": "'Chứng khoán phải là kênh huy động vốn trung, dài hạn'",
+    "source": "VnExpress",
+    "url": "https://vnexpress.net/chung-khoan-phai-la-kenh-huy-dong-von-trung-dai-han-5149538.html",
     "time": "27/11 12:01"
    },
    {
@@ -288,12 +294,6 @@
     "source": "CafeF",
     "url": "https://cafef.vn/mua-co-phieu-ngan-hang-nao-bi-lo-nang-nhat-tu-dau-nam-den-nay-188261127114318105.chn",
     "time": "27/11 11:43"
-   },
-   {
-    "title": "Nhịp đập Thị trường 27/11: Khối ngoại đảo chiều mua ròng, VN-Index nới rộng đà tăng gần 30 điểm",
-    "source": "Vietstock",
-    "url": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-2711-khoi-ngoai-dao-chieu-mua-rong-vn-index-noi-rong-da-tang-gan-30-diem-1636-1518388.htm",
-    "time": "27/11 11:42"
    },
    {
     "title": "Sau 5 phiên giảm sàn liên tiếp, HSL giải trình ra sao?",
@@ -392,9 +392,9 @@
     "time": "27/11 09:47"
    },
    {
-    "title": "Tỉ phú Nguyễn Thị Phương Thảo chúc mừng 30 năm TTCK theo cách rất riêng: Tổ chức Hội nghị Dòng vốn quốc tế và khát vọng Việt Nam",
+    "title": "Tỷ phú Nguyễn Thị Phương Thảo chúc mừng 30 năm TTCK theo cách rất riêng: Tổ chức Hội nghị Dòng vốn quốc tế và khát vọng Việt Nam",
     "source": "CafeF",
-    "url": "https://cafef.vn/ti-phu-nguyen-thi-phuong-thao-chuc-mung-30-nam-ttck-theo-cach-rat-rieng-to-chuc-hoi-nghi-dong-von-quoc-te-va-khat-vong-viet-nam-188261127090835527.chn",
+    "url": "https://cafef.vn/ty-phu-nguyen-thi-phuong-thao-chuc-mung-30-nam-ttck-theo-cach-rat-rieng-to-chuc-hoi-nghi-dong-von-quoc-te-va-khat-vong-viet-nam-188261127090835527.chn",
     "time": "27/11 09:10"
    },
    {
@@ -627,7 +627,7 @@
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 5 nguồn.",
+   "reason": "20 bài trong khung giờ, từ 6 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/pha-do-nha-thi-dau-hon-30-nam-tuoi-tren-khu-dat-vang-tai-thanh-pho-giau-nhat-viet-nam-nhuong-cho-cho-cong-trinh-1850-ty-dong-suc-chua-4000-cho-ngoi-du-kien-khoi-cong-nam-2027-188261127111224779.chn",
    "articles": [
@@ -636,6 +636,12 @@
      "source": "CafeF",
      "url": "https://cafef.vn/pha-do-nha-thi-dau-hon-30-nam-tuoi-tren-khu-dat-vang-tai-thanh-pho-giau-nhat-viet-nam-nhuong-cho-cho-cong-trinh-1850-ty-dong-suc-chua-4000-cho-ngoi-du-kien-khoi-cong-nam-2027-188261127111224779.chn",
      "time": "27/11 11:36"
+    },
+    {
+     "title": "Tây Ninh khởi công làm đường mới 4 làn xe về Đồng Tháp Mười",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/tay-ninh-khoi-cong-lam-duong-moi-4-lan-xe-ve-dong-thap-muoi-100261127104834824.htm",
+     "time": "27/11 11:17"
     },
     {
      "title": "Mở đường cho cơ chế CCP: Nâng chuẩn hạ tầng sau giao dịch và thu hút vốn đầu tư nước ngoài",
@@ -698,18 +704,6 @@
      "time": "26/11 22:58"
     },
     {
-     "title": "Hà Nội sẽ bố trí 184 nghìn tỷ đồng cho 5 tuyến đường sắt đô thị",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-se-bo-tri-184-nghin-ty-dong-cho-5-tuyen-duong-sat-do-thi-188261126210620238.chn",
-     "time": "26/11 21:58"
-    },
-    {
-     "title": "Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc chỉ đạo về Tổ hợp Công nghiệp đường sắt",
-     "source": "CafeF",
-     "url": "https://cafef.vn/pho-thu-tuong-thuong-truc-chinh-phu-pham-gia-tuc-chi-dao-ve-to-hop-cong-nghiep-duong-sat-18826112621081696.chn",
-     "time": "26/11 21:54"
-    },
-    {
      "title": "TP HCM mời Singapore phát triển 3 nhóm hạ tầng chiến lược",
      "source": "VnExpress",
      "url": "https://vnexpress.net/tp-hcm-moi-singapore-phat-trien-3-nhom-ha-tang-chien-luoc-5149290.html",
@@ -728,28 +722,34 @@
      "time": "26/11 17:33"
     },
     {
-     "title": "Hạ tầng liên vùng, động lực mở rộng không gian đô thị Hà Nội",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-tang-lien-vung-dong-luc-mo-rong-khong-gian-do-thi-ha-noi-188261126162410036.chn",
-     "time": "26/11 17:23"
-    },
-    {
-     "title": "Sân bay Liên Khương - Đà Lạt mở thêm cửa đón khách quốc tế",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/san-bay-lien-khuong-da-lat-mo-them-cua-don-khach-quoc-te-100261126162037378.htm",
-     "time": "26/11 16:50"
-    },
-    {
      "title": "Viettel cùng các đối tác khởi công tuyến cáp quang biển quốc tế đầu tiên do Việt Nam làm chủ",
      "source": "CafeF",
      "url": "https://cafef.vn/viettel-cung-cac-doi-tac-khoi-cong-tuyen-cap-quang-bien-quoc-te-dau-tien-do-viet-nam-lam-chu-188261126161618344.chn",
      "time": "26/11 16:23"
     },
     {
-     "title": "Công trình cao 123m tại sân bay 16 tỷ USD chưa từng có trong lịch sử vượt kỷ lục của tháp không lưu Nội Bài, vốn đầu tư hơn 3.400 tỷ đồng, thiết kế theo hình búp sen",
+     "title": "Bước tiến lớn trong dự án đường sắt tốc độ cao Bắc - Nam",
      "source": "CafeF",
-     "url": "https://cafef.vn/cong-trinh-cao-123m-tai-san-bay-16-ty-usd-chua-tung-co-trong-lich-su-vuot-ky-luc-cua-thap-khong-luu-noi-bai-von-dau-tu-hon-3400-ty-dong-thiet-ke-theo-hinh-bup-sen-188261126160852312.chn",
-     "time": "26/11 16:08"
+     "url": "https://cafef.vn/buoc-tien-lon-trong-du-an-duong-sat-toc-do-cao-bac-nam-188261126143007977.chn",
+     "time": "26/11 15:28"
+    },
+    {
+     "title": "Khởi công tuyến cáp quang biển quốc tế đầu tiên do Việt Nam khởi xướng",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/khoi-cong-tuyen-cap-quang-bien-quoc-te-dau-tien-do-viet-nam-khoi-xuong-185261126142709275.htm",
+     "time": "26/11 14:35"
+    },
+    {
+     "title": "Hơn 1.200 đại biểu từ 50 quốc gia đến Việt Nam bàn về công nghệ đường sắt tốc độ cao, công trình ngầm",
+     "source": "CafeF",
+     "url": "https://cafef.vn/hon-1200-dai-bieu-tu-50-quoc-gia-den-viet-nam-ban-ve-cong-nghe-duong-sat-toc-do-cao-cong-trinh-ngam-188261126123721634.chn",
+     "time": "26/11 13:36"
+    },
+    {
+     "title": "Công trình biểu tượng định hình giá trị thương mại đông bắc Sài Gòn như thế nào?",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/cong-trinh-bieu-tuong-dinh-hinh-gia-tri-thuong-mai-dong-bac-sai-gon-nhu-the-nao-185261126115356961.htm",
+     "time": "26/11 13:30"
     }
    ]
   },
@@ -757,7 +757,7 @@
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "20 bài trong khung giờ, từ 4 nguồn.",
+   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
    "source": "VnExpress",
    "url": "https://vnexpress.net/can-ho-cho-thue-ngan-han-tp-hcm-nang-chuan-don-song-apec-5149168.html",
    "articles": [
@@ -840,54 +840,24 @@
      "time": "26/11 23:06"
     },
     {
-     "title": "Ông Lê Thanh Thản phải bồi thường cho 519 người mua nhà ở CT6 Kiến Hưng thế nào?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/lich-nghi-le-tet-nam-2027-chi-tiet-23-ngay-nghi-trong-nam-188261123153917035.chn",
-     "time": "26/11 20:55"
-    },
-    {
-     "title": "Chung cư được phép cho thuê lưu trú: Chủ nhà cần lưu ý gì?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chung-cu-duoc-phep-cho-thue-luu-tru-chu-nha-can-luu-y-gi-188261126191208438.chn",
-     "time": "26/11 20:11"
-    },
-    {
-     "title": "Cải tạo chung cư cũ Hà Nội: Những ‘quả bom' vẫn treo lơ lửng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cai-tao-chung-cu-cu-ha-noi-nhung-qua-bom-van-treo-lo-lung-188261126190028014.chn",
-     "time": "26/11 19:00"
-    },
-    {
-     "title": "TPHCM: Thêm 3 dự án nhà ở thương mại tiếp tục được cấp sổ hồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tphcm-them-3-du-an-nha-o-thuong-mai-tiep-tuc-duoc-cap-so-hong-188261126151502508.chn",
-     "time": "26/11 15:50"
-    },
-    {
-     "title": "Hà Nội mở bán nhà ở xã hội giá hơn 34 triệu đồng/m²",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-mo-ban-nha-o-xa-hoi-gia-hon-34-trieu-dong-m-188261126142801301.chn",
-     "time": "26/11 15:04"
-    },
-    {
-     "title": "Xã Thường Tín di chuyển xong 1.800/3.936 mộ chí liên quan đến dự án Khu đô thị Trung tâm thể thao Quốc tế - Vinhomes Global Centre",
-     "source": "CafeF",
-     "url": "https://cafef.vn/xa-thuong-tin-di-chuyen-xong-1800-3936-mo-chi-lien-quan-den-du-an-khu-do-thi-the-thao-quoc-te-ha-noi-188261126134514915.chn",
-     "time": "26/11 14:43"
-    },
-    {
      "title": "Ông Đinh Quang Chiến sở hữu 1.240 tỷ đồng cổ phiếu, liên tục gom hàng chục triệu cổ phiếu bất động sản, điện, cảng biển",
      "source": "CafeF",
      "url": "https://cafef.vn/ong-dinh-quang-chien-so-huu-1240-ty-dong-co-phieu-lien-tuc-gom-hang-chuc-trieu-co-phieu-bat-dong-san-dien-cang-bien-188261126121554825.chn",
      "time": "26/11 13:52"
+    },
+    {
+     "title": "Vinhomes đổi tên khu đô thị lớn nhất Việt Nam",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/vinhomes-doi-ten-khu-do-thi-lon-nhat-viet-nam-5149167.html",
+     "time": "26/11 13:36"
     }
    ]
   },
   {
    "name": "Vàng – trang sức",
    "status": "soi-noi",
-   "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 6 nguồn.",
+   "heat": 4,
+   "reason": "13 bài trong khung giờ, từ 5 nguồn.",
    "source": "Thanh Niên",
    "url": "https://thanhnien.vn/gia-vang-tang-lien-tiep-sang-2711-185261127112640431.htm",
    "articles": [
@@ -908,18 +878,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/gia-vang-hom-nay-27-11-pnj-tiep-tuc-mua-vang-nhan-thap-nhat-thi-truong-18826112709301928.chn",
      "time": "27/11 10:46"
-    },
-    {
-     "title": "Giá vàng hôm nay 27/11: Vàng SJC đảo chiều, tăng 1,3 triệu đồng/lượng",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
-     "time": "27/11 10:27"
-    },
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-188261127074924289.chn",
-     "time": "27/11 09:47"
     },
     {
      "title": "Giá vàng hôm nay 27.11.2026: Quay đầu giảm xuống sát 140 triệu đồng",
@@ -987,7 +945,7 @@
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 6 nguồn.",
+   "reason": "11 bài trong khung giờ, từ 5 nguồn.",
    "source": "Dân trí",
    "url": "https://dantri.com.vn/kinh-doanh/gia-xang-da-giam-hon-7600-donglit-chi-trong-gan-mot-thang-20261127093827246.htm",
    "articles": [
@@ -1032,12 +990,6 @@
      "source": "Thanh Niên",
      "url": "https://thanhnien.vn/gia-xang-dau-moi-nhat-ap-dung-ngay-tu-15-gio-hom-nay-2611-185261126151709982.htm",
      "time": "26/11 15:22"
-    },
-    {
-     "title": "Đồng loạt giảm giá xăng dầu từ 15h ngày 26-11, dầu diesel giảm hơn 1.300 đồng/lít",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/dong-loat-giam-gia-xang-dau-tu-15h-ngay-26-11-dau-diesel-giam-hon-1300-dong-lit-100261126150913769.htm",
-     "time": "26/11 15:16"
     },
     {
      "title": "Nhà máy lọc dầu Dung Quất cán mốc 60 triệu giờ công an toàn",
@@ -1136,14 +1088,14 @@
    "2026-11-27T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 84,
+   "CafeF": 72,
    "Dân trí": 21,
-   "Tuổi Trẻ": 21,
    "VnEconomy": 20,
-   "VietnamNet": 18,
-   "VnExpress": 12,
+   "Tuổi Trẻ": 15,
+   "VietnamNet": 15,
+   "VnExpress": 13,
    "Thanh Niên": 11,
-   "Vietstock": 11
+   "Vietstock": 10
   },
   "failed": []
  }
