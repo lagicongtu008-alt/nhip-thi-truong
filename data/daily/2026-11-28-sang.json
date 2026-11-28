@@ -3,10 +3,10 @@
  "label": "Sáng 28/11/2026 (thứ Bảy)",
  "date": "2026-11-28",
  "session": "sang",
- "updatedAt": "2026-11-28T15:54:43+07:00",
+ "updatedAt": "2026-11-28T19:00:26+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 30 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 29 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -156,12 +156,6 @@
     "time": "27/11 15:54"
    },
    {
-    "title": "Việt Nam huy động 400 người và hàng trăm máy móc đang đào hầm xuyên núi dài 500m, quyết hoàn thành ngay đầu năm sau",
-    "source": "CafeF",
-    "url": "https://cafef.vn/viet-nam-huy-dong-400-nguoi-va-hang-tram-may-moc-dang-dao-ham-xuyen-nui-dai-500m-quyet-hoan-thanh-ngay-dau-nam-sau-18826112715090531.chn",
-    "time": "27/11 15:52"
-   },
-   {
     "title": "Vừa huy động 5.218 tỷ đồng trái phiếu với lãi suất lên tới 14,5%/năm, CII bất ngờ đổi phương án phân bổ vốn",
     "source": "CafeF",
     "url": "https://cafef.vn/vua-huy-dong-5218-ty-dong-trai-phieu-voi-lai-suat-len-toi-145-nam-cii-bat-ngo-doi-phuong-an-phan-bo-von-188261127144413015.chn",
@@ -224,7 +218,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 58 bài về chứng khoán từ 8 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 57 bài về chứng khoán từ 8 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -458,12 +452,6 @@
     "time": "27/11 16:00"
    },
    {
-    "title": "Chứng khoán khởi sắc dịp kỷ niệm 30 năm, loạt cổ phiếu dầu khí tăng trần",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-khoi-sac-dip-ky-niem-30-nam-loat-co-phieu-dau-khi-tang-tran-100261127153117979.htm",
-    "time": "27/11 15:53"
-   },
-   {
     "title": "Khối ngoại bất ngờ mua ròng hơn 600 tỷ đồng trong ngày kỷ niệm 30 năm chứng khoán Việt Nam, cổ phiếu nào được “gom” mạnh nhất?",
     "source": "CafeF",
     "url": "https://cafef.vn/khoi-ngoai-bat-ngo-mua-rong-hon-600-ty-dong-trong-ngay-ky-niem-30-nam-chung-khoan-viet-nam-co-phieu-nao-duoc-gom-manh-nhat-188261127151754684.chn",
@@ -612,106 +600,6 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
-   "name": "Bất động sản",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "15 bài trong khung giờ, từ 3 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/him-lam-thu-do-va-bic-viet-nam-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m2-can-lon-nhat-chi-36m2-188261128104644893.chn",
-   "articles": [
-    {
-     "title": "Him Lam Thủ đô và BIC Việt Nam mở bán nhà ở xã hội giá gần 30 triệu đồng/m2, căn lớn nhất chỉ 36m2",
-     "source": "CafeF",
-     "url": "https://cafef.vn/him-lam-thu-do-va-bic-viet-nam-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m2-can-lon-nhat-chi-36m2-188261128104644893.chn",
-     "time": "28/11 11:46"
-    },
-    {
-     "title": "Nhiều dự án nhà ở xã hội 'bung hàng' cuối năm, giá bán ngày càng cao",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nhieu-du-an-nha-o-xa-hoi-bung-hang-cuoi-nam-gia-ban-ngay-cang-cao-188261128103900984.chn",
-     "time": "28/11 11:38"
-    },
-    {
-     "title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
-     "source": "CafeF",
-     "url": "https://cafef.vn/them-tram-can-nha-thap-tang-can-ho-duoc-cap-so-188261128092325796.chn",
-     "time": "28/11 09:59"
-    },
-    {
-     "title": "'Chốt' đấu giá 3.790 căn hộ tái định cư Thủ Thiêm: Giá khởi điểm hơn 18.253 tỷ đồng",
-     "source": "CafeF",
-     "url": "https://cafef.vn/chot-dau-gia-3790-can-ho-tai-dinh-cu-thu-thiem-gia-khoi-diem-hon-18253-ty-dong-188261128085800866.chn",
-     "time": "28/11 09:57"
-    },
-    {
-     "title": "Cải tạo chung cư cũ, cư dân có thêm lựa chọn bồi thường",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cai-tao-chung-cu-cu-cu-dan-co-them-lua-chon-boi-thuong-188261128065222863.chn",
-     "time": "28/11 07:17"
-    },
-    {
-     "title": "Cải tạo chung cư cũ, chủ căn hộ được bồi thường thế nào từ giữa 2027",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
-     "time": "28/11 06:00"
-    },
-    {
-     "title": "'Cắt lỗ' chung cư 500 triệu đồng vẫn ế, có nên tiếp tục giảm thêm?",
-     "source": "VnExpress",
-     "url": "https://vnexpress.net/cat-lo-chung-cu-500-trieu-dong-van-e-co-nen-tiep-tuc-giam-them-5149215.html",
-     "time": "28/11 00:03"
-    },
-    {
-     "title": "Phá dỡ sân vận động 88.000 chỗ ngồi, nhường chỗ cho dự án nhà ở gần 1.200 tỷ đồng, quy mô gần 470 căn",
-     "source": "CafeF",
-     "url": "https://cafef.vn/pha-do-san-van-dong-88000-cho-ngoi-nhuong-cho-cho-du-an-nha-o-gan-1200-ty-dong-quy-mo-gan-470-can-188261127151243878.chn",
-     "time": "28/11 00:01"
-    },
-    {
-     "title": "Hải Phát muốn nhận chuyển nhượng hơn 37% vốn một công ty bất động sản",
-     "source": "CafeF",
-     "url": "https://cafef.vn/hai-phat-muon-nhan-chuyen-nhuong-hon-37-von-mot-cong-ty-bat-dong-san-188261127202632292.chn",
-     "time": "27/11 20:26"
-    },
-    {
-     "title": "Xu hướng sử dụng thiết bị gia dụng nhỏ gọn trong căn hộ đô thị",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/xu-huong-su-dung-thiet-bi-gia-dung-nho-gon-trong-can-ho-do-thi-100261127164829141.htm",
-     "time": "27/11 17:59"
-    },
-    {
-     "title": "Cận cảnh chung cư Roxana Plaza xây gần 10 năm, khách vẫn chưa được nhận nhà",
-     "source": "CafeF",
-     "url": "https://cafef.vn/can-canh-chung-cu-roxana-plaza-xay-gan-10-nam-khach-van-chua-duoc-nhan-nha-188261127160538416.chn",
-     "time": "27/11 17:40"
-    },
-    {
-     "title": "Ninh Bình chi hơn 7,1 tỷ đồng di dời 177 hộ dân khỏi hai chung cư xuống cấp",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ninh-binh-chi-hon-71-ty-dong-di-doi-177-ho-dan-khoi-hai-chung-cu-xuong-cap-188261127153348794.chn",
-     "time": "27/11 16:53"
-    },
-    {
-     "title": "Khu nhà ở sinh viên Pháp Vân - Tứ Hiệp có diện mạo mới, chuyển thành nhà ở xã hội",
-     "source": "CafeF",
-     "url": "https://cafef.vn/khu-nha-o-sinh-vien-phap-van-tu-hiep-co-dien-mao-moi-chuyen-thanh-nha-o-xa-hoi-188261127154713441.chn",
-     "time": "27/11 16:37"
-    },
-    {
-     "title": "Toàn cảnh 31 khu công nghiệp Việt Nam - Singapore VSIP triển khai tại Việt Nam",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/toan-canh-31-khu-cong-nghiep-viet-nam-singapore-vsip-trien-khai-tai-viet-nam-100261127150016517.htm",
-     "time": "27/11 15:58"
-    },
-    {
-     "title": "Việt Nam và Singapore nâng số khu công nghiệp VSIP lên 31 khu sau 30 năm",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/viet-nam-va-singapore-nang-so-khu-cong-nghiep-vsip-len-31-khu-sau-30-nam-100261127140809659.htm",
-     "time": "27/11 15:00"
-    }
-   ]
-  },
-  {
    "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
    "heat": 5,
@@ -812,10 +700,104 @@
    ]
   },
   {
+   "name": "Bất động sản",
+   "status": "soi-noi",
+   "heat": 4,
+   "reason": "14 bài trong khung giờ, từ 3 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/him-lam-thu-do-va-bic-viet-nam-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m2-can-lon-nhat-chi-36m2-188261128104644893.chn",
+   "articles": [
+    {
+     "title": "Him Lam Thủ đô và BIC Việt Nam mở bán nhà ở xã hội giá gần 30 triệu đồng/m2, căn lớn nhất chỉ 36m2",
+     "source": "CafeF",
+     "url": "https://cafef.vn/him-lam-thu-do-va-bic-viet-nam-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m2-can-lon-nhat-chi-36m2-188261128104644893.chn",
+     "time": "28/11 11:46"
+    },
+    {
+     "title": "Nhiều dự án nhà ở xã hội 'bung hàng' cuối năm, giá bán ngày càng cao",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nhieu-du-an-nha-o-xa-hoi-bung-hang-cuoi-nam-gia-ban-ngay-cang-cao-188261128103900984.chn",
+     "time": "28/11 11:38"
+    },
+    {
+     "title": "Thêm trăm căn nhà thấp tầng, căn hộ được cấp sổ",
+     "source": "CafeF",
+     "url": "https://cafef.vn/them-tram-can-nha-thap-tang-can-ho-duoc-cap-so-188261128092325796.chn",
+     "time": "28/11 09:59"
+    },
+    {
+     "title": "'Chốt' đấu giá 3.790 căn hộ tái định cư Thủ Thiêm: Giá khởi điểm hơn 18.253 tỷ đồng",
+     "source": "CafeF",
+     "url": "https://cafef.vn/chot-dau-gia-3790-can-ho-tai-dinh-cu-thu-thiem-gia-khoi-diem-hon-18253-ty-dong-188261128085800866.chn",
+     "time": "28/11 09:57"
+    },
+    {
+     "title": "Cải tạo chung cư cũ, cư dân có thêm lựa chọn bồi thường",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cai-tao-chung-cu-cu-cu-dan-co-them-lua-chon-boi-thuong-188261128065222863.chn",
+     "time": "28/11 07:17"
+    },
+    {
+     "title": "Cải tạo chung cư cũ, chủ căn hộ được bồi thường thế nào từ giữa 2027",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/cai-tao-chung-cu-cu-chu-can-ho-duoc-boi-thuong-the-nao-tu-giua-2027-5149304.html",
+     "time": "28/11 06:00"
+    },
+    {
+     "title": "'Cắt lỗ' chung cư 500 triệu đồng vẫn ế, có nên tiếp tục giảm thêm?",
+     "source": "VnExpress",
+     "url": "https://vnexpress.net/cat-lo-chung-cu-500-trieu-dong-van-e-co-nen-tiep-tuc-giam-them-5149215.html",
+     "time": "28/11 00:03"
+    },
+    {
+     "title": "Phá dỡ sân vận động 88.000 chỗ ngồi, nhường chỗ cho dự án nhà ở gần 1.200 tỷ đồng, quy mô gần 470 căn",
+     "source": "CafeF",
+     "url": "https://cafef.vn/pha-do-san-van-dong-88000-cho-ngoi-nhuong-cho-cho-du-an-nha-o-gan-1200-ty-dong-quy-mo-gan-470-can-188261127151243878.chn",
+     "time": "28/11 00:01"
+    },
+    {
+     "title": "Hải Phát muốn nhận chuyển nhượng hơn 37% vốn một công ty bất động sản",
+     "source": "CafeF",
+     "url": "https://cafef.vn/hai-phat-muon-nhan-chuyen-nhuong-hon-37-von-mot-cong-ty-bat-dong-san-188261127202632292.chn",
+     "time": "27/11 20:26"
+    },
+    {
+     "title": "Xu hướng sử dụng thiết bị gia dụng nhỏ gọn trong căn hộ đô thị",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/xu-huong-su-dung-thiet-bi-gia-dung-nho-gon-trong-can-ho-do-thi-100261127164829141.htm",
+     "time": "27/11 17:59"
+    },
+    {
+     "title": "Cận cảnh chung cư Roxana Plaza xây gần 10 năm, khách vẫn chưa được nhận nhà",
+     "source": "CafeF",
+     "url": "https://cafef.vn/can-canh-chung-cu-roxana-plaza-xay-gan-10-nam-khach-van-chua-duoc-nhan-nha-188261127160538416.chn",
+     "time": "27/11 17:40"
+    },
+    {
+     "title": "Ninh Bình chi hơn 7,1 tỷ đồng di dời 177 hộ dân khỏi hai chung cư xuống cấp",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ninh-binh-chi-hon-71-ty-dong-di-doi-177-ho-dan-khoi-hai-chung-cu-xuong-cap-188261127153348794.chn",
+     "time": "27/11 16:53"
+    },
+    {
+     "title": "Khu nhà ở sinh viên Pháp Vân - Tứ Hiệp có diện mạo mới, chuyển thành nhà ở xã hội",
+     "source": "CafeF",
+     "url": "https://cafef.vn/khu-nha-o-sinh-vien-phap-van-tu-hiep-co-dien-mao-moi-chuyen-thanh-nha-o-xa-hoi-188261127154713441.chn",
+     "time": "27/11 16:37"
+    },
+    {
+     "title": "Toàn cảnh 31 khu công nghiệp Việt Nam - Singapore VSIP triển khai tại Việt Nam",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/toan-canh-31-khu-cong-nghiep-viet-nam-singapore-vsip-trien-khai-tai-viet-nam-100261127150016517.htm",
+     "time": "27/11 15:58"
+    }
+   ]
+  },
+  {
    "name": "Dầu khí – xăng dầu",
    "status": "soi-noi",
    "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 6 nguồn.",
+   "reason": "11 bài trong khung giờ, từ 6 nguồn.",
    "source": "VnExpress",
    "url": "https://vnexpress.net/ong-trump-tung-van-dong-venezuela-iraq-roi-opec-5149903.html",
    "articles": [
@@ -862,12 +844,6 @@
      "time": "27/11 16:14"
     },
     {
-     "title": "Chứng khoán khởi sắc dịp kỷ niệm 30 năm, loạt cổ phiếu dầu khí tăng trần",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/chung-khoan-khoi-sac-dip-ky-niem-30-nam-loat-co-phieu-dau-khi-tang-tran-100261127153117979.htm",
-     "time": "27/11 15:53"
-    },
-    {
      "title": "Cổ phiếu dầu khí bùng nổ",
      "source": "VnExpress",
      "url": "https://vnexpress.net/co-phieu-dau-khi-bung-no-5149677.html",
@@ -890,76 +866,6 @@
      "source": "CafeF",
      "url": "https://cafef.vn/nha-may-loc-dau-dung-quat-manh-ghep-hoan-thien-chuoi-gia-tri-nganh-dau-khi-188261127113006901.chn",
      "time": "27/11 13:30"
-    }
-   ]
-  },
-  {
-   "name": "Vàng – trang sức",
-   "status": "soi-noi",
-   "heat": 4,
-   "reason": "10 bài trong khung giờ, từ 6 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
-   "articles": [
-    {
-     "title": "Giá vàng miếng SJC tăng cao nhất 1 tuần qua",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
-     "time": "28/11 10:25"
-    },
-    {
-     "title": "Giá vàng miếng SJC, vàng nhẫn tăng trở lại",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-vang-nhan-tang-tro-lai-20261128062230566.htm",
-     "time": "28/11 09:20"
-    },
-    {
-     "title": "Giá vàng hôm nay 28.11.2026: Neo cao, đắt hơn thế giới 21 triệu đồng",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/gia-vang-hom-nay-28112026-neo-cao-dat-hon-the-gioi-21-trieu-dong-18526112808234868.htm",
-     "time": "28/11 08:53"
-    },
-    {
-     "title": "Giá vàng hôm nay 28-11: SJC tăng 2,5 triệu đồng trong tuần, vì sao người mua vẫn lỗ?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-vang-hom-nay-28-11-sjc-tang-25-trieu-dong-trong-tuan-vi-sao-nguoi-mua-van-lo-100261128082210756.htm",
-     "time": "28/11 08:38"
-    },
-    {
-     "title": "Giá vàng tăng mạnh theo chứng khoán Mỹ, hoàn tất một tuần hồi phục",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/gia-vang-tang-manh-theo-chung-khoan-my-hoan-tat-mot-tuan-hoi-phuc.htm",
-     "time": "28/11 08:29"
-    },
-    {
-     "title": "Giá vàng tăng mạnh: Gửi ở đâu vừa an toàn, vừa tránh bẫy thuế?",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tang-manh-gui-o-dau-vua-an-toan-vua-tranh-bay-thue-20261127213959721.htm",
-     "time": "28/11 06:00"
-    },
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải bật tăng mạnh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-bat-tang-manh-188261127074924289.chn",
-     "time": "27/11 21:16"
-    },
-    {
-     "title": "Giá vàng hôm nay 27/11: Vàng nhẫn SJC tăng 2,8 triệu đồng/lượng ở chiều mua",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
-     "time": "27/11 21:10"
-    },
-    {
-     "title": "Người mua vàng SJC đối mặt chênh lệch giá mua, bán lên tới 6,5 triệu đồng",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/nguoi-mua-vang-sjc-doi-mat-chenh-lech-gia-mua-ban-len-toi-65-trieu-dong.htm",
-     "time": "27/11 16:17"
-    },
-    {
-     "title": "Vàng thế giới phục hồi mạnh, vàng miếng SJC tăng 1,5 triệu đồng trong vài giờ",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/vang-the-gioi-phuc-hoi-manh-vang-mieng-sjc-tang-15-trieu-dong-trong-vai-gio-100261127144507483.htm",
-     "time": "27/11 15:10"
     }
    ]
   },
@@ -1032,6 +938,70 @@
      "time": "27/11 14:42"
     }
    ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 3,
+   "reason": "9 bài trong khung giờ, từ 6 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng SJC tăng cao nhất 1 tuần qua",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
+     "time": "28/11 10:25"
+    },
+    {
+     "title": "Giá vàng miếng SJC, vàng nhẫn tăng trở lại",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-vang-nhan-tang-tro-lai-20261128062230566.htm",
+     "time": "28/11 09:20"
+    },
+    {
+     "title": "Giá vàng hôm nay 28.11.2026: Neo cao, đắt hơn thế giới 21 triệu đồng",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gia-vang-hom-nay-28112026-neo-cao-dat-hon-the-gioi-21-trieu-dong-18526112808234868.htm",
+     "time": "28/11 08:53"
+    },
+    {
+     "title": "Giá vàng hôm nay 28-11: SJC tăng 2,5 triệu đồng trong tuần, vì sao người mua vẫn lỗ?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gia-vang-hom-nay-28-11-sjc-tang-25-trieu-dong-trong-tuan-vi-sao-nguoi-mua-van-lo-100261128082210756.htm",
+     "time": "28/11 08:38"
+    },
+    {
+     "title": "Giá vàng tăng mạnh theo chứng khoán Mỹ, hoàn tất một tuần hồi phục",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/gia-vang-tang-manh-theo-chung-khoan-my-hoan-tat-mot-tuan-hoi-phuc.htm",
+     "time": "28/11 08:29"
+    },
+    {
+     "title": "Giá vàng tăng mạnh: Gửi ở đâu vừa an toàn, vừa tránh bẫy thuế?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tang-manh-gui-o-dau-vua-an-toan-vua-tranh-bay-thue-20261127213959721.htm",
+     "time": "28/11 06:00"
+    },
+    {
+     "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải bật tăng mạnh",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-bat-tang-manh-188261127074924289.chn",
+     "time": "27/11 21:16"
+    },
+    {
+     "title": "Giá vàng hôm nay 27/11: Vàng nhẫn SJC tăng 2,8 triệu đồng/lượng ở chiều mua",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
+     "time": "27/11 21:10"
+    },
+    {
+     "title": "Người mua vàng SJC đối mặt chênh lệch giá mua, bán lên tới 6,5 triệu đồng",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/nguoi-mua-vang-sjc-doi-mat-chenh-lech-gia-mua-ban-len-toi-65-trieu-dong.htm",
+     "time": "27/11 16:17"
+    }
+   ]
   }
  ],
  "rss": {
@@ -1040,10 +1010,10 @@
    "2026-11-28T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 62,
-   "Tuổi Trẻ": 18,
+   "CafeF": 61,
    "Dân trí": 15,
    "VietnamNet": 15,
+   "Tuổi Trẻ": 14,
    "Thanh Niên": 13,
    "VnEconomy": 13,
    "Vietstock": 10,
