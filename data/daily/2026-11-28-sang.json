@@ -3,10 +3,10 @@
  "label": "Sáng 28/11/2026 (thứ Bảy)",
  "date": "2026-11-28",
  "session": "sang",
- "updatedAt": "2026-11-28T11:57:12+07:00",
+ "updatedAt": "2026-11-28T15:54:43+07:00",
  "mode": "rss",
  "banking": {
-  "summary": "Có 32 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 27/11 – 11:57 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 30 bài về ngân hàng – tiền tệ từ 7 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -168,12 +168,6 @@
     "time": "27/11 14:54"
    },
    {
-    "title": "Đại gia quê gốc Thanh Hóa từng thi công vòm thép lớn nhất hành tinh, góp mặt làm công trình World Cup…vừa có bước đi mới: Bắt tay ngân hàng quốc tế, nghiên cứu khoản tài trợ 50 triệu USD để mở rộng nhà máy xanh",
-    "source": "CafeF",
-    "url": "https://cafef.vn/dai-gia-que-goc-thanh-hoa-tung-thi-cong-vom-thep-lon-nhat-hanh-tinh-gop-mat-lam-cong-trinh-world-cupvua-co-buoc-di-moi-bat-tay-ngan-hang-quoc-te-nghien-cuu-khoan-tai-tro-50-trieu-usd-de-mo-rong-nha-may-xanh-188261127141646876.chn",
-    "time": "27/11 14:23"
-   },
-   {
     "title": "Không chia sẻ OTP, không tải app lạ vẫn có nguy cơ mất tiền: Cảnh báo khẩn cho người dùng iPhone",
     "source": "CafeF",
     "url": "https://cafef.vn/khong-chia-se-otp-khong-tai-app-la-van-co-nguy-co-mat-tien-canh-bao-khan-cho-nguoi-dung-iphone-188261127142132446.chn",
@@ -190,12 +184,6 @@
     "source": "VietnamNet",
     "url": "https://vietnamnet.vn/nhung-cau-hoi-khong-nen-bo-qua-khi-gui-tiet-kiem-2578353.html",
     "time": "27/11 14:05"
-   },
-   {
-    "title": "Chứng khoán Kafi chào bán 125 triệu cổ phiếu, dự kiến huy động 1.875 tỉ đồng",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-kafi-chao-ban-125-trieu-co-phieu-du-kien-huy-dong-1875-ti-dong-100261127121837043.htm",
-    "time": "27/11 14:00"
    },
    {
     "title": "Bắc Ninh mở rộng tín dụng ưu đãi, tạo sinh kế cho đồng bào dân tộc thiểu số",
@@ -236,7 +224,7 @@
   ]
  },
  "securities": {
-  "summary": "Có 59 bài về chứng khoán từ 8 nguồn (12:00 27/11 – 11:57 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
+  "summary": "Có 58 bài về chứng khoán từ 8 nguồn (12:00 27/11 – 12:00 28/11). Bản tự động từ RSS, chưa có số liệu và nhận định.",
   "metrics": [],
   "news": [
    {
@@ -271,6 +259,12 @@
    }
   ],
   "articles": [
+   {
+    "title": "VPBankS đồng hành cùng chuỗi hoạt động kỷ niệm 30 năm ngành Chứng khoán Việt Nam",
+    "source": "Vietstock",
+    "url": "http://vietstock.vn/2026/11/vpbanks-dong-hanh-cung-chuoi-hoat-dong-ky-niem-30-nam-nganh-chung-khoan-viet-nam-830-1518880.htm",
+    "time": "28/11 11:26"
+   },
    {
     "title": "VPS và hành trình 20 năm đồng hành cùng thị trường chứng khoán Việt Nam",
     "source": "CafeF",
@@ -524,12 +518,6 @@
     "time": "27/11 14:01"
    },
    {
-    "title": "Chứng khoán Kafi chào bán 125 triệu cổ phiếu, dự kiến huy động 1.875 tỉ đồng",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-kafi-chao-ban-125-trieu-co-phieu-du-kien-huy-dong-1875-ti-dong-100261127121837043.htm",
-    "time": "27/11 14:00"
-   },
-   {
     "title": "Sẽ không có thay đổi đáng kể đối với triển vọng xuất khẩu sang Mỹ nếu mức thuế là 20%",
     "source": "VnEconomy",
     "url": "https://vneconomy.vn/se-khong-co-thay-doi-dang-ke-doi-voi-trien-vong-xuat-khau-sang-my-neu-muc-thue-la-20.htm",
@@ -552,12 +540,6 @@
     "source": "Vietstock",
     "url": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-2711-tam-ly-than-trong-hien-huu-585-1518445.htm",
     "time": "27/11 13:06"
-   },
-   {
-    "title": "Chứng khoán Việt Nam sau 30 năm: Vị thế mới, trọng trách lớn hơn với nền kinh tế",
-    "source": "Tuổi Trẻ",
-    "url": "https://tuoitre.vn/chung-khoan-viet-nam-sau-30-nam-vi-the-moi-trong-trach-lon-hon-voi-nen-kinh-te-100261127113010806.htm",
-    "time": "27/11 13:04"
    },
    {
     "title": "Phó Chủ tịch UBCKNN: Thị trường chứng khoán cần được phát triển công khai, minh bạch, tăng quy mô và độ sâu",
@@ -630,128 +612,10 @@
  "sectorsSummary": "Tự động chọn 5 ngành có nhiều bài nhất trong nguồn RSS; chưa đánh giá biến động giá.",
  "sectors": [
   {
-   "name": "Xây dựng – hạ tầng",
-   "status": "soi-noi",
-   "heat": 5,
-   "reason": "18 bài trong khung giờ, từ 4 nguồn.",
-   "source": "Dân trí",
-   "url": "https://dantri.com.vn/kinh-doanh/amaccao-va-triet-ly-kien-tao-nhung-cong-trinh-tu-su-tu-te-20261127194152638.htm",
-   "articles": [
-    {
-     "title": "AMACCAO và triết lý kiến tạo những công trình từ sự tử tế",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/amaccao-va-triet-ly-kien-tao-nhung-cong-trinh-tu-su-tu-te-20261127194152638.htm",
-     "time": "28/11 10:10"
-    },
-    {
-     "title": "Ngành xây dựng trước nút thắt nguồn lao động",
-     "source": "CafeF",
-     "url": "https://cafef.vn/nganh-xay-dung-truoc-nut-that-nguon-lao-dong-188261128082245708.chn",
-     "time": "28/11 09:22"
-    },
-    {
-     "title": "Cao tốc Khánh Hòa - Buôn Ma Thuột tăng tốc về đích",
-     "source": "CafeF",
-     "url": "https://cafef.vn/cao-toc-khanh-hoa-buon-ma-thuot-tang-toc-ve-dich-188261128080314586.chn",
-     "time": "28/11 09:10"
-    },
-    {
-     "title": "Việt Nam chọn liên danh 3 nước Việt - Pháp - Hàn Quốc tư vấn tuyến đường sắt tốc độ cao 350km/h vốn 67 tỷ USD: Một DN Việt đảm nhận khối lượng công việc lớn thứ hai trong liên danh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/viet-nam-chon-lien-danh-3-nuoc-viet-phap-han-quoc-tu-van-tuyen-duong-sat-toc-do-cao-350km-h-von-67-ty-usd-mot-dn-viet-dam-nhan-khoi-luong-cong-viec-lon-thu-hai-trong-lien-danh-188261127162133879.chn",
-     "time": "28/11 07:37"
-    },
-    {
-     "title": "Trái phiếu đô thị: Mở dòng vốn dài hạn cho metro Hà Nội",
-     "source": "CafeF",
-     "url": "https://cafef.vn/trai-phieu-do-thi-mo-dong-von-dai-han-cho-metro-ha-noi-188261128065140649.chn",
-     "time": "28/11 07:16"
-    },
-    {
-     "title": "Đồng Nai rà soát, bổ sung hạ tầng dân sinh kết nối cao tốc Dầu Giây - Tân Phú",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dong-nai-ra-soat-bo-sung-ha-tang-dan-sinh-ket-noi-cao-toc-dau-giay-tan-phu-188261127202040547.chn",
-     "time": "27/11 20:59"
-    },
-    {
-     "title": "Quảng Trị chốt hạn thi công 2 nút giao, đồng hành giải quyết nỗi lo ‘sụt doanh thu’ của nhà đầu tư BOT",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/quang-tri-chot-han-thi-cong-2-nut-giao-dong-hanh-giai-quyet-no-lo-sut-doanh-thu-cua-nha-dau-tu-bot-100261127183507653.htm",
-     "time": "27/11 20:06"
-    },
-    {
-     "title": "Bắc Ninh siết tiến độ giải ngân vốn đầu tư công chặng nước rút cuối năm 2026",
-     "source": "CafeF",
-     "url": "https://cafef.vn/bac-ninh-siet-tien-do-giai-ngan-von-dau-tu-cong-chang-nuoc-rut-cuoi-nam-2026-188261127162752924.chn",
-     "time": "27/11 18:57"
-    },
-    {
-     "title": "Khởi công dự án điện mặt trời 126 MWp của VinEnergo tại Philippines",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/khoi-cong-du-an-dien-mat-troi-126-mwp-cua-vinenergo-tai-philippines-100261127145711468.htm",
-     "time": "27/11 16:19"
-    },
-    {
-     "title": "Hà Nội bố trí 184.000 tỷ đồng đầu tư 5 tuyến đường sắt đô thị",
-     "source": "CafeF",
-     "url": "https://cafef.vn/ha-noi-bo-tri-184000-ty-dong-dau-tu-5-tuyen-duong-sat-do-thi-188261127134125012.chn",
-     "time": "27/11 15:30"
-    },
-    {
-     "title": "Dự án 176 tỷ đồng ở Hưng Yên thi công thiếu an toàn",
-     "source": "CafeF",
-     "url": "https://cafef.vn/du-an-176-ty-dong-o-hung-yen-thi-cong-thieu-an-toan-188261127133801021.chn",
-     "time": "27/11 14:59"
-    },
-    {
-     "title": "Khởi công nhà máy sản xuất, lắp ráp ô tô 400 triệu USD tại Đà Nẵng",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/khoi-cong-nha-may-san-xuat-lap-rap-o-to-400-trieu-usd-tai-da-nang-185261127134902996.htm",
-     "time": "27/11 14:43"
-    },
-    {
-     "title": "Rót hơn 1.800 tỷ, 4 trạm trung chuyển rác ở TPHCM được nâng cấp ra sao?",
-     "source": "CafeF",
-     "url": "https://cafef.vn/rot-hon-1800-ty-4-tram-trung-chuyen-rac-o-tphcm-duoc-nang-cap-ra-sao-188261127130615576.chn",
-     "time": "27/11 14:30"
-    },
-    {
-     "title": "Siêu tổ hợp đường sắt 250 ha do tỷ phú Phạm Nhật Vượng đề xuất, là nơi dừng chân của dự án đường sắt tốc độ cao 67 tỷ USD đi qua 15 tỉnh thành vừa có diễn biến mới",
-     "source": "CafeF",
-     "url": "https://cafef.vn/sieu-to-hop-duong-sat-250-ha-do-ty-phu-pham-nhat-vuong-de-xuat-la-noi-dung-chan-cua-du-an-duong-sat-toc-do-cao-67-ty-usd-di-qua-15-tinh-thanh-vua-co-dien-bien-moi-188261127142333852.chn",
-     "time": "27/11 14:30"
-    },
-    {
-     "title": "Đại gia quê gốc Thanh Hóa từng thi công vòm thép lớn nhất hành tinh, góp mặt làm công trình World Cup…vừa có bước đi mới: Bắt tay ngân hàng quốc tế, nghiên cứu khoản tài trợ 50 triệu USD để mở rộng nhà máy xanh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/dai-gia-que-goc-thanh-hoa-tung-thi-cong-vom-thep-lon-nhat-hanh-tinh-gop-mat-lam-cong-trinh-world-cupvua-co-buoc-di-moi-bat-tay-ngan-hang-quoc-te-nghien-cuu-khoan-tai-tro-50-trieu-usd-de-mo-rong-nha-may-xanh-188261127141646876.chn",
-     "time": "27/11 14:23"
-    },
-    {
-     "title": "Toàn cảnh 7 ga ngầm metro Bến Thành - Tham Lương tất bật thi công",
-     "source": "CafeF",
-     "url": "https://cafef.vn/toan-canh-7-ga-ngam-metro-ben-thanh-tham-luong-tat-bat-thi-cong-18826112713082405.chn",
-     "time": "27/11 14:00"
-    },
-    {
-     "title": "Khởi công đường nối Tây Ninh với Đồng Tháp Mười",
-     "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/khoi-cong-duong-noi-tay-ninh-voi-dong-thap-muoi-185261127115419759.htm",
-     "time": "27/11 13:57"
-    },
-    {
-     "title": "VinEnergo khởi công dự án điện mặt trời 126MWp tại Philippines",
-     "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/vinenergo-khoi-cong-du-an-dien-mat-troi-126mwp-tai-philippines-20261127122537557.htm",
-     "time": "27/11 13:37"
-    }
-   ]
-  },
-  {
    "name": "Bất động sản",
    "status": "soi-noi",
    "heat": 5,
-   "reason": "17 bài trong khung giờ, từ 3 nguồn.",
+   "reason": "15 bài trong khung giờ, từ 3 nguồn.",
    "source": "CafeF",
    "url": "https://cafef.vn/him-lam-thu-do-va-bic-viet-nam-mo-ban-nha-o-xa-hoi-gia-gan-30-trieu-dong-m2-can-lon-nhat-chi-36m2-188261128104644893.chn",
    "articles": [
@@ -840,104 +704,110 @@
      "time": "27/11 15:58"
     },
     {
-     "title": "Từ chung cư cũ xuống cấp, nhìn lại tiêu chuẩn sống tại các chung cư mới",
-     "source": "CafeF",
-     "url": "https://cafef.vn/tu-chung-cu-cu-xuong-cap-nhin-lai-tieu-chuan-song-tai-cac-chung-cu-moi-188261127155017362.chn",
-     "time": "27/11 15:50"
-    },
-    {
      "title": "Việt Nam và Singapore nâng số khu công nghiệp VSIP lên 31 khu sau 30 năm",
      "source": "Tuổi Trẻ",
      "url": "https://tuoitre.vn/viet-nam-va-singapore-nang-so-khu-cong-nghiep-vsip-len-31-khu-sau-30-nam-100261127140809659.htm",
      "time": "27/11 15:00"
-    },
-    {
-     "title": "Hải Phòng đấu giá 2 lô đất làm nhà ở tại phường Ngô Quyền",
-     "source": "CafeF",
-     "url": "https://cafef.vn/hai-phong-dau-gia-2-lo-dat-lam-nha-o-tai-phuong-ngo-quyen-188261127134044589.chn",
-     "time": "27/11 13:54"
     }
    ]
   },
   {
-   "name": "Vàng – trang sức",
+   "name": "Xây dựng – hạ tầng",
    "status": "soi-noi",
-   "heat": 4,
-   "reason": "12 bài trong khung giờ, từ 6 nguồn.",
-   "source": "CafeF",
-   "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
+   "heat": 5,
+   "reason": "15 bài trong khung giờ, từ 4 nguồn.",
+   "source": "Dân trí",
+   "url": "https://dantri.com.vn/kinh-doanh/amaccao-va-triet-ly-kien-tao-nhung-cong-trinh-tu-su-tu-te-20261127194152638.htm",
    "articles": [
     {
-     "title": "Giá vàng miếng SJC tăng cao nhất 1 tuần qua",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
-     "time": "28/11 10:25"
-    },
-    {
-     "title": "Giá vàng miếng SJC, vàng nhẫn tăng trở lại",
+     "title": "AMACCAO và triết lý kiến tạo những công trình từ sự tử tế",
      "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-vang-nhan-tang-tro-lai-20261128062230566.htm",
-     "time": "28/11 09:20"
+     "url": "https://dantri.com.vn/kinh-doanh/amaccao-va-triet-ly-kien-tao-nhung-cong-trinh-tu-su-tu-te-20261127194152638.htm",
+     "time": "28/11 10:10"
     },
     {
-     "title": "Giá vàng hôm nay 28/11: Kết tuần tăng vọt, trong nước lặng sóng",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-28-11-the-gioi-tang-vot-vang-mieng-sjc-tang-1-5-trieu-dong-2579524.html",
-     "time": "28/11 08:56"
+     "title": "Ngành xây dựng trước nút thắt nguồn lao động",
+     "source": "CafeF",
+     "url": "https://cafef.vn/nganh-xay-dung-truoc-nut-that-nguon-lao-dong-188261128082245708.chn",
+     "time": "28/11 09:22"
     },
     {
-     "title": "Giá vàng hôm nay 28.11.2026: Neo cao, đắt hơn thế giới 21 triệu đồng",
+     "title": "Cao tốc Khánh Hòa - Buôn Ma Thuột tăng tốc về đích",
+     "source": "CafeF",
+     "url": "https://cafef.vn/cao-toc-khanh-hoa-buon-ma-thuot-tang-toc-ve-dich-188261128080314586.chn",
+     "time": "28/11 09:10"
+    },
+    {
+     "title": "Việt Nam chọn liên danh 3 nước Việt - Pháp - Hàn Quốc tư vấn tuyến đường sắt tốc độ cao 350km/h vốn 67 tỷ USD: Một DN Việt đảm nhận khối lượng công việc lớn thứ hai trong liên danh",
+     "source": "CafeF",
+     "url": "https://cafef.vn/viet-nam-chon-lien-danh-3-nuoc-viet-phap-han-quoc-tu-van-tuyen-duong-sat-toc-do-cao-350km-h-von-67-ty-usd-mot-dn-viet-dam-nhan-khoi-luong-cong-viec-lon-thu-hai-trong-lien-danh-188261127162133879.chn",
+     "time": "28/11 07:37"
+    },
+    {
+     "title": "Trái phiếu đô thị: Mở dòng vốn dài hạn cho metro Hà Nội",
+     "source": "CafeF",
+     "url": "https://cafef.vn/trai-phieu-do-thi-mo-dong-von-dai-han-cho-metro-ha-noi-188261128065140649.chn",
+     "time": "28/11 07:16"
+    },
+    {
+     "title": "Đồng Nai rà soát, bổ sung hạ tầng dân sinh kết nối cao tốc Dầu Giây - Tân Phú",
+     "source": "CafeF",
+     "url": "https://cafef.vn/dong-nai-ra-soat-bo-sung-ha-tang-dan-sinh-ket-noi-cao-toc-dau-giay-tan-phu-188261127202040547.chn",
+     "time": "27/11 20:59"
+    },
+    {
+     "title": "Quảng Trị chốt hạn thi công 2 nút giao, đồng hành giải quyết nỗi lo ‘sụt doanh thu’ của nhà đầu tư BOT",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/quang-tri-chot-han-thi-cong-2-nut-giao-dong-hanh-giai-quyet-no-lo-sut-doanh-thu-cua-nha-dau-tu-bot-100261127183507653.htm",
+     "time": "27/11 20:06"
+    },
+    {
+     "title": "Bắc Ninh siết tiến độ giải ngân vốn đầu tư công chặng nước rút cuối năm 2026",
+     "source": "CafeF",
+     "url": "https://cafef.vn/bac-ninh-siet-tien-do-giai-ngan-von-dau-tu-cong-chang-nuoc-rut-cuoi-nam-2026-188261127162752924.chn",
+     "time": "27/11 18:57"
+    },
+    {
+     "title": "Khởi công dự án điện mặt trời 126 MWp của VinEnergo tại Philippines",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/khoi-cong-du-an-dien-mat-troi-126-mwp-cua-vinenergo-tai-philippines-100261127145711468.htm",
+     "time": "27/11 16:19"
+    },
+    {
+     "title": "Hà Nội bố trí 184.000 tỷ đồng đầu tư 5 tuyến đường sắt đô thị",
+     "source": "CafeF",
+     "url": "https://cafef.vn/ha-noi-bo-tri-184000-ty-dong-dau-tu-5-tuyen-duong-sat-do-thi-188261127134125012.chn",
+     "time": "27/11 15:30"
+    },
+    {
+     "title": "Khởi công nhà máy sản xuất, lắp ráp ô tô 400 triệu USD tại Đà Nẵng",
      "source": "Thanh Niên",
-     "url": "https://thanhnien.vn/gia-vang-hom-nay-28112026-neo-cao-dat-hon-the-gioi-21-trieu-dong-18526112808234868.htm",
-     "time": "28/11 08:53"
+     "url": "https://thanhnien.vn/khoi-cong-nha-may-san-xuat-lap-rap-o-to-400-trieu-usd-tai-da-nang-185261127134902996.htm",
+     "time": "27/11 14:43"
     },
     {
-     "title": "Giá vàng hôm nay 28-11: SJC tăng 2,5 triệu đồng trong tuần, vì sao người mua vẫn lỗ?",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/gia-vang-hom-nay-28-11-sjc-tang-25-trieu-dong-trong-tuan-vi-sao-nguoi-mua-van-lo-100261128082210756.htm",
-     "time": "28/11 08:38"
-    },
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng sáng 28/11 tại PNJ, DOJI, SJC, Bảo Tín Minh Châu và Bảo Tín Mạnh đồng loạt tăng mạnh so với sáng hôm qua",
+     "title": "Rót hơn 1.800 tỷ, 4 trạm trung chuyển rác ở TPHCM được nâng cấp ra sao?",
      "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-28-11-tai-pnj-doji-sjc-bao-tin-minh-chau-va-bao-tin-manh-dong-loat-tang-manh-so-voi-sang-hom-qua-188261128083534496.chn",
-     "time": "28/11 08:33"
+     "url": "https://cafef.vn/rot-hon-1800-ty-4-tram-trung-chuyen-rac-o-tphcm-duoc-nang-cap-ra-sao-188261127130615576.chn",
+     "time": "27/11 14:30"
     },
     {
-     "title": "Giá vàng tăng mạnh theo chứng khoán Mỹ, hoàn tất một tuần hồi phục",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/gia-vang-tang-manh-theo-chung-khoan-my-hoan-tat-mot-tuan-hoi-phuc.htm",
-     "time": "28/11 08:29"
+     "title": "Toàn cảnh 7 ga ngầm metro Bến Thành - Tham Lương tất bật thi công",
+     "source": "CafeF",
+     "url": "https://cafef.vn/toan-canh-7-ga-ngam-metro-ben-thanh-tham-luong-tat-bat-thi-cong-18826112713082405.chn",
+     "time": "27/11 14:00"
     },
     {
-     "title": "Giá vàng tăng mạnh: Gửi ở đâu vừa an toàn, vừa tránh bẫy thuế?",
+     "title": "Khởi công đường nối Tây Ninh với Đồng Tháp Mười",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/khoi-cong-duong-noi-tay-ninh-voi-dong-thap-muoi-185261127115419759.htm",
+     "time": "27/11 13:57"
+    },
+    {
+     "title": "VinEnergo khởi công dự án điện mặt trời 126MWp tại Philippines",
      "source": "Dân trí",
-     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tang-manh-gui-o-dau-vua-an-toan-vua-tranh-bay-thue-20261127213959721.htm",
-     "time": "28/11 06:00"
-    },
-    {
-     "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải bật tăng mạnh",
-     "source": "CafeF",
-     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-bat-tang-manh-188261127074924289.chn",
-     "time": "27/11 21:16"
-    },
-    {
-     "title": "Giá vàng hôm nay 27/11: Vàng nhẫn SJC tăng 2,8 triệu đồng/lượng ở chiều mua",
-     "source": "VietnamNet",
-     "url": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
-     "time": "27/11 21:10"
-    },
-    {
-     "title": "Người mua vàng SJC đối mặt chênh lệch giá mua, bán lên tới 6,5 triệu đồng",
-     "source": "VnEconomy",
-     "url": "https://vneconomy.vn/nguoi-mua-vang-sjc-doi-mat-chenh-lech-gia-mua-ban-len-toi-65-trieu-dong.htm",
-     "time": "27/11 16:17"
-    },
-    {
-     "title": "Vàng thế giới phục hồi mạnh, vàng miếng SJC tăng 1,5 triệu đồng trong vài giờ",
-     "source": "Tuổi Trẻ",
-     "url": "https://tuoitre.vn/vang-the-gioi-phuc-hoi-manh-vang-mieng-sjc-tang-15-trieu-dong-trong-vai-gio-100261127144507483.htm",
-     "time": "27/11 15:10"
+     "url": "https://dantri.com.vn/kinh-doanh/vinenergo-khoi-cong-du-an-dien-mat-troi-126mwp-tai-philippines-20261127122537557.htm",
+     "time": "27/11 13:37"
     }
    ]
   },
@@ -947,12 +817,12 @@
    "heat": 4,
    "reason": "12 bài trong khung giờ, từ 6 nguồn.",
    "source": "VnExpress",
-   "url": "https://vnexpress.net/ong-trump-van-dong-venezuela-iraq-roi-opec-5149903.html",
+   "url": "https://vnexpress.net/ong-trump-tung-van-dong-venezuela-iraq-roi-opec-5149903.html",
    "articles": [
     {
-     "title": "Ông Trump vận động Venezuela, Iraq rời OPEC",
+     "title": "Ông Trump từng vận động Venezuela, Iraq rời OPEC",
      "source": "VnExpress",
-     "url": "https://vnexpress.net/ong-trump-van-dong-venezuela-iraq-roi-opec-5149903.html",
+     "url": "https://vnexpress.net/ong-trump-tung-van-dong-venezuela-iraq-roi-opec-5149903.html",
      "time": "28/11 10:26"
     },
     {
@@ -1020,6 +890,76 @@
      "source": "CafeF",
      "url": "https://cafef.vn/nha-may-loc-dau-dung-quat-manh-ghep-hoan-thien-chuoi-gia-tri-nganh-dau-khi-188261127113006901.chn",
      "time": "27/11 13:30"
+    }
+   ]
+  },
+  {
+   "name": "Vàng – trang sức",
+   "status": "soi-noi",
+   "heat": 4,
+   "reason": "10 bài trong khung giờ, từ 6 nguồn.",
+   "source": "CafeF",
+   "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
+   "articles": [
+    {
+     "title": "Giá vàng miếng SJC tăng cao nhất 1 tuần qua",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-mieng-sjc-tang-cao-nhat-1-tuan-qua-188261128101756872.chn",
+     "time": "28/11 10:25"
+    },
+    {
+     "title": "Giá vàng miếng SJC, vàng nhẫn tăng trở lại",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-vang-nhan-tang-tro-lai-20261128062230566.htm",
+     "time": "28/11 09:20"
+    },
+    {
+     "title": "Giá vàng hôm nay 28.11.2026: Neo cao, đắt hơn thế giới 21 triệu đồng",
+     "source": "Thanh Niên",
+     "url": "https://thanhnien.vn/gia-vang-hom-nay-28112026-neo-cao-dat-hon-the-gioi-21-trieu-dong-18526112808234868.htm",
+     "time": "28/11 08:53"
+    },
+    {
+     "title": "Giá vàng hôm nay 28-11: SJC tăng 2,5 triệu đồng trong tuần, vì sao người mua vẫn lỗ?",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/gia-vang-hom-nay-28-11-sjc-tang-25-trieu-dong-trong-tuan-vi-sao-nguoi-mua-van-lo-100261128082210756.htm",
+     "time": "28/11 08:38"
+    },
+    {
+     "title": "Giá vàng tăng mạnh theo chứng khoán Mỹ, hoàn tất một tuần hồi phục",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/gia-vang-tang-manh-theo-chung-khoan-my-hoan-tat-mot-tuan-hoi-phuc.htm",
+     "time": "28/11 08:29"
+    },
+    {
+     "title": "Giá vàng tăng mạnh: Gửi ở đâu vừa an toàn, vừa tránh bẫy thuế?",
+     "source": "Dân trí",
+     "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tang-manh-gui-o-dau-vua-an-toan-vua-tranh-bay-thue-20261127213959721.htm",
+     "time": "28/11 06:00"
+    },
+    {
+     "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 27/11 tại Bảo Tín Minh Châu, SJC, PNJ, DOJI và Bảo Tín Mạnh Hải bật tăng mạnh",
+     "source": "CafeF",
+     "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-27-11-tai-bao-tin-minh-chau-sjc-pnj-doji-va-bao-tin-manh-hai-bat-tang-manh-188261127074924289.chn",
+     "time": "27/11 21:16"
+    },
+    {
+     "title": "Giá vàng hôm nay 27/11: Vàng nhẫn SJC tăng 2,8 triệu đồng/lượng ở chiều mua",
+     "source": "VietnamNet",
+     "url": "https://vietnamnet.vn/gia-vang-hom-nay-27-11-the-gioi-lui-sau-sjc-tang-len-134-5-trieu-dong-2579078.html",
+     "time": "27/11 21:10"
+    },
+    {
+     "title": "Người mua vàng SJC đối mặt chênh lệch giá mua, bán lên tới 6,5 triệu đồng",
+     "source": "VnEconomy",
+     "url": "https://vneconomy.vn/nguoi-mua-vang-sjc-doi-mat-chenh-lech-gia-mua-ban-len-toi-65-trieu-dong.htm",
+     "time": "27/11 16:17"
+    },
+    {
+     "title": "Vàng thế giới phục hồi mạnh, vàng miếng SJC tăng 1,5 triệu đồng trong vài giờ",
+     "source": "Tuổi Trẻ",
+     "url": "https://tuoitre.vn/vang-the-gioi-phuc-hoi-manh-vang-mieng-sjc-tang-15-trieu-dong-trong-vai-gio-100261127144507483.htm",
+     "time": "27/11 15:10"
     }
    ]
   },
@@ -1097,16 +1037,16 @@
  "rss": {
   "window": [
    "2026-11-27T12:00:00+07:00",
-   "2026-11-28T11:57:12+07:00"
+   "2026-11-28T12:00:00+07:00"
   ],
   "sources": {
-   "CafeF": 68,
-   "Tuổi Trẻ": 20,
-   "VietnamNet": 16,
+   "CafeF": 62,
+   "Tuổi Trẻ": 18,
    "Dân trí": 15,
+   "VietnamNet": 15,
    "Thanh Niên": 13,
    "VnEconomy": 13,
-   "Vietstock": 9,
+   "Vietstock": 10,
    "VnExpress": 9
   },
   "failed": []
